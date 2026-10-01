@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "robertourias/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "8cf1c238fc3c7533bec5e0cc6051830e514cb1d46e2785c74144c8d3d35fc3ac"
+    },
+    "playwright-review": {
+      "source": "robertourias/skills",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-review/SKILL.md",
+      "computedHash": "8d51d3fec00f48ee2a573c803b08e09934749fccc578347887e3dec930ac03dc"
+    },
+    "system-design-view": {
+      "source": "robertourias/skills",
+      "sourceType": "github",
+      "skillPath": "skills/system-design-view/SKILL.md",
+      "computedHash": "b49a37bdc33b56b8e253e37cdc9465fbb93a37ae74cdff936d79d468d05750de"
+    },
+    "web-design-guidelines": {
+      "source": "robertourias/skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "df55ad5bd2da9f52be9fd5d91fe7081153b82fd9490e23e7e2e005ace4fa58c0"
+    }
+  }
+}
