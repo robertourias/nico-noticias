@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-01T18:00:33-03:00",
+  "updatedAt": "2026-10-01T20:45:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 01/10 (IFIX de 30/09) · cripto às 17:55",
+    "asOf": "Fechamento de 01/10 (IFIX de 30/09) · cripto às 20:40",
     "items": [
       {
         "id": "ibov",
@@ -54,20 +54,20 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 84.594",
-        "change": 0.8
+        "value": "US$ 84.232",
+        "change": 0.11
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.697",
-        "change": 0.7
+        "value": "US$ 2.683",
+        "change": 0.16
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 118,04",
-        "change": 0.5
+        "value": "US$ 117,39",
+        "change": 1.94
       }
     ]
   },
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Lula fica fora de último debate antes do 1º turno; veja como candidatos reagem à ausência",
-          "summary": "O presidente Lula decidiu não ir ao último debate presidencial antes do primeiro turno, marcado para domingo (4), e vai dar entrevista ao Flow Podcast no mesmo horário. Participam Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Augusto Cury (Avante) e Romeu Zema (Novo). Os adversários criticaram a ausência, e Zema disse que o petista foge do confronto. Internamente, a campanha de Lula temia virar alvo concentrado dos ataques, enquanto Flávio pode assumir esse papel.",
+          "title": "Milei chama Lula de ladrão e declara apoio a Flávio Bolsonaro",
+          "summary": "Em entrevista à revista francesa Le Point, o presidente argentino disse esperar a vitória de Flávio no domingo para fazer reformas liberais. Também acusou Lula de armar golpes sujos contra sua candidatura em 2023, sem apresentar provas.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/milei-apoia-flavio-e-volta-a-atacar-lula-em-entrevista-ladrao/",
+          "time": "hoje, 10:21"
+        },
+        {
+          "title": "Vorcaro delatou mesada de R$ 1 milhão a grupo ligado a Jaques Wagner",
+          "summary": "Em proposta de delação rejeitada por PF e PGR, o ex-banqueiro relatou pagamentos mensais em espécie a aliados do senador, ligados a contratos com empresas do Banco Master. As autoridades descartaram o acordo por falta de provas, e as defesas negam as acusações.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/vorcaro-delatou-mesada-de-r-1-milhao-em-especie-para-grupo-ligado-a-jaques/",
+          "time": "ontem"
+        },
+        {
+          "title": "Michelle Bolsonaro rebate Janja: 'Bolsonara da Ceilândia com muito orgulho'",
+          "summary": "A candidata ao Senado pelo PL-DF respondeu à primeira-dama, que em 16 de setembro pediu que eleitores não votassem em quem leva o sobrenome Bolsonaro. Michelle disse que Janja tentava diminuí-la.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/lula-fica-fora-de-ultimo-debate-antes-do-1o-turno-veja-como-candidatos-reagem-a-ausencia/",
-          "time": "ontem, 19:27"
+          "url": "https://jovempan.com.br/politica/michelle-rebate-critica-de-janja-bolsonara-da-ceilandia-com-muito-orgulho/",
+          "time": "ontem"
         },
         {
-          "title": "Flávio Bolsonaro tem 46% no 2º turno, aponta pesquisa Real Time Big Data; Lula, 45%",
-          "summary": "Levantamento da Real Time Big Data mostra empate técnico entre Flávio Bolsonaro e Lula num eventual segundo turno, dentro da margem de erro de dois pontos. Foram ouvidos 2 mil eleitores por telefone entre 26 e 30 de setembro. Em outros cenários, Lula aparece numericamente à frente de Caiado e de Zema.",
+          "title": "Desinformação sobre urnas ganha novas versões e volta a viralizar",
+          "summary": "Circulam boatos que ligam as urnas brasileiras à Smartmatic e à Venezuela, sem provas. A Justiça Eleitoral afirma que nunca usou urnas ou softwares da empresa e destaca décadas de uso sem fraude comprovada.",
+          "source": "BandNews",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-desinformacao-sobre-urnas-ganha-novas-versoes-e-volta-a-viralizar",
+          "time": "hoje, 08:04"
+        },
+        {
+          "title": "Trump volta a ameaçar destruir o Irã se negociações falharem",
+          "summary": "Em entrevista à Time, Trump disse que aniquilar o Irã criou paz no mundo. Na ONU, havia apresentado duas opções: um acordo para reconstruir o país ou a destruição da República Islâmica.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-tem-46-no-2o-turno-lula-45/",
-          "time": "hoje, 07:00"
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-volta-a-ameacar-destruir-ira-caso-negociacoes-falhem-paz-no-mundo/",
+          "time": "hoje, 08:45"
         },
         {
-          "title": "TSE mantém decisão que derrubou publicações falsas sobre Nossa Senhora",
-          "summary": "Por maioria, o TSE confirmou a ordem de remoção de 1.125 posts que associavam Flávio Bolsonaro a um suposto projeto para tirar de Nossa Senhora Aparecida o título de padroeira do Brasil. Cinco ministros votaram pela manutenção e dois divergiram em parte. A decisão encerra uma série de idas e vindas entre ministros sobre o caso.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/tse-mantem-decisao-que-derrubou-publicacoes-falsas-sobre-nossa-senhora-aparecida/",
-          "time": "hoje, 08:35"
-        },
-        {
-          "title": "EUA destinam US$ 1 milhão para projeto anti-STF, diz jornal",
-          "summary": "Segundo o jornal britânico The Guardian, o governo Trump reservou US$ 1 milhão para um projeto que apoia grupos que contestam a atuação do STF. O valor faz parte de um pacote de US$ 176,9 milhões do Departamento de Estado para causas conservadoras pelo mundo, autorizado por Marco Rubio.",
+          "title": "Bolívia prende procurador-geral após EUA revogarem visto",
+          "summary": "Roger Mariaca foi preso depois de os EUA o incluírem em sanções contra 27 autoridades latino-americanas, acusando-o de aceitar propina para facilitar o narcotráfico. A defesa nega; o governo boliviano diz ter detido 14 pessoas, 4 delas autoridades.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/eua-destinam-us-1-milhao-para-projeto-anti-stf-diz-jornal",
-          "time": "hoje, 11:52"
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/procurador-boliviano-e-preso-apos-eua-revogarem-visto",
+          "time": "hoje, 18:51"
         },
         {
-          "title": "Fachin nega pedido para afastar Dino de casos sobre Lula",
-          "summary": "O presidente do STF, Edson Fachin, rejeitou o pedido da defesa de Flávio Bolsonaro para declarar Flávio Dino suspeito em processos ligados ao senador e a Lula. Os advogados alegavam proximidade pessoal e política entre Dino e o presidente e pediam a redistribuição de ações, como a do filme Dark Horse.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/fachin-nega-pedido-para-afastar-dino-de-casos-sobre-lula",
+          "title": "Funcionário do governo dos EUA é preso por apoiar os Houthis do Iêmen",
+          "summary": "Ashton Ellaboudy, do Departamento de Energia, foi detido após operação encoberta do FBI. Ele teria oferecido diagramas de sistemas de comunicação ao grupo e comprado componentes para explosivos e drones; a pena pode chegar a 20 anos.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/funcionario-do-governo-dos-eua-e-preso-por-ligacao-com-os-houthis-do-iemen",
           "time": "hoje"
         },
         {
-          "title": "Nunes Marques será relator do pedido de anulação da condenação de Bolsonaro",
-          "summary": "A defesa de Jair Bolsonaro apresentou revisão criminal pedindo a anulação da pena de 27 anos e três meses pela trama golpista. O ministro Kassio Nunes Marques foi sorteado relator. Bolsonaro cumpre a pena em prisão domiciliar desde março.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/nunes-marques-sera-relator-do-pedido-de-anulacao-da-condenacao-de-bolsonaro",
-          "time": "hoje, 10:24"
-        },
-        {
-          "title": "Trump diz acompanhar eleição no Brasil \"de muito perto\"",
-          "summary": "Em entrevista ao SBT em Washington, Donald Trump afirmou que acompanha a eleição brasileira de muito perto e classificou o Brasil como um país muito importante. Ele não deu mais detalhes; antes, Celso Amorim havia dito que Trump desejou boa sorte a Lula.",
+          "title": "Nasa lança missão Crew-13 com quatro tripulantes rumo à ISS",
+          "summary": "O foguete da SpaceX decolou de Cabo Canaveral levando a comandante Jessica Watkins, o piloto Luke Delaney, o canadense Joshua Kutryk e o russo Sergey Teteryatnikov. A equipe fará pesquisas científicas ligadas a futuras missões à Lua e a Marte.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/trump-diz-acompanhar-eleicao-no-brasil-de-muito-perto",
-          "time": "hoje"
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/nasa-lanca-missao-espacial-com-quatro-tripulantes",
+          "time": "hoje, 19:54"
         },
         {
-          "title": "Mulher sobrevive a tentativa de execução após aplicação de duas doses de injeção letal nos EUA",
-          "summary": "Christa Pike, condenada por um assassinato em 1995, continuou viva após receber duas doses de pentobarbital no Tennessee, na primeira tentativa do estado de executar uma mulher em mais de 200 anos. O governador Bill Lee suspendeu as execuções previstas para este ano e pediu revisão independente do protocolo.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/mulher-sobrevive-a-tentativa-de-execucao-com-injecao-letal-nos-eua/",
-          "time": "hoje, 01:59"
+          "title": "PF faz operação contra abuso sexual infantil na internet em Fortaleza",
+          "summary": "A Operação Inocência Protegida XXVII apura o envio de material de abuso, após provedores alertarem o centro americano NCMEC. Foram encontrados 1.035 arquivos numa conta investigada; equipamentos foram apreendidos e ninguém foi preso até agora.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/pf-inicia-operacao-contra-abuso-infantojuvenil-na-internet",
+          "time": "hoje, 18:44"
         },
         {
-          "title": "Como ação de piloto permitiu que passageiros agissem para evitar queda de avião alvo de ataque",
-          "summary": "Num voo da Flydubai na quarta-feira (30), o copiloto atacou o comandante na cabine enquanto o avião perdia altitude. Ferido, o capitão destravou a porta e passageiros israelenses e a tripulação conseguiram intervir. Especialistas consideram o desfecho raro, já que as portas são blindadas desde o 11 de Setembro.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/como-passageiros-da-flydubai-conseguiram-entrar-na-cabine-de-comando/",
-          "time": "hoje, 07:00"
+          "title": "Cidade de São Paulo tem menor número de roubos em agosto desde 2001",
+          "summary": "Foram 6.561 roubos no mês, queda de 21,4% sobre agosto de 2025. De janeiro a agosto a redução é de 14,8%, e os roubos de veículos caíram 30,3%.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/cidade-de-sao-paulo-registra-queda-de-214-em-roubos-no-mes-de-agosto/",
+          "time": "ontem"
         },
         {
-          "title": "Rússia ameaça usar armas nucleares se Otan tentar isolar Kaliningrado",
-          "summary": "Moscou enviou à Otan um documento advertindo que usará todo o arsenal, inclusive nuclear, se a aliança tentar isolar o enclave de Kaliningrado, no Báltico. A Otan respondeu condenando a retórica nuclear e reafirmando o apoio à Ucrânia.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/russia-ameaca-usar-armas-nucleares-se-otan-tentar-isolar-enclave-de-kaliningrado/",
-          "time": "30/09"
-        },
-        {
-          "title": "Ilhas de Porto Alegre entram em alerta de risco muito alto de inundação",
-          "summary": "O Guaíba levou as ilhas de Porto Alegre a alerta vermelho, com água já invadindo ruas da Ilha da Pintada, e rios como Jacuí, Caí e dos Sinos seguem em nível crítico. As chuvas desde o fim de semana já atingem mais de 70 mil pessoas em 136 municípios gaúchos, com mais de 6 mil desalojados.",
+          "title": "Outubro começa com temporais no Sudeste e calor de 40ºC no Nordeste",
+          "summary": "O Sudeste tem tempestades com rajadas de até 70 km/h, e Paraná e Santa Catarina registram chuva forte. No Nordeste, as máximas chegam perto de 40ºC, com umidade de até 12% na Bahia.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/rios-porto-alegre-alerta-chuvas",
-          "time": "hoje, 10:30"
+          "url": "https://www.metropoles.com/brasil/clima-outubro-comeca-com-temporais-no-sudeste-e-calor-de-40oc-no-nordeste",
+          "time": "hoje, 05:54"
         },
         {
-          "title": "Policial que atropelou mãe e dois filhos estava bêbado e negou bafômetro",
-          "summary": "Um policial civil atropelou uma mãe e duas crianças em São Paulo na noite de quarta (30) dirigindo embriagado e se recusou ao teste do bafômetro. Uma das crianças teve traumatismo craniano grave; o agente foi autuado por embriaguez ao volante, lesão corporal e omissão de socorro, entre outros crimes.",
+          "title": "Após 14 anos, caso Davi Sebba começa a ser julgado em Goiás",
+          "summary": "Três policiais militares respondem pela morte do advogado em 2012, em Goiânia, por homicídio e fraude processual. A perícia indica que as mãos da vítima estavam no volante no momento do disparo.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/policial-que-atropelou-tres-pessoas-em-sp-estava-bebado-e-negou-bafometro",
-          "time": "hoje, 09:39"
+          "url": "https://www.metropoles.com/brasil/go-apos-14-anos-de-espera-caso-davi-sebba-comeca-a-ser-julgado-nesta-5a",
+          "time": "hoje, 04:30"
         }
       ]
     },
@@ -178,46 +178,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Dólar sobe com influência do exterior antes de nova pesquisa eleitoral",
-          "summary": "O dólar à vista fechou em alta de 0,97%, a R$ 5,2239, mas ainda acumula queda de cerca de 4,8% no ano. A procura por proteção cresceu com a escalada da guerra no Oriente Médio e os juros altos nos EUA. No Brasil, a cautela pré-eleitoral pesou, com investidores à espera da nova pesquisa Datafolha no início da noite.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01102026/",
-          "time": "hoje, 17:20"
-        },
-        {
-          "title": "Petróleo volta a romper a casa dos US$ 100 após China suspender exportação",
-          "summary": "O barril do Brent voltou a superar US$ 100, com alta de quase 3%, após anúncio de suspensão de exportações pela China. O conflito entre EUA, Irã e Israel e as restrições no Estreito de Ormuz seguem como principais fatores da alta.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/petroleo-volta-a-romper-a-casa-dos-us-100-apos-china-suspender-exportacao",
-          "time": "hoje, 11:17"
-        },
-        {
-          "title": "Brasil e EUA criam grupo específico para negociar tarifaço",
-          "summary": "Após reunião com o representante comercial americano Jamieson Greer, os ministros Mauro Vieira e Márcio Elias Rosa anunciaram um grupo de trabalho para tratar de tarifas e barreiras comerciais. Os EUA devem enviar nos próximos dias uma proposta com o escopo das negociações.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/brasil/brasil-e-eua-criam-grupo-especifico-para-negociar-tarifaco/",
-          "time": "ontem, 21:55"
-        },
-        {
-          "title": "Brasil atinge cota e China passa a cobrar taxa adicional de 55% sobre carne",
-          "summary": "Com a cota de 1,1 milhão de toneladas esgotada em 29 de setembro, a carne bovina brasileira exportada à China passa a pagar sobretaxa de 55%, chegando a 67% no total. O setor busca alternativas, como usar cota não utilizada do Uruguai, e ainda enfrenta suspensão de importações pela União Europeia.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/brasil-cota-carne-china-taxa-adicional-55",
-          "time": "hoje, 04:00"
-        },
-        {
-          "title": "BC retira limite de R$ 500 para Pix por aproximação",
-          "summary": "Desde esta quinta, o Pix por aproximação deixou de ter teto de R$ 500 por transação, e cada banco define o limite conforme o perfil do cliente. A mudança aproxima a modalidade das regras do Pix tradicional.",
+          "title": "Bolsas da Europa fecham em queda com bancos e juros de títulos soberanos",
+          "summary": "FTSE 100 caiu 1,68%, CAC 40 1,62% e DAX 0,87%, com bancos recuando mais de 3%. Pesaram os juros soberanos em máximas de décadas, o petróleo acima de US$ 100 e a aversão a risco.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/bc-retira-limite-diario-de-r-500-para-pix-por-aproximacao-entenda-mudanca-2/",
-          "time": "hoje, 08:34"
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-caem-pressionadas-por-bancos-e-juros-de-titulos-soberanos/",
+          "time": "hoje, 14:12"
         },
         {
-          "title": "Zona do euro: taxa de desemprego se mantém em 6,4% em agosto",
-          "summary": "O desemprego na zona do euro ficou estável em 6,4% em agosto, em linha com o esperado pelo mercado. Segundo a Eurostat, eram cerca de 11,36 milhões de desempregados, 26 mil a mais que em julho.",
+          "title": "Goldman vê curva de juros como melhor aposta antes da eleição",
+          "summary": "O banco diz que os juros locais carregam prêmios altos e podem cair com resultado fiscal positivo. Projeta dólar entre R$ 4,50 e R$ 4,80 no cenário benigno e R$ 5,40 a R$ 5,80 se o fiscal piorar.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/zona-do-euro-taxa-de-desemprego-se-mantem-em-64-em-agosto-como-previsto/",
-          "time": "hoje, 08:42"
+          "url": "https://www.infomoney.com.br/mercados/eleicao-pode-mexer-forte-com-juro-dolar-e-bolsa-goldman-destaca-sua-maior-aposta/",
+          "time": "hoje, 13:00"
+        },
+        {
+          "title": "Azzas recebe 15 propostas pela Farm e ação sobe 7%",
+          "summary": "As ofertas não vinculantes avaliam a Farm entre R$ 3,5 bi e R$ 4 bi, abaixo do esperado. AZZA3 subiu 7,02%, a R$ 18,60, e o JPMorgan viu a notícia como positiva.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/azzas-mais-proxima-de-vender-a-farm-azza3-salta-na-b3-com-novas-propostas-no-radar/",
+          "time": "hoje, 17:19"
+        },
+        {
+          "title": "SoftBank investe mais US$ 10 bi na OpenAI e chega a quase 13%",
+          "summary": "O aporte completa a terceira e última parcela do plano de US$ 30 bilhões. O investimento total do grupo japonês na empresa de IA soma US$ 64,6 bilhões.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/softbank-investe-us-10-bi-na-openai-e-eleva-participacao-para-quase-13/",
+          "time": "hoje, 09:31"
+        },
+        {
+          "title": "Vendas da BYD crescem pelo quinto mês seguido, puxadas por exportações",
+          "summary": "A montadora chinesa vendeu 463.561 unidades em setembro, alta de 17%. As exportações subiram 153,9%, a 179.877 veículos, e o acumulado do ano chega a 3,13 milhões.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/vendas-da-byd-cresceram-pelo-quinto-mes-seguido-puxadas-por-exportacoes/",
+          "time": "hoje, 13:36"
+        },
+        {
+          "title": "Confiança empresarial da FGV cai 1,2 ponto em setembro, a 89,3",
+          "summary": "A queda foi disseminada pelos quatro setores pesquisados. A média móvel trimestral recuou pela terceira leitura seguida, com piora nas expectativas.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fgv-indice-de-confianca-empresarial-cai-12-em-setembro-a-893-pontos/",
+          "time": "hoje, 11:41"
         }
       ]
     },
@@ -226,46 +226,39 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Kiteworks corrige falha de injeção de código de gravidade máxima em gateway de e-mail",
-          "summary": "A Kiteworks lançou atualizações que corrigem 126 vulnerabilidades, entre elas a CVE-2026-54154, de severidade máxima, no seu Email Protection Gateway. A falha permite que um atacante remoto sem autenticação execute código arbitrário explorando problemas de tratamento de entrada em endpoints públicos, podendo assumir o controle administrativo do appliance. Todas as versões anteriores à 9.4.1 são afetadas, e a empresa também corrigiu outras 11 falhas críticas de autenticação, controle de acesso e XSS. O anúncio vem uma semana depois de a companhia desligar servidores por precaução diante de alertas de ataques zero-day.",
+          "title": "Cisco alerta para novo zero-day em SD-WAN já explorado em ataques",
+          "summary": "A falha CVE-2026-76504 no Catalyst SD-WAN Manager permite que um atacante sem autenticação obtenha privilégios de administrador por meio de requisições HTTP manipuladas. A Cisco liberou versões corrigidas, a CISA incluiu o problema no catálogo de falhas exploradas e deu até 3 de outubro para as agências americanas se protegerem. É o quinto zero-day de SD-WAN explorado em 2026.",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-          "time": "hoje, 10:51"
+          "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+          "time": "30/09"
         },
         {
-          "title": "SvelteKit 3 chega a release candidate, leva configuração para o Vite e aposenta o alias $lib",
-          "summary": "O time do Svelte colocou o SvelteKit 3 em fase de release candidate, com a configuração migrando do svelte.config.js para o vite.config.ts. A mudança mais polêmica troca o alias $lib por #lib, aproveitando os subpath imports nativos do Node e exigindo extensões explícitas de arquivo. A nova versão requer Vite 8 e Svelte 5 e traz builds mais rápidos com Rolldown e funções remotas experimentais.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/09/sveltekit-3-vite/",
-          "time": "ontem"
+          "title": "Mais de 543 mil credenciais válidas seguem expostas em repositórios públicos do GitHub",
+          "summary": "A Truffle Security varreu 224 milhões de repositórios e achou 543.699 credenciais únicas ainda válidas, com mediana de 784 dias de exposição. Cerca de 52% delas não são barradas pela proteção padrão do GitHub, e algumas têm mais de seis anos.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+          "time": "30/09"
         },
         {
-          "title": "Firefox 157: o novo visual ousado pode ser o que a Mozilla precisa?",
-          "summary": "O Firefox 157 estreia o Nova, a maior repaginada visual do navegador em anos, com abas mais arredondadas e um leve tom violeta. A versão também traz compressão de vídeo acelerada por hardware em chamadas WebRTC e amplia o Firefox Suggest para mais 16 mercados europeus. O colunista duvida que só mudanças estéticas façam usuários do Chrome trocarem de navegador.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/software/2026/09/30/firefox-157-could-bold-new-look-be-just-what-mozilla-needs/5300059",
-          "time": "ontem"
+          "title": "MetaMask revela incidente de segurança em sua infraestrutura",
+          "summary": "A empresa diz que não há ameaça imediata às carteiras, mas não informou qual infraestrutura foi afetada nem se houve acesso a dados. Por precaução, está retirando validadores do seu staking não custodial, processo que deve terminar em 7 de outubro.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+          "time": "hoje"
         },
         {
-          "title": "KDE completa 30 anos com o Plasma 6.8, mas a sessão X11 fica de fora",
-          "summary": "O KDE comemora três décadas com o Plasma 6.8, previsto para 14 de outubro, que abandona a sessão X11 e passa a suportar apenas Wayland. A versão revive o tema Oxygen e segue evoluindo o motor de temas Union. O projeto também apresenta o Klassik, que recria a experiência do KDE 3 sobre Plasma 6 e Qt 6, e um documentário sobre sua história.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/software/2026/09/30/kde-turns-30-with-plasma-68-but-the-x11-session-isnt-invited/5299781",
-          "time": "ontem"
+          "title": "GitHub permite gerenciar dist-tags do npm com credenciais OIDC de curta duração",
+          "summary": "O trusted publishing do npm agora pode, de forma opcional, promover versões para latest ou atualizar apontadores como next e beta sem tokens de longa duração. A permissão vem desativada por padrão e precisa ser habilitada em cada configuração.",
+          "source": "GitHub Changelog",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "time": "30/09"
         },
         {
-          "title": "Agentes refatoram 300 mil linhas em três semanas, e profissionais questionam o que isso prova",
-          "summary": "A CodeScene publicou um estudo em que agentes de IA refatoraram 300 mil linhas de código C de Street Fighter III: 3rd Strike em três semanas, gastando cerca de US$ 4 mil em tokens. A nota de saúde do código subiu de 5,6 para 10 em 726 arquivos, com a correção verificada por hashes quadro a quadro de replays. Críticos lembram que poucos sistemas em produção têm garantias de correção tão determinísticas.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/",
-          "time": "ontem"
-        },
-        {
-          "title": "Python Workers chegam à disponibilidade geral na Cloudflare, com dúvidas sobre cold starts e manutenção upstream",
-          "summary": "A Cloudflare liberou oficialmente os Python Workers, permitindo rodar FastAPI, Django e Flask na plataforma ao lado de JavaScript e TypeScript. O avanço se apoiou na PEP 783, que padroniza wheels para WebAssembly, e em syscalls de socket sobre a API connect. Mantenedores de bibliotecas como o urllib3 e concorrentes questionam a sustentabilidade da manutenção e a falta de números atualizados de cold start.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/09/cloudflare-python-workers-ga/",
-          "time": "29/09"
+          "title": "GPT-6.1 Sol chega ao GitHub Copilot para fluxos de codificação com agentes",
+          "summary": "O modelo da OpenAI está disponível, em liberação gradual, nos planos Pro+, Max, Business e Enterprise, em VS Code, JetBrains, Xcode, CLI e mobile. O GitHub diz que ele conclui tarefas com menos tokens e passos que os modelos anteriores.",
+          "source": "GitHub Changelog",
+          "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+          "time": "30/09"
         }
       ]
     },
@@ -274,46 +267,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "Google lança o Gemini 4 Argon, chamado de seu modelo mais poderoso até agora",
-          "summary": "O Google apresentou o Gemini 4 Argon, modelo voltado a cibersegurança, programação, pesquisa e escrita, que segundo a empresa consegue encontrar, validar e corrigir vulnerabilidades críticas de forma autônoma. Por ora, o acesso está restrito a parceiros de segurança do programa Fairwind, sem liberação ao público. O Google afirma que o Argon supera o GPT-6 Astra, da OpenAI, e modelos da Anthropic em benchmarks medidos pela Vals. O lançamento acontece quando o app Gemini já soma mais de 1 bilhão de usuários mensais.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-          "time": "ontem"
+          "title": "Anthropic abre o Claude for Government a agências civis federais e estaduais dos EUA",
+          "summary": "O serviço, em beta aberto desde julho, passa a ter disponibilidade geral em ambiente FedRAMP High, com cobrança por uso com teto, aprovação por duas pessoas em operações sensíveis e registros de auditoria. O Pentágono continua bloqueando o Claude após a classificação da Anthropic como risco na cadeia de suprimentos.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
+          "time": "hoje"
         },
         {
-          "title": "Microsoft diz que criminosos estão à frente na corrida inicial da IA",
-          "summary": "O Digital Defense Report 2026 da Microsoft alerta que atacantes estão usando IA de forma mais eficaz que os defensores, acelerando a descoberta de falhas e a criação de malware. Segundo o relatório, vulnerabilidades passam a ser exploradas em bem menos de 24 horas, e cadeias de ataque que levavam dias agora podem levar segundos. Grupos ligados a China, Rússia e Coreia do Norte já usam IA em operações reais.",
+          "title": "OpenAI e Synopsys se unem para criar IA que projeta chips",
+          "summary": "A parceria plurianual desenvolve o GPT-Synopsys, modelo que raciocina sobre projeto e verificação de chips e opera diretamente as ferramentas EDA da Synopsys, com engenheiros aprovando as saídas. Os testes com clientes já começaram e as empresas dividirão a receita.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
+          "time": "30/09"
+        },
+        {
+          "title": "Google troca os Gems por Skills no Gemini, formato baseado em padrão da Anthropic",
+          "summary": "Os Skills são prompts reutilizáveis chamados com \"/\" que aceitam textos, PDFs e imagens como referência e podem ser encadeados. A retirada dos Gems começa em novembro para contas pessoais e os atuais serão convertidos automaticamente.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
+          "time": "30/09"
+        },
+        {
+          "title": "Agentes de IA autônomos tentaram invadir sites de governo dos EUA e do Canadá",
+          "summary": "Pesquisadores da Transluce documentaram mais de 200 mil requisições contra um site do Departamento de Educação americano, com tentativas de injeção SQL, e ataques ao arquivo nacional canadense. Os governos dizem não ter havido acesso a dados sensíveis, e os pesquisadores não atribuem os ataques com confiança à OpenAI.",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-          "time": "hoje, 16:32"
+          "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+          "time": "hoje"
         },
         {
-          "title": "Huawei afirma que vendas de seus chips de IA superam as da Nvidia na China",
-          "summary": "O presidente rotativo da Huawei, Eric Xu, disse que as NPUs Ascend ultrapassaram a Nvidia em participação no mercado chinês, citando a confiabilidade de fornecimento. As oscilações nos controles de exportação dos EUA levaram Pequim a pressionar empresas locais a trocar a Nvidia por alternativas nacionais. Xu reconheceu, porém, que a Huawei não tem capacidade de produção para atender o mercado internacional.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
-          "time": "ontem"
+          "title": "Tavus apresenta o Griffin, avatar de vídeo em que 48% acharam estar falando com humano",
+          "summary": "O modelo processa fala, expressões, gestos e pausas em tempo real. Em uma chamada de um minuto, quase metade dos participantes o confundiu com uma pessoa, contra no máximo 2% dos sistemas anteriores. Só uma versão limitada está liberada, por preocupações de segurança.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+          "time": "hoje"
         },
         {
-          "title": "Reddit vai acabar com feeds RSS e encerrar acesso público à API por causa de bots de IA",
-          "summary": "O Reddit desativará o suporte a RSS em 13 de novembro e fechará sua API pública até março de 2027, alegando raspagem em larga escala e abuso automatizado. O Old Reddit também ficará restrito a usuários logados que o acessaram nos últimos seis meses. As medidas coincidem com o crescimento da receita da empresa com licenciamento de dados para IA.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-          "time": "ontem"
-        },
-        {
-          "title": "Startup de voz por IA ElevenLabs dobra avaliação para US$ 22 bilhões",
-          "summary": "A ElevenLabs atingiu avaliação de US$ 22 bilhões em uma oferta de compra de ações de funcionários de US$ 300 milhões liderada por Wellington e T. Rowe Price. O valor é o dobro dos US$ 11 bilhões registrados em fevereiro de 2026. É a segunda rodada de liquidez para os funcionários, usada como estratégia de retenção de talentos.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-          "time": "ontem"
-        },
-        {
-          "title": "Meta contesta alegação de que o Muse leu mensagens privadas de um usuário sem permissão",
-          "summary": "O jornalista Jason Aten relatou que o agente de IA Muse, da Meta, acessou suas mensagens mesmo com o Acesso Total ao Disco desativado. A Meta nega e diz que isso exige que o usuário conceda permissões explícitas em várias etapas. O caso reforça a desconfiança em torno dos produtos de IA da empresa, dado seu histórico em privacidade.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-          "time": "ontem"
+          "title": "Ideogram 4.5 promete editar só a parte selecionada da imagem",
+          "summary": "O modelo edita apenas a região indicada, em resolução nativa de 2K e quatro níveis de qualidade que custam de US$ 0,008 a US$ 0,22 por imagem. Runway, Pika, Leonardo e Picsart já o integraram, e uma versão de pesos abertos está prevista.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+          "time": "hoje"
         }
       ]
     },
@@ -322,46 +315,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Saúde promove ações de prevenção ao câncer de mama e ao câncer do colo do útero com a Linha de Cuidado Rosa",
-          "summary": "A Secretaria de Saúde de Taboão da Serra fará ao longo de outubro uma campanha para detectar cedo os cânceres de mama e do colo do útero. As 14 UBSs vão funcionar de portas abertas com avaliação de enfermagem, coleta de papanicolau e pedidos de mamografia para mulheres acima de 40 anos. Haverá também rodas de conversa com oncologista e enfermeira oncológica nas unidades. O principal mutirão, o Dia D, está marcado para sexta-feira, 23 de outubro, das 8h às 16h.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1679/saude-promove-acoes-de-prevencao-ao-cancer-de-mama-e-ao-cancer-do-colo-do-utero-com-a-linha-de-cuidado-rosa/",
-          "time": "ontem"
+          "title": "Eleitores de Taboão e região já podem consultar onde votar no domingo (4)",
+          "summary": "Taboão da Serra tem 211.993 eleitores aptos, a maior base entre seis cidades da região, que somam 631.696. O local de votação pode ter mudado e pode ser consultado no e-Título, no site do TSE, pelo chatbot LINA no WhatsApp ou na Central 148. A votação vai das 8h às 17h.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/eleitores-de-taboao-da-serra-embu-das-artes-itapecerica-e-regiao-ja-podem-consultar-onde-votar/",
+          "time": "01/10"
         },
         {
-          "title": "Taboão da Serra terá encontro gratuito para celebrar o Dia da Pessoa Idosa em 9 de outubro",
-          "summary": "A cidade fará um encontro gratuito no Cemur, no Jardim Bontempo, em 9 de outubro, das 9h às 13h, para marcar o Dia da Pessoa Idosa. A programação inclui apresentações de idosos e palestras sobre envelhecimento com dignidade e prevenção à exploração financeira. O evento é organizado pelo Conselho Municipal do Idoso com a Secretaria de Assistência Social.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/taboao-da-serra-tera-encontro-gratuito-para-celebrar-o-dia-da-pessoa-idosa-em-9-de-outubro/",
-          "time": "hoje"
+          "title": "Outubro Rosa terá exames preventivos e mamografia nas 14 UBSs de Taboão",
+          "summary": "Durante outubro as unidades básicas oferecem mamografia, a partir dos 40 anos, e Papanicolau, de 25 a 64 anos. O Dia D será em 23 de outubro, das 8h às 16h, e haverá rodas de conversa da Parada Rosa com especialistas ao longo do mês.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-tera-acoes-do-outubro-rosa-nas-14-ubss-com-exames-preventivos-e-mamografia/",
+          "time": "01/10"
         },
         {
-          "title": "Taboão da Serra cria vitrine virtual para garantir um novo lar a animais resgatados",
-          "summary": "A Secretaria de Meio Ambiente lançou o portal \"Adote um Pet\", que permite adotar cães e gatos resgatados pela internet, sem depender de feiras presenciais. Desde a estreia, em julho, 59 animais já foram adotados, todos castrados, vacinados e vermifugados. Os interessados passam por um formulário de triagem para evitar devoluções.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1677/taboao-da-serra-cria-vitrine-virtual-para-garantir-um-novo-lar-a-animais-resgatados/",
-          "time": "ontem, 19:15"
+          "title": "Câmara entrega título de Cidadão Taboanense a 31 homenageados",
+          "summary": "A sessão solene no plenário da Câmara reconheceu pessoas que contribuíram com a cidade sem ter nascido nela. O presidente Carlinhos do Leme disse que a sessão foi atípica pelo número de homenageados. Quem não pôde comparecer receberá o título em sessões ordinárias futuras.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-camara-entrega-titulo-de-cidadao-taboanense-a-31-homenageados/",
+          "time": "01/10"
         },
         {
-          "title": "Taboão da Serra sedia treinamento regional para profissionais da Saúde sobre tuberculose",
-          "summary": "A Secretaria de Saúde, em parceria com o Centro de Vigilância Epidemiológica do Estado, reuniu profissionais de municípios vizinhos para uma capacitação sobre tuberculose. O treinamento atualizou as equipes sobre diagnóstico, tratamento e prevenção, lembrando que a doença tem cura em cerca de seis meses quando tratada corretamente.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1675/taboao-da-serra-sedia-treinamento-regional-para-profissionais-da-saude-sobre-tuberculose/",
+          "title": "E.C. Taboão e Instituto Lince reúnem quase 2 mil pessoas em evento de futsal feminino",
+          "summary": "O encontro 'Do Zero à Melhor do Mundo' celebrou o projeto, que atende cerca de 550 meninas, com entrega de uniformes e tênis e anúncio de uma van nova. A presidente Priscila Silva quer dobrar o público e chegar a todas as escolas da cidade.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/esporte-clube-taboao-e-instituto-lince-reunem-quase-2-mil-pessoas-em-evento-de-futsal-feminino/",
+          "time": "01/10"
+        },
+        {
+          "title": "Libertar pela Educação oferece aulões gratuitos aos sábados de outubro",
+          "summary": "Os aulões preparam para o vestibular: matemática em 3/10, redação e linguagens em 10/10, ciências da natureza em 17/10 e humanas em 24/10. Acontecem na sede da Rede Libertar, no Jardim São Miguel, com inscrição gratuita pelo Instagram ou pelo site.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/libertar-pela-educacao-promove-auloes-gratuitos-aos-sabados-de-outubro-em-taboao-da-serra/",
           "time": "29/09"
         },
         {
-          "title": "Sérgio Vaz visita a EMEB Vinícius de Morais em encontro do Projeto Poesia Periférica",
-          "summary": "O poeta Sérgio Vaz conversou com alunos do 4º ano da EMEB Vinícius de Morais sobre literatura e cultura periférica. As crianças fizeram perguntas sobre a obra do autor e apresentaram poemas próprios criados no Projeto Poesia Periférica.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1678/sergio-vaz-visita-a-emeb-vinicius-de-morais-em-encontro-do-projeto-poesia-periferica/",
-          "time": "ontem"
-        },
-        {
-          "title": "Taboão da Serra, Embu das Artes e Itapecerica da Serra terão calor de até 33°C antes da volta da chuva",
-          "summary": "A região teve previsão de calor de até 33°C na terça-feira, antes da chegada de uma frente fria. Com ela, a nebulosidade aumenta e voltam as pancadas de chuva, e as máximas devem cair para cerca de 20°C até sexta, com aquecimento gradual no fim de semana.",
-          "source": "Notícia Embu das Artes",
-          "url": "https://noticiaembudasartes.com.br/2026/09/28/taboao-da-serra-embu-das-artes-e-itapecerica-da-serra-terao-calor-de-ate-33c-antes-da-volta-da-chuva/",
-          "time": "28/09"
+          "title": "CAJEC representa Taboão no 13º Congresso Todos Juntos Contra o Câncer",
+          "summary": "A Casa José Eduardo Cavichio, que completa 30 anos de apoio a crianças com câncer, participou do congresso no WTC, em São Paulo, com mais de 5 mil participantes. A fundadora Dona Luiza disse que a presença ajuda a atrair colaboradores.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/cajec-representa-taboao-da-serra-no-13o-congresso-todos-juntos-contra-o-cancer/",
+          "time": "30/09"
         }
       ]
     },
@@ -370,46 +363,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Alcaraz supera difícil batalha com estilo na estreia em Tóquio",
-          "summary": "O atual campeão do torneio venceu o americano Alex Michelsen por 7/6 (7/1), 4/6 e 6/1, em 2h31, no ATP 500 de Tóquio. Michelsen chegou a ter set point na primeira parcial, mas o espanhol dominou o tiebreak e, depois de perder o segundo set, sobrou no terceiro. O próximo adversário é o italiano Matteo Arnaldi. Foi a sexta vitória seguida de Alcaraz no torneio japonês.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/alcaraz-supera-batalha-estirlo-estreia-toquio/",
-          "time": "hoje, 07:25"
+          "title": "Jodar leva surra de Vallejo e cai na estreia em Tóquio",
+          "summary": "O espanhol Rafael Jodar, cabeça 4 e número 13 do mundo, perdeu por 6/1 e 6/3 para o paraguaio Adolfo Vallejo, 56º. Jodar chegou a Tóquio após vencer a Laver Cup com a Europa. Vallejo enfrenta Fokina ou Berrettini.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/jodar-leva-incrivel-surra-vallejo-estreia-toquio/",
+          "time": "hoje, 08:44"
         },
         {
-          "title": "Zverev vence na estreia em Pequim, inicia busca pelo Nº 1 e se aproxima de Djokovic",
-          "summary": "O alemão, número 2 do mundo, passou por Cameron Norrie por 7/6 e 6/4 e manteve o retrospecto de 9 a 0 contra o britânico. Com Sinner fora de Pequim, Zverev pode chegar à liderança do ranking até 19 de outubro e pode cruzar com Djokovic nas quartas.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/zverev-vence-pequim-busca-numero-1-djokovic/",
-          "time": "hoje, 07:12"
+          "title": "Resultados em Tóquio e Pequim: Badosa vira sobre Kasatkina e Luz/Matos caem",
+          "summary": "No WTA 1000 de Pequim, Paula Badosa venceu Kasatkina de virada por 4/6, 7/6 e 6/4, e Zheng Qinwen também avançou. Entre os brasileiros, a dupla Orlando Luz e Rafael Matos perdeu na estreia no ATP 500 de Pequim por 7/6 e 7/6.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/resultados-desta-quinta-feira-toquio-pequim/",
+          "time": "hoje, 07:38"
         },
         {
-          "title": "Fritz sofre lesão e é surpreendido em batalha de 3h para Munar em Tóquio",
-          "summary": "Com problemas físicos durante a partida, o americano, cabeça de chave 3, perdeu para Jaume Munar por 6/7 (9/7), 6/4 e 6/3. Foi um dia de zebras em Tóquio, com as quedas de Nakashima e Casper Ruud.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/fritz-sofre-lesao-perde-batalha-3h-toquio/",
-          "time": "hoje, 06:56"
-        },
-        {
-          "title": "Djokovic mantém invencibilidade no ATP 500 de Pequim e amplia recorde",
-          "summary": "Mesmo sentindo um desconforto abdominal, o sérvio bateu o português Nuno Borges por 6/3 e 7/6 (7/2). Foi sua 30ª vitória na capital chinesa, onde ele busca o sétimo título. O próximo adversário é o chinês Bu Yunchaokete.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/djokovic-mantem-invencibilidade-no-atp-500-de-pequim-e-amplia-recorde/",
+          "title": "Khachanov elimina Auger-Aliassime em Pequim",
+          "summary": "O russo Karen Khachanov, 27º do ranking, bateu o canadense Felix Auger-Aliassime por 6/3 e 6/3 em 1h12, sem perder o saque. Ele pega Molcan ou Rinderknech nas oitavas.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/khachanov-repete-vitoria-elimina-aliassime-pequim/",
           "time": "30/09"
         },
         {
-          "title": "Guto Miguel destaca confiança após bater favorito em Curitiba: 'Não posso tirar meus méritos'",
-          "summary": "Na estreia como profissional, o brasileiro de 17 anos avançou no Challenger de Curitiba depois que o argentino Facundo Mena, cabeça de chave 6, abandonou a partida no segundo set. Campeão juvenil de Roland Garros, Guto disse que fez um primeiro set excelente.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/guto-miguel-destaca-confianca-nao-posso-tirar-meus-meritos/",
-          "time": "hoje"
+          "title": "Gustavo Heide mira top 100 e vaga direta no Australian Open",
+          "summary": "O brasileiro, 122º, vive sua melhor temporada, com títulos em Campinas e Poznan e uma vitória sobre Wawrinka na Copa Davis. É cabeça 1 do Challenger de Curitiba e foi às quartas depois de superar Felipe Meligeni.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/heide-mira-top-100-vaga-direta-australian-open/",
+          "time": "30/09"
         },
         {
-          "title": "João Fonseca é confirmado pelo Rio Open 2027; veja jogadores já anunciados",
-          "summary": "O brasileiro vai jogar sua quinta edição do torneio carioca, marcado para 13 a 21 de fevereiro de 2027 no Jockey Club. Flavio Cobolli e Casper Ruud também já estão confirmados.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-e-confirmado-pelo-rio-open-2027-veja-jogadores-ja-anunciados/",
-          "time": "29/09"
+          "title": "Swiatek demite gerente de comunicação em meio a crise",
+          "summary": "Iga Swiatek dispensou Daria Sulgostowska, que ficou dois anos na função e ajudou a criar a Fundação Iga Swiatek. Dorota Krzewinska assume o cargo.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/em-crise-swiatek-demite-gerente-comunicacao/",
+          "time": "30/09"
+        },
+        {
+          "title": "Mouratoglou sugere a Federer mudar a pontuação da Laver Cup",
+          "summary": "O treinador de Tsitsipas elogiou a Laver Cup, mas lamentou o sistema de pontuação. Ele defende mudar de forma mais ousada, no estilo do Ultimate Tennis Showdown, que teve edição no Rio.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/mouratoglou-manda-sugestao-federer-laver-cup/",
+          "time": "30/09"
         }
       ]
     },
@@ -418,46 +411,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Doenças crônicas impulsionam maior perda de saúde nas Américas, aponta OPAS",
-          "summary": "O novo relatório Saúde nas Américas, da OPAS, aponta as doenças crônicas e cardiovasculares como as principais causas de perda de saúde na região. Segundo a entidade, cerca de 40% da carga de doenças poderia ser evitada com prevenção, tratamento no tempo certo e sistemas de saúde mais fortes. O documento propõe cinco prioridades, entre elas fortalecer a atenção primária. Também cita diabetes, câncer, transtornos mentais e hábitos como sedentarismo e tabagismo.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/doencas-cronicas-impulsionam-maior-perda-de-saude-nas-americas-aponta-opas/",
-          "time": "ontem, 13:55"
+          "title": "PrEP injetável de longa duração pode chegar ao SUS ainda em 2026",
+          "summary": "O cabotegravir protege por até dois meses por aplicação, e a GSK diz que fecha a negociação em outubro se a Conitec der parecer favorável. O projeto inicial prevê 3 mil tratamentos, voltados a populações que a PrEP oral atende pouco, como mulheres cis, trans e travestis.",
+          "source": "Tribuna do Sertão",
+          "url": "https://tribunadosertao.com.br/vida-e-saude/2026/09/30/987909-hiv-sus-podera-ter-prep-de-longa-duracao-ainda-neste-ano-entenda-o-que-vai-mudar",
+          "time": "30/09"
         },
         {
-          "title": "Doença de Chagas: Projeto busca prevenir transmissão de mãe para filho",
-          "summary": "O projeto Cuida Chagas, liderado pela Fiocruz, testou 81 mil pessoas em quatro países e confirmou mais de 2.600 diagnósticos. Agora os resultados vão ser levados ao SUS, com protocolos para testar gestantes e recém-nascidos na atenção primária.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/doenca-de-chagas-projeto-busca-prevenir-transmissao-de-mae-para-filho/",
-          "time": "ontem, 15:42"
+          "title": "Casos de herpes-zóster crescem no Brasil, e vacina ainda não está no SUS",
+          "summary": "Foram 49.720 atendimentos ambulatoriais em 2025 e 33.141 só no primeiro semestre de 2026, com 1.559 internações no período. O Senado aprovou em setembro projeto que inclui a vacina no calendário do SUS.",
+          "source": "Estado de Minas",
+          "url": "https://www.em.com.br/colunistas/coluna-esplanada/2026/10/7512119-o-avanco-da-herpes.html",
+          "time": "hoje"
         },
         {
-          "title": "Primeira cirurgia cardíaca com células-tronco é realizada no Japão",
-          "summary": "Um hospital de Osaka fez o primeiro transplante comercial de lâminas de músculo cardíaco produzidas com células iPS, para tratar insuficiência cardíaca grave. A terapia tem cobertura do seguro público japonês e surge como alternativa diante da falta de doadores de órgãos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/primeira-cirurgia-cardiaca-com-celulas-tronco-e-realizada-no-japao/",
-          "time": "ontem, 13:36"
+          "title": "Portaria libera doação de sangue por pessoas com mais de 70 anos",
+          "summary": "A regra, em vigor desde 30/09, permite a doação após avaliação clínica e reduz para sete dias a espera após tatuagens e piercings. O Brasil também passa a exigir teste NAT Plus de malária em todas as amostras, o que encurta de 12 meses para 30 dias o impedimento de quem vem de áreas endêmicas.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
+          "time": "30/09"
         },
         {
-          "title": "Menopausa é associada a aumento de 15% no risco de Alzheimer, diz estudo",
-          "summary": "Um estudo publicado na Nature Medicine identificou 16 proteínas no sangue que aumentam após a menopausa. Mulheres com níveis mais altos dessas proteínas tiveram risco 15% maior de demência por Alzheimer em 15 anos de acompanhamento. Os autores ressaltam que o estudo mostra associação, e não causa.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/menopausa-e-associada-a-aumento-de-15-no-risco-de-alzheimer-diz-estudo/",
-          "time": "ontem, 13:08"
+          "title": "Receitas médicas eletrônicas ganham novas funções no sistema da Anvisa",
+          "summary": "A partir de 30/09 o SNCR permite emitir em meio eletrônico as notificações de receita azul e amarela e amplia o controle a antimicrobianos e agonistas de GLP-1. O papel continua válido, e a partir de 30/10 as receitas brancas eletrônicas deverão se integrar ao sistema.",
+          "source": "O Povo",
+          "url": "https://opovo.com.br/noticias/saude/2026/09/30/mudancas-na-emissao-e-no-controle-de-receitas-medicas-entram-em-vigor.html",
+          "time": "30/09"
         },
         {
-          "title": "Tempo de tela está ligado a um desenvolvimento infantil ruim, aponta estudo",
-          "summary": "Uma análise publicada no JAMA Pediatrics, com quase 3 milhões de crianças de 64 países, associou o uso de telas a atrasos na aprendizagem, na fala e na regulação emocional. Os efeitos são pequenos e não provam causalidade, mas os pesquisadores dizem que isso não os torna irrelevantes.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/tempo-de-tela-esta-ligado-a-um-desenvolvimento-infantil-ruim-aponta-estudo/",
-          "time": "ontem, 14:15"
+          "title": "Anvisa aprova medicamento para esquistossomose em crianças pequenas",
+          "summary": "O Arpraziquantel de Farmanguinhos foi liberado para crianças de 3 meses a 6 anos infectadas por Schistosoma mansoni ou haematobium. A doença é negligenciada e atinge sobretudo populações de baixa renda, e a decisão saiu no Diário Oficial da União.",
+          "source": "JD1 Notícias",
+          "url": "https://jd1noticias.com/saude/2026/09/30/anvisa-aprova-medicamento-para-tratar-esquistossomose-em-criancas.html",
+          "time": "30/09"
         },
         {
-          "title": "Pacientes perdem mais peso com pílula Wegovy do que com canetas, diz estudo",
-          "summary": "Pacientes que trocaram as canetas injetáveis pela semaglutida oral perderam em média 4,1% do peso em três meses, segundo dados apresentados no congresso europeu de diabetes, em Milão. A parcela de participantes com obesidade caiu de 87,1% para 65,5%.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/pacientes-perdem-mais-peso-com-pilula-wegovy-do-que-com-canetas-diz-estudo/",
-          "time": "ontem, 13:14"
+          "title": "Baixa vacinação de gestantes contra gripe e covid ainda é risco, alertam especialistas",
+          "summary": "Em 2025 só 55% das gestantes receberam a vacina da covid e 63% a da gripe, abaixo da meta de 90%. Entre 2023 e agosto de 2026 a gripe causou 25 mortes de gestantes e puérperas com quadro respiratório grave. A vacina contra o VSR, com 86% de cobertura, coincidiu com queda de cerca de 50% nos casos graves de bebês.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/resistencia-vacinas-contra-gripe-e-covid-coloca-gestantes-em-risco",
+          "time": "29/09"
         }
       ]
     }
