@@ -5,10 +5,10 @@ Notícias, Economia (com os indicadores financeiros), Programação, IA, Taboão
 
 O site é **100% estático**: todo o conteúdo vem de um único arquivo, [`data/news.json`](data/news.json).
 Uma tarefa agendada do Claude atualiza esse arquivo às 8h e às 14h (horário de Brasília) e faz o commit.
-Cada commit em `main` dispara o deploy no GitHub Pages.
+Cada commit em `main` dispara um novo deploy na Vercel, em **https://news.nico.dev.br**.
 
 ```
-tarefa agendada ──► data/news.json ──► commit em main ──► GitHub Actions ──► GitHub Pages
+tarefa agendada ──► data/news.json ──► commit em main ──► Vercel ──► news.nico.dev.br
 ```
 
 ## Rodando localmente
@@ -55,13 +55,10 @@ npm run check          # validação + lint + build (gera a pasta out/)
 Indicadores, na ordem: `ibov`, `ifix`, `cdi-selic`, `sp500`, `nasdaq100`, `dow`, `usd`, `eur`, `btc`, `eth`, `sol`.
 `change` e os números do clima são números JSON ou `null`. O script de validação recusa qualquer coisa fora disso.
 
-## Publicação (GitHub Pages)
+## Publicação
 
-1. No repositório: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-2. Faça push para `main`. O workflow [`deploy.yml`](.github/workflows/deploy.yml) valida, gera o build e publica.
-3. O site fica em `https://robertourias.github.io/nico-noticias/`.
-
-Prefere a Vercel? Importe o repositório lá; nenhuma variável de ambiente é necessária para o site.
+- A **Vercel** está ligada ao repositório e publica `main` em https://news.nico.dev.br. Nenhuma variável de ambiente é necessária para o site.
+- O workflow [`ci.yml`](.github/workflows/ci.yml) roda `npm run check` (validação do JSON + lint + build) em cada push e pull request.
 
 ## Segredos
 
