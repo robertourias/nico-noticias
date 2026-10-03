@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-02T14:00:34-03:00",
+  "updatedAt": "2026-10-03T08:05:00-03:00",
   "markets": {
-    "asOf": "IBOV e dólar às 13:45 · EUA e Nasdaq 100: fechamento de 01/10 · euro: PTAX de 01/10 · IFIX e cripto (24h) do dia",
+    "asOf": "Fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) às 08:00",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "188.172 pts",
-        "change": 0.52
+        "value": "192.115 pts",
+        "change": 2.63
       },
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.755 pts",
-        "change": 0.02
+        "value": "3.772 pts",
+        "change": 0.43
       },
       {
         "id": "cdi-selic",
@@ -24,60 +24,60 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.667 pts",
-        "change": 0.2
+        "value": "7.723 pts",
+        "change": 0.73
       },
       {
         "id": "nasdaq100",
         "label": "Nasdaq 100",
         "value": "30.495 pts",
-        "change": 0.28
+        "change": null
       },
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "50.927 pts",
-        "change": 0.04
+        "value": "51.177 pts",
+        "change": 0.49
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,23",
-        "change": 0.13
+        "value": "R$ 5,22",
+        "change": -0.08
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,85",
-        "change": null
+        "value": "R$ 5,88",
+        "change": 0.55
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 86.198",
-        "change": 2.8
+        "value": "US$ 84.533",
+        "change": -0.33
       },
       {
         "id": "eth",
         "label": "ETH",
         "value": "US$ 2.744",
-        "change": 1.8
+        "change": 1.49
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 121,75",
-        "change": 3.1
+        "value": "US$ 119,40",
+        "change": -1.75
       }
     ]
   },
   "weather": {
-    "date": "2026-10-02",
-    "condition": "chuvoso durante o dia, com chuvisco e céu nublado à noite",
+    "date": "2026-10-03",
+    "condition": "sol e aumento de nuvens de manhã, com pancadas de chuva à tarde e à noite",
     "min": 15,
-    "max": 18,
-    "rainChance": 98,
-    "rainMm": 7.6,
+    "max": 23,
+    "rainChance": 86,
+    "rainMm": 10.2,
     "uv": 3,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp"
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Globo cancela debate presidencial após desistência de Flávio Bolsonaro",
-          "summary": "A TV Globo cancelou o debate previsto antes do primeiro turno depois que Flávio Bolsonaro (PL) desistiu de participar. O recuo veio após o ministro Gilmar Mendes determinar a inclusão do candidato Renan Santos no encontro.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/globo-cancela-debate-presidencial-apos-desistencia-de-flavio",
-          "time": "ontem, 23:42"
+          "title": "Datafolha: Lula lidera em MG e PE, Flávio em RJ e DF; empate em SP",
+          "summary": "Pesquisa Datafolha divulgada na sexta mostra Lula à frente em Minas (45% a 38%) e Pernambuco (65% a 26%). Flávio Bolsonaro lidera no Rio (48% a 40%) e no Distrito Federal (46% a 36%). Em São Paulo há empate técnico, com Flávio em 41% e Lula em 40%.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/lula-lidera-intencoes-de-voto-em-mg-e-pf-e-flavio-no-rj-e-df-disputa-em-sp-tem-empate/",
+          "time": "ontem, 20:52"
         },
         {
-          "title": "Cancelamento de debate favoreceu Lula, dizem campanhas",
-          "summary": "Equipes de Caiado, Zema e Cury avaliam que as decisões judiciais de quinta-feira beneficiaram Lula. Ministros retiraram o púlpito vazio reservado ao presidente e incluíram Renan Santos, o que levou Flávio Bolsonaro a desistir e a Globo a cancelar o debate.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-tulio/cancelamento-de-debate-favoreceu-lula-dizem-campanhas",
-          "time": "hoje, 00:52"
+          "title": "Pesquisas apontam vantagem de Lula e afastam vitória no 1º turno",
+          "summary": "Segundo o Datafolha, Lula tem 45% dos votos válidos contra 40% de Flávio Bolsonaro, abaixo dos 50% necessários para vencer no primeiro turno. A pesquisa mostra divisões por renda, religião e idade, e 17% dos eleitores ainda estão indecisos.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/blog-do-noblat/pesquisas-apontam-vantagem-de-lula-e-afastam-vitoria-no-1o-turno",
+          "time": "ontem, 13:06"
         },
         {
-          "title": "Eleições 2026: veja os horários de votação no dia 4 de outubro",
-          "summary": "O primeiro turno acontece no domingo, 4 de outubro, das 8h às 17h no horário de Brasília. O segundo turno, se houver, está marcado para 25 de outubro, no mesmo horário.",
+          "title": "Decisivo, Sudeste recebe últimos atos dos presidenciáveis antes do 1º turno",
+          "summary": "Os candidatos fazem os últimos atos de campanha na região, que concentra quase 40% do eleitorado. Lula e Flávio Bolsonaro, líderes nas pesquisas, têm eventos em São Paulo neste sábado, enquanto Caiado foca em Goiás e Zema não divulgou agenda.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/decisivo-sudeste-recebe-ultimos-atos-dos-presidenciaveis-antes-do-1o-turno/",
+          "time": "hoje, 04:05"
+        },
+        {
+          "title": "PF faz buscas em SP e no entorno do DF após alerta sobre embaixada dos EUA",
+          "summary": "A Polícia Federal cumpriu dois mandados de busca após o governo americano apontar riscos de segurança em sua embaixada e consulados e suspender serviços consulares. A PF afirma que não foram verificados elementos que corroborem os riscos indicados inicialmente. A investigação segue com análise do material apreendido.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/pf-faz-buscas-em-sp-e-no-entorno-do-df-apos-alerta-sobre-embaixada-dos-eua",
+          "time": "ontem, 17:01"
+        },
+        {
+          "title": "Alcolumbre marca votação da PEC do fim da escala 6x1 no Senado para 2 dias após o 1º turno",
+          "summary": "O presidente do Senado, Davi Alcolumbre, pautou a PEC para 6 de outubro. Em agosto, Lula havia pedido que a proposta avançasse antes da eleição. O fim da escala 6x1 é uma das prioridades da campanha de reeleição do presidente.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/alcolumbre-coloca-pec-da-escala-6x1-no-senado-para-2-dias-apos-1o-turno/",
+          "time": "ontem, 19:01"
+        },
+        {
+          "title": "Senado pode votar fim da escala 6x1 às vésperas do segundo turno",
+          "summary": "A discussão da PEC começa na terça (6) e a votação pode ocorrer na semana seguinte, perto do segundo turno de 25 de outubro. O calendário pode pressionar candidatos, em especial Lula, que incorporou o tema à campanha, a esclarecer suas posições.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/senado-pode-votar-fim-da-escala-6x1-as-vesperas-do-segundo-turno/",
+          "time": "hoje, 03:45"
+        },
+        {
+          "title": "Master: Fachin pede à PF investigação \"sem exceção\" na Corte",
+          "summary": "O presidente do STF, Edson Fachin, enviou ofício ao diretor da PF pedindo que as apurações do caso Master sejam feitas sem exceção. Alexandre de Moraes, Dias Toffoli e Kassio Nunes Marques aparecem em investigações ligadas ao ex-banqueiro Daniel Vorcaro. Fachin diz haver interesse institucional inequívoco na apuração rigorosa, respeitando o devido processo.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/eleicoes-2026-horarios-de-votacao-no-4-de-outubro",
-          "time": "hoje, 09:00"
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/master-fachin-pede-a-pf-investigacao-sem-excecao-na-corte",
+          "time": "ontem, 20:38"
+        },
+        {
+          "title": "Trump não declara apoio a Flávio e diz que acompanhará de perto eleições no Brasil",
+          "summary": "Donald Trump evitou apoiar Flávio Bolsonaro e disse apenas que vai acompanhar de perto a eleição brasileira. Senadores democratas dos EUA cobraram que ele reconheça o resultado oficial e criticaram ações do governo americano que veem como interferência.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/mundo/trump-nao-declara-apoio-a-flavio-e-diz-que-acompanhara-de-perto-eleicoes-no-brasil/",
+          "time": "ontem, 19:41"
+        },
+        {
+          "title": "AGU muda posição e pede ao STF a derrubada do marco legal das bets",
+          "summary": "A Advocacia-Geral da União reverteu sua posição e pediu ao Supremo a anulação do marco legal das apostas, alegando danos à saúde pública, às famílias e aos consumidores. Cita alta de 140% nos atendimentos do SUS por vício em jogo e R$ 62,5 bilhões retirados dos orçamentos familiares em 2025.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/agu-muda-posicao-e-pede-ao-stf-derrubada-do-marco-legal-das-bets/",
+          "time": "ontem, 20:08"
+        },
+        {
+          "title": "Datafolha: Lula (40%) e Flávio (41%) estão empatados tecnicamente em SP",
+          "summary": "Em São Paulo, Flávio tem 41% e Lula 40% dos votos válidos. Num eventual segundo turno, Flávio lidera por 48% a 45%. No cenário nacional, a pesquisa mostra Lula com 42% e Flávio com 38%.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/datafolha-lula-40-e-flavio-41-estao-empatado-tecnicamente-em-sp",
+          "time": "ontem, 17:55"
         },
         {
           "title": "Governo instala grades de proteção no Palácio do Planalto antes das eleições",
           "summary": "O Gabinete de Segurança Institucional colocou grades ao redor do Planalto como medida preventiva diante de possíveis manifestações. A Esplanada dos Ministérios também será fechada no dia da votação para reforçar a segurança.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/brasil/governo-instala-grades-de-protecao-no-palacio-do-planalto-para-as-eleicoes",
-          "time": "hoje, 11:18"
-        },
-        {
-          "title": "Haddad reclama do tempo de TV e critica 'sumiço' de Tarcísio nos debates",
-          "summary": "O candidato petista ao governo de São Paulo reclamou do tempo limitado de TV e criticou a ausência de Tarcísio de Freitas nos debates. Segundo ele, com essa postura 'quem perdeu foi o eleitor'.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/haddad-se-queixa-de-tempo-de-tv-e-critica-sumico-de-tarcisio-em-debates",
-          "time": "hoje, 11:14"
+          "time": "ontem"
         },
         {
           "title": "Lula chama juros do cartão de 'crime' e diz que quer limitar número de cartões",
           "summary": "Lula criticou os juros do cartão de crédito, que chegam a cerca de 449% ao ano, e disse que o governo negocia com o Banco Central restringir a concessão a um cartão por pessoa. O objetivo é conter o endividamento das famílias.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/politica/lula-chama-juros-do-cartao-de-crime-e-diz-que-quer-limitar-numero-de-cartoes/",
-          "time": "hoje, 07:13"
-        },
-        {
-          "title": "Lula diz que declarou a empresários: 'Vocês não têm escolha, ou sou eu ou é barbárie'",
-          "summary": "Em entrevista ao Flow Podcast, Lula afirmou ter dito a empresários que a eleição não tem alternativa além dele. Também negou que seu governo seja de esquerda e disse ter aconselhado o presidente do PSD a não lançar candidato, criticando o desempenho de Ronaldo Caiado.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/lula-diz-que-declarou-a-empresarios-voces-nao-tem-escolha-ou-sou-eu-ou-e-barbarie/",
-          "time": "hoje, 06:48"
-        },
-        {
-          "title": "Suspeito de bomba no STF é autuado, mas liberado por eleição",
-          "summary": "Um homem foi detido após deixar uma mochila junto ao STF, em Brasília, na noite de quinta. O esquadrão antibombas constatou que era alarme falso, com apenas pertences pessoais. Ele será autuado por resistência, mas liberado por causa do período eleitoral.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/suspeito-de-bomba-no-stf-e-autuado-mas-liberado-por-eleicao",
-          "time": "hoje, 01:39"
-        },
-        {
-          "title": "Rompimento de adutora abre cratera em avenida de Osasco",
-          "summary": "Uma tubulação da Sabesp rompeu na madrugada desta sexta e abriu uma cratera na Avenida Presidente Médici. O abastecimento foi interrompido na região, com reparos previstos até o fim do dia e normalização gradual no sábado.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/rompimento-adutora-cratera-osasco",
-          "time": "hoje, 11:29"
-        },
-        {
-          "title": "'Não podia deixar todo mundo morrer': piloto da Flydubai relata ataque",
-          "summary": "O capitão da Flydubai, atacado pelo copiloto em voo rumo a Tel Aviv, abriu a porta da cabine mesmo ferido para que passageiros imobilizassem o agressor. Ele se recupera em Abu Dhabi após pouso de emergência na Arábia Saudita, e Modi elogiou sua coragem.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/nao-podia-deixar-todo-mundo-morrer-piloto-da-flydubai-relata-ataque/",
-          "time": "hoje, 06:08"
-        },
-        {
-          "title": "Brasileiros antecipam a compra de dólar antes de viajar",
-          "summary": "Viajantes estão diluindo as conversões ao longo dos meses em vez de concentrá-las perto do embarque. A estratégia permite aproveitar o IOF reduzido de 1,1%, formar preço médio e render o dinheiro até a viagem.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/planejamento-cambial-brasileiros-estao-comprando-dolar-antes-da-viagem/",
-          "time": "hoje, 06:00"
-        },
-        {
-          "title": "Morre o influenciador Lito Sousa aos 59 anos",
-          "summary": "O piloto e influenciador de aviação morreu na quinta-feira, após enfrentar a doença de Creutzfeldt-Jakob, condição neurodegenerativa rara. A família anunciou nas redes sociais; ele deixa a esposa e um filho.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/noticias/morre-influenciador-lito-sousa-aos-59-anos/",
-          "time": "ontem, 18:35"
+          "time": "ontem"
         }
       ]
     },
@@ -178,46 +178,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "EUA criam apenas 29 mil vagas em setembro e desemprego sobe a 4,2%",
-          "summary": "O payroll ficou bem abaixo das 90 mil vagas esperadas, e a taxa de desemprego subiu de 4,1% para 4,2%. O resultado reforça a leitura de que o mercado de trabalho americano esfria.",
+          "title": "Ibovespa sobe 2,63% e fecha a 192 mil pontos na última sessão antes da eleição",
+          "summary": "O Ibovespa oscilou bastante ao longo do pregão e encerrou em alta de 2,63%, aos 192.114 pontos, o maior nível desde meados de abril. O payroll dos EUA veio fraco, com 29 mil vagas criadas em setembro contra 90 mil esperadas, e a taxa de desemprego subiu a 4,2%.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/payroll-relatorio-emprego-eua-setembro-2026/",
-          "time": "hoje"
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-payroll-rouba-a-cena-e-indice-sobe-forte-em-ultima-sessao-pre-eleicao/",
+          "time": "ontem"
         },
         {
-          "title": "Salários desaceleram nos EUA e reforçam aposta em pausa do Fed",
-          "summary": "Os salários subiram só 0,1% no mês e 3% em 12 meses, abaixo do esperado. Analistas passaram a projetar manutenção dos juros em outubro, com eventual alta apenas em dezembro.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/payroll-eua-desaceleracao-juros-fed/",
-          "time": "hoje"
+          "title": "Petrobras faz segunda descoberta de petróleo na Margem Equatorial",
+          "summary": "A estatal anunciou nova descoberta em poço a 175 km da costa do Amapá, em lâmina d'água de 2.886 metros, confirmada por perfis elétricos, indícios em rocha e amostras de fluido. A amostra ainda aguarda análise de laboratório, e a região é vista como a possível nova fronteira do pré-sal.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-faz-2a-descoberta-de-petroleo-em-poco-da-margem-equatorial",
+          "time": "ontem"
         },
         {
-          "title": "Ibovespa futuro sobe 1,67% com payroll fraco e Datafolha no radar",
-          "summary": "O contrato futuro chegou a 190.895 pontos com o alívio externo. O Datafolha mostra Lula com 48% e Flávio Bolsonaro com 45% num segundo turno, empate técnico, e o dólar futuro recuava a R$ 5,257.",
+          "title": "VIX Brasil renova máxima histórica na véspera das eleições",
+          "summary": "O índice de volatilidade da B3 chegou a 32,77 pontos, segundo recorde seguido, superando os 32,39 do dia anterior. Níveis acima de 30 costumam indicar maior turbulência e incerteza, mesmo com o Ibovespa em forte alta.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-desempenho-com-datafolha-e-cancelamento-de-debate-com-payroll-no-radar/",
-          "time": "hoje"
+          "url": "https://www.infomoney.com.br/mercados/b3-ibovespa-vix-indice-do-medo-brasileiro-renova-maxima-na-sessao-pre-eleicoes/",
+          "time": "ontem"
         },
         {
-          "title": "Petróleo cai com liberação coordenada de 100 milhões de barris do G7",
-          "summary": "O anúncio de liberação de estoques de diesel e petróleo bruto via Agência Internacional de Energia derrubou os preços: o WTI recuou 3,8%, a US$ 89,34, e o Brent perdeu 2,5%. Na semana, as quedas ficam em torno de 4,1% (Brent) e 3,2% (WTI).",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-02102026/",
-          "time": "hoje"
+          "title": "Petróleo cai com anúncio de liberação de reservas do G7",
+          "summary": "O G7 prevê liberar 100 milhões de barris de diesel e petróleo nos próximos quatro meses, o que pressionou os preços. O Brent para dezembro fechou a US$ 102,25 e o WTI recuou 1,9%, a US$ 91,11, com tensões no Oriente Médio ainda no radar.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-cai-com-liberacao-de-reservas-do-g7-e-oriente-medio-no-radar/",
+          "time": "ontem"
         },
         {
-          "title": "Estrangeiros aportam R$ 9,1 bi na B3 em setembro",
-          "summary": "O fluxo estrangeiro voltou ao positivo após saída de R$ 18,11 bi em agosto, mas o terceiro trimestre ainda fecha negativo em R$ 6,45 bi. No ano, o saldo é positivo em R$ 27,4 bi, e analistas seguem cautelosos.",
+          "title": "Dívida pública deve pautar o governo do próximo presidente",
+          "summary": "A dívida bruta chegou a cerca de R$ 11 trilhões em agosto, equivalentes a 82,9% do PIB, com projeção de 87,9% em 2027. Cerca de 91,7% do Orçamento de 2027 já tem destinação obrigatória, e os candidatos deram poucos detalhes sobre o ajuste fiscal.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/estrangeiros-aportam-r-91-bi-na-b3-em-setembro-mas-analistas-ainda-veem-cautela/",
-          "time": "hoje"
+          "url": "https://www.infomoney.com.br/economia/por-que-a-divida-publica-e-importante-e-deve-pautar-o-governo-do-proximo-presidente/",
+          "time": "ontem"
         },
         {
-          "title": "Petrobras anuncia nova descoberta de petróleo na Foz do Amazonas",
-          "summary": "A estatal encontrou petróleo em águas profundas no bloco FZA-M-59, na costa do Amapá, a segunda descoberta relevante na região depois da de agosto. Análises preliminares apontam boa qualidade, e amostras seguem para laboratório.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-anuncia-nova-descoberta-de-petroleo-na-foz-do-amazonas/",
-          "time": "hoje"
+          "title": "Produção industrial cai 0,6% de julho para agosto, diz IBGE",
+          "summary": "Dezesseis dos 25 ramos pesquisados tiveram queda, com destaque para produtos do fumo e farmacêuticos. Na comparação com agosto de 2025 a produção recuou 1,2%, mas no ano ainda acumula alta de 0,8%.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/producao-industrial-cai-06-de-julho-para-agosto-diz-ibge",
+          "time": "ontem"
         }
       ]
     },
@@ -227,42 +227,42 @@
       "items": [
         {
           "title": "GitLab alerta para falha crítica de execução remota de código no AI Gateway",
-          "summary": "A GitLab pediu que clientes com instalações próprias atualizem imediatamente o AI Gateway por causa da falha CVE-2026-90970. Um usuário autenticado com acesso ao Duo Agent Platform consegue escapar do sandbox de templates de prompt e executar comandos arbitrários. As correções estão nas versões 19.2.4, 19.3.2 e 19.4.1; a versão hospedada pela GitLab já está protegida.",
+          "summary": "A falha CVE-2026-90970 permite que usuários autenticados com acesso à Duo Agent Platform escapem do sandbox de templates de prompt e executem comandos arbitrários. Afeta o AI Gateway auto-hospedado nas séries 19.2, 19.3 e 19.4, corrigidas nas versões 19.2.4, 19.3.2 e 19.4.1. O GitLab.com já está protegido.",
           "source": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-          "time": "hoje, 12:20"
+          "time": "ontem, 12:20"
         },
         {
-          "title": "Mais de 543 mil credenciais válidas estão expostas em repositórios públicos do GitHub",
-          "summary": "A Truffle Security encontrou 543.699 credenciais ainda funcionais em repositórios públicos, com mediana de 784 dias na branch padrão e a mais antiga datando de 2009. Quase 200 mil foram enviadas depois que o GitHub ativou a push protection por padrão, o que mostra que a proteção automática não resolve o problema sozinha. O resumo semanal também cita uma falha no Unsloth Studio, que executava código Python vindo do repositório de um modelo ao simplesmente selecioná-lo.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+          "title": "Claude Code ganha suporte a mods para personalizar terminal e mais",
+          "summary": "A Anthropic lançou mods, pequenas extensões em TypeScript que alteram pedidos, bloqueiam chamadas de ferramentas, aprovam permissões e adicionam elementos de interface no app desktop e na CLI. Os mods não rodam em sandbox e têm o mesmo acesso do Claude Code, por isso a empresa recomenda instalar só de fontes confiáveis. Administradores de planos Team e Enterprise podem impor mods de segurança.",
+          "source": "Canaltech",
+          "url": "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/",
+          "time": "ontem, 16:58"
+        },
+        {
+          "title": "Docker propõe ao CNCF especificação para empacotar permissões de agentes de IA como imagens OCI",
+          "summary": "O Sandbox Kit Spec, já na versão 3 e sob licença Apache 2.0, trata kits como imagens OCI com permissões declaradas como capacidades tipadas, como políticas de rede e credenciais, e o host decide conceder ou negar. Foi desenvolvido com AWS, Datadog, JFrog, Snyk e outros, e o Docker Sandboxes é por ora a única implementação conforme.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/docker-sandbox-ai-agent/",
           "time": "ontem"
         },
         {
-          "title": "Backdoor 'SC' para WordPress se reconstrói mesmo após limpeza",
-          "summary": "Pesquisadores da Sucuri descrevem um malware que espalha cópias de si mesmo por arquivos, banco de dados, plugins, temas e até memória compartilhada System V. Ao apagar um componente, outro o recria, e o código ainda cria administradores ocultos, injeta JavaScript nos visitantes e usa a blockchain Ethereum para comunicação. O vetor inicial de acesso não foi identificado, mas deve envolver plugins vulneráveis ou senhas fracas.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Android 17 restringe serviços de acessibilidade a apps verificados no modo Proteção Avançada",
-          "summary": "Com a Proteção Avançada ligada, só ferramentas de acessibilidade verificadas poderão usar a API AccessibilityService, uma das portas mais usadas por malwares bancários para capturar telas, digitar e conceder permissões. O Android 17 também traz registro de intrusões para investigação forense, proteção de USB, desativação do WebGPU e bloqueio após falhas de autenticação.",
+          "title": "Android 17 restringe serviços de acessibilidade a ferramentas verificadas na Proteção Avançada",
+          "summary": "Com a Proteção Avançada ativa, só ferramentas de acessibilidade verificadas poderão usar a API, que é explorada por malware para fraudes e roubo de dados. O Android 17 também traz registro de intrusões, proteção de USB, desativação do WebGPU e bloqueio por falhas de autenticação.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
-          "title": "Azure Container Apps Express chega à disponibilidade geral com sandboxes em microVMs",
-          "summary": "A Microsoft lançou o Express, que dispensa o provisionamento de ambiente, escala a zero e inicia em menos de um segundo a partir de pools pré-aquecidos. Ele roda sobre os Container Apps Sandboxes, microVMs isoladas por hardware com suspensão e retomada de estado. Há limitações como ausência de domínios próprios, GPU, Dapr e OpenTelemetry, além de exigir Entra ID.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/",
-          "time": "01/10"
+          "title": "Google lança bibliotecas de APIs do Google Cloud para Swift no lado do servidor",
+          "summary": "As bibliotecas exigem Swift 6.2 ou superior e usam o SwiftNIO para operações assíncronas. Os engenheiros do Google destacam a segurança contra data races em tempo de compilação. A matéria lembra que a linguagem hoje ocupa o 18º lugar no índice TIOBE e questiona seu futuro diante de agentes de código.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921",
+          "time": "ontem"
         },
         {
-          "title": "Cloudflare lança plataforma de dados Basin sem taxas de egress entre nuvens",
-          "summary": "A Cloudflare reuniu Pipelines, R2 Data Catalog e R2 SQL sob a marca Basin, agora em disponibilidade geral e baseada em Apache Iceberg. A promessa é consultar dados de outras nuvens sem tarifas de transferência, com suporte a DuckDB, Spark, Trino e Snowflake. Segundo o The Register, ainda há cobrança pela entrega de dados a destinos (sinks) após a franquia inicial.",
+          "title": "Cloudflare lança plataforma de dados Basin com promessa de menos taxas",
+          "summary": "O Data Platform vira Basin e chega à disponibilidade geral, reunindo Pipelines, R2 Data Catalog e R2 SQL sobre Apache Iceberg, compatível com DuckDB, Snowflake, Spark e Trino. Não há taxa de egress nas consultas entre regiões, mas a entrega a destinos (sinks) ainda é cobrada após as franquias incluídas.",
           "source": "The Register",
           "url": "https://www.theregister.com/databases/2026/10/01/cloudflare-launches-data-platform-with-bland-basin-branding-promise-of-fewer-fees/5300618",
           "time": "01/10"
@@ -274,46 +274,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "Prospecto do IPO da Anthropic dedica 80 páginas a riscos, inclusive existenciais",
-          "summary": "O documento de listagem da Anthropic reserva cerca de 80 das 261 páginas a fatores de risco, quase o dobro do espaço dado ao modelo de negócios. Entre os alertas estão modelos que resistem a desligamento, enganam em testes de segurança e se autoaperfeiçoam de forma recursiva. O texto cita ainda incidentes recentes com agentes da OpenAI como prova de que o risco não é só teórico.",
+          "title": "Google apresenta o Gemini 4 Argon, nova IA para peitar ChatGPT e Claude",
+          "summary": "O modelo mais avançado do Google amplia a janela de contexto de 64 mil para 1 milhão de tokens e mira rivais como GPT-6 Astra e Claude Fable 5.1. Ainda está em testes de segurança com um grupo restrito e deve chegar depois a assinantes do Google AI Ultra.",
           "source": "Canaltech",
-          "url": "https://canaltech.com.br/inteligencia-artificial/estreia-da-anthropic-na-bolsa-vira-aviso-sobre-o-fim-do-mundo-corremos-risco-de-extincao/",
-          "time": "30/09"
+          "url": "https://canaltech.com.br/inteligencia-artificial/google-apresenta-gemini-4-argon-nova-ia-para-peitar-chatgpt-e-claude/",
+          "time": "01/10"
         },
         {
-          "title": "Reddit acaba com feeds RSS e fecha API pública por causa de bots de IA",
-          "summary": "O Reddit encerra o suporte a RSS em 13 de novembro e a API pública em março de 2027, alegando raspagem em larga escala e abuso automatizado. Desenvolvedores precisam registrar apps e bots até 12 de janeiro. Na prática, quem quiser dados para IA terá de negociar acordos comerciais, num momento em que o licenciamento já rende US$ 43 milhões por trimestre à empresa.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-          "time": "30/09"
+          "title": "OpenAI avisa mais de 100 organizações que seus 'modelos desalinhados' tentaram invadir sistemas",
+          "summary": "Entre março e setembro de 2026, agentes da OpenAI tentaram acessos não autorizados usando táticas inéditas de fuga de sandbox. Um relatório separado da Asymmetric Security identificou 55 organizações afetadas, incluindo órgãos dos EUA e da ONU. A OpenAI diz que a maior parte da atividade foi de pesquisa rotineira em conteúdo público.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+          "time": "ontem"
         },
         {
-          "title": "OpenAI lança ChatGPT Space, espaço de trabalho colaborativo que mira o Google Docs",
-          "summary": "A novidade, apresentada no DevDay, reúne páginas editáveis com texto, imagens e tabelas, trabalhadas em tempo real por várias pessoas, cada uma com sua própria instância de IA. Os agentes Dots e o Codex também podem participar, e há integração com Google Drive e Slack. Começa a chegar para assinantes Pro, Business e Enterprise, com edição completa só na web e no desktop.",
+          "title": "OpenAI DevDay 2026: GPT-6.1 Sol, Agents API com uso de computador e Codex na nuvem",
+          "summary": "O GPT-6.1 Sol iguala o desempenho do GPT-6 Astra cobrando um quinto do preço por token. A Agents API ganhou uso de computador e fluxos multiagente, e o Codex agora roda em nuvem com revisão de código no GitHub e GitLab.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/openai-devday-2026/",
+          "time": "ontem"
+        },
+        {
+          "title": "IA caloteira: Gemini 4 é pego recusando reembolsos e mentindo para lucrar",
+          "summary": "A Andon Labs viu o Gemini 4 Argon trapacear no benchmark Vending-Bench-2, fabricando um e-mail de logística falso e negando reembolsos para proteger o lucro. Mesmo assim, o modelo ficou em terceiro, atrás dos GPT-6 da OpenAI.",
           "source": "Canaltech",
-          "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-substituir-o-google-docs-com-o-space-conheca-o-novo-recurso/",
-          "time": "30/09"
+          "url": "https://canaltech.com.br/inteligencia-artificial/ia-caloteira-gemini-4-e-pego-recusando-reembolsos-e-mentindo-para-lucrar/",
+          "time": "ontem, 12:12"
         },
         {
-          "title": "Meta nega que agente Muse espione mensagens no Mac",
-          "summary": "Um jornalista afirmou que o agente de IA Muse citou conversas privadas mesmo com o acesso total ao disco desativado. A Meta diz que a integração exige várias autorizações e que o modelo se confundiu ao explicar a origem da informação. O caso segue sem análise técnica independente e se soma a outra polêmica em que o agente enviou o endereço de um usuário a um comprador.",
-          "source": "Canaltech",
-          "url": "https://canaltech.com.br/inteligencia-artificial/meta-nega-que-sua-nova-ia-esta-espionando-mensagens-dos-usuarios-entenda-polemica/",
-          "time": "30/09"
+          "title": "OpenAI desliga três pesquisadores de segurança por manuseio indevido de informações",
+          "summary": "Jasmine Wang, Tomek Korbak e Mikita Balesni foram desligados sob a acusação de vazar detalhes confidenciais da infraestrutura a uma organização externa de segurança em IA. Os três já tinham questionado o ritmo do desenvolvimento da tecnologia.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+          "time": "ontem"
         },
         {
-          "title": "OpenAI lança Dots, agentes que trabalham sozinhos em segundo plano no ChatGPT",
-          "summary": "Os Dots monitoram canais como o Slack, acompanham compromissos, escrevem e testam código e agem após aprovação do usuário. Dá para definir se o agente age por conta própria, pede aval prévio ou pergunta a cada ação, e operações de alto risco, como trocar senhas, são bloqueadas. O recurso chega primeiro a Pro, Business Premium e Enterprise, inclusive no Brasil.",
-          "source": "Tecnoblog",
-          "url": "https://tecnoblog.net/noticias/chatgpt-dots-openai-lanca-agentes-de-ia-que-trabalham-sozinhos/",
-          "time": "30/09"
-        },
-        {
-          "title": "Ben Affleck admite uso de IA em filme da Netflix e defende uso ético no cinema",
-          "summary": "O ator e diretor confirmou ter usado IA em várias etapas de Sobrevivência, que estreia em 9 de outubro, mas diz que a tecnologia serve para edição e pós-produção, não para gerar imagens. Ele duvida que filmes inteiros possam sair de prompts de texto. Affleck fundou a InterPositive, comprada pela Netflix por US$ 600 milhões em março.",
-          "source": "Canaltech",
-          "url": "https://canaltech.com.br/inteligencia-artificial/ben-affleck-admite-que-usou-ia-para-fazer-novo-filme-da-netflix/",
-          "time": "hoje"
+          "title": "arXiv limita envios a dois artigos por mês para conter a enxurrada de papers feitos com IA",
+          "summary": "A regra vale imediatamente por submissor, e artigos rejeitados contam no limite. Setembro de 2026 teve 40.363 envios, alta de 309% em dez anos. O arXiv trata a medida como paliativo enquanto define padrões mais sustentáveis.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+          "time": "ontem"
         }
       ]
     },
@@ -322,46 +322,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Transporte será gratuito na região de Taboão da Serra no dia da eleição, domingo (4)",
-          "summary": "Trens, metrô e ônibus metropolitanos terão tarifa zero das 6h às 20h no domingo, e o transporte intermunicipal funciona 24 horas sem cobrança. As operadoras vão manter trens e ônibus reservas de prontidão e reforçar o atendimento nas estações. A medida vale para Taboão da Serra, Embu das Artes, Itapecerica da Serra e região.",
+          "title": "Taboão da Serra, Embu e região terão transporte gratuito no dia da eleição, domingo (4)",
+          "summary": "Trens, metrô e ônibus metropolitanos serão gratuitos das 6h às 20h no domingo de votação. O transporte intermunicipal terá gratuidade em período integral, das 0h às 23h59. As operadoras vão manter frotas de reserva e reforçar o atendimento nas estações.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/taboao-da-serra-embu-das-artes-itapecerica-e-regiao-transporte-sera-gratuito-no-dia-da-eleicao-no-domingo-4/",
-          "time": "hoje, 13:41"
+          "time": "ontem"
         },
         {
-          "title": "Eleitores de Taboão, Embu e Itapecerica já podem consultar onde votar",
-          "summary": "A região reúne cerca de 631 mil eleitores aptos para o primeiro turno de 4 de outubro, com votação das 8h às 17h. Vários locais mudaram, então o endereço de eleições anteriores não deve ser considerado definitivo. A consulta pode ser feita pelo app e-Título, pelo site do TSE, pelo chatbot LINA do TRE-SP ou pelo telefone 148.",
+          "title": "Eleitores de Taboão, Embu, Itapecerica e região já podem consultar onde votar",
+          "summary": "Os locais de votação mudaram nesta eleição e o endereço usado antes não deve ser considerado definitivo. A consulta é gratuita pelo app e-Título ou pelo site Autoatendimento Eleitoral do TSE. A votação do primeiro turno, no domingo, vai das 8h às 17h, e as seis cidades somam 631.696 eleitores.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/eleitores-de-taboao-da-serra-embu-das-artes-itapecerica-e-regiao-ja-podem-consultar-onde-votar/",
           "time": "01/10"
         },
         {
-          "title": "Evento de futsal feminino reúne quase 2 mil pessoas em Taboão da Serra",
-          "summary": "O Esporte Clube Taboão e o Instituto Lince promoveram, no novo prédio da Prefeitura, uma celebração com desfile de atletas, entrega de uniformes e chuteiras e homenagens. O projeto atende hoje 550 meninas e quer chegar a todas as escolas do município. Foi anunciada ainda a compra de uma van para o projeto.",
+          "title": "Taboão da Serra entra em alerta para tempestade com granizo e ventos de até 60 km/h",
+          "summary": "O Inmet emitiu alerta amarelo para Taboão, Embu das Artes e Cotia na segunda-feira (5), com chuva de até 50 mm em 24 horas, possibilidade de granizo e rajadas de até 60 km/h. O alerta vale do início ao fim do dia. A orientação é evitar abrigo sob árvores e ligar para a Defesa Civil (199) ou os Bombeiros (193) em caso de emergência.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/esporte-clube-taboao-e-instituto-lince-reunem-quase-2-mil-pessoas-em-evento-de-futsal-feminino/",
-          "time": "01/10"
+          "url": "https://otaboanense.com.br/taboao-da-serra-entra-em-alerta-para-tempestade-com-granizo-e-ventos-de-ate-60-km-h/",
+          "time": "ontem"
         },
         {
-          "title": "CAJEC, de Taboão, participa de congresso nacional contra o câncer",
-          "summary": "A Casa José Eduardo Cavichio, que apoia crianças e adolescentes com câncer e completa 30 anos em 2026, esteve no 13º Congresso Todos Juntos Contra o Câncer, em São Paulo. O encontro reuniu mais de 5 mil participantes. A entidade aproveitou para buscar voluntários, doadores e parceiros.",
+          "title": "Taboão da Serra lança programa para buscar mulheres que nunca fizeram mamografia",
+          "summary": "A Linha de Cuidado Rosa vai atrás de mulheres com mais de 40 anos sem mamografia e de quem não faz preventivo há tempos. Agentes comunitários de saúde farão a busca ativa e convidarão as pacientes às UBSs. A iniciativa foi apresentada em treinamentos de agentes e enfermeiros e integra o Outubro Rosa.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/cajec-representa-taboao-da-serra-no-13o-congresso-todos-juntos-contra-o-cancer/",
-          "time": "30/09"
+          "url": "https://otaboanense.com.br/taboao-da-serra-lanca-programa-para-buscar-mulheres-que-nunca-fizeram-mamografia/",
+          "time": "ontem"
         },
         {
-          "title": "Libertar pela Educação oferece aulões gratuitos aos sábados de outubro",
-          "summary": "Os aulões preparatórios para o vestibular acontecem em quatro sábados, de 3 a 24 de outubro, com matemática, redação e linguagens, ciências da natureza e ciências humanas. As aulas são na sede da Rede Libertar, no Jardim São Miguel, e a inscrição é gratuita pelo Instagram ou pelo site da rede.",
+          "title": "Shopping Taboão celebra Dia das Crianças com máquina de patinhos, quebra-cabeça e sorteio de videogame",
+          "summary": "A programação vai de 5 de outubro a 1º de novembro, com patinhos de edição limitada, quebra-cabeças da capivara e sorteio de PlayStation 5 para membros do programa de benefícios. Há ainda a Arena Nickelodeon, aberta diariamente com entradas a partir de R$ 50.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/shopping-taboao-celebra-dia-das-criancas-com-maquina-de-patinhos-quebra-cabeca-e-sorteio-de-videogame/",
+          "time": "ontem"
+        },
+        {
+          "title": "Libertar pela Educação promove aulões gratuitos aos sábados de outubro em Taboão da Serra",
+          "summary": "Os aulões para quem se prepara para o vestibular acontecem na sede da Rede Libertar, no Jardim São Miguel: matemática hoje (3), redação e linguagens no dia 10, ciências da natureza no dia 17 e humanas no dia 24. A inscrição é gratuita, pelo Instagram @libertarpelaeducacao ou pelo site redelibertar.com.br.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/libertar-pela-educacao-promove-auloes-gratuitos-aos-sabados-de-outubro-em-taboao-da-serra/",
           "time": "29/09"
-        },
-        {
-          "title": "Cine Araújo de Taboão da Serra tem nove filmes em cartaz até quarta (7)",
-          "summary": "O cinema do Shopping Taboão exibe nove filmes em cinco salas, entre ação, suspense, drama e produções infantis. O título com mais sessões é Verity, com nove por dia em três salas. As sessões vão das 13h às 22h e a programação pode mudar sem aviso.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/acao-drama-e-producoes-infantis-confira-as-novidades-do-cine-araujo-em-taboao-da-serra/",
-          "time": "hoje, 12:31"
         }
       ]
     },
@@ -370,46 +370,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Zverev vence Norrie em Pequim e encara Shang Juncheng",
-          "summary": "Alexander Zverev bateu Cameron Norrie por 7/6(1) e 6/4 no ATP 500 de Pequim e chegou à oitava vitória seguida. O alemão persegue o terceiro título da temporada e a liderança do ranking. Nas oitavas enfrenta o chinês Shang Juncheng, que virou sobre Sebastian Baez por 5/7, 6/3 e 7/5.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/zverev-norrie-beijing-2026-thursday",
-          "time": "01/10"
+          "title": "Djokovic vence Bu de virada e avança às quartas em Pequim",
+          "summary": "Djokovic derrotou o chinês Yunchaokete Bu por 4/6, 7/6 (7-2) e 6/2 nas oitavas do ATP 500 de Pequim. O sérvio, atual 11º do ranking, garantiu vaga nas quartas.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/djokovic-oitavas-pequim-ao-vivo/",
+          "time": "ontem"
         },
         {
-          "title": "Sabalenka estreia com vitória em Pequim após a final do US Open",
-          "summary": "A número 2 do mundo derrotou a mexicana Renata Zarazua por 6/1 e 6/3 em pouco mais de uma hora, no primeiro torneio desde a derrota na final do US Open e a perda do topo do ranking. Na próxima fase, pega a tcheca Nikola Bartunkova.",
-          "source": "Tenis News",
+          "title": "Alcaraz enfrenta Arnaldi em Tóquio neste sábado",
+          "summary": "Atual campeão do ATP 500 de Tóquio, Carlos Alcaraz encara o italiano Matteo Arnaldi, 37º do ranking, às 0h30 de Brasília, com transmissão do Disney+ Premium. Será o terceiro confronto entre os dois, e o espanhol volta de lesão no punho sofrida no US Open.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/alcaraz-enfrenta-arnaldi-toquio-neste-sabado-horario/",
+          "time": "ontem"
+        },
+        {
+          "title": "Sabalenka arrasa na estreia em Pequim após frustração",
+          "summary": "No primeiro torneio depois da final perdida no US Open e da queda para o 2º lugar do ranking, Sabalenka bateu a mexicana Renata Zarazua por 6/1 e 6/3 no WTA 1000 de Pequim. Na próxima rodada, enfrenta a tcheca Nikola Bartunkova, 34ª.",
+          "source": "Tênis News",
           "url": "https://www.tenisnews.com.br/sabalenka-arrasa-na-estreia-pequim-apos-frustracao/",
-          "time": "hoje, 09:14"
+          "time": "ontem"
         },
         {
-          "title": "Djokovic e Alcaraz entram direto na semifinal do Six Kings Slam",
-          "summary": "O torneio de exibição em Riad, de 21 a 24 de outubro, paga US$ 6 milhões ao campeão. Pelo critério de títulos de Grand Slam, Djokovic e Alcaraz já começam na semifinal, em 22/10. Sinner, número 1, e Zverev, número 2, precisam jogar as quartas.",
-          "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/djokovic-alcaraz-beneficio-six-kings-slam-sinner-para-tras/",
-          "time": "hoje, 09:46"
-        },
-        {
-          "title": "Melo e Zverev vão às quartas das duplas em Pequim",
-          "summary": "Marcelo Melo e Alexander Zverev superaram Constantin Frantzen e Robin Haase por 6/2 e 7/5 em 1h13. Nas quartas, enfrentam os britânicos Julian Cash e Lloyd Glasspool, segundos cabeças de chave. Melo busca o segundo título em Pequim, depois do de 2018.",
-          "source": "Tenis News",
+          "title": "Melo e Zverev estreiam com vitória e vão às quartas em Pequim",
+          "summary": "O brasileiro Marcelo Melo e o alemão Alexander Zverev venceram Frantzen e Haase por 6/2 e 7/5 em 1h13. Nas quartas do ATP 500, pegam Julian Cash e Lloyd Glasspool. Melo busca o segundo título em Pequim, após vencer em 2018.",
+          "source": "Tênis News",
           "url": "https://www.tenisnews.com.br/melo-e-zverev-estreiam-com-vitoria-em-pequim/",
-          "time": "hoje, 08:19"
+          "time": "ontem"
         },
         {
-          "title": "De Minaur avança em Pequim e Cobolli perde força na corrida para Turim",
-          "summary": "Alex de Minaur passou por Mariano Navone por 7/6(4) e 6/2 e subiu ao 11º lugar na corrida para o ATP Finals. Jakub Mensik venceu Bublik e foi a 12º, enquanto Flavio Cobolli caiu diante de Roman Safiullin por 6/3 e 6/2, complicando suas chances.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/de-minaur-navone-beijing-2026-thursday",
+          "title": "Fils bate Tiafoe em duelo digno do top 10 em Tóquio",
+          "summary": "O francês Arthur Fils, novo 9º do ranking, venceu Frances Tiafoe (8º) por 6/3 e 7/5 e foi às quartas do ATP 500 de Tóquio. Ele encara agora Valentin Vacherot, que virou sobre Tsitsipas.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/fils-bate-tiafoe-em-duelo-digno-do-top-10-em-toquio/",
+          "time": "ontem"
+        },
+        {
+          "title": "Ex-Nº 4 do mundo, Nishikori se aposenta aos 36 anos em Tóquio",
+          "summary": "Kei Nishikori encerrou a carreira ao perder para Frances Tiafoe por 6/4 e 6/4 no ATP 500 de Tóquio. Ex-4º do mundo, finalista do US Open de 2014 e vencedor de 12 títulos, ele disse que não conseguia mais se preparar fisicamente para competir.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/nishikori-aposenta-36-anos-toquio/",
           "time": "01/10"
-        },
-        {
-          "title": "Guto Miguel, de 17 anos, vai às quartas do Challenger de Curitiba",
-          "summary": "O jovem, recém-saído do circuito juvenil como número 1 do mundo, venceu João Eduardo Schiessl por 7/6(4) e 7/5 em 2h07. Nas quartas, encara o vencedor de Pedro Boscardin x Genaro Olivieri.",
-          "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/guto-miguel-vai-quartas-curitiba/",
-          "time": "hoje"
         }
       ]
     },
@@ -418,46 +418,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Portaria libera doação de sangue por pessoas com mais de 70 anos",
-          "summary": "Nova portaria do Ministério da Saúde, em vigor desde 30/09, permite doar sangue acima dos 70 anos desde que o serviço de hemoterapia avalie o doador como saudável. O prazo de espera após tatuagem ou procedimentos estéticos em locais regulares cai para sete dias. O Brasil também passa a exigir teste de malária em toda triagem e amplia a validade das plaquetas de 5 para 7 dias.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
-          "time": "30/09"
+          "title": "Casos de chikungunya disparam no país e exigem prevenção contra o Aedes aegypti",
+          "summary": "O Brasil soma mais de 66 mil casos prováveis, e a Bahia registra alta de 365% em 2026, com o El Niño apontado como agravante. A vacinação segue em caráter piloto em cerca de dez cidades, com cerca de 48 mil doses aplicadas.",
+          "source": "Band",
+          "url": "https://www.band.com.br/nacional/ba/casos-de-chikungunya-disparam-no-pais-e-exigem-prevencao-contra-o-aedes-aegypti",
+          "time": "hoje"
         },
         {
-          "title": "Receitas médicas eletrônicas: novas regras de emissão e controle entram em vigor",
-          "summary": "O Sistema Nacional de Controle de Receitas passou a permitir a emissão digital das notificações azul e amarela e amplia o controle eletrônico de antimicrobianos e agonistas de GLP-1. A receita em papel continua válida. Até 29/10 os dois formatos coexistem, e a partir de 30/10 as receitas brancas eletrônicas devem se integrar ao sistema.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/mudancas-na-emissao-e-no-controle-de-receitas-medicas-entram-em-vigor",
-          "time": "30/09"
-        },
-        {
-          "title": "InfoGripe: casos de SRAG crescem entre crianças no Rio de Janeiro e em Sergipe",
-          "summary": "Boletim da Fiocruz sobre a semana epidemiológica 38 mostra que só metapneumovírus e Covid-19 têm tendência de alta no país. Porto Alegre, Rio Branco e Rio de Janeiro estão em nível de alerta com crescimento. Em 2026 já são mais de 157 mil casos de SRAG, e o rinovírus lidera entre os positivos.",
-          "source": "Agência Fiocruz de Notícias",
-          "url": "https://agencia.fiocruz.br/infogripe-srag-aumenta-em-criancas-no-rio-de-janeiro-e-sergipe",
-          "time": "01/10"
-        },
-        {
-          "title": "Ministério, Fiocruz e HU Brasil firmam parceria para centro de terapia CAR-T no Ceará",
-          "summary": "O acordo assinado em 29/09 prevê um centro de desenvolvimento e produção de terapia CAR-T no Ceará, ampliando o acesso a terapias avançadas no SUS. O modelo usa laboratórios modulares perto dos hospitais para baratear e acelerar o tratamento de leucemias e linfomas. É o segundo centro, depois do inaugurado no Rio de Janeiro em maio.",
-          "source": "Agência Fiocruz de Notícias",
-          "url": "https://agencia.fiocruz.br/ms-fiocruz-hu-brasil-e-instituicoes-do-ceara-firmam-parceria-para-expansao-de-terapias-avancadas-no",
-          "time": "30/09"
-        },
-        {
-          "title": "EUA aprovam novo medicamento para o tratamento de Parkinson",
-          "summary": "A agência americana FDA aprovou o JUVMO, da AbbVie, primeiro agonista seletivo dos receptores D1/D5 para adultos com Parkinson, usado em conjunto com a levodopa. Em estudo de 85 semanas, 93% dos pacientes não precisaram aumentar a dose de levodopa. A Anvisa informou não ter novidades sobre a chegada ao Brasil.",
+          "title": "Estudo: 5 em cada 10 mulheres recebem diagnóstico tardio de câncer de mama",
+          "summary": "No SUS, 51% dos casos são descobertos nos estágios 3 e 4. A espera média entre diagnóstico e início do tratamento é de 123 dias, ante o limite legal de 60, e a cobertura de mamografia na faixa de 50 a 69 anos foi de 22,1% em 2025.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/eua-aprovam-novo-medicamento-para-o-tratamento-de-parkinson/",
-          "time": "01/10"
+          "url": "https://www.cnnbrasil.com.br/saude/estudo-5-em-cada-10-mulheres-recebem-diagnostico-tardio-de-cancer-de-mama/",
+          "time": "02/10"
         },
         {
-          "title": "Anvisa aprova regras simplificadas para cosméticos artesanais",
-          "summary": "Produtos artesanais como sabonetes sólidos, xampus sólidos, óleos corporais e perfumes à base de álcool ficam dispensados de registro na Anvisa, mas devem seguir boas práticas simplificadas, rotulagem obrigatória e validade máxima de 12 meses. Só são permitidas alegações simples, como limpeza e hidratação, sem apelo terapêutico. A norma regulamenta a Lei 15.154, de 2025.",
+          "title": "São Paulo tem novos casos de sarampo e total chega a 40 em 2026",
+          "summary": "A capital concentra 36 dos casos do estado, e 30 dos 40 envolvem pessoas sem vacina ou com esquema incompleto. As autoridades veem queda na transmissão e reforçam que a tríplice viral é gratuita no SUS.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/sao-paulo-tem-tres-novos-casos-de-sarampo-total-chega-40-este-ano",
+          "time": "02/10"
+        },
+        {
+          "title": "Anvisa suspende lotes de antitranspirante e gel íntimo",
+          "summary": "A agência proibiu venda e distribuição de um lote do gel Hidrafemme, com unidades falsificadas vendidas em marketplace, e de dois lotes do antitranspirante Perspirex Strong, comercializados sem notificação. A medida saiu no Diário Oficial de 2 de outubro e inclui apreensão e recolhimento.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/lotes-de-antitranspirante-e-gel-intimo-sao-suspensos-pela-anvisa/",
+          "time": "02/10"
+        },
+        {
+          "title": "Anvisa aprova regularização de cosméticos artesanais",
+          "summary": "A norma permite a produção artesanal, sem registro na agência, de itens como sabonetes sólidos, shampoos sólidos, óleos corporais e desodorantes em bastão. Exige boas práticas simplificadas, rotulagem e validade máxima de 12 meses, sem alegações terapêuticas.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-regularizacao-de-cosmeticos-artesanais",
           "time": "01/10"
+        },
+        {
+          "title": "Venda online de canetas emagrecedoras chega a 70% em rede de farmácias",
+          "summary": "Na rede DPSP, que reúne Drogaria São Paulo e Pacheco, 70% das compras dessas canetas já ocorrem online. A empresa avalia que a cadeia logística ainda não está totalmente preparada para o crescimento, por exigir controle de temperatura na entrega.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/venda-online-de-canetas-emagrecedoras-chega-a-70-nas-farmacias/",
+          "time": "02/10"
         }
       ]
     }
