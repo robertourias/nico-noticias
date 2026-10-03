@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-03T08:05:00-03:00",
+  "updatedAt": "2026-10-03T13:57:10-03:00",
   "markets": {
-    "asOf": "Fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) às 08:00",
+    "asOf": "Fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) às 13:55",
     "items": [
       {
         "id": "ibov",
@@ -54,20 +54,20 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 84.533",
-        "change": -0.33
+        "value": "US$ 84.784",
+        "change": 1.89
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.744",
-        "change": 1.49
+        "value": "US$ 2.679",
+        "change": 2.12
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 119,40",
-        "change": -1.75
+        "value": "US$ 119,21",
+        "change": 2.19
       }
     ]
   },
@@ -87,6 +87,20 @@
       "id": "noticias",
       "label": "Notícias",
       "items": [
+        {
+          "title": "Lula diz confiar em vitória no 1º turno: \"Biografia contra negatividade\"",
+          "summary": "Em declaração às vésperas da eleição, Lula afirmou confiar na vitória já no primeiro turno e resumiu a campanha como uma disputa entre biografia e negatividade.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/lula-diz-confiar-em-vitoria-no-1o-turno-biografia-contra-negatividade",
+          "time": "hoje"
+        },
+        {
+          "title": "PoderData/AYA: Lula tem 45% dos votos válidos no 1º turno; Flávio, 43%",
+          "summary": "Pesquisa PoderData/AYA divulgada na véspera da votação aponta Lula com 45% dos votos válidos e Flávio com 43%. O levantamento reforça o cenário de disputa apertada na reta final do primeiro turno.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-lula-tem-45-dos-votos-validos-no-1o-turno-flavio-43/",
+          "time": "hoje"
+        },
         {
           "title": "Datafolha: Lula lidera em MG e PE, Flávio em RJ e DF; empate em SP",
           "summary": "Pesquisa Datafolha divulgada na sexta mostra Lula à frente em Minas (45% a 38%) e Pernambuco (65% a 26%). Flávio Bolsonaro lidera no Rio (48% a 40%) e no Distrito Federal (46% a 36%). Em São Paulo há empate técnico, com Flávio em 41% e Lula em 40%.",
@@ -156,20 +170,6 @@
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/sao-paulo/datafolha-lula-40-e-flavio-41-estao-empatado-tecnicamente-em-sp",
           "time": "ontem, 17:55"
-        },
-        {
-          "title": "Governo instala grades de proteção no Palácio do Planalto antes das eleições",
-          "summary": "O Gabinete de Segurança Institucional colocou grades ao redor do Planalto como medida preventiva diante de possíveis manifestações. A Esplanada dos Ministérios também será fechada no dia da votação para reforçar a segurança.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/governo-instala-grades-de-protecao-no-palacio-do-planalto-para-as-eleicoes",
-          "time": "ontem"
-        },
-        {
-          "title": "Lula chama juros do cartão de 'crime' e diz que quer limitar número de cartões",
-          "summary": "Lula criticou os juros do cartão de crédito, que chegam a cerca de 449% ao ano, e disse que o governo negocia com o Banco Central restringir a concessão a um cartão por pessoa. O objetivo é conter o endividamento das famílias.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/lula-chama-juros-do-cartao-de-crime-e-diz-que-quer-limitar-numero-de-cartoes/",
-          "time": "ontem"
         }
       ]
     },
@@ -177,6 +177,13 @@
       "id": "economia",
       "label": "Economia",
       "items": [
+        {
+          "title": "Trump nega banir exportações de diesel e cita eleições no Brasil",
+          "summary": "O presidente dos EUA negou que pretenda proibir as exportações de diesel americano e mencionou as eleições brasileiras ao comentar o tema, em meio ao anúncio do G7 sobre liberação de barris de reserva.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-nega-banir-exportacoes-de-diesel-e-cita-eleicoes-no-brasil/",
+          "time": "ontem"
+        },
         {
           "title": "Ibovespa sobe 2,63% e fecha a 192 mil pontos na última sessão antes da eleição",
           "summary": "O Ibovespa oscilou bastante ao longo do pregão e encerrou em alta de 2,63%, aos 192.114 pontos, o maior nível desde meados de abril. O payroll dos EUA veio fraco, com 29 mil vagas criadas em setembro contra 90 mil esperadas, e a taxa de desemprego subiu a 4,2%.",
@@ -210,13 +217,6 @@
           "summary": "A dívida bruta chegou a cerca de R$ 11 trilhões em agosto, equivalentes a 82,9% do PIB, com projeção de 87,9% em 2027. Cerca de 91,7% do Orçamento de 2027 já tem destinação obrigatória, e os candidatos deram poucos detalhes sobre o ajuste fiscal.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/economia/por-que-a-divida-publica-e-importante-e-deve-pautar-o-governo-do-proximo-presidente/",
-          "time": "ontem"
-        },
-        {
-          "title": "Produção industrial cai 0,6% de julho para agosto, diz IBGE",
-          "summary": "Dezesseis dos 25 ramos pesquisados tiveram queda, com destaque para produtos do fumo e farmacêuticos. Na comparação com agosto de 2025 a produção recuou 1,2%, mas no ano ainda acumula alta de 0,8%.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/producao-industrial-cai-06-de-julho-para-agosto-diz-ibge",
           "time": "ontem"
         }
       ]
@@ -274,6 +274,13 @@
       "label": "IA",
       "items": [
         {
+          "title": "McDonald's adota IA para cobrar preço dinâmico nos lanches",
+          "summary": "A rede de fast food passa a usar inteligência artificial para variar o preço das refeições, o que pode deixar itens como o Big Mac mais caros em determinados momentos.",
+          "source": "Canaltech",
+          "url": "https://canaltech.com.br/inteligencia-artificial/big-mac-mais-caro-mcdonalds-adota-ia-para-cobrar-preco-dinamico-dos-lanches/",
+          "time": "ontem"
+        },
+        {
           "title": "Google apresenta o Gemini 4 Argon, nova IA para peitar ChatGPT e Claude",
           "summary": "O modelo mais avançado do Google amplia a janela de contexto de 64 mil para 1 milhão de tokens e mira rivais como GPT-6 Astra e Claude Fable 5.1. Ainda está em testes de segurança com um grupo restrito e deve chegar depois a assinantes do Google AI Ultra.",
           "source": "Canaltech",
@@ -306,13 +313,6 @@
           "summary": "Jasmine Wang, Tomek Korbak e Mikita Balesni foram desligados sob a acusação de vazar detalhes confidenciais da infraestrutura a uma organização externa de segurança em IA. Os três já tinham questionado o ritmo do desenvolvimento da tecnologia.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-          "time": "ontem"
-        },
-        {
-          "title": "arXiv limita envios a dois artigos por mês para conter a enxurrada de papers feitos com IA",
-          "summary": "A regra vale imediatamente por submissor, e artigos rejeitados contam no limite. Setembro de 2026 teve 40.363 envios, alta de 309% em dez anos. O arXiv trata a medida como paliativo enquanto define padrões mais sustentáveis.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
           "time": "ontem"
         }
       ]
