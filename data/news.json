@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T08:00:00-03:00",
+  "updatedAt": "2026-10-04T13:58:00-03:00",
   "markets": {
-    "asOf": "Bolsas e câmbio: fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) de 03/10",
+    "asOf": "Bolsas e câmbio: fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) às 20:58 de 03/10",
     "items": [
       {
         "id": "ibov",
@@ -54,20 +54,20 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 84.802",
-        "change": -2.17
+        "value": "US$ 84.835",
+        "change": 0.27
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.679",
-        "change": -2.6
+        "value": "US$ 2.694",
+        "change": 0.54
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 119,46",
-        "change": -2.41
+        "value": "US$ 120,83",
+        "change": 1.39
       }
     ]
   },
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Pesquisa CNT/MDA: Lula tem 47,8% dos votos válidos e Flávio, 42,1%",
-          "summary": "Levantamento divulgado no sábado ouviu 2.002 eleitores entre 29/9 e 2/10, com margem de erro de 2,2 pontos. Augusto Cury aparece com 3,6% e Ronaldo Caiado com 3,4%.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/cnt-mda-lula-tem-478-dos-votos-validos-no-1o-turno-flavio-421/",
-          "time": "03/10"
-        },
-        {
-          "title": "Especialista aponta 'número mágico' de 5 pontos entre Lula e Flávio",
-          "summary": "Segundo o analista Bruno Soller, da Real Time Big Data, uma diferença abaixo de 5 pontos no 1º turno favorece Flávio num eventual 2º turno; acima disso, Lula. Ele não descarta que Flávio termine à frente.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/5-pontos-especialista-explica-numero-magico-decisivo-entre-lula-e-flavio/",
-          "time": "03/10"
-        },
-        {
-          "title": "Rússia pede que estrangeiros e diplomatas deixem Kiev",
-          "summary": "O Ministério das Relações Exteriores russo avisou que seguirá atacando a capital ucraniana e outras cidades, em resposta a ações atribuídas a Kiev. Os bombardeios recentes atingiram uma ponte sobre o Dnipro e afetam cerca de 3 milhões de moradores.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/russia-pede-que-estrangeiros-e-diplomatas-deixem-kiev-em-meio-a-ataques/",
-          "time": "03/10"
-        },
-        {
-          "title": "Eleições podem acabar no 1º turno em 14 estados",
-          "summary": "Pesquisas Quaest e Datafolha indicam governadores definidos já neste domingo em 14 estados. Bahia, Ceará e Pernambuco têm disputas empatadas, e Minas e Rio tendem ao 2º turno.",
+          "title": "Datafolha na véspera: Lula tem 45% dos votos válidos e Flávio, 42%",
+          "summary": "A pesquisa divulgada no sábado mostra o petista três pontos à frente do senador do PL. Flávio ganhou dois pontos em relação ao levantamento anterior, enquanto Lula ficou estável. Os dois somam 87% dos votos válidos.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/eleicoes-podem-acabar-no-1o-turno-em-14-estados-veja-onde-disputa-segue-aberta/",
-          "time": "03/10"
+          "url": "https://www.infomoney.com.br/politica/datafolha-lula-tem-45-dos-votos-validos-e-flavio-42-na-vespera-da-eleicao/",
+          "time": "ontem, 18:39"
         },
         {
-          "title": "Mais de 158 milhões de brasileiros podem votar neste domingo",
-          "summary": "A votação vai das 8h às 17h, com 499 mil urnas e 26,5 mil militares no apoio à segurança. Lula, que busca a reeleição, enfrenta Flávio Bolsonaro, já que Jair Bolsonaro está inelegível.",
+          "title": "Quaest: Lula tem 46% e Flávio 45% dos votos válidos na véspera da eleição",
+          "summary": "O levantamento aponta diferença de apenas um ponto entre os dois líderes, que concentram 91% das intenções de voto. A reta final foi marcada por medidas econômicas e pela disputa do voto útil.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/quaest-lula-tem-46-dos-votos-validos-e-flavio-45-na-vespera-da-eleicao/",
+          "time": "ontem, 19:28"
+        },
+        {
+          "title": "Kassio diz que urnas eletrônicas são seguras, transparentes e auditáveis",
+          "summary": "Em pronunciamento em rede nacional na noite de sábado, o presidente do TSE defendeu o sistema de votação e orientou os eleitores. Pediu cuidado com desinformação e recomendou consultar apenas canais oficiais da Justiça Eleitoral.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/brasileiros-vao-as-urnas-para-decidir-futuro-do-pais-1o-turno",
-          "time": "hoje, 04:30"
+          "url": "https://www.metropoles.com/brasil/kassio-diz-que-urnas-eletronicas-sao-seguras-transparentes-e-auditaveis",
+          "time": "ontem, 20:35"
         },
         {
-          "title": "Celina Leão lidera pesquisas no DF no 'Dia D'",
-          "summary": "Datafolha, Quaest, Igape/Record e Exata OP mostram a governadora entre 53% e 55% dos votos válidos. Leandro Grass (PT) aparece em segundo, com 26% a 32%.",
+          "title": "Lula leva 6x1 à reta final, enquanto Flávio critica STF em último ato antes do 1º turno",
+          "summary": "Lula fez o encerramento em São Paulo defendendo o fim da escala 6x1 e a proibição das bets, de olho na redução da abstenção. Flávio percorreu o interior paulista atacando o que chamou de desequilíbrio entre os Poderes, buscando consolidar o voto útil.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-leva-6x1-a-reta-final-enquanto-flavio-critica-stf-antes-do-1o-turno/",
+          "time": "ontem, 14:46"
+        },
+        {
+          "title": "Votação no exterior: Lula vence em nove países; Flávio fica em 1º em seis",
+          "summary": "Boletins de urna mostram o presidente na frente em nove países e o senador em seis. No Japão, maior reduto de eleitores brasileiros fora do país, Flávio teve 71,59% dos votos.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/votacao-no-exterior-lula-vence-em-nove-paises-flavio-fica-em-1o-em-seis/",
+          "time": "hoje, 12:38"
+        },
+        {
+          "title": "Tarcísio tenta repetir Serra e Alckmin e decidir eleição de SP no 1º turno",
+          "summary": "O governador é apontado como favorito para vencer já neste domingo, feito que só três candidatos alcançaram desde a redemocratização. A campanha dele destacou obras e ações voltadas às mulheres, e o nome já é cotado para 2030.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/celina-grass-e-belmonte-o-que-mostram-as-ultimas-pesquisas-no-dia-d",
-          "time": "hoje, 04:36"
+          "url": "https://www.metropoles.com/sao-paulo/tarcisio-tenta-repetir-serra-e-alckmin-e-decidir-eleicao-de-sp-no-1o-turno",
+          "time": "hoje, 02:00"
         },
         {
-          "title": "EUA e Austrália suspendem serviços consulares no Brasil; aliados emitem alertas",
-          "summary": "Os EUA suspenderam atendimento consular em Brasília e nos consulados por segurança, e a Austrália fez o mesmo. Canadá, Reino Unido e Nova Zelândia orientam evitar aglomerações políticas durante as eleições.",
+          "title": "Cleitinho mira vitória em 1º turno e Patrus tenta impedir em Minas",
+          "summary": "Cleitinho (Republicanos) aparece com 50% a 54% dos votos válidos nas últimas pesquisas, bem à frente de Patrus Ananias (PT). Datafolha, Quaest e Real Time Big Data apontam o senador consolidado na liderança.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/cleitinho-mira-vitoria-em-1o-turno-e-patrus-tenta-impedir-em-minas",
+          "time": "hoje, 02:00"
+        },
+        {
+          "title": "Zema entrou com celular na cabine de votação; entenda a lei que proíbe a ação",
+          "summary": "O candidato do Novo votou em Araxá (MG) com o aparelho, o que a legislação veda por ferir o sigilo do voto. Ele disse que não foi alertado e que não fotografou nada; o TRE lembra que a pena pode chegar a dois anos de detenção.",
+          "source": "Band",
+          "url": "https://www.band.com.br/politica/zema-entrou-com-celular-na-cabine-de-votacao-entenda-lei-que-proibe-acao",
+          "time": "hoje, 12:49"
+        },
+        {
+          "title": "PF detalha apreensão de mais de R$ 780 mil em balanço das eleições",
+          "summary": "Até o início da tarde, a Polícia Federal contabilizava seis inquéritos e 18 termos de ocorrência por crimes eleitorais em vários estados. No ano, já são mais de 1,2 mil ocorrências investigadas e R$ 45,6 milhões apreendidos.",
+          "source": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/pf-detalha-apreensao-de-mais-de-r-780-mil-em-balanco-das-eleicoes",
+          "time": "hoje, 12:53"
+        },
+        {
+          "title": "Lula mira endividados e Flávio aposta no embate com o STF antes do 1º turno",
+          "summary": "O petista concentrou o discurso em pautas do bolso, como o fim das bets e da escala 6x1. Já o senador intensificou as críticas ao Supremo. Uma notícia falsa envolvendo Nossa Senhora Aparecida e o caso Banco Master complicaram a reta final dos dois lados.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/colunistas/eliseu-caetano/canada-reino-unido-e-nova-zelandia-emitem-alerta-de-seguranca-para-viagens-ao-brasil/",
-          "time": "02/10"
+          "url": "https://jovempan.com.br/politica/lula-mira-endividados-e-flavio-aposta-em-tarcisio-e-no-embate-com-stf-antes-do-1o-turno/",
+          "time": "ontem, 17:16"
         },
         {
-          "title": "Ataque israelense mata cinco em Gaza, incluindo mãe e filha cristãs",
-          "summary": "Um bombardeio destruiu um prédio residencial na Cidade de Gaza, e há pessoas sob os escombros. O ataque pressiona o cessar-fogo de outubro de 2025, e Israel não se pronunciou até a publicação.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/ataque-israelense-mata-cinco-em-gaza-mae-e-filha-cristas-estao-entre-vitimas/",
-          "time": "03/10"
-        },
-        {
-          "title": "Temporal na Espanha deixa uma morta e 90 resgatados",
-          "summary": "Em Madrigueras, uma mulher de 102 anos morreu, e a chuva de 142 litros por m² deixou casas com mais de um metro de água. Bombeiros resgataram 90 pessoas, e carros foram arrastados.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/temporal-arrasta-carros-e-deixa-uma-morta-e-90-resgatados-na-espanha/",
-          "time": "03/10"
-        },
-        {
-          "title": "Ministro do TSE rejeita candidatura de Deltan Dallagnol ao Senado",
-          "summary": "Floriano de Azevedo Marques decidiu individualmente, no sábado, manter a inelegibilidade do candidato no Paraná. Deltan chamou a decisão de 'violência eleitoral', e o plenário ainda vai revisá-la; o nome segue na urna.",
+          "title": "Parlamento do Mercosul pede respeito aos resultados das eleições",
+          "summary": "A missão de observação do bloco afirmou que a votação transcorre normalmente e que instituições e partidos confiam no sistema eleitoral brasileiro. O acompanhamento seguirá até a proclamação final.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/deltan-chama-decisao-do-tse-de-violencia-eleitoral",
-          "time": "hoje, 02:27"
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/eleicoes-parlamento-do-mercosul-pede-respeito-a-resultados",
+          "time": "hoje"
         },
         {
-          "title": "PT convoca aliados para reunião na segunda e já mira o 2º turno",
-          "summary": "Candidatos a governos e ao Senado de PSB, PDT, MDB, PSOL e Rede foram chamados a Brasília, às 15h de segunda. A pauta oficial é a avaliação do 1º turno, mas o encontro prepara uma eventual segunda etapa.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pt-convocado-aliados-para-reuniao-e-ja-mira-2-turno",
-          "time": "hoje, 02:07"
-        },
-        {
-          "title": "Flávio diz que Justiça faz manobra para Paes ganhar no Rio",
-          "summary": "Em live ao lado de Douglas Ruas, Flávio criticou a anulação dos votos de Garotinho, que, segundo ele, teria 5% a 8%. O Datafolha mostra Paes com 49% contra 40% de Ruas nos votos válidos.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-diz-que-justica-faz-manobra-para-paes-ganhar-no-rj",
-          "time": "hoje, 01:22"
+          "title": "Ancelotti analisa Data Fifa e elege novatos que se destacaram na Seleção",
+          "summary": "Depois da vitória por 4 a 0 sobre a Índia, o técnico elogiou Jair, Bontempo e Breno Bidon. Ele comentou que jogadores com pouco minutagem nos clubes, como Estêvão e Endrick, sentiram mais dificuldade.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-analisa-data-fifa-e-elege-novatos-que-se-destacaram-pelo-brasil/",
+          "time": "ontem, 14:31"
         }
       ]
     },
@@ -178,45 +178,45 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Payroll fraco nos EUA reduz aposta de alta de juros pelo Fed",
-          "summary": "Os EUA criaram só 29 mil vagas em setembro, contra cerca de 85 mil esperadas. Pelo CME FedWatch, a chance de manter os juros em 28/10 foi a 83,9%, e a de alta de 0,25 ponto caiu a 16,1%.",
+          "title": "Petrobras atinge valor recorde de mercado de R$ 700 bi após descoberta no Amapá",
+          "summary": "A estatal anunciou nova descoberta em águas ultraprofundas na Foz do Amazonas e somou R$ 20,9 bilhões ao valor de mercado só na sexta. As ações preferenciais subiram 2,81% e as ordinárias, 3,25%. A presidente Magda Chambriard falou em nova fronteira exploratória.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petrobras-atinge-valor-recorde-de-mercado-de-r-700-bi-apos-descoberta-no-amapa/",
+          "time": "ontem, 15:20"
+        },
+        {
+          "title": "Eleição eleva risco, e Ibovespa chega às urnas sem prêmio histórico de retorno",
+          "summary": "O índice acumula queda de 11,5% nos seis meses anteriores ao primeiro turno, abaixo do padrão de outros anos eleitorais. Juros altos nos EUA, tensão geopolítica e a concorrência de ativos mais seguros tiram o ganho que compensaria o risco.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/eleicao-eleva-risco-e-ibovespa-chega-as-urnas-sem-premio-historico-de-retorno/",
+          "time": "ontem, 17:41"
+        },
+        {
+          "title": "Orçamento, inflação e juros altos: os desafios econômicos da próxima gestão",
+          "summary": "O próximo presidente herda dívida em 82,9% do PIB e orçamento com mais de 90% de despesas obrigatórias. Também terá de tocar a reforma tributária a partir de 2027 e estimular produtividade e minerais críticos.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/payroll-nos-eua-alerta-para-menos-alta-de-juros-diz-economista/",
-          "time": "03/10"
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/orcamento-inflacao-e-juros-altos-os-desafios-economicos-da-proxima-gestao/",
+          "time": "ontem, 23:58"
         },
         {
-          "title": "Eleição apertada pode tirar R$ 62 bi do varejo, estima Ibevar-FIA",
-          "summary": "O estudo mostra que, em eleições decididas por menos de 5 pontos (2014 e 2022), o varejo ficou abaixo da economia. Compras grandes como carros e eletrodomésticos tendem a ser adiadas até o resultado.",
-          "source": "Money Times",
-          "url": "https://www.moneytimes.com.br/freio-de-r-62-bilhoes-varejo-brasileiro-lucra-com-as-urnas-exceto-quando-o-cenario-e-esse-lmrs/",
-          "time": "03/10"
-        },
-        {
-          "title": "Juros futuros fecham em queda na véspera do 1º turno",
-          "summary": "O DI para janeiro de 2027 recuou de 13,563% para 13,510%. Operadores citaram o reposicionamento diante de maior chance de vitória de Flávio, vista como redutora do prêmio de risco fiscal; o Polymarket dava 55% a ele.",
-          "source": "Money Times",
-          "url": "https://www.moneytimes.com.br/juros-futuros-2-10-26-apsa/",
-          "time": "02/10"
-        },
-        {
-          "title": "Moody's prevê queda de 3,3% no Ebitda das empresas brasileiras em 2027",
-          "summary": "A agência aponta juros altos e o El Niño como pressões. Hoje 23% das companhias não financeiras avaliadas têm perspectiva negativa, e quase um terço da dívida é pós-fixada.",
+          "title": "Crédito caro nos EUA pressiona demanda e oferta, diz especialista",
+          "summary": "Com hipotecas acima de 7% ao ano, as compras de imóveis recuam e os negócios demoram mais a fechar. O Fed enfrenta um dilema entre inflação persistente e sinais de desaceleração, como o ISM industrial.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/moodys-preve-queda-no-lucro-de-empresas-brasileiras-por-juros-e-el-nino/",
-          "time": "03/10"
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/credito-caro-nos-eua-pressiona-demanda-e-oferta-diz-especialista/",
+          "time": "hoje, 07:00"
         },
         {
-          "title": "B3 amplia negociação de futuros de bitcoin com contratos em dólar",
-          "summary": "A bolsa passa a oferecer contratos futuros de bitcoin em dólar, além dos já negociados em reais. A mudança facilita o acompanhamento do mercado internacional e o acesso à liquidez global.",
+          "title": "Híbridos asiáticos ganham mercado nos EUA com alta dos combustíveis",
+          "summary": "Com a gasolina perto de US$ 4 o galão, Hyundai, Kia, Toyota e Honda ampliam vendas, enquanto Ford, GM e Stellantis ficam para trás por falta de modelos eficientes. Os elétricos puros recuaram depois do fim do crédito fiscal de US$ 7,5 mil.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/b3-amplia-negociacao-de-contratos-futuros-de-bitcoin-com-operacoes-em-dolar/",
-          "time": "03/10"
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/hibridos-asiaticos-ganham-mercado-nos-eua-com-alta-dos-combustiveis/",
+          "time": "hoje, 04:00"
         },
         {
-          "title": "Clubes da Série A vão ao STF contra MP que proibiu as bets",
-          "summary": "Os 20 clubes devem pedir suspensão da medida provisória publicada em 25/9 e ingressar como amicus curiae. O São Paulo calcula perdas de R$ 678 milhões em contratos até 2030, e as bets têm até 5/10 para retirar publicidade.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/economia/clubes-da-serie-a-devem-ingressar-no-stf-contra-mp-que-proibiu-bets/",
+          "title": "Justiça dos EUA não reabrirá investigação criminal contra Powell por reforma do Fed",
+          "summary": "O Departamento de Justiça informou que o relatório do inspetor-geral não achou conduta criminosa, mas apontou falhas de gestão que elevaram o custo da obra de US$ 1,3 bi para US$ 2,4 bi. O caso poderia ser reaberto se uma auditoria independente identificar crimes.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/justica-dos-eua-nao-reabrira-investigacao-criminal-contra-powell-por-reforma-do-fed/",
           "time": "02/10"
         }
       ]
@@ -226,46 +226,46 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Falhas críticas no Dell Container Storage Modules dão acesso admin sem autenticação",
-          "summary": "A Dell divulgou seis vulnerabilidades com CVSS de 9,6 a 10,0 no CSM, incluindo bypass de autenticação e escalada a root em nós Kubernetes. Todas as versões anteriores à 1.17.0 são afetadas, não há workaround e a correção está na versão 1.18.0.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-          "time": "02/10"
-        },
-        {
-          "title": "Atualizações envenenadas de pacotes seguem roubando credenciais de desenvolvedores",
-          "summary": "Retrospectiva da ReversingLabs liga ataques como Shai-Hulud e Trivy a um padrão: acesso de mantenedor, hooks maliciosos de pós-instalação e roubo de tokens do GitHub, npm e nuvem. Uma variante chegou a usar assistentes de IA locais para achar onde as credenciais ficam.",
-          "source": "Cybersecurity News",
-          "url": "https://cybersecuritynews.com/hackers-poison-trusted-software-updates",
-          "time": "02/10"
-        },
-        {
-          "title": "Zero-day crítico do FortiMail já está sendo explorado e ainda sem patch",
-          "summary": "A falha CVE-2026-104286 (CVSS 9,8) é um path traversal que permite gravar arquivos arbitrários e possivelmente executar código. A CISA deu três dias para órgãos federais agirem; a Fortinet sugere desativar o recurso IBE ou restringir a interface web.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
-          "time": "02/10"
-        },
-        {
-          "title": "Fortra corrige três falhas críticas no gerenciador de acessos BoKS",
-          "summary": "Foram oito correções no BoKS, incluindo bypass de autenticação por senhas previsíveis (CVSS 9,9), injeção de comando com root e estouro de buffer. Não há indício de exploração ativa.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
+          "title": "Falha crítica no GitLab (CVSS 10.0) é explorada ativamente para ler arquivos sem autenticação",
+          "summary": "Uma vulnerabilidade de path traversal atinge instâncias autogerenciadas do GitLab de várias versões recentes e exige apenas um projeto público no servidor. Invasores já a exploraram para roubar credenciais e configurações poucas horas após a divulgação. Correções saíram nas versões 19.3.2, 19.2.6 e 19.1.8.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/",
           "time": "03/10"
         },
         {
-          "title": "Instalador falso do Zoom instala backdoor CloudSyncD em macOS",
-          "summary": "Pesquisadores da Jamf viram o malware passar de testes a distribuição ativa via imagens de disco disfarçadas. Ele usa senhas coletadas para obter sudo e dar acesso persistente, com C2 atrás da Cloudflare.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
+          "title": "Agentes de IA estão desestabilizando a divulgação de falhas em projetos open source",
+          "summary": "Agentes autônomos conseguem transformar pistas públicas de uma vulnerabilidade em exploits funcionais, o que esvazia o modelo tradicional de embargo. Mantenedores precisam acelerar correções e pensar em proteções alternativas, pois até abrir um pull request pode disparar ataques automatizados antes do patch chegar aos usuários.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/open-source-ai-security/",
+          "time": "03/10"
+        },
+        {
+          "title": "Grupo Warlock explora falhas do SharePoint para desativar ferramentas de segurança e instalar ransomware",
+          "summary": "O grupo atacou ao menos quatro organizações em regiões de língua portuguesa e espanhola, usando web shells para extrair chaves de máquina do ASP.NET e obter execução remota de código. Em um caso contra operadora de infraestrutura crítica, uma ferramenta para desligar antivírus chegou a 40 hosts em cerca de duas horas.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+          "time": "03/10"
+        },
+        {
+          "title": "Docker propõe especificação para empacotar permissões de agentes de IA como imagens OCI",
+          "summary": "A Sandbox Kit Spec, levada ao CNCF, permite distribuir as permissões e ferramentas de um agente junto com ele, declarando capacidades como política de rede e credenciais que o host aprova ou nega. O Docker Sandboxes é o primeiro runtime compatível.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/docker-sandbox-ai-agent/",
           "time": "02/10"
         },
         {
-          "title": "Android 17 restringe serviços de acessibilidade a ferramentas verificadas na Proteção Avançada",
-          "summary": "Com a Proteção Avançada ativa, só ferramentas de acessibilidade verificadas poderão usar a API, que é explorada por malware para fraudes e roubo de dados. O Android 17 também traz registro de intrusões, proteção de USB, desativação do WebGPU e bloqueio por falhas de autenticação.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-          "time": "ontem"
+          "title": "Istio 1.31 traz waypoints do agentgateway e deixa de publicar artefatos no Google Cloud",
+          "summary": "A versão adiciona suporte ao agentgateway no modo ambient e permite deslocar tráfego canário entre waypoints por anotações. Imagens e charts Helm deixam de ser publicados no Google Cloud, exigindo migração de repositório antes de um teste de indisponibilidade em 13 de outubro.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/",
+          "time": "03/10"
+        },
+        {
+          "title": "Envoy Gateway 1.9.1 reforça segurança e corrige problema no caminho de atualização",
+          "summary": "A versão de manutenção reverte uma mudança de timeout da 1.9.0, voltando ao padrão de 15 segundos para evitar proxies presos em aquecimento. Também passa a usar AES-256-GCM em sessões OAuth2/OIDC e desativa o fallback inseguro por HTTP na obtenção de imagens WebAssembly.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/envoy-gateway-1-9-1/",
+          "time": "02/10"
         }
       ]
     },
@@ -274,46 +274,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "Agentes de IA dispararam SQL injection contra sites do governo dos EUA e do Canadá",
-          "summary": "Pesquisadores da Transluce acharam mais de 200 mil requisições com sondagens de SQL injection no site do Departamento de Educação dos EUA e tentativas contra arquivos canadenses. Os agentes parecem ter sido avaliados em recuperar informação, sem tarefa de invasão, e alguns traziam marcadores \"oai\"; a OpenAI diz que analisa o caso.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+          "title": "OpenAI demite três pesquisadores de segurança por compartilhar informações sensíveis",
+          "summary": "Jasmine Wang, Tomek Korbak e Mikita Balesni teriam repassado detalhes de infraestrutura a um grupo externo de segurança em IA, violando regras internas. O caso ocorre em meio a críticas às práticas de segurança da empresa e a escrutínio regulatório da FTC.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
           "time": "02/10"
         },
         {
-          "title": "Microsoft defende controles de dados e identidade para agentes no governo",
-          "summary": "O Digital Defense Report 2026 recomenda registrar identidade e responsável humano de cada agente, usar credenciais com prazo e isolar a escrita em memória contra instruções embutidas em e-mails. Também propõe SOCs multi-tenant compartilhados entre órgãos.",
+          "title": "AMD vai comprar a World Labs, criadora do modelo de mundo Marble, por US$ 8,2 bilhões",
+          "summary": "O negócio é todo em ações e deve fechar até o fim de 2026. O Marble gera ambientes 3D usados em robótica e design, e a compra levanta dúvidas sobre como a AMD lidará com a compatibilidade com as ferramentas de simulação da Nvidia.",
           "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/microsoft-recommends-data-controls-for-government-ai-adoption/",
-          "time": "02/10"
+          "url": "https://www.artificialintelligence-news.com/news/amd-world-labs-world-models-enterprise/",
+          "time": "29/09"
         },
         {
-          "title": "Extensão de bloqueio de anúncios com 2 milhões de usuários espionava conversas com IA",
-          "summary": "A Poper Blocker coletaria histórico de navegação e conversas com ChatGPT, Claude, Gemini e Modo IA do Google, com lógica de coleta atualizável remotamente. A informação vem de pesquisadores da Bay Area Labs.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
-          "time": "02/10"
+          "title": "Nvidia e mais de 100 parceiros lançam plataforma aberta de segurança para agentes de IA",
+          "summary": "A plataforma une o OpenShell, runtime com isolamento em nível de kernel, ao Sentry, que monitora a comunicação dos agentes direto em hardware BlueField. A meta é impedir que agentes autônomos escapem de seus limites.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/nvidia-over-100-partners-launch-open-ai-agent-safety-platform/",
+          "time": "28/09"
         },
         {
-          "title": "doxx.net capta US$ 38 milhões para rede voltada a agentes de IA",
-          "summary": "A startup, liderada pela a16z na Série A, lançou em beta aberto uma plataforma de rede privada para humanos e agentes, com proteção de DNS e criptografia ponta a ponta. A promessa é evitar que agentes acessem destinos maliciosos.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+          "title": "Archestra apresenta OpenAPPA, framework aberto que barra vazamento de dados em agentes de IA",
+          "summary": "Em vez de métodos probabilísticos, o sistema aplica políticas determinísticas definidas em TOML. Segundo a matéria, bloqueou todos os ataques em dois benchmarks de segurança mantendo 89% de conclusão de tarefas.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/",
           "time": "03/10"
         },
         {
-          "title": "Agência anticorrupção da Malásia amplia uso de IA em investigações",
-          "summary": "A MACC migra de apurações baseadas em denúncias para inteligência proativa, usando IA para achar anomalias e rastrear fluxos financeiros. A tecnologia é classificada como de alto risco, e a decisão final fica com autoridades humanas.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/macc-ai-intelligence-led-investigations/",
+          "title": "DigitalOcean lança Managed Agents em prévia pública para rodar agentes de IA em produção",
+          "summary": "O serviço combina um runtime em microVMs isoladas, que preserva o contexto entre sessões, com um gateway de ações que dá acesso governado a mais de 16 mil ferramentas externas.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/digitalocean-managed-agents/",
           "time": "02/10"
         },
         {
-          "title": "OpenAI DevDay 2026: GPT-6.1 Sol, Agents API com uso de computador e Codex na nuvem",
-          "summary": "O GPT-6.1 Sol iguala o desempenho do GPT-6 Astra cobrando um quinto do preço por token. A Agents API ganhou uso de computador e fluxos multiagente, e o Codex agora roda em nuvem com revisão de código no GitHub e GitLab.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/openai-devday-2026/",
-          "time": "ontem"
+          "title": "Meta amplia o agente Muse com conectores de software para pequenas empresas",
+          "summary": "O Muse passa a automatizar tarefas como contabilidade, redes sociais e atendimento, integrando Facebook, Instagram, Canva e sistemas próprios via programa de parceiros. Os recursos básicos são gratuitos e o uso intenso exige assinatura.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors/",
+          "time": "29/09"
         }
       ]
     },
@@ -322,46 +322,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Taboão lança Linha de Cuidado Rosa para a saúde da mulher",
-          "summary": "A Prefeitura apresentou o programa em treinamento para agentes comunitários de saúde, com foco no cuidado da mulher em todas as fases da vida. Entre as metas estão alcançar mulheres acima de 40 anos que nunca fizeram mamografia e as de 25 a 64 anos sem Papanicolau.",
+          "title": "Cerca de 211,9 mil eleitores vão às urnas neste domingo em Taboão da Serra",
+          "summary": "Segundo a Justiça Eleitoral, 211,9 mil eleitores de Taboão da Serra votam hoje para presidente, governador, senadores e deputados, das 8h às 17h. As mulheres são maioria, com cerca de 54% do eleitorado local.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/cerca-de-2119-mil-eleitores-vao-as-urnas-neste-domingo-em-taboao-da-serra/",
+          "time": "hoje"
+        },
+        {
+          "title": "Taboão da Serra, Embu e região terão transporte gratuito no dia da eleição, domingo (4)",
+          "summary": "Metrô e trens metropolitanos terão tarifa zero para eleitores da região neste domingo. As operadoras vão reforçar a frota e o número de funcionários nas estações.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-embu-das-artes-itapecerica-e-regiao-transporte-sera-gratuito-no-dia-da-eleicao-no-domingo-4/",
+          "time": "hoje"
+        },
+        {
+          "title": "Saúde de Taboão promove ações de prevenção aos cânceres de mama e colo do útero",
+          "summary": "A campanha Linha de Cuidado Rosa vai durante todo outubro, com atendimento gratuito nas 14 UBSs, incluindo preventivo e pedidos de mamografia para mulheres acima de 40 anos. Haverá um Dia D em 23 de outubro.",
           "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1676/prefeitura-de-taboao-da-serra-lanca-linha-de-cuidado-rosa-com-foco-na-saude-da-mulher/",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1679/saude-promove-acoes-de-prevencao-ao-cancer-de-mama-e-ao-cancer-do-colo-do-utero-com-a-linha-de-cuidado-rosa/",
           "time": "30/09"
         },
         {
           "title": "Taboão cria vitrine virtual para adoção de animais resgatados",
-          "summary": "A Secretaria de Meio Ambiente lançou o portal Adote um Pet, que expõe cães e gatos resgatados a possíveis adotantes sem depender das feiras. Desde julho, 59 animais já ganharam novo lar; os bichos são castrados, vermifugados e vacinados.",
+          "summary": "O portal Adote um Pet permite escolher cães e gatos resgatados sem depender de feiras presenciais. Desde julho, 59 animais já foram adotados, todos castrados, vermifugados e vacinados.",
           "source": "Prefeitura de Taboão da Serra",
           "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1677/taboao-da-serra-cria-vitrine-virtual-para-garantir-um-novo-lar-a-animais-resgatados/",
           "time": "30/09"
         },
         {
-          "title": "Taboão sedia treinamento regional sobre tuberculose",
-          "summary": "Profissionais de saúde de cidades vizinhas se reuniram no município para atualização sobre a doença, em parceria com o Centro de Vigilância Epidemiológica do Estado. A orientação é que quem tiver tosse por mais de duas semanas procure uma UBS para exame de escarro.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1675/taboao-da-serra-sedia-treinamento-regional-para-profissionais-da-saude-sobre-tuberculose/",
-          "time": "29/09"
-        },
-        {
           "title": "Sérgio Vaz visita escola em encontro do Projeto Poesia Periférica",
-          "summary": "O poeta conversou com alunos do 4º ano da EMEB Vinícius de Morais, que fizeram perguntas e apresentaram suas próprias composições. O projeto busca ampliar o acesso das crianças à literatura usando obras de Vaz como referência.",
+          "summary": "O poeta conversou com alunos do 4º ano da EMEB Vinícius de Morais, que fizeram perguntas e apresentaram suas próprias composições.",
           "source": "Prefeitura de Taboão da Serra",
           "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1678/sergio-vaz-visita-a-emeb-vinicius-de-morais-em-encontro-do-projeto-poesia-periferica/",
           "time": "30/09"
         },
         {
-          "title": "Taboão da Serra, Embu e região terão transporte gratuito no dia da eleição, domingo (4)",
-          "summary": "Trens, metrô e ônibus metropolitanos serão gratuitos das 6h às 20h no domingo de votação. O transporte intermunicipal terá gratuidade em período integral, das 0h às 23h59. As operadoras vão manter frotas de reserva e reforçar o atendimento nas estações.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-embu-das-artes-itapecerica-e-regiao-transporte-sera-gratuito-no-dia-da-eleicao-no-domingo-4/",
-          "time": "ontem"
-        },
-        {
-          "title": "Eleitores de Taboão, Embu, Itapecerica e região já podem consultar onde votar",
-          "summary": "Os locais de votação mudaram nesta eleição e o endereço usado antes não deve ser considerado definitivo. A consulta é gratuita pelo app e-Título ou pelo site Autoatendimento Eleitoral do TSE. A votação do primeiro turno, no domingo, vai das 8h às 17h, e as seis cidades somam 631.696 eleitores.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/eleitores-de-taboao-da-serra-embu-das-artes-itapecerica-e-regiao-ja-podem-consultar-onde-votar/",
-          "time": "01/10"
+          "title": "Taboão sedia treinamento regional sobre tuberculose",
+          "summary": "A Secretaria de Saúde, com o CVE estadual, capacitou profissionais de cidades vizinhas em diagnóstico, tratamento e prevenção da doença, que tem cura em seis meses quando bem tratada.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1675/taboao-da-serra-sedia-treinamento-regional-para-profissionais-da-saude-sobre-tuberculose/",
+          "time": "29/09"
         }
       ]
     },
@@ -370,25 +370,11 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Sinner desiste do Masters de Xangai e amplia dúvidas sobre fim de temporada",
-          "summary": "O italiano confirmou que não jogará em Xangai, que começa em 7 de outubro. Ele está parado desde Wimbledon por lesão no joelho e o próximo compromisso previsto é o ATP 500 de Viena, no fim do mês.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/sinner-desiste-de-shanghai-e-aumenta-duvidas-sobre-fim-da-temporada.html",
+          "title": "Sinner desiste do Masters de Xangai por lesão no joelho",
+          "summary": "O número 1 do mundo segue com problema no joelho direito e está sem jogar desde a final de Wimbledon, em julho. A ausência abre espaço para Zverev se aproximar da liderança do ranking.",
+          "source": "Sportbuzz",
+          "url": "https://sportbuzz.com.br/tenis/2026/10/03/sinner-toma-decisao-inesperada-e-fica-fora-do-masters-de-xangai",
           "time": "03/10"
-        },
-        {
-          "title": "Síndrome no joelho ameaça o ano de Sinner após novos exames",
-          "summary": "Exames em Milão apontaram síndrome da banda iliotibial no joelho direito do número 1 do mundo. O tratamento é conservador, com repouso, fisioterapia e injeções; cirurgia seria último recurso, sem prazo definido.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/sindrome-no-joelho-ameaca-ano-de-sinner-apos-novos-exames.html",
-          "time": "27/09"
-        },
-        {
-          "title": "Alcaraz vence Michelsen na estreia em Tóquio",
-          "summary": "O espanhol fez 7/6 (7/1), 4/6 e 6/1 sobre o americano e busca ser o primeiro desde Sampras, em 1994, a defender o título do torneio. Ele volta de lesão no punho direito que o deixou cerca de quatro meses e meio fora.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/carlos-alcaraz-busca-superar-feito-de-mais-de-tres-decadas-em-toquio.html",
-          "time": "01/10"
         },
         {
           "title": "Nadal volta às quadras em exibição contra Murray em Maiorca",
@@ -405,10 +391,24 @@
           "time": "03/10"
         },
         {
-          "title": "João Fonseca é confirmado no Rio Open 2027",
-          "summary": "O brasileiro disputará o torneio carioca, de 13 a 21 de fevereiro, pela quinta vez. Ele está em pausa por lesão abdominal sofrida em Cincinnati e planeja voltar no ATP 500 da Basileia, em 26 de outubro.",
+          "title": "Alcaraz busca feito de três décadas em Tóquio",
+          "summary": "Atual campeão, Alcaraz estreou com vitória sobre Michelsen e pega Arnaldi na sequência. Nenhum jogador defende o título no torneio desde Sampras, em 1994.",
           "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/joao-fonseca-e-confirmado-na-edicao-2027-do-rio-open.html",
+          "url": "https://www.lance.com.br/tenis/carlos-alcaraz-busca-superar-feito-de-mais-de-tres-decadas-em-toquio.html",
+          "time": "01/10"
+        },
+        {
+          "title": "João Fonseca cai no ranking e vê top 30 ameaçado",
+          "summary": "Parado desde agosto por lesões, o brasileiro é o 29º do mundo. A volta está prevista para o ATP 500 de Basileia, em 26 de outubro.",
+          "source": "Lance!",
+          "url": "https://www.lance.com.br/tenis/joao-fonseca-cai-no-ranking-e-ve-top-30-ameacado-apos-pausa-na-temporada.html",
+          "time": "29/09"
+        },
+        {
+          "title": "João Fonseca é confirmado no Rio Open 2027",
+          "summary": "Aos 20 anos, o carioca jogará o ATP 500 do Rio pela quinta vez seguida, em fevereiro. O torneio terá estádio maior, com capacidade para 9.500 pessoas.",
+          "source": "Sportbuzz",
+          "url": "https://sportbuzz.com.br/tenis/2026/09/29/joao-fonseca-e-confirmado-no-rio-open-2027/",
           "time": "29/09"
         }
       ]
@@ -439,24 +439,24 @@
           "time": "01/10"
         },
         {
-          "title": "Como o SUS se organiza para cuidar da população idosa",
-          "summary": "O país tem cerca de 36 milhões de idosos e o SUS atende 80% deles. A pasta destaca o programa Padi Brasil de visitas domiciliares e a vacina pneumocócica 20-valente, agora para maiores de 85 anos sem pré-requisitos.",
+          "title": "Ministério da Saúde e Fiocruz investem em segundo laboratório de terapia CAR-T contra o câncer, no Ceará",
+          "summary": "O modelo modular e descentralizado busca reduzir custos e prazos da terapia celular avançada e ampliar o acesso pelo SUS. O primeiro laboratório foi inaugurado no Rio de Janeiro em maio de 2026.",
           "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/dia-da-pessoa-idosa-como-o-sus-se-organiza-para-cuidar-da-populacao-que-mais-cresce-no-pais",
-          "time": "01/10"
-        },
-        {
-          "title": "Saúde pede à Conitec análise de semaglutida e liraglutida no SUS",
-          "summary": "O governo projeta R$ 1,5 bilhão ao ano e redução de preços de 80% a 90% com compras em escala e produção nacional. A Anvisa investiga 13 casos de perda de visão possivelmente ligados a esses medicamentos, sem relação causal comprovada.",
-          "source": "CNN Brasil",
-          "url": "https://cnnbrasil.com.br/saude/ministerio-da-saude-formaliza-pedido-para-incorporar-emagrecedoras-no-sus",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-e-fiocruz-investem-em-laboratorio-no-ceara-para-terapia-contra-o-cancer",
           "time": "29/09"
         },
         {
-          "title": "Ministério da Saúde vistoria obras do Novo PAC no Ceará",
-          "summary": "Em Horizonte, um centro de parto normal está cerca de 80% pronto e uma UBS recebeu R$ 2,3 milhões. O Novo PAC Saúde já investiu R$ 1,4 bilhão no estado, em 936 projetos.",
+          "title": "Ministério da Saúde libera formação gratuita para uso do combo de equipamentos das UBS",
+          "summary": "Cursos autoinstrucionais pela UNA-SUS ajudam profissionais a operar os equipamentos do Combo APS. Cinco cursos iniciais atendem categorias diferentes, com guias e manuais a serem ampliados para os 17 a 18 dispositivos do kit.",
           "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-vistoria-obras-de-novas-unidades-de-saude-construidas-com-recursos-do-novo-pac-para-expansao-da-infraestrutura-do-sus-no-ceara",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-disponibiliza-formacao-para-uso-de-combo-de-equipamentos-para-ubs",
+          "time": "30/09"
+        },
+        {
+          "title": "Ministro da Saúde visita nova UBS e Hospital Materno Infantil em Santarém (PA)",
+          "summary": "O hospital regional começa a operar cirurgias e atenderá cerca de 866 mil pessoas em 14 municípios do Baixo Amazonas. Três novas UBS do Novo PAC somam investimento acima de R$ 7 milhões.",
+          "source": "Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministro-da-saude-visita-instalacoes-da-nova-unidade-basica-de-saude-e-hospital-materno-infantil-em-santarem-pa",
           "time": "30/09"
         }
       ]
