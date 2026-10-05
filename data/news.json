@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T13:58:00-03:00",
+  "updatedAt": "2026-10-05T07:59:00-03:00",
   "markets": {
-    "asOf": "Bolsas e câmbio: fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) às 20:58 de 03/10",
+    "asOf": "Bolsas e câmbio: fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) às 08:00 de 05/10",
     "items": [
       {
         "id": "ibov",
@@ -54,31 +54,31 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 84.835",
-        "change": 0.27
+        "value": "US$ 86.088",
+        "change": 1.0
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.694",
-        "change": 0.54
+        "value": "US$ 2.716",
+        "change": 0.6
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 120,83",
-        "change": 1.39
+        "value": "US$ 120,72",
+        "change": 0.3
       }
     ]
   },
   "weather": {
-    "date": "2026-10-04",
-    "condition": "sol e aumento de nuvens de manhã, com pancadas de chuva e trovoadas à tarde e à noite",
-    "min": 16,
-    "max": 28,
-    "rainChance": 88,
+    "date": "2026-10-05",
+    "condition": "sol com muitas nuvens, com pancadas de chuva à tarde e à noite",
+    "min": 17,
+    "max": 23,
+    "rainChance": 89,
     "rainMm": 25.1,
-    "uv": 10,
+    "uv": 2,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp"
   },
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Datafolha na véspera: Lula tem 45% dos votos válidos e Flávio, 42%",
-          "summary": "A pesquisa divulgada no sábado mostra o petista três pontos à frente do senador do PL. Flávio ganhou dois pontos em relação ao levantamento anterior, enquanto Lula ficou estável. Os dois somam 87% dos votos válidos.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/datafolha-lula-tem-45-dos-votos-validos-e-flavio-42-na-vespera-da-eleicao/",
-          "time": "ontem, 18:39"
+          "title": "Flávio Bolsonaro tem 47,03% e Lula 45,16%; segundo turno será em 25 de outubro",
+          "summary": "Com 99,99% das urnas apuradas, Flávio Bolsonaro somou cerca de 56,1 milhões de votos e Lula 53,8 milhões, uma diferença de 1,87 ponto percentual. Os dois disputam o segundo turno marcado para 25 de outubro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-supera-pai-e-tem-mais-votos-que-jair-bolsonaro-no-1o-turno/",
+          "time": "hoje"
         },
         {
-          "title": "Quaest: Lula tem 46% e Flávio 45% dos votos válidos na véspera da eleição",
-          "summary": "O levantamento aponta diferença de apenas um ponto entre os dois líderes, que concentram 91% das intenções de voto. A reta final foi marcada por medidas econômicas e pela disputa do voto útil.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/quaest-lula-tem-46-dos-votos-validos-e-flavio-45-na-vespera-da-eleicao/",
-          "time": "ontem, 19:28"
+          "title": "Direita domina as urnas e Lula tem a pior votação em primeiro turno desde 1998",
+          "summary": "Lula perdeu cerca de 3,4 milhões de votos em relação a 2022 e teve o menor percentual no primeiro turno desde 1998. O PL ampliou o controle de governos estaduais e do Senado, com 28 cadeiras na próxima legislatura.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/direita-urnas-lula-derrota/",
+          "time": "hoje, 05:55"
+        },
+        {
+          "title": "Lula perdeu em 714 cidades que havia vencido em 2022",
+          "summary": "Segundo levantamento, Lula manteve a maioria em 2.665 municípios, mas perdeu 714 cidades que ganhou em 2022, e Flávio conquistou 2.191 que eram de Bolsonaro. Minas Gerais e Tocantins mudaram de lado, e Lula manteve a liderança sobretudo no Nordeste.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-perdeu-em-mais-de-700-cidades-que-ganhou-em-2022-para-flavio-em-2026/",
+          "time": "hoje, 04:30"
+        },
+        {
+          "title": "Tarcísio vence no 1º turno e é reeleito governador de São Paulo",
+          "summary": "Com 90% das urnas apuradas, Tarcísio de Freitas somava 62,85% dos votos, contra 36,22% de Fernando Haddad. O vice Felício Ramuth também foi reeleito.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/tarcisio-1-turno-reeleito-governo-sp",
+          "time": "ontem, 19:39"
+        },
+        {
+          "title": "PL terá a maior bancada da Câmara; federação do PT fica em segundo",
+          "summary": "O PL elegeu 106 deputados, 20% das 513 cadeiras. O PT, com 67 deputados mais 15 de PV e PCdoB, soma 82, enquanto PSD e PP têm 36 cada.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/",
+          "time": "hoje"
+        },
+        {
+          "title": "Trump, Milei e Netanyahu repercutem resultado das eleições no Brasil",
+          "summary": "Milei parabenizou Flávio e disse que a liberdade avança na região, e Netanyahu citou a esperança de restaurar a amizade entre Israel e Brasil. Trump não citou candidatos, mas usou a rapidez da apuração brasileira para criticar o sistema eleitoral americano.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/flavio-lideres-direita-repercussao-1-turno/",
+          "time": "hoje, 06:11"
         },
         {
           "title": "Kassio diz que urnas eletrônicas são seguras, transparentes e auditáveis",
           "summary": "Em pronunciamento em rede nacional na noite de sábado, o presidente do TSE defendeu o sistema de votação e orientou os eleitores. Pediu cuidado com desinformação e recomendou consultar apenas canais oficiais da Justiça Eleitoral.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/brasil/kassio-diz-que-urnas-eletronicas-sao-seguras-transparentes-e-auditaveis",
-          "time": "ontem, 20:35"
-        },
-        {
-          "title": "Lula leva 6x1 à reta final, enquanto Flávio critica STF em último ato antes do 1º turno",
-          "summary": "Lula fez o encerramento em São Paulo defendendo o fim da escala 6x1 e a proibição das bets, de olho na redução da abstenção. Flávio percorreu o interior paulista atacando o que chamou de desequilíbrio entre os Poderes, buscando consolidar o voto útil.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-leva-6x1-a-reta-final-enquanto-flavio-critica-stf-antes-do-1o-turno/",
-          "time": "ontem, 14:46"
-        },
-        {
-          "title": "Votação no exterior: Lula vence em nove países; Flávio fica em 1º em seis",
-          "summary": "Boletins de urna mostram o presidente na frente em nove países e o senador em seis. No Japão, maior reduto de eleitores brasileiros fora do país, Flávio teve 71,59% dos votos.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/votacao-no-exterior-lula-vence-em-nove-paises-flavio-fica-em-1o-em-seis/",
-          "time": "hoje, 12:38"
-        },
-        {
-          "title": "Tarcísio tenta repetir Serra e Alckmin e decidir eleição de SP no 1º turno",
-          "summary": "O governador é apontado como favorito para vencer já neste domingo, feito que só três candidatos alcançaram desde a redemocratização. A campanha dele destacou obras e ações voltadas às mulheres, e o nome já é cotado para 2030.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/tarcisio-tenta-repetir-serra-e-alckmin-e-decidir-eleicao-de-sp-no-1o-turno",
-          "time": "hoje, 02:00"
-        },
-        {
-          "title": "Cleitinho mira vitória em 1º turno e Patrus tenta impedir em Minas",
-          "summary": "Cleitinho (Republicanos) aparece com 50% a 54% dos votos válidos nas últimas pesquisas, bem à frente de Patrus Ananias (PT). Datafolha, Quaest e Real Time Big Data apontam o senador consolidado na liderança.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/cleitinho-mira-vitoria-em-1o-turno-e-patrus-tenta-impedir-em-minas",
-          "time": "hoje, 02:00"
+          "time": "ontem"
         },
         {
           "title": "Zema entrou com celular na cabine de votação; entenda a lei que proíbe a ação",
           "summary": "O candidato do Novo votou em Araxá (MG) com o aparelho, o que a legislação veda por ferir o sigilo do voto. Ele disse que não foi alertado e que não fotografou nada; o TRE lembra que a pena pode chegar a dois anos de detenção.",
           "source": "Band",
           "url": "https://www.band.com.br/politica/zema-entrou-com-celular-na-cabine-de-votacao-entenda-lei-que-proibe-acao",
-          "time": "hoje, 12:49"
+          "time": "ontem"
         },
         {
           "title": "PF detalha apreensão de mais de R$ 780 mil em balanço das eleições",
           "summary": "Até o início da tarde, a Polícia Federal contabilizava seis inquéritos e 18 termos de ocorrência por crimes eleitorais em vários estados. No ano, já são mais de 1,2 mil ocorrências investigadas e R$ 45,6 milhões apreendidos.",
           "source": "Band",
           "url": "https://www.band.com.br/politica/eleicoes/pf-detalha-apreensao-de-mais-de-r-780-mil-em-balanco-das-eleicoes",
-          "time": "hoje, 12:53"
-        },
-        {
-          "title": "Lula mira endividados e Flávio aposta no embate com o STF antes do 1º turno",
-          "summary": "O petista concentrou o discurso em pautas do bolso, como o fim das bets e da escala 6x1. Já o senador intensificou as críticas ao Supremo. Uma notícia falsa envolvendo Nossa Senhora Aparecida e o caso Banco Master complicaram a reta final dos dois lados.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/lula-mira-endividados-e-flavio-aposta-em-tarcisio-e-no-embate-com-stf-antes-do-1o-turno/",
-          "time": "ontem, 17:16"
+          "time": "ontem"
         },
         {
           "title": "Parlamento do Mercosul pede respeito aos resultados das eleições",
           "summary": "A missão de observação do bloco afirmou que a votação transcorre normalmente e que instituições e partidos confiam no sistema eleitoral brasileiro. O acompanhamento seguirá até a proclamação final.",
           "source": "SBT News",
           "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/eleicoes-parlamento-do-mercosul-pede-respeito-a-resultados",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Ancelotti analisa Data Fifa e elege novatos que se destacaram na Seleção",
           "summary": "Depois da vitória por 4 a 0 sobre a Índia, o técnico elogiou Jair, Bontempo e Breno Bidon. Ele comentou que jogadores com pouco minutagem nos clubes, como Estêvão e Endrick, sentiram mais dificuldade.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-analisa-data-fifa-e-elege-novatos-que-se-destacaram-pelo-brasil/",
-          "time": "ontem, 14:31"
+          "time": "ontem"
+        },
+        {
+          "title": "Senado terá dois terços favoráveis ao impeachment de ministros do STF, diz análise",
+          "summary": "A análise do blog de Daniel Rittner na CNN Brasil aponta que a composição do Senado eleita em 2026 terá maioria qualificada pró-impeachment de ministros do Supremo a partir de 2027.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/daniel-rittner/eleicoes/senado-tera-dois-tercos-pro-impeachment-de-ministros-do-stf-em-2027/",
+          "time": "hoje"
         }
       ]
     },
@@ -178,39 +178,39 @@
       "label": "Economia",
       "items": [
         {
+          "title": "Ações brasileiras disparam em NY após resultado do 1º turno",
+          "summary": "O ETF EWZ, que replica o Ibovespa, chegou a subir cerca de 10% nos futuros dos EUA na noite de domingo, após a apuração com 99% das urnas. Analistas esperam reação positiva do Ibovespa, sobretudo de small caps e empresas endividadas, e fortalecimento do real.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-brasileiras-disparam-em-ny-apos-resultados-do-1o-turno/",
+          "time": "hoje"
+        },
+        {
+          "title": "Indústria recua 0,6% em agosto e frustra projeções",
+          "summary": "Segundo o IBGE, a produção industrial caiu 0,6% sobre julho e 1,2% na comparação anual, contra expectativa de alta de 0,1%. Dezesseis dos 25 ramos pesquisados recuaram, com a Selic em 13,75% pesando na atividade.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/producao-industrial-no-brasil-cai-06-em-agosto-e-frustra-projecoes/",
+          "time": "02/10"
+        },
+        {
+          "title": "Payroll: EUA criam 29 mil vagas em setembro, abaixo do esperado",
+          "summary": "A economia americana abriu 29 mil postos, contra 90 mil esperados, e o desemprego subiu a 4,2%. Os salários avançaram 0,13% no mês e 3,02% em 12 meses, reforçando a aposta em menos pressão por alta de juros pelo Fed.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/payroll-relatorio-emprego-eua-setembro-2026/",
+          "time": "02/10"
+        },
+        {
           "title": "Petrobras atinge valor recorde de mercado de R$ 700 bi após descoberta no Amapá",
           "summary": "A estatal anunciou nova descoberta em águas ultraprofundas na Foz do Amazonas e somou R$ 20,9 bilhões ao valor de mercado só na sexta. As ações preferenciais subiram 2,81% e as ordinárias, 3,25%. A presidente Magda Chambriard falou em nova fronteira exploratória.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/mercados/petrobras-atinge-valor-recorde-de-mercado-de-r-700-bi-apos-descoberta-no-amapa/",
-          "time": "ontem, 15:20"
-        },
-        {
-          "title": "Eleição eleva risco, e Ibovespa chega às urnas sem prêmio histórico de retorno",
-          "summary": "O índice acumula queda de 11,5% nos seis meses anteriores ao primeiro turno, abaixo do padrão de outros anos eleitorais. Juros altos nos EUA, tensão geopolítica e a concorrência de ativos mais seguros tiram o ganho que compensaria o risco.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/eleicao-eleva-risco-e-ibovespa-chega-as-urnas-sem-premio-historico-de-retorno/",
-          "time": "ontem, 17:41"
+          "time": "03/10"
         },
         {
           "title": "Orçamento, inflação e juros altos: os desafios econômicos da próxima gestão",
           "summary": "O próximo presidente herda dívida em 82,9% do PIB e orçamento com mais de 90% de despesas obrigatórias. Também terá de tocar a reforma tributária a partir de 2027 e estimular produtividade e minerais críticos.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/orcamento-inflacao-e-juros-altos-os-desafios-economicos-da-proxima-gestao/",
-          "time": "ontem, 23:58"
-        },
-        {
-          "title": "Crédito caro nos EUA pressiona demanda e oferta, diz especialista",
-          "summary": "Com hipotecas acima de 7% ao ano, as compras de imóveis recuam e os negócios demoram mais a fechar. O Fed enfrenta um dilema entre inflação persistente e sinais de desaceleração, como o ISM industrial.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/credito-caro-nos-eua-pressiona-demanda-e-oferta-diz-especialista/",
-          "time": "hoje, 07:00"
-        },
-        {
-          "title": "Híbridos asiáticos ganham mercado nos EUA com alta dos combustíveis",
-          "summary": "Com a gasolina perto de US$ 4 o galão, Hyundai, Kia, Toyota e Honda ampliam vendas, enquanto Ford, GM e Stellantis ficam para trás por falta de modelos eficientes. Os elétricos puros recuaram depois do fim do crédito fiscal de US$ 7,5 mil.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/hibridos-asiaticos-ganham-mercado-nos-eua-com-alta-dos-combustiveis/",
-          "time": "hoje, 04:00"
+          "time": "03/10"
         },
         {
           "title": "Justiça dos EUA não reabrirá investigação criminal contra Powell por reforma do Fed",
@@ -225,6 +225,20 @@
       "id": "programacao",
       "label": "Programação",
       "items": [
+        {
+          "title": "Falha crítica no FortiMail (CVSS 9.8) é explorada e entra no catálogo da CISA",
+          "summary": "A vulnerabilidade CVE-2026-104286 permite que invasores sem autenticação gravem arquivos arbitrários via requisições HTTP/HTTPS e afeta as versões 7.2.0 a 8.0.1. A Fortinet confirmou exploração ativa, e agências federais americanas tinham até 4 de outubro para corrigir.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+          "time": "02/10"
+        },
+        {
+          "title": "Google lança bibliotecas AndroidX Security State para verificar patches de segurança por componente",
+          "summary": "As bibliotecas definem três níveis de patch (instalado, publicado e disponível), em vez de depender de uma data única no dispositivo. Apps de banco e soluções MDM podem exigir atualizações específicas antes de operações sensíveis.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/android-security-state-libs/",
+          "time": "04/10"
+        },
         {
           "title": "Falha crítica no GitLab (CVSS 10.0) é explorada ativamente para ler arquivos sem autenticação",
           "summary": "Uma vulnerabilidade de path traversal atinge instâncias autogerenciadas do GitLab de várias versões recentes e exige apenas um projeto público no servidor. Invasores já a exploraram para roubar credenciais e configurações poucas horas após a divulgação. Correções saíram nas versões 19.3.2, 19.2.6 e 19.1.8.",
@@ -252,20 +266,6 @@
           "source": "InfoQ",
           "url": "https://www.infoq.com/news/2026/10/docker-sandbox-ai-agent/",
           "time": "02/10"
-        },
-        {
-          "title": "Istio 1.31 traz waypoints do agentgateway e deixa de publicar artefatos no Google Cloud",
-          "summary": "A versão adiciona suporte ao agentgateway no modo ambient e permite deslocar tráfego canário entre waypoints por anotações. Imagens e charts Helm deixam de ser publicados no Google Cloud, exigindo migração de repositório antes de um teste de indisponibilidade em 13 de outubro.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/",
-          "time": "03/10"
-        },
-        {
-          "title": "Envoy Gateway 1.9.1 reforça segurança e corrige problema no caminho de atualização",
-          "summary": "A versão de manutenção reverte uma mudança de timeout da 1.9.0, voltando ao padrão de 15 segundos para evitar proxies presos em aquecimento. Também passa a usar AES-256-GCM em sessões OAuth2/OIDC e desativa o fallback inseguro por HTTP na obtenção de imagens WebAssembly.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/envoy-gateway-1-9-1/",
-          "time": "02/10"
         }
       ]
     },
@@ -274,25 +274,18 @@
       "label": "IA",
       "items": [
         {
+          "title": "Microsoft recomenda controles de dados rígidos para adoção de IA no governo",
+          "summary": "No Digital Defense Report 2026, a empresa sugere credenciais de curta duração restritas a uma única invocação e caminhos de escrita de memória separados, para impedir que instruções externas comprometam regras confiáveis. Também propõe centros de operações de segurança multi-inquilino.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/microsoft-recommends-data-controls-for-government-ai-adoption/",
+          "time": "02/10"
+        },
+        {
           "title": "OpenAI demite três pesquisadores de segurança por compartilhar informações sensíveis",
           "summary": "Jasmine Wang, Tomek Korbak e Mikita Balesni teriam repassado detalhes de infraestrutura a um grupo externo de segurança em IA, violando regras internas. O caso ocorre em meio a críticas às práticas de segurança da empresa e a escrutínio regulatório da FTC.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
           "time": "02/10"
-        },
-        {
-          "title": "AMD vai comprar a World Labs, criadora do modelo de mundo Marble, por US$ 8,2 bilhões",
-          "summary": "O negócio é todo em ações e deve fechar até o fim de 2026. O Marble gera ambientes 3D usados em robótica e design, e a compra levanta dúvidas sobre como a AMD lidará com a compatibilidade com as ferramentas de simulação da Nvidia.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/amd-world-labs-world-models-enterprise/",
-          "time": "29/09"
-        },
-        {
-          "title": "Nvidia e mais de 100 parceiros lançam plataforma aberta de segurança para agentes de IA",
-          "summary": "A plataforma une o OpenShell, runtime com isolamento em nível de kernel, ao Sentry, que monitora a comunicação dos agentes direto em hardware BlueField. A meta é impedir que agentes autônomos escapem de seus limites.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/nvidia-over-100-partners-launch-open-ai-agent-safety-platform/",
-          "time": "28/09"
         },
         {
           "title": "Archestra apresenta OpenAPPA, framework aberto que barra vazamento de dados em agentes de IA",
@@ -309,6 +302,13 @@
           "time": "02/10"
         },
         {
+          "title": "AMD vai comprar a World Labs, criadora do modelo de mundo Marble, por US$ 8,2 bilhões",
+          "summary": "O negócio é todo em ações e deve fechar até o fim de 2026. O Marble gera ambientes 3D usados em robótica e design, e a compra levanta dúvidas sobre como a AMD lidará com a compatibilidade com as ferramentas de simulação da Nvidia.",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/amd-world-labs-world-models-enterprise/",
+          "time": "29/09"
+        },
+        {
           "title": "Meta amplia o agente Muse com conectores de software para pequenas empresas",
           "summary": "O Muse passa a automatizar tarefas como contabilidade, redes sociais e atendimento, integrando Facebook, Instagram, Canva e sistemas próprios via programa de parceiros. Os recursos básicos são gratuitos e o uso intenso exige assinatura.",
           "source": "AI News",
@@ -322,18 +322,32 @@
       "label": "Taboão da Serra",
       "items": [
         {
+          "title": "Lula vence a eleição presidencial em Taboão da Serra com 49,63% dos votos válidos",
+          "summary": "Lula somou 79.435 votos na cidade, contra 39,15% de Flávio Bolsonaro. Foram mais de 170 mil votos em 599 seções eleitorais.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/lula-vence-eleicao-presidencial-em-taboao-da-serra-com-4963-dos-votos/",
+          "time": "ontem"
+        },
+        {
+          "title": "Analice Fernandes, Ely Santos e Ney Santos são eleitos e região amplia representação",
+          "summary": "Analice Fernandes (PSD) conquistou o sétimo mandato de deputada estadual, com 88.752 votos, e Ely Santos (Republicanos) foi eleito estadual com 82.558. Ney Santos (Republicanos) foi eleito deputado federal com 118.565 votos.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/analice-fernandes-ely-santos-e-ney-santos-sao-eleitos-e-regiao-amplia-representacao-nas-eleicoes-2026/",
+          "time": "ontem"
+        },
+        {
           "title": "Cerca de 211,9 mil eleitores vão às urnas neste domingo em Taboão da Serra",
           "summary": "Segundo a Justiça Eleitoral, 211,9 mil eleitores de Taboão da Serra votam hoje para presidente, governador, senadores e deputados, das 8h às 17h. As mulheres são maioria, com cerca de 54% do eleitorado local.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/cerca-de-2119-mil-eleitores-vao-as-urnas-neste-domingo-em-taboao-da-serra/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Taboão da Serra, Embu e região terão transporte gratuito no dia da eleição, domingo (4)",
           "summary": "Metrô e trens metropolitanos terão tarifa zero para eleitores da região neste domingo. As operadoras vão reforçar a frota e o número de funcionários nas estações.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/taboao-da-serra-embu-das-artes-itapecerica-e-regiao-transporte-sera-gratuito-no-dia-da-eleicao-no-domingo-4/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Saúde de Taboão promove ações de prevenção aos cânceres de mama e colo do útero",
@@ -348,20 +362,6 @@
           "source": "Prefeitura de Taboão da Serra",
           "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1677/taboao-da-serra-cria-vitrine-virtual-para-garantir-um-novo-lar-a-animais-resgatados/",
           "time": "30/09"
-        },
-        {
-          "title": "Sérgio Vaz visita escola em encontro do Projeto Poesia Periférica",
-          "summary": "O poeta conversou com alunos do 4º ano da EMEB Vinícius de Morais, que fizeram perguntas e apresentaram suas próprias composições.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1678/sergio-vaz-visita-a-emeb-vinicius-de-morais-em-encontro-do-projeto-poesia-periferica/",
-          "time": "30/09"
-        },
-        {
-          "title": "Taboão sedia treinamento regional sobre tuberculose",
-          "summary": "A Secretaria de Saúde, com o CVE estadual, capacitou profissionais de cidades vizinhas em diagnóstico, tratamento e prevenção da doença, que tem cura em seis meses quando bem tratada.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1675/taboao-da-serra-sedia-treinamento-regional-para-profissionais-da-saude-sobre-tuberculose/",
-          "time": "29/09"
         }
       ]
     },
@@ -369,6 +369,13 @@
       "id": "tenis",
       "label": "Tênis",
       "items": [
+        {
+          "title": "Djokovic vence em Pequim e iguala recorde de Nadal",
+          "summary": "Em 2 de outubro, Novak Djokovic derrotou o chinês Bu Yunchaokete por 2 sets a 1 (4/6, 7/6 e 6/2) na segunda rodada do ATP 500 de Pequim. A 31ª vitória seguida no torneio iguala a marca de Nadal em Roland Garros.",
+          "source": "Lance!",
+          "url": "https://www.lance.com.br/tenis/novak-djokovic-vence-em-pequim-e-iguala-recorde-de-rafael-nadal.html",
+          "time": "02/10"
+        },
         {
           "title": "Sinner desiste do Masters de Xangai por lesão no joelho",
           "summary": "O número 1 do mundo segue com problema no joelho direito e está sem jogar desde a final de Wimbledon, em julho. A ausência abre espaço para Zverev se aproximar da liderança do ranking.",
@@ -402,13 +409,6 @@
           "summary": "Parado desde agosto por lesões, o brasileiro é o 29º do mundo. A volta está prevista para o ATP 500 de Basileia, em 26 de outubro.",
           "source": "Lance!",
           "url": "https://www.lance.com.br/tenis/joao-fonseca-cai-no-ranking-e-ve-top-30-ameacado-apos-pausa-na-temporada.html",
-          "time": "29/09"
-        },
-        {
-          "title": "João Fonseca é confirmado no Rio Open 2027",
-          "summary": "Aos 20 anos, o carioca jogará o ATP 500 do Rio pela quinta vez seguida, em fevereiro. O torneio terá estádio maior, com capacidade para 9.500 pessoas.",
-          "source": "Sportbuzz",
-          "url": "https://sportbuzz.com.br/tenis/2026/09/29/joao-fonseca-e-confirmado-no-rio-open-2027/",
           "time": "29/09"
         }
       ]
