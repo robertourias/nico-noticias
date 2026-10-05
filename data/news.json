@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-05T07:59:00-03:00",
+  "updatedAt": "2026-10-05T14:02:00-03:00",
   "markets": {
-    "asOf": "Bolsas e câmbio: fechamento de 02/10 · Nasdaq 100: fechamento de 01/10 · euro: PTAX de 02/10 · cripto (24h) às 08:00 de 05/10",
+    "asOf": "Ibovespa, dólar e euro intradia (~11h–14h) de 05/10 · Wall Street e Nasdaq 100: fechamento de 02/10 · SOL (24h) às 14h",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "192.115 pts",
-        "change": 2.63
+        "value": "209.606 pts",
+        "change": 8.93
       },
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.772 pts",
-        "change": 0.43
+        "value": "3.818 pts",
+        "change": 1.23
       },
       {
         "id": "cdi-selic",
@@ -30,8 +30,8 @@
       {
         "id": "nasdaq100",
         "label": "Nasdaq 100",
-        "value": "30.495 pts",
-        "change": null
+        "value": "30.808 pts",
+        "change": 1.0
       },
       {
         "id": "dow",
@@ -42,32 +42,32 @@
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,22",
-        "change": -0.08
+        "value": "R$ 4,98",
+        "change": -4.93
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,88",
-        "change": 0.55
+        "value": "R$ 5,56",
+        "change": -5.41
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 86.088",
-        "change": 1.0
+        "value": "US$ 86.122",
+        "change": null
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.716",
-        "change": 0.6
+        "value": "US$ 2.718",
+        "change": null
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 120,72",
-        "change": 0.3
+        "value": "US$ 120,78",
+        "change": -0.49
       }
     ]
   },
@@ -88,46 +88,81 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Flávio Bolsonaro tem 47,03% e Lula 45,16%; segundo turno será em 25 de outubro",
-          "summary": "Com 99,99% das urnas apuradas, Flávio Bolsonaro somou cerca de 56,1 milhões de votos e Lula 53,8 milhões, uma diferença de 1,87 ponto percentual. Os dois disputam o segundo turno marcado para 25 de outubro.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-supera-pai-e-tem-mais-votos-que-jair-bolsonaro-no-1o-turno/",
+          "title": "Direita amplia força nos Estados e vence 10 de 19 governos no primeiro turno",
+          "summary": "Candidatos de direita levaram dez dos dezenove governos estaduais definidos já no primeiro turno. O PL venceu em cinco estados, o Republicanos em três e o PP em dois, o que dá capital político a Flávio Bolsonaro para o segundo turno.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/direita-amplia-forca-nos-estados-e-vence-10-de-19-governos-no-primeiro-turno/",
+          "time": "ontem, 22:37"
+        },
+        {
+          "title": "Flávio diz que Congresso está configurado para um presidente como ele",
+          "summary": "Depois de o PL eleger 19 senadores e 121 deputados federais, Flávio Bolsonaro afirmou que o Legislativo que sai das urnas favorece um governo seu. Ele prometeu trabalhar com governadores e prefeitos, colocando o povo acima das questões partidárias.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/flavio-diz-que-congresso-esta-configurado-para-um-presidente-como-ele/",
+          "time": "hoje, 13:54"
+        },
+        {
+          "title": "EUA reabrem embaixada e consulados no Brasil após alerta de segurança",
+          "summary": "As representações americanas voltaram a funcionar normalmente hoje, depois de fecharem na sexta-feira, véspera da eleição. A Polícia Federal cumpriu mandados para apurar um suposto plano de atos contra instalações diplomáticas dos EUA, e a Austrália também chegou a fechar sua embaixada em Brasília.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/mundo/eua-reabrem-embaixada-e-consulados-no-brasil-apos-alerta-de-seguranca/",
           "time": "hoje"
         },
         {
-          "title": "Direita domina as urnas e Lula tem a pior votação em primeiro turno desde 1998",
-          "summary": "Lula perdeu cerca de 3,4 milhões de votos em relação a 2022 e teve o menor percentual no primeiro turno desde 1998. O PL ampliou o controle de governos estaduais e do Senado, com 28 cadeiras na próxima legislatura.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/direita-urnas-lula-derrota/",
-          "time": "hoje, 05:55"
+          "title": "Renan Calheiros fica fora do Senado após mais de 30 anos",
+          "summary": "O senador alagoano terminou em terceiro lugar na disputa e não conseguiu o quinto mandato, encerrando 32 anos seguidos na Casa. As duas vagas de Alagoas ficaram com Arthur Lira e com Marina JHC.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/renan-calheiros-fica-fora-do-senado-apos-mais-de-30-anos",
+          "time": "hoje, 00:30"
         },
         {
-          "title": "Lula perdeu em 714 cidades que havia vencido em 2022",
-          "summary": "Segundo levantamento, Lula manteve a maioria em 2.665 municípios, mas perdeu 714 cidades que ganhou em 2022, e Flávio conquistou 2.191 que eram de Bolsonaro. Minas Gerais e Tocantins mudaram de lado, e Lula manteve a liderança sobretudo no Nordeste.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-perdeu-em-mais-de-700-cidades-que-ganhou-em-2022-para-flavio-em-2026/",
-          "time": "hoje, 04:30"
-        },
-        {
-          "title": "Tarcísio vence no 1º turno e é reeleito governador de São Paulo",
-          "summary": "Com 90% das urnas apuradas, Tarcísio de Freitas somava 62,85% dos votos, contra 36,22% de Fernando Haddad. O vice Felício Ramuth também foi reeleito.",
+          "title": "Michelle Bolsonaro e Bia Kicis são eleitas senadoras pelo DF",
+          "summary": "As duas candidatas do PL ocuparam duas das três vagas do Distrito Federal, com Michelle recebendo 29,05% e Bia Kicis 27,44% dos votos. Michelle estreia na vida eleitoral, e o resultado faz o DF ser o primeiro estado com três mulheres no Senado.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/tarcisio-1-turno-reeleito-governo-sp",
-          "time": "ontem, 19:39"
+          "url": "https://www.metropoles.com/distrito-federal/michelle-bolsonaro-e-bia-kicis-sao-eleitas-senadoras-pelo-df",
+          "time": "ontem"
         },
         {
-          "title": "PL terá a maior bancada da Câmara; federação do PT fica em segundo",
-          "summary": "O PL elegeu 106 deputados, 20% das 513 cadeiras. O PT, com 67 deputados mais 15 de PV e PCdoB, soma 82, enquanto PSD e PP têm 36 cada.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/",
-          "time": "hoje"
+          "title": "Erika Hilton se torna a deputada federal mais votada da história do Brasil",
+          "summary": "A parlamentar do PSOL passou de 1,4 milhão de votos com 88% das urnas apuradas, superando o recorde anterior de Joice Hasselmann em 2018. Ela é a mulher mais votada para a Câmara na história do país.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/erika-hilton-se-torna-a-deputada-federal-mais-votada-da-historia-do-brasil",
+          "time": "ontem, 19:45"
         },
         {
-          "title": "Trump, Milei e Netanyahu repercutem resultado das eleições no Brasil",
-          "summary": "Milei parabenizou Flávio e disse que a liberdade avança na região, e Netanyahu citou a esperança de restaurar a amizade entre Israel e Brasil. Trump não citou candidatos, mas usou a rapidez da apuração brasileira para criticar o sistema eleitoral americano.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/flavio-lideres-direita-repercussao-1-turno/",
-          "time": "hoje, 06:11"
+          "title": "Zucco (PL) é eleito governador do Rio Grande do Sul em 1º turno",
+          "summary": "Com mais de 91% das urnas apuradas, Luciano Zucco tinha 57,88% dos votos contra 31,88% de Juliana Brizola (PDT). Ele tem passado militar e foi segurança de Dilma Rousseff antes de entrar na política em 2018.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/zucco-pl-e-eleito-governador-do-rio-grande-do-sul",
+          "time": "ontem, 19:18"
+        },
+        {
+          "title": "Portinho e Jordy, ambos do PL, são eleitos senadores no RJ",
+          "summary": "Carlos Portinho teve 26,77% e Carlos Jordy 24,56% dos votos no Rio de Janeiro. A eleição fluminense teve 23,33% de abstenção, além de 8,64% de votos em branco e 10,47% de nulos.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/portinho-e-jordy-ambos-do-pl-sao-eleitos-senadores-no-rj",
+          "time": "hoje, 00:47"
+        },
+        {
+          "title": "Ceará: Cid Gomes e Luizianne Lins são eleitos senadores",
+          "summary": "Cid Gomes (PSB) foi reeleito com 31,11% e Luizianne Lins (Rede), ex-prefeita de Fortaleza que deixou o PT recentemente, ficou com a segunda vaga, com 28,95%. Os dois já lideravam as pesquisas antes da votação.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/ceara-cid-gomes-e-luizianne-lins-sao-eleitos-senadores",
+          "time": "hoje, 00:42"
+        },
+        {
+          "title": "'Avisa a Jesus': homem invade igreja em SP e dá soco em bispo",
+          "summary": "Durante a missa de domingo na catedral de Caraguatatuba, um homem que chegou de moto agrediu o bispo e disse que a condenação de Jesus estava próxima. Fiéis o seguraram e a GCM o prendeu.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/avisa-a-jesus-homem-invade-igreja-em-sp-e-da-soco-em-bispo-veja-video/",
+          "time": "ontem"
+        },
+        {
+          "title": "São Paulo conquista Brasileirão pela primeira vez e coloca fim à hegemonia do Corinthians",
+          "summary": "No Campeonato Brasileiro Feminino, o São Paulo derrotou o Corinthians no Morumbi e interrompeu uma sequência de seis títulos da rival. O jogo teve recorde de público no futebol feminino do país, com 49.405 torcedores.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/esportes/futebol/sao-paulo-conquista-brasileirao-pela-primeira-vez-e-coloca-fim-a-hegemonia-do-corinthians/",
+          "time": "03/10"
         },
         {
           "title": "Kassio diz que urnas eletrônicas são seguras, transparentes e auditáveis",
@@ -135,41 +170,6 @@
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/brasil/kassio-diz-que-urnas-eletronicas-sao-seguras-transparentes-e-auditaveis",
           "time": "ontem"
-        },
-        {
-          "title": "Zema entrou com celular na cabine de votação; entenda a lei que proíbe a ação",
-          "summary": "O candidato do Novo votou em Araxá (MG) com o aparelho, o que a legislação veda por ferir o sigilo do voto. Ele disse que não foi alertado e que não fotografou nada; o TRE lembra que a pena pode chegar a dois anos de detenção.",
-          "source": "Band",
-          "url": "https://www.band.com.br/politica/zema-entrou-com-celular-na-cabine-de-votacao-entenda-lei-que-proibe-acao",
-          "time": "ontem"
-        },
-        {
-          "title": "PF detalha apreensão de mais de R$ 780 mil em balanço das eleições",
-          "summary": "Até o início da tarde, a Polícia Federal contabilizava seis inquéritos e 18 termos de ocorrência por crimes eleitorais em vários estados. No ano, já são mais de 1,2 mil ocorrências investigadas e R$ 45,6 milhões apreendidos.",
-          "source": "Band",
-          "url": "https://www.band.com.br/politica/eleicoes/pf-detalha-apreensao-de-mais-de-r-780-mil-em-balanco-das-eleicoes",
-          "time": "ontem"
-        },
-        {
-          "title": "Parlamento do Mercosul pede respeito aos resultados das eleições",
-          "summary": "A missão de observação do bloco afirmou que a votação transcorre normalmente e que instituições e partidos confiam no sistema eleitoral brasileiro. O acompanhamento seguirá até a proclamação final.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/eleicoes-parlamento-do-mercosul-pede-respeito-a-resultados",
-          "time": "ontem"
-        },
-        {
-          "title": "Ancelotti analisa Data Fifa e elege novatos que se destacaram na Seleção",
-          "summary": "Depois da vitória por 4 a 0 sobre a Índia, o técnico elogiou Jair, Bontempo e Breno Bidon. Ele comentou que jogadores com pouco minutagem nos clubes, como Estêvão e Endrick, sentiram mais dificuldade.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-analisa-data-fifa-e-elege-novatos-que-se-destacaram-pelo-brasil/",
-          "time": "ontem"
-        },
-        {
-          "title": "Senado terá dois terços favoráveis ao impeachment de ministros do STF, diz análise",
-          "summary": "A análise do blog de Daniel Rittner na CNN Brasil aponta que a composição do Senado eleita em 2026 terá maioria qualificada pró-impeachment de ministros do Supremo a partir de 2027.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/blogs/daniel-rittner/eleicoes/senado-tera-dois-tercos-pro-impeachment-de-ministros-do-stf-em-2027/",
-          "time": "hoje"
         }
       ]
     },
@@ -178,46 +178,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Ações brasileiras disparam em NY após resultado do 1º turno",
-          "summary": "O ETF EWZ, que replica o Ibovespa, chegou a subir cerca de 10% nos futuros dos EUA na noite de domingo, após a apuração com 99% das urnas. Analistas esperam reação positiva do Ibovespa, sobretudo de small caps e empresas endividadas, e fortalecimento do real.",
+          "title": "Dólar hoje desaba mais de 4% e vai a R$ 4,98 com resultado do 1º turno das eleições",
+          "summary": "A moeda americana recuou 4,42% e foi a R$ 4,986 na venda por volta das 11h51, depois de Flávio Bolsonaro superar as pesquisas e ficar à frente de Lula. O mercado leu o resultado como favorável a uma agenda fiscal mais dura.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-05102026-primeiro-turno-eleicoes/",
+          "time": "hoje, 11:51"
+        },
+        {
+          "title": "Juros futuros têm forte queda após Flávio ficar à frente no 1º turno",
+          "summary": "Os contratos de DI abriram com baixas de até cerca de 100 pontos-base nos vencimentos mais longos, com o de janeiro de 2035 em 13,16%. Investidores passaram a apostar mais em ajuste das contas públicas e em corte da Selic em novembro.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-brasileiras-disparam-em-ny-apos-resultados-do-1o-turno/",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-tem-forte-queda-apos-flavio-ficar-a-frente-no-1o-turno/",
           "time": "hoje"
         },
         {
-          "title": "Indústria recua 0,6% em agosto e frustra projeções",
-          "summary": "Segundo o IBGE, a produção industrial caiu 0,6% sobre julho e 1,2% na comparação anual, contra expectativa de alta de 0,1%. Dezesseis dos 25 ramos pesquisados recuaram, com a Selic em 13,75% pesando na atividade.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/producao-industrial-no-brasil-cai-06-em-agosto-e-frustra-projecoes/",
-          "time": "02/10"
-        },
-        {
-          "title": "Payroll: EUA criam 29 mil vagas em setembro, abaixo do esperado",
-          "summary": "A economia americana abriu 29 mil postos, contra 90 mil esperados, e o desemprego subiu a 4,2%. Os salários avançaram 0,13% no mês e 3,02% em 12 meses, reforçando a aposta em menos pressão por alta de juros pelo Fed.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/payroll-relatorio-emprego-eua-setembro-2026/",
-          "time": "02/10"
-        },
-        {
-          "title": "Petrobras atinge valor recorde de mercado de R$ 700 bi após descoberta no Amapá",
-          "summary": "A estatal anunciou nova descoberta em águas ultraprofundas na Foz do Amazonas e somou R$ 20,9 bilhões ao valor de mercado só na sexta. As ações preferenciais subiram 2,81% e as ordinárias, 3,25%. A presidente Magda Chambriard falou em nova fronteira exploratória.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petrobras-atinge-valor-recorde-de-mercado-de-r-700-bi-apos-descoberta-no-amapa/",
-          "time": "03/10"
-        },
-        {
-          "title": "Orçamento, inflação e juros altos: os desafios econômicos da próxima gestão",
-          "summary": "O próximo presidente herda dívida em 82,9% do PIB e orçamento com mais de 90% de despesas obrigatórias. Também terá de tocar a reforma tributária a partir de 2027 e estimular produtividade e minerais críticos.",
+          "title": "Focus: Mercado aumenta projeção de IPCA pela 3ª semana consecutiva",
+          "summary": "O boletim do Banco Central trouxe a inflação de 2026 em 5,01%, alta de 0,02 ponto percentual sobre a semana anterior. A Selic projetada ficou em 13,50%, o PIB foi reduzido para 1,85% e o câmbio seguiu em R$ 5,20.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/orcamento-inflacao-e-juros-altos-os-desafios-economicos-da-proxima-gestao/",
-          "time": "03/10"
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/focus-mercado-aumenta-projecao-de-ipca-pela-3a-semana-consecutiva/",
+          "time": "hoje, 09:17"
         },
         {
-          "title": "Justiça dos EUA não reabrirá investigação criminal contra Powell por reforma do Fed",
-          "summary": "O Departamento de Justiça informou que o relatório do inspetor-geral não achou conduta criminosa, mas apontou falhas de gestão que elevaram o custo da obra de US$ 1,3 bi para US$ 2,4 bi. O caso poderia ser reaberto se uma auditoria independente identificar crimes.",
+          "title": "Goldman: real pode se fortalecer mais após 1º turno e dólar pode chegar a R$ 4,50",
+          "summary": "O banco avalia que a votação de Flávio acima do esperado ajuda os ativos brasileiros e vê o dólar na faixa de R$ 4,50 a R$ 4,80. Cita a eleição de 2018, quando o real se valorizou durante o período eleitoral, mas diz que o rumo depende dos sinais de política econômica.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/justica-dos-eua-nao-reabrira-investigacao-criminal-contra-powell-por-reforma-do-fed/",
-          "time": "02/10"
+          "url": "https://www.infomoney.com.br/mercados/goldman-real-pode-se-fortalecer-mais-apos-1o-turno-e-dolar-pode-chegar-a-r-450/",
+          "time": "hoje, 08:13"
+        },
+        {
+          "title": "Euro despenca 5% ante real com crise fiscal na França e eleição no Brasil",
+          "summary": "A moeda europeia caiu 5,41% frente ao real e foi a R$ 5,555, pressionada pelos temores com a dívida francesa. O diferencial entre os títulos da França e da Alemanha chegou a cerca de 150 pontos-base, o maior desde 2011.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/euro-hoje-abertura-fechamento-05102026-primeiro-turno-eleicoes/",
+          "time": "hoje, 11:18"
+        },
+        {
+          "title": "Exportações de petróleo do Oriente Médio ultrapassam níveis pré-guerra",
+          "summary": "Segundo a Kpler, os embarques da região chegaram a 18,3 milhões de barris por dia em setembro, puxados pela Arábia Saudita, que ampliou envios pelo Mar Vermelho e pelo Golfo Pérsico. Os ataques a navios no Estreito de Ormuz continuam, com ao menos sete incidentes na última semana.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/exportacoes-de-petroleo-do-oriente-medio-ultrapassam-niveis-pre-guerra/",
+          "time": "hoje"
         }
       ]
     },
@@ -226,45 +226,45 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Falha crítica no FortiMail (CVSS 9.8) é explorada e entra no catálogo da CISA",
-          "summary": "A vulnerabilidade CVE-2026-104286 permite que invasores sem autenticação gravem arquivos arbitrários via requisições HTTP/HTTPS e afeta as versões 7.2.0 a 8.0.1. A Fortinet confirmou exploração ativa, e agências federais americanas tinham até 4 de outubro para corrigir.",
+          "title": "Nova falha zero-day no NetScaler, explorada em ataques, pode derrubar implantações SAML",
+          "summary": "A Citrix corrigiu a CVE-2026-88779, um estouro de memória (CVSS 8.7) no NetScaler ADC e Gateway que causa negação de serviço em ambientes configurados com SAML. A CISA incluiu a falha no catálogo de vulnerabilidades exploradas, com prazo até 7 de outubro para agências federais aplicarem o patch.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-          "time": "02/10"
+          "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+          "time": "hoje"
         },
         {
-          "title": "Google lança bibliotecas AndroidX Security State para verificar patches de segurança por componente",
-          "summary": "As bibliotecas definem três níveis de patch (instalado, publicado e disponível), em vez de depender de uma data única no dispositivo. Apps de banco e soluções MDM podem exigir atualizações específicas antes de operações sensíveis.",
+          "title": "Cloudflare planeja autoridade certificadora pública para certificados TLS resistentes a computação quântica",
+          "summary": "A empresa quer emitir gratuitamente certificados baseados em Merkle Tree Certificates, que agrupam emissões para evitar assinaturas pós-quânticas enormes. Clientes antigos continuam recebendo X.509 tradicional, e a emissão pública está prevista para o início de 2027.",
           "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/android-security-state-libs/",
-          "time": "04/10"
+          "url": "https://www.infoq.com/news/2026/10/postquatam-certificates/",
+          "time": "hoje"
         },
         {
-          "title": "Falha crítica no GitLab (CVSS 10.0) é explorada ativamente para ler arquivos sem autenticação",
-          "summary": "Uma vulnerabilidade de path traversal atinge instâncias autogerenciadas do GitLab de várias versões recentes e exige apenas um projeto público no servidor. Invasores já a exploraram para roubar credenciais e configurações poucas horas após a divulgação. Correções saíram nas versões 19.3.2, 19.2.6 e 19.1.8.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/",
-          "time": "03/10"
-        },
-        {
-          "title": "Agentes de IA estão desestabilizando a divulgação de falhas em projetos open source",
-          "summary": "Agentes autônomos conseguem transformar pistas públicas de uma vulnerabilidade em exploits funcionais, o que esvazia o modelo tradicional de embargo. Mantenedores precisam acelerar correções e pensar em proteções alternativas, pois até abrir um pull request pode disparar ataques automatizados antes do patch chegar aos usuários.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/open-source-ai-security/",
-          "time": "03/10"
-        },
-        {
-          "title": "Grupo Warlock explora falhas do SharePoint para desativar ferramentas de segurança e instalar ransomware",
-          "summary": "O grupo atacou ao menos quatro organizações em regiões de língua portuguesa e espanhola, usando web shells para extrair chaves de máquina do ASP.NET e obter execução remota de código. Em um caso contra operadora de infraestrutura crítica, uma ferramenta para desligar antivírus chegou a 40 hosts em cerca de duas horas.",
+          "title": "Apple prepara controles mais rígidos de Acesso Total ao Disco no macOS por causa de agentes de IA",
+          "summary": "A Apple pretende exigir autorização mais clara antes de conceder acesso amplo ao disco, diante do risco de agentes autônomos lerem dados sensíveis. A decisão vem após incidentes e falhas em apps de IA para Mac.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+          "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+          "time": "hoje"
+        },
+        {
+          "title": "Atacantes exploram falha no Rejetto HFS que permite forjar sessão de administrador e executar código",
+          "summary": "A CVE-2026-61500 usa um gerador de números aleatórios fraco na assinatura dos cookies de sessão, levando a acesso administrativo total e RCE. Há exploração ativa após a divulgação de uma prova de conceito no fim de setembro; o patch está na versão 3.2.1.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+          "time": "hoje"
+        },
+        {
+          "title": "Istio 1.31 traz waypoints do agentgateway e deixa de publicar artefatos no Google Cloud",
+          "summary": "A versão adiciona proxy de camada 7 ao modo ambient e permite deslocar tráfego em canary sem alterar clientes. Imagens e charts Helm saem do Google Cloud, exigindo migração antes da aposentadoria em dezembro.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/",
           "time": "03/10"
         },
         {
-          "title": "Docker propõe especificação para empacotar permissões de agentes de IA como imagens OCI",
-          "summary": "A Sandbox Kit Spec, levada ao CNCF, permite distribuir as permissões e ferramentas de um agente junto com ele, declarando capacidades como política de rede e credenciais que o host aprova ou nega. O Docker Sandboxes é o primeiro runtime compatível.",
+          "title": "Uber Eats reconstrói pipeline de busca e reduz latência de ponta a ponta em 50%",
+          "summary": "A equipe otimizou recuperação, ranking e anúncios, passando a medir o tempo até o conteúdo visível na tela, e ganhou mais de 200 ms. O aprendizado foi fazer menos trabalho, começar antes e remover dependências, sem grande mudança de arquitetura.",
           "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/docker-sandbox-ai-agent/",
+          "url": "https://www.infoq.com/news/2026/10/uber-eats-search-latency/",
           "time": "02/10"
         }
       ]
@@ -274,24 +274,38 @@
       "label": "IA",
       "items": [
         {
-          "title": "Microsoft recomenda controles de dados rígidos para adoção de IA no governo",
-          "summary": "No Digital Defense Report 2026, a empresa sugere credenciais de curta duração restritas a uma única invocação e caminhos de escrita de memória separados, para impedir que instruções externas comprometam regras confiáveis. Também propõe centros de operações de segurança multi-inquilino.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/microsoft-recommends-data-controls-for-government-ai-adoption/",
-          "time": "02/10"
+          "title": "OpenAI vai testar anúncios visuais no ChatGPT durante a geração de imagens",
+          "summary": "O piloto começa ainda em outubro com anunciantes selecionados nos EUA, com anúncios rotulados que mostram produtos e usos. A empresa diz que os anúncios não influenciam as respostas e cita 1,2 bilhão de usuários semanais.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+          "time": "hoje"
         },
         {
-          "title": "OpenAI demite três pesquisadores de segurança por compartilhar informações sensíveis",
-          "summary": "Jasmine Wang, Tomek Korbak e Mikita Balesni teriam repassado detalhes de infraestrutura a um grupo externo de segurança em IA, violando regras internas. O caso ocorre em meio a críticas às práticas de segurança da empresa e a escrutínio regulatório da FTC.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-          "time": "02/10"
+          "title": "Cohere lança North 2, plataforma de agentes com controle de gastos e memória",
+          "summary": "A atualização adiciona cotas, limites de uso e tetos de orçamento, além de memória entre sessões e nova orquestração. Pode rodar em nuvem, on-premises ou isolada, e aposta em portabilidade entre modelos.",
+          "source": "VentureBeat",
+          "url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory",
+          "time": "hoje"
         },
         {
-          "title": "Archestra apresenta OpenAPPA, framework aberto que barra vazamento de dados em agentes de IA",
-          "summary": "Em vez de métodos probabilísticos, o sistema aplica políticas determinísticas definidas em TOML. Segundo a matéria, bloqueou todos os ataques em dois benchmarks de segurança mantendo 89% de conclusão de tarefas.",
+          "title": "Mulher na Flórida usou o Claude como diário e a Anthropic denunciou um trecho à polícia",
+          "summary": "Os sistemas de segurança sinalizaram uma anotação com planos contra policiais, revisores humanos a consideraram crível e as autoridades foram avisadas, o que levou a acusações criminais. A Anthropic lembra que pode divulgar dados em emergências para evitar morte ou lesão grave.",
+          "source": "TechSpot",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "time": "ontem"
+        },
+        {
+          "title": "OpenAI apresenta GPT-6.1 Sol e novas APIs de agentes no DevDay 2026",
+          "summary": "O modelo promete qualidade próxima à do Astra por um quinto do preço. A Agents API ganhou uso de computador, e os desenvolvedores receberam ambientes Codex na nuvem e uma API de decisões para classificação.",
           "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/",
+          "url": "https://www.infoq.com/news/2026/10/openai-devday-2026/",
+          "time": "02/10"
+        },
+        {
+          "title": "IA Ataraxos vence campeão de Stratego em pesquisa publicada na Nature",
+          "summary": "O sistema, treinado com autojogo, lida com informação oculta, algo difícil para IAs de jogos tradicionais. Pesquisadores veem aplicação em decisões reais com incerteza; o artigo saiu em 30 de setembro.",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/johnwerner/2026/10/03/ataraxos-can-beat-you-at-stratego/",
           "time": "03/10"
         },
         {
@@ -300,20 +314,6 @@
           "source": "InfoQ",
           "url": "https://www.infoq.com/news/2026/10/digitalocean-managed-agents/",
           "time": "02/10"
-        },
-        {
-          "title": "AMD vai comprar a World Labs, criadora do modelo de mundo Marble, por US$ 8,2 bilhões",
-          "summary": "O negócio é todo em ações e deve fechar até o fim de 2026. O Marble gera ambientes 3D usados em robótica e design, e a compra levanta dúvidas sobre como a AMD lidará com a compatibilidade com as ferramentas de simulação da Nvidia.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/amd-world-labs-world-models-enterprise/",
-          "time": "29/09"
-        },
-        {
-          "title": "Meta amplia o agente Muse com conectores de software para pequenas empresas",
-          "summary": "O Muse passa a automatizar tarefas como contabilidade, redes sociais e atendimento, integrando Facebook, Instagram, Canva e sistemas próprios via programa de parceiros. Os recursos básicos são gratuitos e o uso intenso exige assinatura.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors/",
-          "time": "29/09"
         }
       ]
     },
@@ -322,45 +322,45 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Lula vence a eleição presidencial em Taboão da Serra com 49,63% dos votos válidos",
-          "summary": "Lula somou 79.435 votos na cidade, contra 39,15% de Flávio Bolsonaro. Foram mais de 170 mil votos em 599 seções eleitorais.",
+          "title": "Deputado estadual Eduardo Nóbrega amplia votação, mas não consegue reeleição para a Alesp",
+          "summary": "Eduardo Nóbrega (MDB) subiu de 53,6 mil para 65,3 mil votos, mas ficou como segundo suplente porque o partido elegeu só cinco deputados. Ele foi o mais votado em Taboão da Serra, com 17.940 votos, e segue no mandato até março de 2027.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/lula-vence-eleicao-presidencial-em-taboao-da-serra-com-4963-dos-votos/",
-          "time": "ontem"
+          "url": "https://otaboanense.com.br/deputado-estadual-eduardo-nobrega-amplia-votacao-mas-nao-consegue-reeleicao-para-a-alesp/",
+          "time": "hoje"
         },
         {
-          "title": "Analice Fernandes, Ely Santos e Ney Santos são eleitos e região amplia representação",
-          "summary": "Analice Fernandes (PSD) conquistou o sétimo mandato de deputada estadual, com 88.752 votos, e Ely Santos (Republicanos) foi eleito estadual com 82.558. Ney Santos (Republicanos) foi eleito deputado federal com 118.565 votos.",
+          "title": "Câmara Municipal aprova projeto de lei que prevê corrimãos em escadarias",
+          "summary": "Os vereadores aprovaram por unanimidade o PL 045/2026, que exige corrimãos em escadarias públicas ou de uso coletivo com mais de 25 degraus. A medida busca dar mais segurança a idosos e pessoas com mobilidade reduzida, e as escadas existentes terão 24 meses para se adequar.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/analice-fernandes-ely-santos-e-ney-santos-sao-eleitos-e-regiao-amplia-representacao-nas-eleicoes-2026/",
-          "time": "ontem"
+          "url": "https://otaboanense.com.br/taboao-da-serra-camara-municipal-aprova-projeto-de-lei-que-preve-corrimaos-em-escadarias/",
+          "time": "25/09"
         },
         {
-          "title": "Cerca de 211,9 mil eleitores vão às urnas neste domingo em Taboão da Serra",
-          "summary": "Segundo a Justiça Eleitoral, 211,9 mil eleitores de Taboão da Serra votam hoje para presidente, governador, senadores e deputados, das 8h às 17h. As mulheres são maioria, com cerca de 54% do eleitorado local.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/cerca-de-2119-mil-eleitores-vao-as-urnas-neste-domingo-em-taboao-da-serra/",
-          "time": "ontem"
-        },
-        {
-          "title": "Taboão da Serra, Embu e região terão transporte gratuito no dia da eleição, domingo (4)",
-          "summary": "Metrô e trens metropolitanos terão tarifa zero para eleitores da região neste domingo. As operadoras vão reforçar a frota e o número de funcionários nas estações.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-embu-das-artes-itapecerica-e-regiao-transporte-sera-gratuito-no-dia-da-eleicao-no-domingo-4/",
-          "time": "ontem"
-        },
-        {
-          "title": "Saúde de Taboão promove ações de prevenção aos cânceres de mama e colo do útero",
-          "summary": "A campanha Linha de Cuidado Rosa vai durante todo outubro, com atendimento gratuito nas 14 UBSs, incluindo preventivo e pedidos de mamografia para mulheres acima de 40 anos. Haverá um Dia D em 23 de outubro.",
+          "title": "Taboão da Serra sedia treinamento regional para profissionais da Saúde sobre tuberculose",
+          "summary": "A Secretaria de Saúde, com o Centro de Vigilância Epidemiológica do Estado, reuniu equipes de vários municípios para atualização em diagnóstico, tratamento e prevenção. A prefeitura orienta quem tem tosse por duas semanas ou mais a procurar uma UBS para exame de escarro.",
           "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1679/saude-promove-acoes-de-prevencao-ao-cancer-de-mama-e-ao-cancer-do-colo-do-utero-com-a-linha-de-cuidado-rosa/",
-          "time": "30/09"
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1675/taboao-da-serra-sedia-treinamento-regional-para-profissionais-da-saude-sobre-tuberculose",
+          "time": "29/09"
         },
         {
-          "title": "Taboão cria vitrine virtual para adoção de animais resgatados",
-          "summary": "O portal Adote um Pet permite escolher cães e gatos resgatados sem depender de feiras presenciais. Desde julho, 59 animais já foram adotados, todos castrados, vermifugados e vacinados.",
+          "title": "Shopping Taboão celebra Dia das Crianças com máquina de patinhos, quebra-cabeça e sorteio de videogame",
+          "summary": "O shopping lançou campanha de Dia das Crianças com sorteio de PlayStation 5, patinhos colecionáveis e quebra-cabeças de capivara surpresa. As ações valem de outubro a novembro para clientes do programa de benefícios.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/shopping-taboao-celebra-dia-das-criancas-com-maquina-de-patinhos-quebra-cabeca-e-sorteio-de-videogame/",
+          "time": "02/10"
+        },
+        {
+          "title": "Libertar pela Educação promove aulões gratuitos aos sábados de outubro em Taboão da Serra",
+          "summary": "A organização oferece quatro aulões gratuitos para vestibulandos, com Matemática, Redação, Ciências da Natureza e Ciências Humanas. As inscrições são feitas pelo Instagram ou pelo site da instituição.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/libertar-pela-educacao-promove-auloes-gratuitos-aos-sabados-de-outubro-em-taboao-da-serra/",
+          "time": "29/09"
+        },
+        {
+          "title": "Sérgio Vaz visita a EMEB Vinícius de Moraes em encontro do Projeto Poesia Periférica",
+          "summary": "O poeta Sérgio Vaz conversou com alunos do 4º ano, que fizeram perguntas e apresentaram poemas próprios. A prefeitura vê o encontro como um momento importante do percurso pedagógico e cultural do projeto.",
           "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1677/taboao-da-serra-cria-vitrine-virtual-para-garantir-um-novo-lar-a-animais-resgatados/",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1678/sergio-vaz-visita-a-emeb-vinicius-de-morais-em-encontro-do-projeto-poesia-periferica",
           "time": "30/09"
         }
       ]
@@ -370,11 +370,32 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Djokovic vence em Pequim e iguala recorde de Nadal",
-          "summary": "Em 2 de outubro, Novak Djokovic derrotou o chinês Bu Yunchaokete por 2 sets a 1 (4/6, 7/6 e 6/2) na segunda rodada do ATP 500 de Pequim. A 31ª vitória seguida no torneio iguala a marca de Nadal em Roland Garros.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/novak-djokovic-vence-em-pequim-e-iguala-recorde-de-rafael-nadal.html",
-          "time": "02/10"
+          "title": "Medvedev é desclassificado após acertar torcedor com bola e Djokovic vai à final em Pequim",
+          "summary": "Com Djokovic vencendo por 7/5 e 5/3, Medvedev rebateu uma bola na arquibancada e atingiu um espectador, sendo desqualificado. Djokovic enfrenta Alex de Minaur na final, que avançou após a desistência de Hurkacz.",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/tennis/news/13595259/daniil-medvedev-defaulted-for-hitting-spectator-with-ball-as-novak-djokovic-reaches-another-china-open-final",
+          "time": "hoje"
+        },
+        {
+          "title": "Sabalenka é eliminada por Bartunkova em Pequim, um dia após queda da nº 1 Rybakina",
+          "summary": "A número 2 do mundo perdeu por 6/4 e 6/3 para a tcheca, desperdiçando cinco break points no primeiro set. O WTA 1000 chega à segunda semana sem suas duas principais cabeças de chave.",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/tennis/news/13594878/china-open-aryna-sabalenka-suffers-shock-beijing-exit-a-day-after-new-world-no-1-elena-rybakina-was-knocked-out",
+          "time": "ontem"
+        },
+        {
+          "title": "Swiatek vira de 6/4 e 5/2 abaixo sobre Vekic e avança às oitavas em Pequim",
+          "summary": "A polonesa perdeu o primeiro set, venceu o tiebreak do segundo por 7/0 e fechou em 6/2 no terceiro. Ela pega Iva Jovic na sequência e alcançou sua 147ª vitória em WTA 1000.",
+          "source": "WTA Tennis",
+          "url": "https://www.wtatennis.com/news/4586662/swiatek-rallies-from-6-4-5-2-down-to-beat-vekic-and-reach-beijing-last-16",
+          "time": "hoje"
+        },
+        {
+          "title": "Osaka salva quatro set points, vence Bejlek e encara Muchova nas oitavas de Pequim",
+          "summary": "A japonesa levou 7/6(4) e 6/4 em mais de duas horas, sob vento e frio, e converteu o quinto match point. Seu próximo jogo é contra Karolina Muchova, que lidera o confronto direto por 4 a 3.",
+          "source": "WTA Tennis",
+          "url": "https://www.wtatennis.com/news/4586486/osaka-delivers-in-key-moments-to-outlast-bejlek-in-beijing-third-round",
+          "time": "ontem"
         },
         {
           "title": "Sinner desiste do Masters de Xangai por lesão no joelho",
@@ -389,27 +410,6 @@
           "source": "Lance!",
           "url": "https://www.lance.com.br/fora-de-campo/cazetv-transmite-volta-de-rafael-nadal-as-quadras-veja-quando.html",
           "time": "03/10"
-        },
-        {
-          "title": "Meligeni compara as pausas de Bia Haddad e João Fonseca",
-          "summary": "O ex-tenista diz que os casos não devem ser igualados: Bia se afastou por saúde mental, enquanto Fonseca faz pausa temporária de recuperação. Ele pediu que o público não pressione demais o jovem de 20 anos.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/meligeni-compara-pausas-de-bia-haddad-e-joao-fonseca.html",
-          "time": "03/10"
-        },
-        {
-          "title": "Alcaraz busca feito de três décadas em Tóquio",
-          "summary": "Atual campeão, Alcaraz estreou com vitória sobre Michelsen e pega Arnaldi na sequência. Nenhum jogador defende o título no torneio desde Sampras, em 1994.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/carlos-alcaraz-busca-superar-feito-de-mais-de-tres-decadas-em-toquio.html",
-          "time": "01/10"
-        },
-        {
-          "title": "João Fonseca cai no ranking e vê top 30 ameaçado",
-          "summary": "Parado desde agosto por lesões, o brasileiro é o 29º do mundo. A volta está prevista para o ATP 500 de Basileia, em 26 de outubro.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/joao-fonseca-cai-no-ranking-e-ve-top-30-ameacado-apos-pausa-na-temporada.html",
-          "time": "29/09"
         }
       ]
     },
@@ -418,46 +418,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Brasil firma acordo para ampliar produção nacional de imunoglobulina",
-          "summary": "A Hemobrás e a chinesa Tiantan Bio vão cooperar em registro, fornecimento e transferência de tecnologia do medicamento para doenças do sangue. O governo também anunciou R$ 116 milhões em equipamentos de armazenamento de plasma e R$ 38 milhões mensais para hemocentros.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-firma-acordo-para-ampliar-producao-de-imunoglobulina-medicamento-para-doencas-do-sangue",
-          "time": "02/10"
-        },
-        {
-          "title": "SUS destinará 140 veículos a 116 municípios paulistas",
-          "summary": "Serão 37 ambulâncias básicas, 90 do Samu 192 e 13 unidades odontológicas móveis, com investimento federal de R$ 43,3 milhões. A frota deve atender cerca de 26,4 milhões de pessoas.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/veiculos-do-sus-serao-destinados-a-116-municipios-paulistas",
+          "title": "São Paulo tem três novos casos de sarampo; total chega a 40 este ano",
+          "summary": "O estado confirmou mais três casos e soma 40 em 2026, com 90% das infecções concentradas na capital. As autoridades indicam tendência de queda na transmissão e reforçam a vacinação como prevenção.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/sao-paulo-tem-tres-novos-casos-de-sarampo-total-chega-40-este-ano",
           "time": "01/10"
         },
         {
-          "title": "Campanha alerta para riscos das apostas online e oferece atendimento no SUS",
-          "summary": "O Ministério lançou campanha sobre os danos das apostas à saúde mental e às finanças, com autoteste anônimo. O SUS oferece teleconsultas gratuitas pelo Meu SUS Digital e atendimento em UBS e Caps.",
+          "title": "Portaria libera doação de sangue de pessoas com mais de 70 anos",
+          "summary": "A nova portaria do Ministério da Saúde permite doar sangue a partir dos 70 anos, desde que haja aprovação clínica. Também reduz prazos de espera após tatuagens e procedimentos estéticos e inclui teste de malária em todas as triagens.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
+          "time": "30/09"
+        },
+        {
+          "title": "Dia da Pessoa Idosa: como o SUS se organiza para cuidar da população que mais cresce no País",
+          "summary": "Idosos são cerca de 17% da população e o SUS atende aproximadamente 80% deles. O ministério destaca o índice de vulnerabilidade clínico-funcional, a atenção domiciliar, novas vacinas pneumocócicas e o Farmácia Popular.",
           "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/campanha-do-ministerio-da-saude-orienta-sobre-riscos-das-apostas-online-e-atendimento-disponivel-no-sus",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/dia-da-pessoa-idosa-como-o-sus-se-organiza-para-cuidar-da-populacao-que-mais-cresce-no-pais",
           "time": "01/10"
         },
         {
-          "title": "Ministério da Saúde e Fiocruz investem em segundo laboratório de terapia CAR-T contra o câncer, no Ceará",
-          "summary": "O modelo modular e descentralizado busca reduzir custos e prazos da terapia celular avançada e ampliar o acesso pelo SUS. O primeiro laboratório foi inaugurado no Rio de Janeiro em maio de 2026.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-e-fiocruz-investem-em-laboratorio-no-ceara-para-terapia-contra-o-cancer",
+          "title": "Resistência às vacinas contra gripe e covid coloca gestantes em risco",
+          "summary": "Em 2025, só 55% das grávidas tomaram a vacina contra covid e 63% a da gripe, bem abaixo da meta de 90%. Especialistas dizem que os imunizantes são seguros e protegem também o bebê por meio dos anticorpos passados na gestação.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/resistencia-vacinas-contra-gripe-e-covid-coloca-gestantes-em-risco",
           "time": "29/09"
         },
         {
-          "title": "Ministério da Saúde libera formação gratuita para uso do combo de equipamentos das UBS",
-          "summary": "Cursos autoinstrucionais pela UNA-SUS ajudam profissionais a operar os equipamentos do Combo APS. Cinco cursos iniciais atendem categorias diferentes, com guias e manuais a serem ampliados para os 17 a 18 dispositivos do kit.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-disponibiliza-formacao-para-uso-de-combo-de-equipamentos-para-ubs",
+          "title": "Anvisa aprova medicamento para tratar esquistossomose em crianças",
+          "summary": "A agência aprovou o arpraziquantel da Farmanguinhos para crianças de 3 meses a 6 anos. O remédio paralisa os parasitas e permite que o sistema imune os elimine.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-medicamento-para-tratar-esquistossomose-em-criancas",
           "time": "30/09"
         },
         {
-          "title": "Ministro da Saúde visita nova UBS e Hospital Materno Infantil em Santarém (PA)",
-          "summary": "O hospital regional começa a operar cirurgias e atenderá cerca de 866 mil pessoas em 14 municípios do Baixo Amazonas. Três novas UBS do Novo PAC somam investimento acima de R$ 7 milhões.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministro-da-saude-visita-instalacoes-da-nova-unidade-basica-de-saude-e-hospital-materno-infantil-em-santarem-pa",
-          "time": "30/09"
+          "title": "Anvisa proíbe venda de cosméticos e manda recolher gel falsificado",
+          "summary": "Resolução publicada no Diário Oficial proíbe a venda de cosméticos e saneantes sem regularização sanitária. A agência também determinou o recolhimento de um lote falsificado de gel intravaginal.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-cosmeticos-e-manda-recolher-gel-falsificado",
+          "time": "02/10"
         }
       ]
     }
