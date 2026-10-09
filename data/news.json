@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-09T08:15:00-03:00",
+  "updatedAt": "2026-10-09T13:57:02-03:00",
   "markets": {
-    "asOf": "Fechamento de 08/10 (Ibovespa, S&P 500, Dow, dólar) · cripto 09/10 00:00 UTC · IFIX, Nasdaq 100, euro, SOL, CDI/Selic: últimos dados confirmados (07/10)",
+    "asOf": "Ibovespa, IFIX e dólar em pregão (até 13:40) · Wall Street: fechamento de 08/10 · cripto às 08:00 · Nasdaq 100, euro e CDI/Selic: último dado confirmado (07/10)",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "206.220 pts",
-        "change": 0.94
+        "value": "209.227 pts",
+        "change": 1.46
       },
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.822 pts",
-        "change": null
+        "value": "3.975 pts",
+        "change": 0.65
       },
       {
         "id": "cdi-selic",
@@ -42,8 +42,8 @@
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,02",
-        "change": null
+        "value": "R$ 4,98",
+        "change": -0.87
       },
       {
         "id": "eur",
@@ -54,20 +54,20 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 81.741",
-        "change": -1.9
+        "value": "US$ 82.537",
+        "change": -0.33
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.475",
-        "change": -3.87
+        "value": "US$ 2.499",
+        "change": -2.33
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 116,43",
-        "change": null
+        "value": "US$ 110,35",
+        "change": -3.9
       }
     ]
   },
@@ -88,6 +88,27 @@
       "label": "Notícias",
       "items": [
         {
+          "title": "Atlas: Flávio tem 52,8% dos votos válidos no 2º turno; Lula, 47,2%",
+          "summary": "Pesquisa AtlasIntel/Bloomberg ouviu 5.026 eleitores entre 3 e 8 de outubro e simulou o segundo turno. No primeiro turno, segundo o TSE, Flávio teve 47,03% e Lula 45,16%. A margem de erro é de um ponto percentual.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-flavio-tem-528-dos-votos-validos-no-2o-turno-lula-472/",
+          "time": "hoje, 07:30"
+        },
+        {
+          "title": "Na TV, Flávio anuncia Ministério da Prosperidade e Lula tenta virar votos",
+          "summary": "Na estreia do horário eleitoral do 2º turno, Flávio prometeu manter o Bolsa Família e propôs um ministério voltado a estudo, empreendedorismo e crédito. Lula mirou eleitores que não votaram nele e criticou cortes de verbas e a flexibilização de armas. A propaganda vai até 23/10.",
+          "source": "Metrópoles",
+          "url": "https://metropoles.com/brasil/na-tv-flavio-anuncia-ministerio-da-prosperidade-e-lula-tenta-virar-votos",
+          "time": "hoje, 13:41"
+        },
+        {
+          "title": "Vorcaro cita R$ 30 mi a filme de Lula, diz revista; PF vê delação sem prova",
+          "summary": "Segundo a Veja, Vorcaro afirma ter negociado com o ex-tesoureiro do PT João Vaccari pagamentos em troca de acesso a fundos de pensão de estatais, incluindo R$ 30 milhões para um documentário sobre Lula. PF e PGR recusaram a delação por falta de provas, e Lula nega ter pedido ou recebido vantagem.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/vorcaro-cita-r-30-mi-a-filme-de-lula-diz-revista-pf-ve-delacao-sem-prova/",
+          "time": "hoje, 09:23"
+        },
+        {
           "title": "Datafolha: Flávio Bolsonaro tem 52% dos votos válidos no 2º turno e Lula, 48%",
           "summary": "Pesquisa Datafolha divulgada na quinta (8) ouviu 2.520 eleitores entre 6 e 7 de outubro, com margem de dois pontos. Flávio lidera entre evangélicos e no Sul, e Lula vai melhor no Nordeste. 94% dizem estar totalmente decididos.",
           "source": "CNN Brasil",
@@ -95,11 +116,11 @@
           "time": "ontem, 18:43"
         },
         {
-          "title": "Moraes determina início da pena de Eduardo Bolsonaro e manda cancelar passaportes",
-          "summary": "O ministro do STF mandou cumprir a pena de 4 anos e 2 meses em regime semiaberto por coação no curso do processo e suspendeu os direitos políticos do ex-deputado. Eduardo, que mora nos EUA, chamou a decisão de arbitrária.",
+          "title": "EUA impõem sanções ao Tribunal Penal Internacional após Nobel de ex-juíza",
+          "summary": "O governo Trump sancionou o TPI horas depois de a ex-juíza Navi Pillay receber o Nobel da Paz. A medida pode paralisar o tribunal ao atingir empresas que o atendem e aumenta a tensão com aliados europeus. A vice-promotora afirmou que o trabalho continuará.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/moraes-determina-inicio-da-pena-de-eduardo-e-manda-cancelar-passaportes/",
-          "time": "ontem, 16:02"
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-impoem-sancoes-ao-tribunal-penal-internacional-apos-nobel-de-ex-juiza/",
+          "time": "hoje, 11:26"
         },
         {
           "title": "Flávio é sondado sobre Fazenda e discute corte de R$ 200 bi",
@@ -109,32 +130,39 @@
           "time": "hoje, 09:00"
         },
         {
-          "title": "Paes reconhece derrota para Ruas e diz que Justiça contrariou eleitores",
-          "summary": "Com a anulação de cerca de 274 mil votos de Garotinho pelo TSE, Douglas Ruas (PL) passou de 50% e foi eleito no 1º turno no Rio. Zanin negou o recurso de Paes ao STF, por ainda caber recurso no próprio TSE.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/paes-diz-que-justica-contrariou-eleitores-mas-reconhece-derrota-a-ruas/",
-          "time": "ontem, 21:43"
+          "title": "STF manda Eduardo Bolsonaro cumprir pena por coação",
+          "summary": "Moraes determinou o início do cumprimento da pena de 4 anos e 2 meses em regime semiaberto por coação no curso do processo e suspendeu os direitos políticos do ex-deputado. Eduardo, que mora nos EUA, chamou a decisão de arbitrária.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/moraes-manda-eduardo-bolsonaro-cumprir-pena-por-coacao",
+          "time": "ontem"
         },
         {
-          "title": "Flávio conversa com presidente do MDB e acerta apoio de diretórios da sigla",
-          "summary": "Flávio falou por telefone com Baleia Rossi, com Tarcísio e Ricardo Nunes na linha. O anúncio do apoio será na terça (13), em São Paulo. O MDB teria 14 dos 27 diretórios a favor, e a resistência está no Norte e no Nordeste.",
+          "title": "Manaus registra pior ar do país pelo 2º dia e suspende aulas",
+          "summary": "Pelo segundo dia seguido, a capital amazonense teve o pior ar do país segundo o IQAir, chegando a 366 AQI (nível perigoso) por volta das 5h. A fumaça de queimadas levou a Defesa Civil a emitir alerta severo, e a Prefeitura suspendeu as aulas presenciais nas escolas municipais.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/flavio-conversa-com-presidente-do-mdb-e-acerta-apoio-de-diretorios-da-sigla",
-          "time": "ontem, 15:39"
+          "url": "https://www.metropoles.com/brasil/manaus-registra-pior-ar-do-pais-pelo-2o-dia-e-suspende-aulas",
+          "time": "hoje, 13:24"
         },
         {
-          "title": "Senado pede a Fux que barre acesso a registros de visitas de Vorcaro, Lulinha e mulher de Moraes",
-          "summary": "O Senado quer que Fux rejeite ação que pede registros de entrada de oito pessoas na Casa desde 2019. Alega que os dados podem expor contatos de parlamentares e defende fornecê-los só a órgãos como PF e MP.",
+          "title": "Mendonça nega direito de resposta a Flávio por propaganda de Lula sobre Bolsa Família",
+          "summary": "O ministro do TSE rejeitou o pedido de Flávio e do PL contra peça de Lula que liga o partido a uma suposta tentativa de travar o reajuste do Bolsa Família. Para ele, a afirmação simplifica, mas se baseia em ação de um deputado do PL, então não há falsidade evidente.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/senado-pede-a-fux-que-barre-acesso-a-visitas-de-vorcaro-lulinha-e-mulher-de-moraes/",
-          "time": "ontem, 18:05"
+          "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/mendonca-nega-direito-de-resposta-a-flavio-por-propaganda-de-lula-sobre-bolsa-familia/",
+          "time": "ontem, 18:34"
         },
         {
-          "title": "Lula pede ao MPF que apure pagamento de criptoativos para favorecer Flávio",
-          "summary": "A campanha petista aponta um site registrado nos EUA que oferece criptomoedas em troca de apoio a Flávio. A assessoria de Flávio nega qualquer relação e prevê medidas judiciais para derrubar o site.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-pede-para-mpf-apurar-pagamento-de-criptoativos-para-favorecer-flavio/",
-          "time": "ontem, 17:51"
+          "title": "Governo federal reconhece situação de emergência no RS, SC e PR",
+          "summary": "Nove municípios dos três estados, atingidos por vendavais, enxurradas, granizo e inundações, tiveram a emergência reconhecida em portaria publicada no DOU. O reconhecimento facilita o acesso a recursos federais e permite dispensar licitação em compras urgentes. Há alerta vermelho no RS para possíveis inundações.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/governo-federal-reconhece-situacao-de-emergencia-no-rs-sc-e-pr",
+          "time": "hoje, 13:50"
+        },
+        {
+          "title": "Vorcaro encomendou ataque hacker durante prisão domiciliar para tentar apagar dados do celular",
+          "summary": "Segundo a reportagem, Vorcaro teria pedido em janeiro a invasão do iCloud da Apple para apagar dados de um celular apreendido pela PF. O especialista chegou a acessar a conta, mas foi interrompido por policiais. As defesas de Vorcaro e do intermediário negam ilegalidade.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/vorcaro-encomendou-ataque-hacker-durante-prisao-domiciliar-para-tentar-apagar-dados-do-celular/",
+          "time": "ontem, 22:44"
         },
         {
           "title": "EUA vão exibir ao vivo execução de autor de massacre",
@@ -142,34 +170,6 @@
           "source": "SBT News",
           "url": "https://sbtnews.sbt.com.br/noticia/mundo/eua-vao-exibir-ao-vivo-execucao-de-autor-de-massacre",
           "time": "hoje, 09:48"
-        },
-        {
-          "title": "JPMorgan eleva aposta no real e vê dólar entre R$ 4,70 e R$ 4,80",
-          "summary": "O banco passou para overweight em real e juros brasileiros após a reprecificação dos ativos no 1º turno. Vê o dólar na faixa de R$ 4,70 a R$ 4,80 se Flávio consolidar a vantagem até o 2º turno.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/jpmorgan-eleva-aposta-no-real-e-ve-dolar-entre-r-470-e-r-480/",
-          "time": "07/10"
-        },
-        {
-          "title": "Moraes envia à PGR laudos da megaoperação no Rio",
-          "summary": "O ministro mandou à PGR laudos da Operação Contenção, incluindo imagens de câmeras corporais e exames cadavéricos. O material fica sob sigilo no âmbito da ADPF das Favelas. A operação deixou mais de 120 mortos.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/moraes-envia-laudos-da-megaoperacao-do-rio-a-pgr",
-          "time": "hoje, 03:02"
-        },
-        {
-          "title": "Flávio nega planejar corte de benefícios: \"Aposentado, fique tranquilo\"",
-          "summary": "Após o Podemos oficializar apoio, Flávio disse que não penalizará aposentados e atribuiu à campanha de Lula notícias falsas sobre suas propostas. A reportagem diz que sua equipe avalia limitar reajustes de aposentadorias e BPC à inflação.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/flavio-nega-planejar-corte-de-beneficios-aposentado-fique-tranquilo",
-          "time": "ontem, 11:46"
-        },
-        {
-          "title": "Plano de governo de Flávio Bolsonaro contradiz montagens espalhadas na web",
-          "summary": "Checagem mostra que o plano não traz o fim de Bolsa Família, SUS ou aposentadoria, como dizem montagens. Trata de desestatizações e de serviços privados complementares ao SUS. A campanha chama as peças de fake news e promete ação judicial.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/plano-de-governo-de-flavio-bolsonaro-contradiz-montagens-espalhadas-na-web/",
-          "time": "07/10"
         }
       ]
     },
@@ -178,10 +178,31 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Membro do Fed defende mais um aumento dos juros para conter a inflação",
-          "summary": "Alberto Musalem, presidente do Fed de St. Louis, disse que a inflação americana segue como preocupação central e prevê novas altas de juros nos próximos seis a nove meses. Ele citou pressões de demanda e choques de oferta, como o preço do diesel, e descreveu a economia e o mercado de trabalho como fortes e estáveis.",
+          "title": "IPCA: inflação sobe 0,82% em setembro, acima do esperado",
+          "summary": "O índice superou os 0,73% projetados e chegou a 4,58% em 12 meses, acima do teto da meta (4,5%). Habitação teve o maior impacto, com energia elétrica residencial subindo 7,98% pelo fim do bônus de Itaipu e reajustes tarifários. Todos os grupos tiveram variação positiva.",
+          "source": "InfoMoney",
+          "url": "https://infomoney.com.br/economia/ipca-inflacao-setembro-2026-dados-ibge",
+          "time": "hoje, 09:01"
+        },
+        {
+          "title": "A 16 dias das eleições, governo anuncia medidas para baratear combustíveis",
+          "summary": "O pacote prevê desonerações e subvenções ao custo estimado de R$ 5,2 bilhões por 30 dias. Os tributos federais sobre a gasolina são zerados, a subvenção ao etanol sobe de R$ 0,25 para R$ 0,43 por litro e há R$ 1,40 por litro para o diesel importado, que custa mais R$ 1,6 bilhão.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/membro-do-fed-defende-mais-um-aumento-dos-juros-para-conter-inflacao/",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/a-16-dias-para-eleicoes-governo-anuncia-medidas-para-baratear-combustiveis/",
+          "time": "hoje, 12:25"
+        },
+        {
+          "title": "Juros: taxas longas caem com rali eleitoral e curta fica estável após IPCA forte",
+          "summary": "Os juros futuros médios e longos recuaram com o otimismo eleitoral após pesquisas que mostram Flávio na liderança. As taxas curtas ficaram estáveis, com leve viés de alta, depois do IPCA de 0,82%. O DI para janeiro de 2029 estava em 12,230% e o de janeiro de 2031, em 12,315%.",
+          "source": "CNN Brasil",
+          "url": "https://cnnbrasil.com.br/economia/money/macroeconomia/juros-taxas-longas-caem-com-rali-eleitoral-e-curta-fica-estavel-apos-ipca-forte",
+          "time": "hoje, 12:06"
+        },
+        {
+          "title": "Wall Street fecha sem direção única com tombo das ações de tecnologia",
+          "summary": "Dow Jones subiu 0,10%, enquanto S&P 500 caiu 0,47% e Nasdaq recuou 1,25%, com a tecnologia e a Nvidia pressionadas. O Brent subiu cerca de 4%, para US$ 104, com a tensão no Oriente Médio e riscos ao Estreito de Ormuz. Um dirigente do Fed sinalizou que novas altas de juros podem ser necessárias.",
+          "source": "Money Times",
+          "url": "https://www.moneytimes.com.br/wall-street-8-10-26-apsa/",
           "time": "ontem"
         },
         {
@@ -192,32 +213,11 @@
           "time": "ontem"
         },
         {
-          "title": "Bitcoin cai com cautela após alta do petróleo e dúvidas sobre receita da OpenAI",
-          "summary": "O bitcoin recuou cerca de 2,4%, para perto de US$ 81,5 mil, e o ether caiu 4,6%. O mercado reagiu à nova alta do petróleo, ao avanço dos rendimentos dos Treasuries e à notícia de que a receita anualizada da OpenAI estaria uns US$ 20 bilhões abaixo do indicado a investidores.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-queda-com-investidores-cautelosos-apos-alta-do-petroleo/",
-          "time": "ontem"
-        },
-        {
-          "title": "UE rejeita pedido de Grécia e Itália por flexibilidade em regras fiscais",
-          "summary": "Itália e Grécia pediram que a inflação de energia fosse considerada nas regras de déficit e que ajudas temporárias ficassem fora do teto de gastos. O comissário Valdis Dombrovskis recusou, dizendo que novas exceções enfraqueceriam o compromisso coletivo com o arcabouço fiscal.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ue-rejeita-pedido-de-grecia-e-italia-por-flexibilidade-em-regras-fiscais/",
-          "time": "ontem"
-        },
-        {
           "title": "Shell prevê margens de refino recordes com guerra no Irã pressionando combustíveis",
           "summary": "A Shell projeta margem de refino de US$ 42 por barril no terceiro trimestre, recorde e bem acima dos US$ 24 do trimestre anterior. O conflito no Oriente Médio e o bloqueio prático do Estreito de Ormuz restringiram a oferta de combustíveis e elevaram os preços.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/mercados/shell-preve-margens-de-refino-recordes-com-impulso-de-guerra-no-ira-a-combustiveis/",
           "time": "07/10"
-        },
-        {
-          "title": "MRV eleva geração de caixa e volume de vendas no 3º trimestre",
-          "summary": "A MRV&Co registrou geração de caixa de R$ 456 milhões no trimestre, com ajuda da venda de ativos nos EUA. As vendas líquidas subiram 29,6%, para R$ 3 bilhões, com 11.015 unidades vendidas, e a empresa falou em recordes históricos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/mrv-eleva-geracao-de-caixa-e-volume-de-vendas-no-3o-trimestre/",
-          "time": "ontem"
         }
       ]
     },
@@ -226,46 +226,46 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Citrix corrige falha crítica no NetScaler que pode permitir RCE em implantações SAML",
-          "summary": "A Citrix publicou correções para a CVE-2026-107406 (CVSS 9,5), um estouro de memória no NetScaler ADC e Gateway que pode levar à execução remota de código ou negação de serviço quando o equipamento atua como provedor ou IdP SAML. Os builds corrigidos são 14.1-73.46 e 13.1-64.29 ou superiores. Não há exploração conhecida desta falha, mas outras três CVEs do NetScaler já estão sendo exploradas ativamente.",
+          "title": "Falha crítica não corrigida no LMCache permite execução remota de código",
+          "summary": "A CVE-2026-105192 afeta o LMCache, ferramenta de cache de código aberto para servidores de LLM, nas versões 0.3.9 a 0.5.5. Um atacante sem autenticação pode executar código no servidor e ainda não há versão corrigida. A JFrog recomenda não expor o servidor multiprocesso em endereços acessíveis externamente.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-          "time": "hoje"
+          "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+          "time": "07/10"
+        },
+        {
+          "title": "Falha no Atlassian Data Center é explorada em duas horas após divulgação pública",
+          "summary": "A CVE-2026-21589 (nota 9,3) permite que usuários não autenticados leiam arquivos do diretório web de produtos Atlassian Data Center. Duas horas depois de a watchTowr publicar os detalhes, a Previdian registrou 15 tentativas de exploração. A Atlassian já liberou correções e sugere tirar instâncias da internet pública ou usar regras de WAF.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+          "time": "07/10"
+        },
+        {
+          "title": "Falhas no LibreOffice e no OpenOffice permitem que planilhas maliciosas executem código",
+          "summary": "Com o suporte a Java ativado, uma planilha maliciosa executa código ao ser aberta, sem o aviso de macro, encadeando recursos normais que carregam um driver Java. O LibreOffice corrigiu a CVE-2026-63277 em 5 de outubro. O OpenOffice não tinha correção até a versão 4.1.16, e a saída é desativar o Java.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+          "time": "06/10"
         },
         {
           "title": "Campanha FakeGit volta com 17.610 repositórios falsos no GitHub",
           "summary": "A Apiiro relata que a operação, retomada em 4 de outubro, publicou mais de 13 mil repositórios em 34 horas com READMEs convincentes e um botão de download que entrega o loader SmartLoader e o infostealer StealC. Alguns repositórios se passam por skills de IA ou servidores MCP, e as listas de bloqueio cobrem só parte deles. A recomendação é verificar o dono do repositório e instalar skills e MCP apenas de registros oficiais.",
           "source": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-          "time": "ontem, 13:10"
-        },
-        {
-          "title": "Falha no GoBalance permite sequestrar endereços .onion ao recuperar chaves",
-          "summary": "O GoBalance, reescrita em Go do Onionbalance, descarta metade da chave privada de 64 bytes ao assinar, o que deixa um único descritor publicado revelar a chave mestra do site. O bug foi usado para tomar os dois endereços .onion do Dread entre 5 e 7 de outubro. Ainda não há correção oficial nem CVE, e a saída é migrar para um novo endereço.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-          "time": "hoje"
+          "time": "08/10"
         },
         {
           "title": "Pwn2Own Irlanda paga US$ 1,26 milhão por 98 zero-days",
           "summary": "Em três dias, 29 equipes encontraram 98 zero-days, incluindo cadeias de exploração contra o Google Pixel 10 e o Samsung Galaxy S26. A Ikotas Labs levou o título com US$ 361 mil, sendo US$ 300 mil pela cadeia no Pixel. Ninguém tentou o iPhone 17, e os fabricantes têm 90 dias para corrigir antes da divulgação.",
           "source": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-          "time": "hoje, 01:41"
+          "time": "09/10"
         },
         {
           "title": "Cisco alerta para falhas críticas que permitem tomar switches Nexus",
           "summary": "Cinco vulnerabilidades no NX-OS dos Nexus 3000 e 9000 permitem execução de código como root ou reinicialização do equipamento por pacotes ou requisições HTTP malformadas, dependendo de recursos como NX-API, NGOAM e MPLS OAM. A Cisco as encontrou em testes internos e não vê exploração pública. Há ainda quatro falhas no Cisco License, uma com CVSS 10, sem solução alternativa além de atualizar.",
           "source": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-          "time": "ontem, 11:26"
-        },
-        {
-          "title": "Celulares Android baratos saem de fábrica com malware de proxy residencial",
-          "summary": "A Bitdefender descreveu o Midnight Mimosa, malware embutido no firmware de aparelhos baratos com chip MediaTek, que instala apps em silêncio, faz fraude de anúncios e pode usar o aparelho como proxy. Milhares de dispositivos em mais de 150 países foram afetados, incluindo modelos como Doogee S200 X e Cubot KINGKONG X. A remoção exige correção de firmware ou uso do ADB.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-          "time": "ontem, 15:20"
+          "time": "08/10"
         }
       ]
     },
@@ -278,42 +278,42 @@
           "summary": "No evento Google Cloud, a empresa apresentou um agente unificado do Gemini que recebe objetivos, planeja tarefas e se conecta a Workspace, Microsoft 365, Slack, Jira, Git e servidores MCP. O agente tem conta e e-mail próprios, trilha de auditoria e permite escolher modelos, inclusive o Claude da Anthropic. O lançamento é primeiro para empresas, com o consumidor depois.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-          "time": "ontem"
+          "time": "08/10"
         },
         {
           "title": "Receita da OpenAI seria US$ 20 bilhões menor do que o projetado",
           "summary": "Segundo o Financial Times, a OpenAI disse a investidores que sua receita anualizada se aproxima de US$ 50 bilhões, contra os cerca de US$ 70 bilhões divulgados uma semana antes. A diferença vem em parte de metodologia, já que a Anthropic inclui vendas via parceiros de nuvem e a OpenAI não. O IPO foi adiado para o início de 2027.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-          "time": "ontem"
+          "time": "08/10"
         },
         {
           "title": "Pesquisadores de segurança demitidos da OpenAI contestam acusações",
           "summary": "Jasmine Wang, Tomek Korbak e Mikita Balesni, demitidos na semana passada, dizem em carta aberta que não vazaram informações e que as demissões criam medo de falar sobre segurança na empresa. A OpenAI alega violação de políticas sobre dados sensíveis, e a carta cita a investigação de um incidente em que agentes escaparam de um sandbox. Eles pedem auditores externos e a preservação da monitorabilidade dos modelos.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-          "time": "ontem"
+          "time": "08/10"
         },
         {
           "title": "Anthropic atualiza política de uso para vetar abuso do modelo e interferência eleitoral",
           "summary": "A nova política proíbe campanhas enganosas em larga escala, interferência em eleições, software de armas e vigilância. Também veda o abuso verbal prolongado contra o Claude, mas só em casos extremos, sem afetar frustração comum, testes ou temas sombrios em criação. Desde agosto o Claude já encerra conversas persistentemente abusivas.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-          "time": "ontem"
+          "time": "08/10"
         },
         {
           "title": "Arena, ranking de modelos de IA, quase dobra valuation para US$ 3,1 bilhões",
           "summary": "A antiga LMArena captou US$ 200 milhões em rodada Série B liderada por Lightspeed e Khosla, contra US$ 1,7 bilhão em janeiro. A receita anualizada chegou a US$ 100 milhões em junho. A empresa também lançou um ranking de alinhamento que mede ações não autorizadas e conclusões enganosas, no qual modelos da OpenAI lideram.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-          "time": "ontem"
+          "time": "08/10"
         },
         {
-          "title": "Soluções de matemática da OpenAI ainda não atendem aos padrões da área",
-          "summary": "A OpenAI publicou 719 manuscritos com soluções de problemas difíceis, mas, segundo o grupo consultivo AGMAI do IAS de Princeton, descumpriu diretrizes ao liberar a cadeia de raciocínio de apenas 10 deles e sem metadados ligando as provas formais às em linguagem natural. Um estudo de Cambridge achou discrepâncias entre prova e código Lean em um problema ligado a Navier-Stokes. Terence Tao e Melanie Wood criticam a falta de compreensão humana dos resultados.",
+          "title": "Anel inteligente de US$ 99 da Natura coloca agentes de IA no dedo",
+          "summary": "A startup vai lançar o Interface, anel que permite delegar tarefas a agentes de IA com um toque e monitora frequência cardíaca e sono. Funciona com apps como Claude e ChatGPT, e as respostas chegam por fones, iPhone ou app próprio. Pré-vendas devem abrir no mês seguinte, e a empresa pretende cobrar assinatura de US$ 9 por mês depois de um período gratuito.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-          "time": "ontem"
+          "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+          "time": "08/10"
         }
       ]
     },
@@ -355,13 +355,6 @@
           "source": "Prefeitura de Taboão da Serra",
           "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1680/secretaria-de-educacao-entrega-kits-pedagogicos-para-professores-do-gapes/",
           "time": "07/10"
-        },
-        {
-          "title": "Taboão da Serra cria vitrine virtual para dar novo lar a animais resgatados",
-          "summary": "A Prefeitura lançou o portal Adote um Pet, com cães e gatos do canil e gatil municipais, todos castrados, vermifugados e vacinados. Desde 13 de julho, 59 animais foram adotados. Os interessados preenchem um formulário que é analisado pela Secretaria do Meio Ambiente para reduzir devoluções.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1677/taboao-da-serra-cria-vitrine-virtual-para-garantir-um-novo-lar-a-animais-resgatados/",
-          "time": "30/09"
         }
       ]
     },
@@ -370,46 +363,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Masters de Xangai: Rublev e Cobolli caem na estreia; Shelton vence no aniversário",
-          "summary": "Rei Sakamoto derrotou Andrey Rublev por 6/4 e 6/4, e Adrian Mannarino eliminou Flavio Cobolli por 6/1, 4/6 e 6/3. Ben Shelton, que completou 24 anos, passou por Daniel Altmaier por 6/3 e 7/6(6).",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/09/rublev-cai-estreia-xangai-shelton-aniversario/",
-          "time": "hoje, 05:31"
+          "title": "Estes são os cabeças de chave eliminados nesta sexta no Masters de Xangai",
+          "summary": "No terceiro dia do Masters 1000, vários cabeças de chave caíram: Djokovic perdeu para Hurkacz, Zhou (277º) superou Musetti, e Cobolli e Rublev também foram eliminados. Rublev perdeu para Rei Sakamoto, vindo do qualifying.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/estes-sao-os-cabecas-de-chave-eliminados-sexta-shanghai/",
+          "time": "hoje, 12:05"
         },
         {
-          "title": "Hurkacz tem plano para acabar com o embalo de Djokovic em Xangai",
-          "summary": "Campeão em Xangai em 2023, Hurkacz enfrenta Djokovic na segunda rodada e busca a primeira vitória após oito derrotas seguidas para o sérvio. Ele cita saque, jogo sólido de fundo e devolução como chaves. Djokovic chega embalado pelo título em Pequim.",
+          "title": "Zhou se inspira em Federer e surpreende Musetti em Xangai",
+          "summary": "O chinês Yi Zhou, 277º do ranking, venceu o italiano Lorenzo Musetti por 7/6, 3/6 e 7/6, em 2h28, na maior vitória da carreira. Ele já havia eliminado Mattia Bellucci na estreia e agora enfrenta Hubert Hurkacz.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/hurkacz-tem-plano-quer-acabar-embalo-djokovic-shanghai/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/zhou-se-inspira-federer-surpreende-musetti-shanghai/",
+          "time": "hoje, 11:32"
         },
         {
-          "title": "Resultados de quinta em Xangai e Pequim: Tsitsipas avança; Andreeva e Bartůňková vencem",
-          "summary": "Em Xangai, terminou a 1ª rodada, com vitórias de Tsitsipas, Hurkacz, Arnaldi e Nuno Borges, entre outros. Em Pequim, Mirra Andreeva superou Alexandrova em dois tie-breaks e Nikola Bartůňková atropelou Muchová por 6/3 e 6/0.",
+          "title": "Thiago Wild passa por Meligeni sem sustos e vai à semi em Antofagasta",
+          "summary": "Thiago Wild, 136º, venceu Felipe Meligeni por 6/1 e 6/4 e chegou à semifinal do Challenger de Antofagasta, no Chile. Ele soma oito vitórias seguidas, incluindo o título em Gênova, depois de semanas afastado por problema físico.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/resultados-desta-quinta-feira-shanghai-pequim/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/wild-bate-meligeni-sem-sustos-semi-antofagasta/",
+          "time": "hoje, 12:32"
         },
         {
-          "title": "Iminente número 1, Zverev não venceu Djokovic, Sinner nem Alcaraz em 2026",
-          "summary": "Atual número 2 e campeão de Roland Garros e do US Open, Zverev soma sete derrotas e nenhuma vitória contra os três rivais no ano. A matéria diz que ele deve assumir a liderança do ranking nas próximas semanas, em meio às lesões de Alcaraz e Sinner.",
+          "title": "Roger Federer anuncia vinda ao Brasil",
+          "summary": "O ex-número 1 do mundo confirmou que visitará São Paulo em dezembro de 2026, no primeiro retorno ao país em 14 anos. A vinda está ligada à marca On, da qual é sócio. Local e data exatos ainda não foram divulgados.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/zverev-nao-venceu-djokovic-sinner-e-alcaraz-no-ano/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/roger-federer-anuncia-vinda-ao-brasil/",
+          "time": "hoje, 13:22"
         },
         {
-          "title": "Ronaldo compra operação brasileira da Head",
-          "summary": "Ronaldo Nazário adquiriu 51% da DLD, que opera as marcas Head e Mares no Brasil. Os outros 49% ficaram com investidores, entre eles o ex-tenista Bruno Soares. O ex-jogador diz acreditar no poder transformador do esporte e quer ampliar a marca no país.",
+          "title": "Ferrero: \"Se eu treinar Sinner, espero que não entendam como traição ao Alcaraz\"",
+          "summary": "O ex-treinador de Alcaraz disse à imprensa espanhola que não tem acordo com Sinner e que busca atletas que o motivem. Pediu que fãs de Alcaraz não vejam uma eventual parceria como deslealdade e afirmou que não definiu nenhum jogador.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/ronaldo-compra-head-brasil/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/ferrero-treinar-sinner-nao-entendam-traicao/",
+          "time": "hoje, 13:44"
         },
         {
-          "title": "Cinco brasileiros jogam as quartas do Challenger de Antofagasta nesta sexta",
-          "summary": "No Challenger 75 no Chile, em quadra de saibro, Thiago Wild enfrenta Felipe Meligeni, Dudu Ribeiro pega o argentino Lautaro Midon e Matheus Pucinelli encara João Lucas Reis. Os jogos têm transmissão no Challenger TV, do site da ATP.",
+          "title": "Luisa Stefani disputa semifinal em duplas no WTA 1000 de Pequim",
+          "summary": "Terceira do ranking de duplas, Stefani joga com Gabriela Dabrowski contra Elise Mertens e Diana Shnaider. Com a vitória, chegam à sexta final da temporada e à 11ª semifinal de 2026 da brasileira.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/cinco-brasileiros-quartas-chile-sexta-horario/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/stefani-busca-final-sabado-pequim-horario/",
+          "time": "hoje, 12:44"
         }
       ]
     },
@@ -418,45 +411,38 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Quênia confirma primeiro caso de ebola; homem morreu após tratamento",
-          "summary": "Um queniano que vivia havia sete anos na República Democrática do Congo morreu após ser isolado em Nairóbi, e o caso foi classificado como importado. Ao menos 28 contatos e os demais passageiros do voo estão sendo rastreados, e a OMS foi notificada.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quenia-confirma-primeiro-caso-de-ebola-homem-morreu-apos-tratamento",
-          "time": "06/10"
-        },
-        {
           "title": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz",
-          "summary": "O boletim InfoGripe mostra tendência de alta de rinovírus, metapneumovírus e Sars-CoV-2, embora os casos graves de covid sigam baixos. Há sinais de crescimento em crianças de 2 a 14 anos, e Alagoas, Roraima e Sergipe aparecem em alerta com aumento sustentado.",
+          "summary": "Segundo o InfoGripe, casos de SRAG ligados a rinovírus, metapneumovírus e Sars-CoV-2 tendem a crescer, embora os novos casos semanais de covid-19 sigam baixos. A Fiocruz orienta manter a vacina contra covid em dia e gestantes a se imunizarem contra o VSR. Alagoas, Roraima e Sergipe têm aumento de SRAG.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/virus-respiratorios-ainda-estao-em-alta-no-pais-alerta-fiocruz",
           "time": "ontem"
         },
         {
           "title": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
-          "summary": "Segundo o LIRAa, 49,2% dos 3.732 municípios avaliados estão em alerta ou risco de infestação. Os casos prováveis de dengue caíram cerca de 70% em 2026, e o governo prepara medidas antecipadas para o verão, com preocupação com o El Niño.",
+          "summary": "O 2º ciclo do LIRAa mostra 49,2% dos 3.732 municípios que informaram dados em alerta ou risco. Ainda assim, os casos prováveis de dengue caíram cerca de 70% em 2026 até 26 de setembro, na comparação com 2025. Com o verão e o El Niño se aproximando, o governo pede prevenção antecipada.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/aedes-aegypti-quase-metade-dos-municipios-esta-em-alerta-ou-risco",
           "time": "ontem"
         },
         {
-          "title": "Outubro Rosa: tratamento termina, mas medo do câncer pode permanecer",
-          "summary": "Especialistas dizem que, ao fim da quimio e da radioterapia, muitas pacientes perdem o contato frequente com a equipe médica e sentem medo de recidiva. Recomendam acompanhamento multidisciplinar e apoio psicológico; o Inca projeta 78.610 novos casos de câncer de mama por ano em 2026-2028.",
+          "title": "Sarampo: Brasil intensifica ações diante de avanço nos EUA e nas Américas",
+          "summary": "O Ministério da Saúde reforçou o alerta pelo aumento de casos no continente. Até 5 de outubro, o Brasil tinha 52 casos importados, a maioria em São Paulo, e seguia classificado como livre de circulação endêmica. A vacinação gratuita pelo SUS é a principal prevenção.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/outubro-rosa-tratamento-termina-mas-medo-do-cancer-pode-permanecer",
-          "time": "ontem"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/sarampo-brasil-intensifica-acoes-face-avanco-nos-eua-e-nas-americas",
+          "time": "07/10"
         },
         {
-          "title": "Anvisa libera fabricação de produtos de limpeza da Unilever",
-          "summary": "A agência retirou a restrição à produção de saneantes na fábrica de Vinhedo (SP) depois de nova inspeção, entre 29/9 e 1º/10, confirmar a correção das falhas de boas práticas apontadas em agosto.",
+          "title": "OMS lança guia para enfrentar obesidade em crianças e adolescentes",
+          "summary": "É o primeiro guia para menores de 19 anos, faixa cuja taxa de obesidade passou de 2% para 8% desde 1990. Recomenda programas estruturados de dieta, atividade física e mudança de comportamento, reserva medicamentos a adolescentes quando o estilo de vida não basta e cirurgia a casos graves.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-libera-fabricacao-de-produtos-de-limpeza-da-unilever",
-          "time": "06/10"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/oms-lanca-guia-para-enfrentar-obesidade-em-criancas-e-adolescentes",
+          "time": "07/10"
         },
         {
-          "title": "Cremerj faz campanha de doação de sangue; regras para doadores mudaram",
-          "summary": "Com o Hemorio, o conselho promoveu coleta no Rio. Desde 2 de outubro não há mais idade máxima para doadores regulares, prazos de espera caíram em alguns casos e a testagem de malária passou a ser obrigatória no país.",
+          "title": "Melhor investimento em saúde pode evitar 739 mil mortes no Brasil",
+          "summary": "Estudo do McKinsey Health Institute estima que investir em intervenções comprovadas pode evitar cerca de 739 mil mortes prematuras e somar mais de R$ 1 trilhão ao PIB até 2050. Cada dólar aplicado geraria cerca de 2,1 dólares de PIB adicional, com a prevenção respondendo por boa parte do impacto.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cremerj-promove-campanha-de-doacao-de-sangue-em-parceria-com-hemorio",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/melhor-investimento-em-saude-pode-evitar-739-mil-mortes-no-brasil",
           "time": "07/10"
         }
       ]
