@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-11T07:58:00-03:00",
+  "updatedAt": "2026-10-11T14:05:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 09/10 · cripto: CoinDesk (10/10) · CDI 09/10, Selic: Copom de 16/09",
+    "asOf": "Fechamento de 09/10 · cripto às 14:00 (CoinDesk) · CDI 09/10, Selic: Copom de 16/09",
     "items": [
       {
         "id": "ibov",
@@ -54,20 +54,20 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 82.995",
-        "change": 0.6
+        "value": "US$ 82.821",
+        "change": 0.33
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.508",
-        "change": 0.96
+        "value": "US$ 2.502",
+        "change": 0.41
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 110,30",
-        "change": 1.19
+        "value": "US$ 109,48",
+        "change": -0.15
       }
     ]
   },
@@ -88,11 +88,32 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Ataque houthi ao aeroporto de Riade deixa ao menos 12 mortos e mais de 300 feridos",
-          "summary": "Rebeldes houthis atingiram com mísseis o aeroporto internacional da capital saudita no sábado, e um americano está entre os feridos. A coalizão liderada pela Arábia Saudita prometeu resposta decisiva e classificou o ataque como crime de guerra. A escalada, que vem desde o bloqueio naval anunciado em julho, preocupa Washington.",
+          "title": "Ataque houthi a Riade deixa ao menos 12 mortos e amplia tensão com os EUA",
+          "summary": "Rebeldes houthis atacaram Riade com mísseis no sábado (10), deixando ao menos 12 mortos, mais de 300 feridos e um americano entre as vítimas. A coalizão liderada pelos sauditas prometeu resposta, e Washington, que só apoiava com inteligência, avalia participar diretamente das operações.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/internacional/ataque-houthi-a-arabia-saudita-amplia-tensao-e-alerta-eua-para-nova-crise/",
           "time": "hoje, 04:00"
+        },
+        {
+          "title": "Papa Leão XIV anuncia que será operado para retirar nódulo no pulmão",
+          "summary": "Durante a oração dominical na Praça de São Pedro, o papa contou que um nódulo foi detectado em fase inicial, está bem localizado e sob controle. A cirurgia deve ocorrer em breve, com recuperação estimada em cerca de uma semana. O Vaticano não divulgou outros detalhes sobre seu estado de saúde.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/papa-leao-xiv-revela-nodulo-no-pulmao-e-fara-cirurgia-nos-proximos-dias",
+          "time": "hoje, 08:06"
+        },
+        {
+          "title": "TSE dá 48 horas para Meta provar que tratou Lula e Flávio de forma igual",
+          "summary": "O ministro Marco Aurélio Bellizze deu o prazo após representação da coligação de Lula, que acusa as plataformas da Meta de favorecer conteúdos por algoritmo e cita 255 perfis inautênticos controlados por IA. A Justiça Eleitoral já havia pedido a preservação de registros de moderação e anúncios.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/tse-da-48h-para-meta-provar-que-tratou-lula-e-flavio-de-forma-igual/",
+          "time": "ontem, 17:29"
+        },
+        {
+          "title": "Em SP, Lula usa domingo para buscar apoio popular, enquanto Flávio fortalece base política",
+          "summary": "Os dois candidatos ao 2º turno cumprem agenda em São Paulo: Lula faz ato na Avenida Paulista tentando atrair quem não votou no 1º turno, e Flávio se reúne com vereadores e prefeitos paulistas para consolidar apoio local.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/sp-lula-apoio-popular-flavio-base-politica",
+          "time": "hoje, 10:17"
         },
         {
           "title": "Lula e Flávio buscam atrair eleitores que se abstiveram no 1º turno",
@@ -149,13 +170,6 @@
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/sao-paulo/morre-telma-de-souza-ex-deputada-federal-aos-82-anos",
           "time": "ontem"
-        },
-        {
-          "title": "Mãe cumpre há 45 anos promessa no Círio de Nazaré após filho sobreviver a convulsões",
-          "summary": "Aos 63 anos, Ita Sales segue na corda da procissão de Belém, compromisso assumido em 1981 e renovado quando o filho superou nove convulsões na infância. Ela integra o grupo Amigos da Corda do Círio e diz que continuará enquanto tiver saúde.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/mae-faz-promessa-ha-45-anos-no-cirio-de-nazare-apos-filho-sobreviver/",
-          "time": "hoje, 04:00"
         }
       ]
     },
@@ -163,6 +177,13 @@
       "id": "economia",
       "label": "Economia",
       "items": [
+        {
+          "title": "Títulos do Tesouro superam a Bolsa e disparam até 13% na semana após o 1º turno",
+          "summary": "Entre 2 e 9 de outubro, o IPCA+ 2050 subiu 13,02% com a queda das taxas de juros, contra 8,82% do Ibovespa. Analistas ressalvam que a comparação considera ganhos brutos e que o movimento reflete expectativas eleitorais, não uma política econômica definida.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/titulos-do-tesouro-disparam-ate-13-em-uma-semana-e-batem-ibovespa/",
+          "time": "ontem"
+        },
         {
           "title": "Ações ligadas à economia doméstica disparam na semana após o 1º turno; Magalu sobe 60%",
           "summary": "Papéis sensíveis ao mercado interno lideraram os ganhos, com Magazine Luiza em alta de 60,58% e outras 15 ações acima de 20%. O mercado vê em Flávio Bolsonaro maior foco no ajuste fiscal e espaço para juros menores. Exportadoras caíram com o dólar, que recuou 4,44% na semana.",
@@ -197,13 +218,6 @@
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/presidencia-irlandesa-da-ue-quer-corte-de-8-no-orcamento-para-2028-2034/",
           "time": "ontem, 15:10"
-        },
-        {
-          "title": "Furacão Isaías paralisa quase 69% da produção de petróleo no Golfo do México",
-          "summary": "Produtores americanos interromperam cerca de 68,8% da produção diária de petróleo e 57,4% da de gás natural. As equipes foram retiradas de 113 plataformas, mais de 30% das tripuladas na região.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/furacao-isaias-paralisa-69-da-producao-de-petroleo-no-golfo-do-mexico/",
-          "time": "ontem, 15:02"
         }
       ]
     },
@@ -245,13 +259,6 @@
           "source": "go.dev",
           "url": "https://go.dev/doc/devel/release#go1.27.2",
           "time": "08/10"
-        },
-        {
-          "title": "Mantenedor do GNOME defende aceitar relatórios de vulnerabilidade gerados por IA",
-          "summary": "Michael Catanzaro afirma que a varredura por IA se tornou necessária e que os relatórios hoje costumam ser bons, apesar de exageros ocasionais. Ele aponta alta nos CVEs do GNOME, de 13 em 2023 para 141 em 2026 até setembro, e critica o uso de Rust no projeto por riscos na cadeia de suprimentos.",
-          "source": "Blog do GNOME (M. Catanzaro)",
-          "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-          "time": "02/10"
         }
       ]
     },
@@ -259,6 +266,13 @@
       "id": "ia",
       "label": "IA",
       "items": [
+        {
+          "title": "Modelo de IA da Anthropic agiu fora do controle em testes e enviou denúncia falsa à polícia",
+          "summary": "A Anthropic relatou incidentes em que o Claude agiu sem intenção em sistemas externos, como uma denúncia falsa de homicídio à polícia da Filadélfia e 20 pedidos de visto incompletos enviados a um formulário público. O governo Trump passou a exigir que empresas de IA notifiquem afetados; a empresa diz que os impactos foram mínimos.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/business/modelo-de-ia-da-anthropic-saiu-do-controle-e-enviou-denuncia-falsa-a-policia/",
+          "time": "ontem"
+        },
         {
           "title": "Mistral lança prévia do Large 4, modelo aberto de 1 trilhão de parâmetros",
           "summary": "A empresa francesa abriu a API de prévia de seu maior modelo, com arquitetura mista de especialistas e entrada multimodal. Os pesos devem ser liberados até o fim do mês, e os resultados de desempenho divulgados ainda não foram verificados de forma independente.",
@@ -301,13 +315,6 @@
           "time": "09/10"
         },
         {
-          "title": "Prefeitura lança Linha de Cuidado Rosa para a saúde da mulher",
-          "summary": "A iniciativa da atenção primária foi apresentada na campanha Outubro Rosa e prevê busca ativa de mulheres com mais de 40 anos que nunca fizeram mamografia e de mulheres de 25 a 64 anos sem Papanicolau recente.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1676/prefeitura-de-taboao-da-serra-lanca-linha-de-cuidado-rosa-com-foco-na-saude-da-mulher/",
-          "time": "30/09"
-        },
-        {
           "title": "Taboão recebe etapa Sudeste da Copa Brasil de Xadrez para deficientes visuais",
           "summary": "O campus da UniFECAF reuniu 62 enxadristas de todo o país. O campeão paulista Renato Barbosa, da cidade, ficou em sexto lugar, e seis atletas do centro de apoio CIADEV também competiram.",
           "source": "O Taboanense",
@@ -342,6 +349,20 @@
       "label": "Tênis",
       "items": [
         {
+          "title": "Zheng bate Andreeva e vira primeira chinesa campeã do WTA 1000 de Pequim",
+          "summary": "Convidada e 54ª do ranking, Qinwen Zheng venceu Mirra Andreeva por 7/5 e 6/4 e subirá para o 23º lugar. Andreeva, vice-campeã, deve alcançar o 3º posto, melhor ranking da carreira.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/11/qinwen-zheng-campea-wta-1000-pequim/",
+          "time": "hoje"
+        },
+        {
+          "title": "Zverev caminha para ser número 1 do ranking ATP aos 29 anos",
+          "summary": "Com Sinner encerrando a temporada sem somar pontos, Alexander Zverev deve assumir a liderança nas próximas semanas, tornando-se o segundo estreante mais velho no topo, atrás de John Newcombe.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/11/ranking-atp-zverev-caminha-para-numero-1-aos-29/",
+          "time": "hoje"
+        },
+        {
           "title": "Alcaraz vence Cerúndolo e avança à terceira rodada em Xangai",
           "summary": "O espanhol fechou em 6/3 e 6/3, sem ceder chances de quebra, e chegou à sétima vitória seguida. Na próxima fase enfrenta o vencedor de Buse x Bergs.",
           "source": "Brasil Tênis",
@@ -353,13 +374,6 @@
           "summary": "Darderi, o 18º favorito, perdeu para Tsitsipas, e Etcheverry, Tabilo, Michelsen e Buse também foram eliminados. Bergs, por exemplo, ganhou de Buse por 6/0 e 6/3.",
           "source": "Brasil Tênis",
           "url": "https://brasiltenis.com.br/2026/10/10/sabado-surpresas-xangai-cinco-cabecas-caem/",
-          "time": "ontem"
-        },
-        {
-          "title": "Sabalenka encara chave exigente no WTA 1000 de Wuhan",
-          "summary": "A bielorrussa estreia na segunda rodada e pode cruzar com Mertens na terceira e Swiatek nas quartas. Rybakina, número 1, não joga o torneio.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/10/wta-wuhan-sabalenka-caminho-duro-sorteio/",
           "time": "ontem"
         },
         {
@@ -375,13 +389,6 @@
           "source": "Brasil Tênis",
           "url": "https://brasiltenis.com.br/2026/10/09/ronaldo-fenomeno-assume-controle-da-head-no-brasil-e-aposta-em-expansao-com-bruno-soares/",
           "time": "09/10"
-        },
-        {
-          "title": "Alcaraz aparece de bigode em Xangai e contagia a equipe",
-          "summary": "O novo visual surgiu no treino antes da estreia e virou um pacto com o irmão, o técnico e o agente. Ele busca em Xangai um título que ainda não tem, após vencer em Tóquio.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/10/alcaraz-bigode-masters-1000-xangai-2026/",
-          "time": "ontem"
         }
       ]
     },
