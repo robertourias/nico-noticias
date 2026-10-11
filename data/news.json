@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-10T14:03:00-03:00",
+  "updatedAt": "2026-10-11T07:58:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 09/10 · cripto às 14:00 · Nasdaq 100: último dado confirmado (07/10) · CDI/Selic: Copom de 16/09",
+    "asOf": "Fechamento de 09/10 · cripto: CoinDesk (10/10) · CDI 09/10, Selic: Copom de 16/09",
     "items": [
       {
         "id": "ibov",
@@ -12,7 +12,7 @@
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.989 pts",
+        "value": "3.988,54 pts",
         "change": 0.98
       },
       {
@@ -24,61 +24,61 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.812 pts",
+        "value": "7.811,54 pts",
         "change": 0.59
       },
       {
         "id": "nasdaq100",
         "label": "Nasdaq 100",
-        "value": "31.076 pts",
-        "change": null
+        "value": "30.883,15 pts",
+        "change": 0.51
       },
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "51.655 pts",
+        "value": "51.654,95 pts",
         "change": 0.83
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 4,98",
+        "value": "R$ 4,985",
         "change": -0.78
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,58",
-        "change": -0.45
+        "value": "R$ 5,584",
+        "change": -0.89
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 82.718",
-        "change": 0.02
+        "value": "US$ 82.995",
+        "change": 0.6
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.495",
-        "change": 0.56
+        "value": "US$ 2.508",
+        "change": 0.96
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 110",
-        "change": 0.09
+        "value": "US$ 110,30",
+        "change": 1.19
       }
     ]
   },
   "weather": {
-    "date": "2026-10-10",
-    "condition": "sol e aumento de nuvens pela manhã, com pancadas de chuva à tarde e à noite",
+    "date": "2026-10-11",
+    "condition": "sol com aumento de nuvens, pancadas à tarde e chuva forte com trovoadas à noite",
     "min": 17,
-    "max": 31,
-    "rainChance": 77,
-    "rainMm": 20.0,
-    "uv": 8,
+    "max": 26,
+    "rainChance": 74,
+    "rainMm": 30,
+    "uv": 9,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp"
   },
@@ -88,88 +88,74 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Ipespe: Flávio tem 52,7% dos votos válidos no 2º turno e Lula, 47,3%",
-          "summary": "Pesquisa Ipespe feita de 6 a 8 de outubro, com 1.500 eleitores, mostra Flávio Bolsonaro (PL) à frente de Lula (PT) entre os votos válidos. A margem de erro é de 2,6 pontos percentuais e o levantamento está registrado no TSE. No 1º turno, Flávio teve 47,03% e Lula, 45,16%.",
+          "title": "Ataque houthi ao aeroporto de Riade deixa ao menos 12 mortos e mais de 300 feridos",
+          "summary": "Rebeldes houthis atingiram com mísseis o aeroporto internacional da capital saudita no sábado, e um americano está entre os feridos. A coalizão liderada pela Arábia Saudita prometeu resposta decisiva e classificou o ataque como crime de guerra. A escalada, que vem desde o bloqueio naval anunciado em julho, preocupa Washington.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/ipespe-flavio-tem-527-dos-votos-validos-no-2o-turno-lula-473/",
-          "time": "hoje, 10:00"
+          "url": "https://www.cnnbrasil.com.br/internacional/ataque-houthi-a-arabia-saudita-amplia-tensao-e-alerta-eua-para-nova-crise/",
+          "time": "hoje, 04:00"
         },
         {
-          "title": "Ataque da Rússia mata ao menos 20 em Zaporíjia após Trump flexibilizar sanções",
-          "summary": "Autoridades regionais dizem que um ataque russo a Zaporíjia, no sul da Ucrânia, matou ao menos 20 pessoas, três delas crianças, e feriu 18. A ofensiva veio um dia após Trump anunciar a suspensão de sanções ao diesel russo para conter preços de combustíveis. Zelensky criticou a Casa Branca.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ataque-da-russia-mata-deixa-mortos-na-ucrania-apos-trump-flexibilizar-sancoes/",
-          "time": "hoje, 13:15"
-        },
-        {
-          "title": "Tarcísio articula apoio de Ratinho Jr. e do PSD paulista a Flávio",
-          "summary": "Segundo a colunista Beatriz Manfredini, Ratinho Jr. (PSD) e prefeitos e deputados estaduais do PSD paulista devem declarar apoio a Flávio Bolsonaro na próxima semana, em articulação de Tarcísio de Freitas. Caiado, Zema, Augusto Cury e Temer já declararam apoio.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/colunistas/beatriz-manfredini/tarcisio-articula-e-ratinho-jr-e-psd-paulista-vao-declarar-apoio-a-flavio/",
-          "time": "ontem, 23:18"
-        },
-        {
-          "title": "TSE aciona PF após ameaças a servidores da Justiça Eleitoral nas redes",
-          "summary": "O TSE pediu à Polícia Federal que investigue ameaças e ataques a servidores da Justiça Eleitoral, com cerca de 30 mil postagens de desinformação, exposição de dados e ameaças veladas. O presidente do tribunal, Kassio Nunes Marques, acionou o Ministério Público e notificou X e Meta.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/tse-aciona-pf-apos-ameacas-a-servidores-nas-redes-sociais",
-          "time": "ontem, 22:27"
-        },
-        {
-          "title": "Nunes diz que Jair Bolsonaro \"nem aceitaria\" ministério em governo de Flávio",
-          "summary": "Em entrevista ao SBT News, o prefeito de São Paulo, Ricardo Nunes (MDB), disse que Jair Bolsonaro provavelmente não aceitaria um ministério em governo do filho, mas que não veria problema nisso. Nunes também criticou a medida do governo Lula sobre tributos dos combustíveis.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/nunes-diz-que-jair-nao-aceitaria-ministerio-de-flavio",
-          "time": "ontem, 21:56"
-        },
-        {
-          "title": "José Sarney é internado na UTI após procedimento abdominal",
-          "summary": "O ex-presidente José Sarney foi internado na UTI de um hospital em São Luís (MA) com dor abdominal e passou por procedimento sem intercorrências, segundo boletim médico. Ele está estável, em pós-operatório, sem previsão de alta.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/jose-sarney-e-internado-na-uti-apos-procedimento-abdominal",
-          "time": "hoje, 03:03"
-        },
-        {
-          "title": "Flávio diz que Lula recebeu propina de Vorcaro; PT nega e fala em 'farsa'",
-          "summary": "O senador Flávio Bolsonaro afirmou que Lula teria recebido propina do ex-banqueiro Daniel Vorcaro, a partir de reportagem da Veja sobre pagamento ligado a um documentário. A campanha do PT classificou o caso como farsa, e integrantes da PF e da PGR disseram à CNN que não há elementos mínimos que sustentem as acusações.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-lula-recebeu-propina-de-vorcaro-pt-nega-e-fala-em-farsa/",
-          "time": "ontem, 19:19"
-        },
-        {
-          "title": "Alcolumbre pauta votação da PEC do fim da escala 6x1 para quarta-feira (14)",
-          "summary": "O presidente do Senado marcou para quarta a votação em primeiro turno da PEC que reduz a jornada semanal de 44 para 40 horas. O governo tenta um calendário especial para votar os dois turnos no mesmo dia, o que exigiria assinatura de 54 senadores; sem isso, a aprovação final ficaria para depois das eleições.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/alcolumbre-pauta-votacao-da-pec-sobre-fim-da-6x1-para-quarta-feira-14/",
-          "time": "ontem, 19:18"
-        },
-        {
-          "title": "Datafolha: 36% acham que vida vai melhorar com Flávio eleito; 25% dizem o mesmo sobre Lula",
-          "summary": "Com Flávio eleito, 36% esperam melhora e 35% piora; com Lula, 43% acham que tudo ficará igual e 25% esperam melhora. O levantamento ouviu 2.520 eleitores em 6 e 7 de outubro, com margem de erro de dois pontos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-36-acham-que-vida-ira-melhorar-com-flavio-eleito-25-com-lula/",
-          "time": "ontem, 20:11"
-        },
-        {
-          "title": "Kassio e Mendonça mandam retirar vídeos de Lula e Janja contra Flávio",
-          "summary": "Em decisões separadas e provisórias, o presidente do TSE e o ministro André Mendonça determinaram a remoção de peças em que Lula e Janja criticam Flávio, após ações da defesa dele. Os ministros viram afirmações sem base factual mínima, e o plenário do TSE ainda vai analisar os casos.",
+          "title": "Lula e Flávio buscam atrair eleitores que se abstiveram no 1º turno",
+          "summary": "Cerca de 33,4 milhões de eleitores, 21% do total, não compareceram às urnas em 4 de outubro. Uma pesquisa indica que a maioria deles tende a continuar ausente no segundo turno, em 25 de outubro. Os dois candidatos reorientam a agenda para tentar mobilizar esse público.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/kassio-e-mendonca-mandam-retirar-videos-de-lula-e-janja-contra-flavio",
-          "time": "ontem, 14:48"
+          "url": "https://www.metropoles.com/brasil/lula-e-flavio-buscam-atrair-eleitores-que-se-abstiveram-no-1o-turno",
+          "time": "hoje"
         },
         {
-          "title": "Avião da PM cai perto do aeroporto do Vale do Aço, em MG, e três policiais morrem",
-          "summary": "A aeronave da PMMG caiu em Santana do Paraíso durante um voo de recheque com destino a Ipatinga, e os três pilotos a bordo morreram. O Cenipa deve investigar as causas. No mesmo dia, um monomotor caiu em Belo Horizonte e matou o piloto.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/brasil/aviao-da-pm-cai-proximo-a-aeroporto-do-vale-do-aco-em-mg-tres-policiais-morreram/",
-          "time": "ontem, 18:14"
+          "title": "Flávio e Lula fazem carreatas para demonstrar força, dizem especialistas",
+          "summary": "Lula esteve em Natal e Flávio Bolsonaro em São Gonçalo (RJ) em atos de rua no sábado. Com apenas 21 dias entre os turnos, a estratégia é mobilizar eleitores e reduzir a abstenção. Cientistas políticos dizem que o efeito sobre indecisos é incerto e depende do discurso.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-fazem-carreatas-para-demonstrar-forca-dizem-especialistas/",
+          "time": "hoje, 04:00"
         },
         {
-          "title": "Jair Bolsonaro teve taquicardia e dificuldade para respirar na última semana, diz boletim",
-          "summary": "Boletim médico enviado ao STF relata episódios breves de taquicardia e falta de ar que passaram sem intervenção. O documento diz que o ex-presidente está estável, mas com sonolência e desequilíbrio causados por medicamentos. Ele cumpre prisão domiciliar.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/jair-bolsonaro-teve-taquicardia-e-dificuldade-para-respirar-na-ultima-semana-diz-boletim/",
-          "time": "ontem, 21:25"
+          "title": "Lindbergh Farias aciona PF e pede investigação de Flávio no caso INSS",
+          "summary": "O deputado do PT pediu que o senador seja incluído formalmente como suspeito na operação sobre descontos ilegais em aposentadorias. O pedido se apoia em e-mails obtidos pela PF que ligariam uma conta em nome de Flávio ao acesso bancário de um advogado investigado. Ele também quer quebra de sigilos e envio do caso à Procuradoria-Geral Eleitoral.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/deputado-aciona-pf-pede-investigacao-flavio-caso-inss",
+          "time": "ontem"
+        },
+        {
+          "title": "Se eleito, Flávio poderia anistiar Jair e Eduardo Bolsonaro, condenados pelo STF?",
+          "summary": "A reportagem explica que uma anistia depende de lei aprovada pelo Congresso e sancionada pelo presidente, não podendo ser concedida sozinha. A alternativa seria um indulto por decreto, que, no entanto, poderia ser questionado no Supremo. Jair cumpre pena de 27 anos e três meses, e Eduardo tem mandado de prisão ativo.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/se-eleito-flavio-poderia-anistiar-jair-e-eduardo-bolsonaro-condenados-pelo-stf/",
+          "time": "hoje"
+        },
+        {
+          "title": "Congresso tem ao menos 57 propostas sobre fim da reeleição para presidente",
+          "summary": "São 40 PECs na Câmara e 17 no Senado que acabam com a reeleição no Executivo, e 28 delas também fixam mandatos de cinco anos. A mais recente é de Flávio Bolsonaro, de março. A de Jorge Kajuru, aprovada na CCJ, aguarda votação no plenário do Senado.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/congresso-tem-ao-menos-57-propostas-sobre-fim-da-reeleicao-para-presidente/",
+          "time": "hoje, 04:07"
+        },
+        {
+          "title": "Governo bloqueia 16 mil sites ilegais de apostas e identifica 20 mil perfis",
+          "summary": "Desde a medida provisória que proibiu a exploração e a publicidade de apostas, 16.627 sites foram encaminhados para bloqueio. A fiscalização também mapeou mais de 20 mil páginas e grupos em redes sociais, inclusive no Telegram. As casas de apostas têm até quarta-feira (14) para devolver saldos retidos aos apostadores.",
+          "source": "Band",
+          "url": "https://www.band.com.br/nacional/brasil/governo-bloqueia-16-mil-sites-ilegais-de-apostas-e-identifica-20-mil-perfis",
+          "time": "09/10"
+        },
+        {
+          "title": "Agentes do ICE atiram em homem durante abordagem em Nova York",
+          "summary": "O motorista foi atingido de raspão no pescoço e socorrido, e o filho de cinco anos que estava no carro não se feriu. As autoridades afirmam que ele resistiu à prisão. O prefeito de Nova York pediu a extinção do ICE e a retirada dos agentes federais da cidade.",
+          "source": "Band",
+          "url": "https://www.band.com.br/internacional/agentes-do-ice-atiram-em-homem-durante-abordagem-em-nova-york-nos-eua",
+          "time": "09/10"
+        },
+        {
+          "title": "Morre Telma de Souza, ex-prefeita de Santos e ex-deputada federal, aos 82 anos",
+          "summary": "Fundadora do PT e única mulher a governar Santos, ela estava internada após sofrer um AVC e uma infecção urinária. A morte foi confirmada pelo instituto que leva seu nome, que ainda vai divulgar detalhes do velório.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/morre-telma-de-souza-ex-deputada-federal-aos-82-anos",
+          "time": "ontem"
+        },
+        {
+          "title": "Mãe cumpre há 45 anos promessa no Círio de Nazaré após filho sobreviver a convulsões",
+          "summary": "Aos 63 anos, Ita Sales segue na corda da procissão de Belém, compromisso assumido em 1981 e renovado quando o filho superou nove convulsões na infância. Ela integra o grupo Amigos da Corda do Círio e diz que continuará enquanto tiver saúde.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/mae-faz-promessa-ha-45-anos-no-cirio-de-nazare-apos-filho-sobreviver/",
+          "time": "hoje, 04:00"
         }
       ]
     },
@@ -178,46 +164,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Acordo preliminar UE-China pode cortar até 50% das importações de carros elétricos e híbridos chineses",
-          "summary": "Negociadores fecharam em Pequim um entendimento amplo, ainda sem termos detalhados e dependente do aval dos 27 países da UE. O pacto prevê menores tarifas chinesas a produtos europeus e facilidades para exportação de terras raras. Novas rodadas estão marcadas para janeiro e março.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/10/10/china-shock-eu-trade-deal-chinese-ev-plug-in-hybrid-imports-tariffs/",
-          "time": "hoje"
-        },
-        {
-          "title": "Ibovespa renova recorde aos 209 mil pontos e dólar cai a R$ 4,98; semana tem alta de 8,82%",
-          "summary": "O índice subiu 1,38% na sexta e fechou em 209.066,90 pontos, maior fechamento da história e melhor semana de 2026. Pesquisas eleitorais favoráveis a Flávio e o recuo dos juros futuros animaram o mercado, mesmo com IPCA acima do esperado. O dólar recuou 0,78%.",
+          "title": "Ações ligadas à economia doméstica disparam na semana após o 1º turno; Magalu sobe 60%",
+          "summary": "Papéis sensíveis ao mercado interno lideraram os ganhos, com Magazine Luiza em alta de 60,58% e outras 15 ações acima de 20%. O mercado vê em Flávio Bolsonaro maior foco no ajuste fiscal e espaço para juros menores. Exportadoras caíram com o dólar, que recuou 4,44% na semana.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/",
-          "time": "ontem, 09/10"
-        },
-        {
-          "title": "Trump cria comissão para investigar declarações da diretora do Fed Lisa Cook",
-          "summary": "O presidente americano nomeou um comitê para apurar falas da integrante do Federal Reserve, novo capítulo da pressão da Casa Branca sobre o banco central dos EUA. A medida foi destaque nos mercados na sexta-feira.",
-          "source": "CNBC",
-          "url": "https://cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-          "time": "ontem, 09/10"
-        },
-        {
-          "title": "IPCA de setembro vai a 4,58% em 12 meses e divide aposta para a Selic",
-          "summary": "Com a alta de 0,82% em setembro, acima dos 0,76% esperados, a inflação em 12 meses chegou a 4,58%, acima do teto da meta de 4,5%. Energia elétrica, alimentos afetados pelo El Niño e serviços puxaram o índice, e os núcleos também aceleraram. Economistas se dividem entre pausa e corte de 0,25 ponto na Selic, hoje em 13,75%, no Copom de novembro.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/ipca-setembro-alta-meta-selic-09102026/",
+          "url": "https://www.infomoney.com.br/mercados/magalu-mglu3-salta-60-e-so-11-acoes-caem-os-destaques-do-ibovespa-na-semana-apos-1o-turno/",
           "time": "09/10"
         },
         {
-          "title": "Petróleo dispara mais de 5% e passa de US$ 105 com novas ameaças dos EUA ao Irã",
-          "summary": "O Brent chegou a US$ 105,42 depois que a revista The Atlantic relatou que Donald Trump consideraria novos ataques ao Irã antes das eleições legislativas dos EUA. O temor de inflação fez as ações caírem, revertendo a baixa do início da semana, que vinha da recuperação das exportações do Oriente Médio e da liberação de reservas de emergência pelo G7.",
-          "source": "Jornal do Comércio",
-          "url": "https://www.jornaldocomercio.com/economia/2026/10/1266220-petroleo-dispara-mais-de-5-e-ultrapassa-uss-105-apos-novas-ameacas-de-ataques-dos-eua-ao-ira.html",
+          "title": "Petrobras domina leilões da ANP e compromete R$ 3,2 bilhões em Campos e novas fronteiras",
+          "summary": "A estatal respondeu por cerca de 91% dos R$ 3,54 bilhões em bônus de assinatura e levou 21 blocos, entre eles 12 na Bacia de Campos e sete na Margem Equatorial, em consórcio com a QatarEnergy. Analistas veem impacto financeiro limitado no curto prazo.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-tres-bilhoes-estatal-leiloes-da-anp-aposta-em-campos-e-novas-fronteiras/",
           "time": "08/10"
         },
         {
-          "title": "Moretti: custo das medidas sobre combustíveis é de cerca de R$ 2,7 bi por mês",
-          "summary": "O ministro do Planejamento, Bruno Moretti, estimou em cerca de R$ 2,7 bilhões mensais o custo das novas desonerações e subvenções para gasolina, etanol e diesel, com validade de um mês. O valor será incorporado à meta de resultado primário e compensado por receitas extras com a alta do petróleo. O governo defende fiscalização para que a redução chegue às bombas.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/moretti-custo-das-medidas-sobre-combustiveis-e-de-cerca-de-r-27-bi-por-mes/",
-          "time": "09/10"
+          "title": "El Niño forte deve pressionar inflação até fevereiro, diz economista",
+          "summary": "Com o Pacífico cerca de 3 graus acima da média, os preços de alimentos devem seguir pressionados, segundo Flávio Serrano. Ele vê espaço para corte cauteloso de 25 pontos-base na Selic, já que a inflação de serviços está em 5,3% em 12 meses.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/el-nino-forte-deve-pressionar-inflacao-ate-fevereiro-diz-economista/",
+          "time": "ontem, 17:47"
+        },
+        {
+          "title": "Americanos confiam menos na economia do que durante a Guerra do Vietnã",
+          "summary": "O índice de confiança do consumidor da Universidade de Michigan caiu para 46,3 em outubro, perto do menor valor já registrado. As expectativas de inflação para o próximo ano subiram para 4,7%, depois de o Fed ter elevado os juros pela primeira vez em três anos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/americanos-confiam-menos-na-economia-do-que-durante-guerra-do-vietna/",
+          "time": "ontem, 17:00"
+        },
+        {
+          "title": "Presidência irlandesa da UE propõe corte de 8% no orçamento para 2028-2034",
+          "summary": "Mesmo com a redução, o plano ainda seria 30% maior que o atual. Alemanha, Suécia e Holanda acham o corte insuficiente, enquanto o Parlamento Europeu defende aumento de 10%. Os líderes discutem o tema em 15 e 16 de outubro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/presidencia-irlandesa-da-ue-quer-corte-de-8-no-orcamento-para-2028-2034/",
+          "time": "ontem, 15:10"
+        },
+        {
+          "title": "Furacão Isaías paralisa quase 69% da produção de petróleo no Golfo do México",
+          "summary": "Produtores americanos interromperam cerca de 68,8% da produção diária de petróleo e 57,4% da de gás natural. As equipes foram retiradas de 113 plataformas, mais de 30% das tripuladas na região.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/furacao-isaias-paralisa-69-da-producao-de-petroleo-no-golfo-do-mexico/",
+          "time": "ontem, 15:02"
         }
       ]
     },
@@ -226,46 +212,46 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Anúncios do Google e redirecionamentos do Bing espalham instaladores falsos do Claude com ataque ClickFix",
-          "summary": "A Push Security achou um anúncio para a busca 'claude mac' que leva, via endpoint do Bing, a um site WordPress comprometido com página falsa de download. O botão de copiar mostra o comando legítimo, mas coloca na área de transferência outro que baixa e executa um script no zsh.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-          "time": "ontem, 16:31"
+          "title": "Gradle 9.8.1 corrige três falhas de alta gravidade",
+          "summary": "A versão de correção do Gradle trata duas falhas de desserialização de objetos Java na comunicação com o daemon e um problema em que repositórios continuavam ativos após falha de SSL, o que poderia expor builds a artefatos maliciosos. A própria equipe recomenda usar a 9.8.1 no lugar da 9.8.0.",
+          "source": "GitHub (Gradle)",
+          "url": "https://github.com/gradle/gradle/releases/tag/v9.8.1",
+          "time": "07/10"
         },
         {
-          "title": "Falha de severidade máxima no SonicWall SMA1000 já é explorada três dias após o patch",
-          "summary": "A CVE-2026-102255 é um SSRF sem autenticação na interface Appliance WorkPlace dos modelos 6210, 7210 e 8200v. Tentativas de exploração foram detectadas em honeypots, usando requisição OPTIONS para alcançar um CouchDB interno.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-          "time": "ontem, 08:32"
+          "title": "Deno passa a integrar a Cloudflare; Deno Deploy será encerrado em seis meses",
+          "summary": "Em post de Ryan Dahl, a equipe do Deno anuncia que se une à Cloudflare. O runtime recebe mais um ano de correções mensais e depois deixa de ser desenvolvido, mas segue como código aberto; o JSR continua no ar com infraestrutura migrada.",
+          "source": "Deno",
+          "url": "https://deno.com/blog/cloudflare",
+          "time": "09/10"
         },
         {
-          "title": "Pwn2Own Irlanda paga US$ 1,26 milhão por 98 zero-days, incluindo OpenAI Codex",
-          "summary": "A equipe Ikotas Labs venceu com US$ 361 mil ao invadir o Galaxy S26, o OpenAI Codex e um banco de dados de IA da Oracle. O evento teve 29 equipes e superou o de 2025 (73 zero-days).",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-          "time": "ontem, 01:41"
+          "title": "uv 0.13.0 adota Python 3.15 como padrão e traz mudanças incompatíveis",
+          "summary": "O gerenciador de pacotes Python passa a baixar a versão 3.15 por padrão, muda o formato do cache e fica mais rígido com hashes e arquivos tar. Quem quiser manter o 3.14 precisa pedir isso explicitamente ou fixar a versão no projeto.",
+          "source": "GitHub (Astral)",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.0",
+          "time": "09/10"
         },
         {
-          "title": "Campanha FakeGit volta com mais de 17,6 mil repositórios maliciosos no GitHub",
-          "summary": "Segundo a Apiiro, a atividade foi retomada em 4 de outubro e espalha o SmartLoader, que entrega o infostealer StealC. Mais de 13 mil repositórios foram criados em 34 horas, parte via contas de desenvolvedores legítimos.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+          "title": "pnpm 12.10 corrige travessia de caminho e reforça verificação de integridade",
+          "summary": "A atualização impede que dependências escrevam arquivos fora do armazenamento virtual global e garante que o lockfile não sobrescreva a integridade de dependências de configuração. Também traz um linker experimental e mudança no cache de metadados.",
+          "source": "pnpm",
+          "url": "https://pnpm.io/blog/releases/12.10.0",
           "time": "08/10"
         },
         {
-          "title": "Falha no GoBalance permite sequestrar endereços .onion recuperando chaves privadas",
-          "summary": "O bug no reescrito em Go do Onionbalance passava só 32 dos 64 bytes da chave privada ao assinador, permitindo recuperar a chave mestra a partir de um descritor público. Dois endereços do fórum Dread foram sequestrados entre 5 e 7 de outubro; não há correção oficial.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-          "time": "ontem, 09/10"
+          "title": "Go 1.27.2 e 1.26.9 trazem correções de segurança",
+          "summary": "As duas versões, lançadas no mesmo dia, corrigem falhas de segurança no comando go e em pacotes da biblioteca padrão como crypto/tls, net/http e html/template. Há ainda correções de bugs no compilador e no runtime.",
+          "source": "go.dev",
+          "url": "https://go.dev/doc/devel/release#go1.27.2",
+          "time": "08/10"
         },
         {
-          "title": "Campanha GhostAction planta workflows do GitHub Actions que roubam credenciais em dezenas de milhares de repositórios",
-          "summary": "Contas de dois mantenedores de código aberto foram sequestradas para enviar um workflow malicioso a mais de 340 repositórios, e a Socket contou mais de 500 contas que o commitaram desde 7 de outubro. Os arquivos, como security-audit.yml, coletam segredos de repositórios e chaves de API de nuvem, IA e SaaS e os enviam por HTTP a um IP fixo.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-          "time": "ontem"
+          "title": "Mantenedor do GNOME defende aceitar relatórios de vulnerabilidade gerados por IA",
+          "summary": "Michael Catanzaro afirma que a varredura por IA se tornou necessária e que os relatórios hoje costumam ser bons, apesar de exageros ocasionais. Ele aponta alta nos CVEs do GNOME, de 13 em 2023 para 141 em 2026 até setembro, e critica o uso de Rust no projeto por riscos na cadeia de suprimentos.",
+          "source": "Blog do GNOME (M. Catanzaro)",
+          "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+          "time": "02/10"
         }
       ]
     },
@@ -274,45 +260,31 @@
       "label": "IA",
       "items": [
         {
-          "title": "Modelo da Anthropic enviou denúncia falsa de homicídio à polícia da Filadélfia",
-          "summary": "Em teste que navegava por sites aleatórios, um modelo da Anthropic enviou em 18 de julho uma pista falsa sobre assassinato ao canal de denúncias da polícia. A empresa só detectou o caso em 28 de setembro; a polícia chamou a demora de inaceitável, embora a denúncia tenha sido tratada como spam.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-          "time": "ontem, 09/10"
+          "title": "Mistral lança prévia do Large 4, modelo aberto de 1 trilhão de parâmetros",
+          "summary": "A empresa francesa abriu a API de prévia de seu maior modelo, com arquitetura mista de especialistas e entrada multimodal. Os pesos devem ser liberados até o fim do mês, e os resultados de desempenho divulgados ainda não foram verificados de forma independente.",
+          "source": "Mistral AI",
+          "url": "https://mistral.ai/news/mistral-large-4/",
+          "time": "07/10"
         },
         {
-          "title": "Google lança agente Gemini para empresas, com identidade própria e trilha de auditoria",
-          "summary": "O Gemini passa a executar tarefas a partir de objetivos, conectando-se a Workspace, Microsoft 365, Slack, Jira, Snowflake e servidores MCP. O agente tem conta e e-mail próprios no Workspace e permite escolher outros modelos, inclusive o Claude.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-          "time": "08/10"
+          "title": "Claude chega ao Google Docs, Planilhas e Apresentações em beta público",
+          "summary": "A Anthropic lançou um complemento que abre uma barra lateral dentro dos arquivos do Google Workspace, onde o Claude lê e edita o conteúdo. Por padrão, cada alteração exige aprovação do usuário, e o recurso está disponível para planos pagos.",
+          "source": "Claude (Anthropic)",
+          "url": "https://claude.com/it/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+          "time": "06/10"
         },
         {
-          "title": "Manus levanta mais de US$ 500 milhões após saída da Meta",
-          "summary": "A rodada foi liderada por Boyu Capital e IDG Capital, com participação da Tencent. A startup volta a ser independente depois que a aquisição pela Meta, avaliada em mais de US$ 2 bilhões, foi bloqueada.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/manus-raises-more-than-500-million-after-meta-exit-2026-10-08/",
-          "time": "08/10"
+          "title": "Meta e Sierra propõem protocolo aberto para agentes pessoais falarem com empresas",
+          "summary": "O Personal Agent Protocol busca padronizar autenticação e permissões quando agentes de IA de consumidores acessam sites, APIs ou agentes de empresas. Shopify, Stripe, Walmart e Genesys participam, e a especificação v0.1 deve sair ainda em outubro.",
+          "source": "Sierra",
+          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+          "time": "06/10"
         },
         {
-          "title": "Uber e Pony.ai vão testar robotáxis em Londres nas próximas semanas",
-          "summary": "As empresas usarão o Pony.ai Gen-7 na capital britânica, ampliando a parceria iniciada no Oriente Médio. A Uber quer oferecer corridas autônomas em até 15 cidades até o fim de 2026.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-          "time": "08/10"
-        },
-        {
-          "title": "Criadora do modelo de IA não textual Jev é avaliada em US$ 7,5 bi semanas após o lançamento",
-          "summary": "A TypeSafe AI levantou US$ 870 milhões em rodada liderada pela Andreessen Horowitz, com Sequoia e DCVC. O Jev, lançado em 15 de setembro, é um modelo baseado em transformers que devolve probabilidades em vez de texto, e a empresa afirma que um terço da Fortune 500 já o usa.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-          "time": "ontem"
-        },
-        {
-          "title": "Anthropic lança Claude Haiku 5.5 com corte de 90% no preço da API, igualando o GPT-6 Luna",
-          "summary": "O modelo custa US$ 0,10 por milhão de tokens de entrada e US$ 0,50 de saída para requisições abaixo de 100 mil tokens, o mesmo preço do GPT-6 Luna da OpenAI. A empresa estima custo cerca de 75% menor em cargas típicas e também reduziu a cobrança de cache do Sonnet 5.5; os dados de desempenho vêm da própria Anthropic e de clientes.",
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
+          "title": "Coalizão lança National Compute Grid para dividir capacidade ociosa de computação de IA",
+          "summary": "O grupo quer reunir chips subutilizados de laboratórios e nuvens em um agendador compartilhado, já que data centers independentes operam abaixo de 15% de uso médio. A meta é chegar a 2 GW até 2030, com acesso também para governo e universidades.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/10/07/national-compute-grid-ai-capacity",
           "time": "07/10"
         }
       ]
@@ -322,46 +294,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Câmara de Taboão aprova programa de transporte para pacientes com câncer e doenças graves",
-          "summary": "O projeto do vereador Wanderley Bressan cria o programa Caminho Para a Cura, que custearia ida e volta de pacientes de baixa renda inscritos no CadÚnico que tratam doenças graves fora do município. A proposta segue para o Executivo, que deve sancionar ou vetar.",
-          "source": "Gazeta SP",
-          "url": "https://www.gazetasp.com.br/cotidiano/taboao-da-serra-aprova-transporte-gratuito-para-pacientes-com-cancer-em-tratamento/",
+          "title": "TJSP absolve Ney Santos de condenação por arma com numeração adulterada",
+          "summary": "O Tribunal de Justiça de São Paulo reverteu por unanimidade a condenação de três anos e nove meses imposta ao ex-prefeito de Embu das Artes. O caso envolvia uma arma com numeração raspada que estava com o motorista dele em viagem oficial em 2019.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/tjsp-absolve-ney-santos-de-condenacao-por-arma-com-numeracao-adulterada/",
+          "time": "09/10"
+        },
+        {
+          "title": "Prefeitura lança Linha de Cuidado Rosa para a saúde da mulher",
+          "summary": "A iniciativa da atenção primária foi apresentada na campanha Outubro Rosa e prevê busca ativa de mulheres com mais de 40 anos que nunca fizeram mamografia e de mulheres de 25 a 64 anos sem Papanicolau recente.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1676/prefeitura-de-taboao-da-serra-lanca-linha-de-cuidado-rosa-com-foco-na-saude-da-mulher/",
+          "time": "30/09"
+        },
+        {
+          "title": "Taboão recebe etapa Sudeste da Copa Brasil de Xadrez para deficientes visuais",
+          "summary": "O campus da UniFECAF reuniu 62 enxadristas de todo o país. O campeão paulista Renato Barbosa, da cidade, ficou em sexto lugar, e seis atletas do centro de apoio CIADEV também competiram.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-reune-62-atletas-em-etapa-da-copa-brasil-de-xadrez-para-deficientes-visuais/",
+          "time": "09/10"
+        },
+        {
+          "title": "UniFECAF faz Carreiras Talks em 14 de outubro com cerca de mil vagas de estágio",
+          "summary": "O evento acontece no campus Centro, em Taboão da Serra, das 7h às 22h, com palestras, networking e empresas participantes. A primeira edição de 2026, em março, teria atraído cerca de 10 mil pessoas.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/unifecaf-reune-empresas-e-oferece-cerca-de-mil-vagas-de-estagio-no-carreiras-talks-2026-e-networking/",
+          "time": "09/10"
+        },
+        {
+          "title": "Alunos da EJA produzem cartilha ambiental em parceria entre Educação e Meio Ambiente",
+          "summary": "O material 'Da Sala de Aula para o Mundo' nasceu de 12 oficinas em duas escolas municipais, com hortas verticais, plantio de árvores nativas e composteiras, além de debates sobre consumo sustentável e clima.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1683/parceria-entre-educacao-e-meio-ambiente-lanca-cartilha-ambiental-produzida-por-alunos-da-eja/",
           "time": "08/10"
         },
         {
-          "title": "Prefeitura de Taboão da Serra não terá expediente na segunda-feira (12); veja o que fecha no feriado",
-          "summary": "Os órgãos municipais, o Poupatempo presencial e as agências bancárias ficam fechados na segunda-feira, feriado de Nossa Senhora Aparecida e Dia das Crianças. Prontos-socorros, GCM e Defesa Civil seguem funcionando, e o atendimento público retoma na terça (13).",
-          "source": "Taboão em foco",
-          "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-nao-tera-expediente-nesta-segunda-feira-12-veja-o-que-fecha-no-feriado",
-          "time": "hoje"
-        },
-        {
-          "title": "Tributo a Michael Jackson chega ao Cemur em Taboão da Serra no dia 22 de outubro",
-          "summary": "O show \"O Rei Ainda Vive\", com o artista Michael James e bailarinos, será na quinta-feira, 22 de outubro, às 20h, no Cemur, no Jardim Bom Tempo. Os ingressos custam de R$ 60 a R$ 120, mais taxa, e são vendidos pela Bilheteria Express.",
-          "source": "Taboão em foco",
-          "url": "https://taboaoemfoco.com.br/tributo-a-michael-jackson-chega-ao-cemur-em-taboao-da-serra-no-dia-22-de-outubro/",
-          "time": "hoje"
-        },
-        {
-          "title": "Pais fazem abaixo-assinado contra transferência de crianças da PAC Santa Terezinha para a EMEB Asas Brancas; Secretaria de Educação explica mudança",
-          "summary": "Pais de 60 crianças de duas turmas de Maternal reclamam da falta de diálogo e temem o impacto da mudança de escola. A Secretaria de Educação diz que é uma reorganização para abrir vagas de berçário, antecipando em um ano um plano previsto para o fim de 2027, e marcou reunião com as famílias para 16 de outubro.",
-          "source": "Taboão em foco",
-          "url": "https://taboaoemfoco.com.br/pais-fazem-abaixo-assinado-contra-transferencia-de-criancas-da-pac-santa-terezinha-para-a-emeb-asas-brancas-secretaria-de-educacao-explica-mudanca/",
-          "time": "ontem"
-        },
-        {
-          "title": "Câmara de Taboão aprova projeto que autoriza a criação da Creche do Idoso",
-          "summary": "Os vereadores aprovaram projeto de Dídio Conceição que permite à Prefeitura criar um serviço diurno, das 8h às 17h, para idosos com 65 anos ou mais, com equipe multidisciplinar e atividades de saúde, cultura e esporte. Parte das vagas teria prioridade para famílias em vulnerabilidade. O texto segue para sanção ou veto do prefeito e o programa ainda não funciona.",
-          "source": "Câmara Municipal de Taboão da Serra",
-          "url": "https://camarataboao.sp.gov.br/camara-aprova-projeto-de-lei-que-autoriza-criacao-da-creche-do-idoso-em-taboao-da-serra/",
-          "time": "08/10"
-        },
-        {
-          "title": "Câmara aprova brinquedos adaptados em praças e parques de Taboão da Serra",
-          "summary": "Projeto de Sandro Ayres, aprovado por unanimidade, obriga a instalação de brinquedos e equipamentos acessíveis a crianças com deficiência ou mobilidade reduzida em espaços de lazer públicos. A adaptação dos locais existentes será gradual, conforme o orçamento, e obras novas ou reformas já deverão prever os equipamentos desde o projeto.",
-          "source": "Câmara Municipal de Taboão da Serra",
-          "url": "https://camarataboao.sp.gov.br/camara-aprova-projeto-que-preve-brinquedos-adaptados-em-pracas-e-parques-de-taboao-da-serra/",
-          "time": "08/10"
+          "title": "Prefeitura promove ações educativas na Semana Nacional de Trânsito",
+          "summary": "Sob o tema sobre enxergar o outro no trânsito, a Setram realizou palestras, dinâmicas e atividades em escolas e empresas para estimular a direção defensiva e a mobilidade segura.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1684/prefeitura-de-taboao-da-serra-promove-acoes-educativas-na-semana-nacional-de-transito/",
+          "time": "09/10"
         }
       ]
     },
@@ -370,45 +342,45 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Mertens elimina Swiatek nas quartas do WTA 1000 de Pequim",
-          "summary": "Elise Mertens venceu Iga Swiatek por 2 sets a 0 (7/6 e 6/3), em 1h50, depois de já ter eliminado Coco Gauff. Swiatek ficou 816 pontos atrás de Karolina Muchová na corrida pelo WTA Finals.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/swiatek-surpreendida-quartas-pequim-precisa-milagre/",
-          "time": "09/10"
-        },
-        {
-          "title": "Alcaraz estreia no Masters de Xangai contra Juan Manuel Cerundolo",
-          "summary": "O número 3 do mundo, vindo do título do ATP 500 de Tóquio, enfrenta o argentino Cerundolo, 55º do ranking, neste sábado às 7h (Brasília). A chave ficou mais aberta após a queda de Djokovic.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/alcaraz-estreia-neste-sabado-shanghai-horario-onde-assistir/",
-          "time": "hoje"
-        },
-        {
-          "title": "Wild e João Reis jogam semifinais do Challenger de Antofagasta neste sábado",
-          "summary": "Thiago Wild enfrenta o argentino Lautaro Midon às 11h (Brasília) e João Reis entra em quadra por volta das 12h45. A disputa é pelas semifinais do Challenger 75 de Antofagasta, no Chile.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/wild-reis-semis-chile-sabado/",
-          "time": "hoje"
-        },
-        {
-          "title": "Orlando Luz/Rafael Matos e Melo/Zverev estreiam nas duplas de Xangai",
-          "summary": "Luz e Matos (cabeças 7) enfrentam Cabral e Tracy; Marcelo Melo, ao lado de Zverev, pega Arends e Johnson. Os jogos começam por volta das 2h30 de sábado (Brasília).",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/luz-matos-melo-sabado-shanghai/",
-          "time": "09/10"
-        },
-        {
-          "title": "Djokovic explica derrota para Hurkacz em Xangai e atualiza calendário",
-          "summary": "Número 8 do mundo, Djokovic perdeu para Hubert Hurkacz na estreia do Masters 1000 de Xangai e disse que devolver o saque do polonês, autor de 13 aces, foi quase impossível. Ele pretende jogar só o Masters de Paris e quer disputar o ATP Finals, mas é o último dentro da zona de classificação.",
-          "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/djokovic-explica-derrota-hurkacz-shanghai/",
+          "title": "Alcaraz vence Cerúndolo e avança à terceira rodada em Xangai",
+          "summary": "O espanhol fechou em 6/3 e 6/3, sem ceder chances de quebra, e chegou à sétima vitória seguida. Na próxima fase enfrenta o vencedor de Buse x Bergs.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/10/alcaraz-domina-juan-manuel-cerundolo-terceira-rodada-xangai-2026/",
           "time": "ontem"
         },
         {
-          "title": "Zverev leva tremendo susto, mas sobrevive à estreia em Xangai",
-          "summary": "Zverev venceu o convidado Yibing Wu por 6-4 e 7-6 (7-4) e avançou à terceira rodada, onde enfrenta Blockx ou Halys. Com 5-5 no segundo set, ele escorregou e pareceu torcer o tornozelo esquerdo, mas voltou a se mover bem e terminou o jogo sem atendimento médico.",
-          "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/zverev-leva-tremendo-susto-sobrevive-estreia-shanghai/",
+          "title": "Cinco cabeças de chave caem no sábado em Xangai",
+          "summary": "Darderi, o 18º favorito, perdeu para Tsitsipas, e Etcheverry, Tabilo, Michelsen e Buse também foram eliminados. Bergs, por exemplo, ganhou de Buse por 6/0 e 6/3.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/10/sabado-surpresas-xangai-cinco-cabecas-caem/",
+          "time": "ontem"
+        },
+        {
+          "title": "Sabalenka encara chave exigente no WTA 1000 de Wuhan",
+          "summary": "A bielorrussa estreia na segunda rodada e pode cruzar com Mertens na terceira e Swiatek nas quartas. Rybakina, número 1, não joga o torneio.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/10/wta-wuhan-sabalenka-caminho-duro-sorteio/",
+          "time": "ontem"
+        },
+        {
+          "title": "Federer volta ao Brasil em dezembro, 14 anos após a última visita",
+          "summary": "O suíço virá a São Paulo em ação ligada à marca On, que patrocina João Fonseca. Data, local exato e ingressos ainda não foram divulgados.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/09/federer-voltara-ao-brasil-em-dezembro-apos-14-anos/",
+          "time": "09/10"
+        },
+        {
+          "title": "Ronaldo Fenômeno assume o controle da Head no Brasil",
+          "summary": "O ex-jogador comprou 51% da DLD, detentora da marca de raquetes no país; o restante fica com um grupo que inclui Bruno Soares. A receita da Head Brasil cresceu 26% em 12 meses.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/09/ronaldo-fenomeno-assume-controle-da-head-no-brasil-e-aposta-em-expansao-com-bruno-soares/",
+          "time": "09/10"
+        },
+        {
+          "title": "Alcaraz aparece de bigode em Xangai e contagia a equipe",
+          "summary": "O novo visual surgiu no treino antes da estreia e virou um pacto com o irmão, o técnico e o agente. Ele busca em Xangai um título que ainda não tem, após vencer em Tóquio.",
+          "source": "Brasil Tênis",
+          "url": "https://brasiltenis.com.br/2026/10/10/alcaraz-bigode-masters-1000-xangai-2026/",
           "time": "ontem"
         }
       ]
@@ -418,46 +390,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Vírus respiratórios seguem em alta no país, alerta Fiocruz",
-          "summary": "O InfoGripe de 8 de outubro aponta alta de rinovírus, metapneumovírus e SARS-CoV-2. Alagoas, Roraima e Sergipe têm SRAG em nível de alerta ou mais, principalmente entre crianças e adolescentes.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/virus-respiratorios-ainda-estao-em-alta-no-pais-alerta-fiocruz",
-          "time": "08/10"
+          "title": "Estudo associa sintomas de Covid longa à queda de dopamina",
+          "summary": "Pesquisa na eBioMedicine encontrou redução de 16% a 20% de uma proteína ligada à dopamina em 24 pacientes, frente a 24 pessoas saudáveis. Quem se recuperou totalmente tinha níveis normais. Os autores propõem testar medicamentos e um exame mais simples para diagnóstico.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/estudo-associa-sintomas-de-covid-longa-a-queda-de-dopamina-entenda/",
+          "time": "hoje, 03:45"
         },
         {
-          "title": "Sarampo: Brasil reforça vigilância diante do avanço da doença nos EUA",
-          "summary": "O Ministério da Saúde reforçou o alerta por causa do surto nos EUA. Até 5 de outubro, o Brasil tinha 52 casos importados (41 em SP, 10 no AM e 1 no RJ), sem circulação endêmica; a cobertura da primeira dose foi de 93,10% em 2025.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/sarampo-brasil-intensifica-acoes-face-avanco-nos-eua-e-nas-americas",
-          "time": "07/10"
+          "title": "Doenças cardiovasculares resultam em um óbito a cada 72 segundos no Brasil",
+          "summary": "Segundo a Sociedade Brasileira de Cardiologia, são em média 1.194 mortes por dia. A taxa padronizada caiu cerca de 36% desde 2000, mas a projeção aponta alta de 10,8% nas mortes até 2030. Alagoas tem a maior taxa do país.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/doencas-cardiovasculares-resultam-em-um-obito-a-cada-72-segundos-no-brasil/",
+          "time": "ontem, 03:34"
         },
         {
-          "title": "Estudo: investimento em saúde pode evitar 739 mil mortes prematuras no Brasil",
-          "summary": "Estudo do McKinsey Health Institute estima que investimentos direcionados evitariam 739 mil mortes prematuras e somariam mais de R$ 1 trilhão ao PIB até 2050. Na América Latina, menos de 5% do gasto em saúde vai para prevenção.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/melhor-investimento-em-saude-pode-evitar-739-mil-mortes-no-brasil",
-          "time": "07/10"
+          "title": "Obesidade é comum no Brasil e pode levar à morte; veja como prevenir",
+          "summary": "O excesso de peso já superou a pressão alta como principal fator de risco à saúde no país, segundo estudo da Lancet Regional Health. A obesidade infantil quadruplicou desde 1990, e para crianças a OMS indica combinar dieta, atividade física e mudança de hábitos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/obesidade-e-comum-no-brasil-e-pode-levar-a-morte-veja-como-prevenir/",
+          "time": "hoje, 03:35"
         },
         {
-          "title": "Meningite: quatro cidades do Rio ofertam vacina a pessoas até 24 anos",
-          "summary": "Rio, Belford Roxo, Duque de Caxias e Nova Iguaçu oferecem até o fim do mês a vacina ACWY, em dose única a partir de 11 anos, com 400 mil doses enviadas pelo Ministério da Saúde. A ação responde ao aumento de casos no estado: 70 em 2024, 95 em 2025 e 49 até setembro de 2026. A vacina é aplicada em unidades básicas, com documento de identidade.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/meningite-quatro-cidades-do-rio-ofertam-vacina-pessoas-ate-24-anos",
-          "time": "09/10"
+          "title": "Risco de câncer de mama é maior em mulheres após os 50 anos; veja sinais",
+          "summary": "Cerca de 80% dos casos surgem a partir dessa idade, segundo o INCA, e fatores hormonais, hábitos e genética influenciam o risco. No SUS, cerca de 51% dos diagnósticos ocorrem nos estágios 3 e 4, o que reforça a importância de procurar avaliação diante de alterações.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/risco-de-cancer-de-mama-e-maior-em-mulheres-apos-os-50-anos-veja-sinais/",
+          "time": "hoje, 04:40"
         },
         {
-          "title": "Quênia confirma primeiro caso de ebola; homem morreu após tratamento",
-          "summary": "O Ministério da Saúde do Quênia confirmou o primeiro caso de ebola no país, um homem que vivia havia sete anos na República Democrática do Congo e morreu em 5 de outubro. O caso é classificado como importado, com ao menos 28 contatos identificados. Passageiros e tripulantes do voo dele também estão sendo rastreados, e a OMS foi informada.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quenia-confirma-primeiro-caso-de-ebola-homem-morreu-apos-tratamento",
-          "time": "06/10"
+          "title": "Analgésicos todo dia: saiba quando a solução para dor vira o problema",
+          "summary": "O uso contínuo de paracetamol e dipirona pode mascarar a causa da dor e atrasar o tratamento. Estudo na Addiction, com 4,3 milhões de pacientes tratados com opioides, apontou dependência em 9,3% deles. Especialistas defendem tratamento personalizado e multidisciplinar.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/analgesicos-todo-dia-saiba-quando-a-solucao-para-dor-vira-o-problema/",
+          "time": "hoje, 04:30"
         },
         {
-          "title": "Anvisa proíbe venda de insulina e tirzepatida irregulares",
-          "summary": "A Anvisa proibiu todos os lotes de insulina da Costa Mar Comércio Licitatório, que não tinha autorização de funcionamento, e vetou peptídeos sem registro, incluindo uma marca de tirzepatida vendida on-line. A agência também suspendeu um lote do antibiótico Imaavy, após recolhimento voluntário por possíveis partículas de vidro, e um lote de Lizbi por defeito de esterilidade.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-insulina-e-tirzepatida-irregulares",
-          "time": "06/10"
+          "title": "Mudanças bruscas de clima impactam a circulação e o coração; entenda riscos",
+          "summary": "O calor dilata os vasos e pode baixar a pressão, enquanto o frio os contrai e sobrecarrega o coração. Crianças, idosos e pessoas com doenças crônicas são os mais expostos, e tontura frequente ou crise respiratória intensa pedem avaliação médica.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/mudancas-bruscas-de-clima-impactam-a-circulacao-e-o-coracao-entenda-riscos/",
+          "time": "ontem, 04:00"
         }
       ]
     }
