@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-12T08:05:00-03:00",
+  "updatedAt": "2026-10-12T14:10:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 09/10 (feriado em 12/10) · cripto 12/10 de madrugada (KuCoin/CoinGecko) · CDI 09/10, Selic: Copom de 16/09",
+    "asOf": "Fechamento de 09/10 (B3 fechada em 12/10, feriado) · demais cotações da manhã de 12/10 (sem atualização às 14h)",
     "items": [
       {
         "id": "ibov",
@@ -73,14 +73,14 @@
   },
   "weather": {
     "date": "2026-10-12",
-    "condition": "chuva com céu parcialmente nublado e previsão de trovoadas à tarde",
-    "min": 18,
-    "max": 24,
-    "rainChance": 100,
-    "rainMm": 6.7,
-    "uv": null,
-    "source": "TMC (dados Visual Crossing)",
-    "url": "https://tmc.com.br/brasil/previsao-do-tempo-sao-paulo-12-10-2026/"
+    "condition": "sol com muitas nuvens e pancadas de chuva à tarde e à noite",
+    "min": 17,
+    "max": 26,
+    "rainChance": 87,
+    "rainMm": 20.2,
+    "uv": 7,
+    "source": "Climatempo",
+    "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp"
   },
   "categories": [
     {
@@ -88,46 +88,67 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Corregedor do TSE derruba decisão de Nunes Marques e manda reativar canal 'Exército do Lula'",
-          "summary": "O corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, reverteu a suspensão do canal no WhatsApp por falta de provas para um bloqueio total. Ele manteve a proibição de divulgar conteúdos já reconhecidos como falsos ou ilícitos, e a decisão provisória vai ao plenário do TSE.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/ministro-do-tse-derruba-decisao-de-nunes-marques-e-manda-reativar-exercito-do-lula/",
-          "time": "ontem"
-        },
-        {
-          "title": "Campanha de Flávio Bolsonaro aciona Justiça Eleitoral contra diretor-geral da PF",
-          "summary": "Os advogados do candidato apresentaram notícia-crime contra Andrei Rodrigues, alegando uso da PF em benefício de Lula ao anunciar apuração sobre interferência internacional na eleição. Pedem que o Ministério Público Eleitoral investigue o caso.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-aciona-a-justica-eleitoral-contra-diretor-geral-da-pf",
-          "time": "ontem"
-        },
-        {
-          "title": "PoderData: Flávio sobe nove pontos em expectativa de vitória; Lula cai 11",
-          "summary": "Pesquisa PoderData/Aya mostra 54% esperando vitória de Flávio e 37% de Lula. Na simulação de votos válidos do segundo turno, Flávio tem 53% e Lula 47%.",
+          "title": "Flávio avisa ao Centrão que não apoiará recondução de Motta e Alcolumbre em 2027",
+          "summary": "O candidato do PL à Presidência comunicou a líderes do Centrão que não apoiará a permanência de Hugo Motta na Câmara e de Davi Alcolumbre no Senado. O recado foi dado nas conversas que aproximaram União Brasil, PP e Republicanos da campanha no segundo turno. O PL quer eleger Rogério Marinho para comandar o Senado.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/poderdata-flavio-sobe-nove-pontos-em-expectativa-de-vitoria-lula-cai-11/",
+          "url": "https://www.cnnbrasil.com.br/blogs/taina-falcao/eleicoes/flavio-avisa-ao-centrao-que-nao-apoiara-reconducao-de-motta-e-alcolumbre/",
+          "time": "hoje, 11:30"
+        },
+        {
+          "title": "Área técnica do TSE não detecta fake news em canal 'Exército do Lula', mas vê risco ao processo eleitoral",
+          "summary": "Segundo o Metrópoles, técnicos do tribunal não encontraram desinformação no canal que está no centro da disputa entre ministros do TSE. A análise, porém, aponta risco ao processo eleitoral. O caso segue em discussão no plenário da Corte.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/area-tecnica-do-tse-nao-ve-fake-news-em-canal-exercito-do-lula",
+          "time": "hoje"
+        },
+        {
+          "title": "Fim da escala 6x1 tem semana decisiva no Senado, com pressa do governo",
+          "summary": "O Senado começa a semana com as últimas sessões de discussão antes de uma possível votação em primeiro turno da PEC que reduz a jornada de 44 para 40 horas semanais. O governo quer um calendário especial e Alcolumbre diz que pautará o requerimento se ele for protocolado. A oposição insiste nos prazos regimentais.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/fim-da-6x1-tem-semana-decisiva-com-luz-verde-de-alcolumbre-e-pressa-de-lula",
+          "time": "hoje, 04:30"
+        },
+        {
+          "title": "Lula fala em 'intromissão indevida' da Justiça Eleitoral: 'Não vamos aceitar'",
+          "summary": "O presidente criticou decisões da Justiça Eleitoral contra sua campanha e disse que o governo não aceitará a interferência. A fala ocorre em meio ao embate no TSE sobre o canal 'Exército do Lula'.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/lula-fala-em-intromissao-indevida-da-justica-eleitoral-nao-vamos-aceitar/",
           "time": "ontem"
         },
         {
-          "title": "Lula diz que votação do fim da escala 6x1 será na quarta-feira",
-          "summary": "Em ato na Avenida Paulista, o presidente afirmou que a votação já foi combinada com Alcolumbre para o dia 14. Também disse que seus advogados vão cobrar explicações da Justiça Eleitoral sobre decisões que considera tendenciosas.",
+          "title": "Lula aposta em jovens e promete revolução tecnológica em ato na Paulista",
+          "summary": "No ato de domingo, Lula pediu engajamento dos jovens, convocou os idosos a votar no segundo turno, em 25 de outubro, e prometeu investir em IA, indústria digital, transição energética e segurança pública. O evento reuniu artistas, parlamentares eleitos e aliados como Alckmin e Marina Silva.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/lula-vamos-votar-fim-da-escala-6x1-na-quarta-feira-ja-esta-conversado/",
+          "url": "https://www.infomoney.com.br/politica/lula-aposta-em-jovens-e-promete-revolucao-tecnologica-em-ato-na-paulista/",
           "time": "ontem"
         },
         {
-          "title": "Focos de incêndio no Amazonas sobem 271% nos primeiros dias de outubro",
-          "summary": "O estado somou 1.380 focos em dez dias, contra 372 no mesmo período do ano passado. O governo federal reconheceu emergência em 36 municípios e enviou aviões da FAB e brigadistas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/norte/am/focos-de-incendio-no-amazonas-sobem-271-nos-primeiros-dias-de-outubro/",
+          "title": "Moraes autoriza Flávio Bolsonaro a visitar o pai após 90 dias de suspensão",
+          "summary": "O ministro do STF liberou a retomada das visitas do candidato a Jair Bolsonaro. Segundo a CNN Brasil, Flávio confirmou que fará a visita nesta terça-feira.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-autoriza-flavio-bolsonaro-a-visitar-o-pai-apos-90-dias-de-suspensao",
           "time": "ontem"
         },
         {
-          "title": "PMs dispararam 45 vezes contra jovem que morreu com 27 tiros em SP",
-          "summary": "Gustavo Munis de Santana, de 20 anos, morreu em abordagem policial em Moema, na zona sul. A SSP investiga e a conduta dos quatro policiais será apurada em inquérito policial militar.",
+          "title": "André Mendonça manda CUT apagar posts que ligavam Flávio a milícias e ao fim do Pix",
+          "summary": "O ministro determinou que a central sindical remova publicações que associavam o candidato do PL a milícias e ao fim do Pix.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/brasil/pms-dispararam-45-vezes-contra-jovem-que-morreu-com-27-tiros-em-sp/",
+          "url": "https://jovempan.com.br/politica/andre-mendonca-manda-cut-apagar-posts-que-ligavam-flavio-a-milicias-e-fim-do-pix/",
           "time": "ontem"
+        },
+        {
+          "title": "Ataques dos houthis à Arábia Saudita aumentam risco de ampliação da guerra",
+          "summary": "Ataques do Iêmen deixaram 12 mortos e 309 feridos no aeroporto de Riad no sábado, e o local foi atingido de novo no domingo, o quarto ataque em uma semana. Questionado sobre bombardear os houthis, Trump respondeu 'Talvez. Vamos analisar'.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/ataques-dos-houthis-a-arabia-saudita-aumentam-risco-de-ampliacao-da-guerra/",
+          "time": "ontem"
+        },
+        {
+          "title": "Tentativas de golpes digitais sobem pelo terceiro mês seguido",
+          "summary": "Estudo da Equifax BoaVista identificou cerca de 300 mil tentativas de fraude digital entre 21,18 milhões de transações analisadas. A reportagem traz dicas para se proteger.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/tentativas-de-golpes-sobem-pelo-3-mes-seguido-veja-dicas",
+          "time": "hoje"
         },
         {
           "title": "Inmet emite alertas para tempestades em doze estados nesta segunda (12)",
@@ -137,27 +158,6 @@
           "time": "hoje, 03:33"
         },
         {
-          "title": "Nossa Senhora volta à campanha sob cautela dos rivais",
-          "summary": "Lula e Flávio Bolsonaro devem participar de celebrações religiosas no feriado, evitando parecer que usam a fé para ganhar votos. O tema ganhou força após postagens falsas ligarem Flávio a proposta contra o título de padroeira.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/nossa-senhora-volta-a-campanha-sob-cautela-dos-rivais",
-          "time": "hoje"
-        },
-        {
-          "title": "Trump anuncia cessar-fogo energético entre Rússia e Ucrânia",
-          "summary": "O presidente americano disse na Truth Social que os dois países aceitaram uma trégua parcial voltada à infraestrutura de energia. O anúncio veio horas depois de Zelensky dizer que Kiev estava pronta para a desescalada.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/trump-cessar-fogo-energetico-russia-ucrania",
-          "time": "ontem"
-        },
-        {
-          "title": "Polônia apura possível plano para assassinar premiê Donald Tusk",
-          "summary": "A polícia recebeu informações sobre um suposto complô que também teria como alvo o ministro da Defesa. Autoridades de segurança farão reunião de emergência, sem detalhes divulgados até agora.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/polonia-apura-possivel-plano-para-assassinar-premie-donald-tusk-e-ministro-da-defesa/",
-          "time": "ontem"
-        },
-        {
           "title": "Palmeiras atropela Corinthians por 4 a 1 e impõe 8ª derrota seguida ao rival",
           "summary": "Com dois gols de Giay, o Palmeiras venceu no Nubank Parque e chegou a 63 pontos na briga pela liderança. O Corinthians, que contratou Seedorf no mesmo dia, está na 16ª posição.",
           "source": "Jovem Pan",
@@ -165,11 +165,11 @@
           "time": "ontem"
         },
         {
-          "title": "Fuzilamento ao vivo nos EUA pode virar tiro no pé de Trump, avalia especialista",
-          "summary": "A transmissão da execução de Nidal Hasan, condenado por matar 13 pessoas em base no Texas, pode abalar a imagem dos EUA em direitos humanos. O professor ouvido diz que a medida agrada à base MAGA, mas não necessariamente aos independentes.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/fuzilamento-ao-vivo-nos-eua-pode-virar-tiro-no-pe-de-trump",
-          "time": "hoje, 00:57"
+          "title": "Trump anuncia cessar-fogo energético entre Rússia e Ucrânia",
+          "summary": "O presidente americano disse na Truth Social que os dois países aceitaram uma trégua parcial voltada à infraestrutura de energia. O anúncio veio horas depois de Zelensky dizer que Kiev estava pronta para a desescalada.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/trump-cessar-fogo-energetico-russia-ucrania",
+          "time": "ontem"
         }
       ]
     },
@@ -178,6 +178,20 @@
       "label": "Economia",
       "items": [
         {
+          "title": "Petróleo avança com escalada na Arábia Saudita e pressão sobre mercados",
+          "summary": "O Brent subiu 0,4%, para US$ 105,10 por barril, no início do pregão asiático, após os ataques dos houthis ao aeroporto de Riad. Investidores também acompanham a inflação dos EUA e falas do presidente do Fed, com o Treasury de 10 anos perto de 5,4%.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petroleo-avanca-com-escalada-na-arabia-saudita-e-pressao-sobre-mercados/",
+          "time": "ontem"
+        },
+        {
+          "title": "O que a nova formação do Congresso pode significar para o mercado",
+          "summary": "Com a direita e a centro-direita controlando cerca de 57% da Câmara e 63% do Senado, Goldman Sachs, Pimco e 4intelligence veem mais espaço para ajuste fiscal. Reformas constitucionais, porém, ainda exigem maioria qualificada e negociação.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/peca-chave-o-que-a-nova-formacao-do-congresso-pode-significar-para-o-mercado/",
+          "time": "ontem"
+        },
+        {
           "title": "Governo amplia medidas de combustíveis e mantém custo previsto em R$ 40 bi",
           "summary": "A Fazenda zerou tributos federais sobre a gasolina, ampliou a subvenção ao etanol e criou subsídio ao diesel importado, somando R$ 5,2 bi em 30 dias. A compensação virá de receitas extraordinárias do petróleo, com contingenciamento se a meta fiscal estiver em risco.",
           "source": "CNN Brasil",
@@ -185,39 +199,25 @@
           "time": "hoje, 04:15"
         },
         {
-          "title": "Desafio fiscal e inflação globalizam e contaminam juros, dizem analistas",
-          "summary": "Dívida alta, inflação persistente e petróleo em alta empurraram os juros longos: o título americano de 10 anos chegou a 5,11%, maior nível desde 2007. Na Europa, o francês bateu 4,88%, perto do pico desde 2002.",
+          "title": "Americanos Hall e Woodford ganham o Nobel de Economia de 2026",
+          "summary": "A CNN Brasil informa que os economistas americanos Hall e Woodford foram os vencedores do prêmio deste ano.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/desafio-fiscal-e-inflacao-globalizam-e-contaminam-juros-dizem-analistas/",
-          "time": "hoje, 03:15"
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/americanos-hall-e-woodford-ganham-nobel-de-economia-de-2026/",
+          "time": "hoje"
         },
         {
-          "title": "Elon Musk invade telefonia móvel com acordo de US$ 8 bilhões",
-          "summary": "A SpaceX acertou a compra de licenças de espectro da Grain Management, o que pode levar a Starlink a operar como operadora de celular, dependendo da FCC. Ações de Verizon, AT&T e T-Mobile caíram mais de 6% no pré-mercado.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/business/elon-musk-invade-telefonia-movel-com-acordo-de-us-8-bilhoes-e-assusta-rivais/",
-          "time": "ontem"
-        },
-        {
-          "title": "Endividamento e inadimplência recuam no Brasil em setembro",
-          "summary": "Segundo a CNC, o percentual de endividados caiu de 82% para 81,7%, primeira queda do ano, e a inadimplência ficou em 29,6%. O tempo médio de atraso, porém, subiu para 65,3 dias.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/economia/endividamento-e-inadimplencia-recuam-no-brasil-em-setembro",
-          "time": "hoje, 07:05"
-        },
-        {
-          "title": "Inflação nos EUA e atividade econômica no Brasil são destaques da semana",
-          "summary": "O CPI americano de setembro, na quarta, deve acelerar para 3,6% a 3,7% em 12 meses. No Brasil, saem serviços, comércio e IBC-Br, que não devem reverter a desaceleração, segundo o Bradesco.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/calendario-economico-inflacao-nos-estados-unidos-e-atividade-economica-no-brasil/",
-          "time": "ontem"
-        },
-        {
-          "title": "BP prepara retomada da produção de petróleo no Golfo do México",
-          "summary": "A empresa vai religar as plataformas Na Kika e Thunder Horse, paradas pelo furacão Isaías, e readmite funcionários em outras unidades. A tempestade interrompeu cerca de 69% da produção diária de petróleo na região.",
+          "title": "Opep reduz expectativa de crescimento da demanda de petróleo para 400 mil barris por dia em 2026",
+          "summary": "O cartel diminuiu sua projeção de crescimento da demanda global pela commodity neste ano.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bp-prepara-retomada-da-producao-de-petroleo-no-golfo-do-mexico/",
-          "time": "ontem"
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/opep-reduz-crescimento-da-demanda-para-400-mil-barris-por-dia-em-2026/",
+          "time": "hoje"
+        },
+        {
+          "title": "Magalu salta 60% e só 11 ações caem na semana após o 1º turno",
+          "summary": "Ações ligadas à economia doméstica dispararam com a expectativa de mais disciplina fiscal e juros menores, e 15 papéis subiram mais de 20%. Exportadoras ficaram para trás com o dólar em queda de 4,44% na semana.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/magalu-mglu3-salta-60-e-so-11-acoes-caem-os-destaques-do-ibovespa-na-semana-apos-1o-turno/",
+          "time": "09/10"
         }
       ]
     },
@@ -226,39 +226,46 @@
       "label": "Programação",
       "items": [
         {
+          "title": "Falha crítica no SonicWall SMA 1000 sofre 135 tentativas de exploração após o patch",
+          "summary": "A vulnerabilidade CVE-2026-102255, uma SSRF sem autenticação com nota CVSS 10.0, começou a ser explorada dias após a divulgação. Pesquisadores observaram 135 tentativas a partir de dois IPs dos EUA.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+          "time": "hoje"
+        },
+        {
+          "title": "Falha CVSS 10.0 no plugin Bricksforge do WordPress é explorada para execução remota de código",
+          "summary": "A CVE-2026-85097 permite upload de arquivos PHP sem autenticação e execução remota de código. A correção está na versão 3.1.8.10 do plugin.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+          "time": "hoje"
+        },
+        {
+          "title": "Let's Encrypt reduz validade padrão dos certificados para 64 dias",
+          "summary": "A partir de fevereiro de 2027, novos certificados terão 64 dias por padrão, como etapa rumo ao limite planejado de 45 dias.",
+          "source": "SecurityWeek",
+          "url": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
+          "time": "hoje"
+        },
+        {
+          "title": "Sites da Canonical e do Ubuntu saem do ar em segundo ataque DDoS do ano",
+          "summary": "O ataque derrubou o site principal do Ubuntu e da Canonical, incluindo o blog e o portal de desenvolvedores.",
+          "source": "SecurityWeek",
+          "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
+          "time": "hoje"
+        },
+        {
+          "title": "Nova tecnologia para Linux promete fazer a memória RAM render muito mais",
+          "summary": "O projeto Compressed RAM (CRAM), criado por um engenheiro da Meta, permite que o Linux trabalhe com dados compactados na memória de forma mais rápida.",
+          "source": "Tecnoblog",
+          "url": "https://tecnoblog.net/noticias/nova-tecnologia-para-linux-promete-fazer-a-memoria-ram-render-muito-mais/",
+          "time": "08/10"
+        },
+        {
           "title": "Pacote npm tensorlake é comprometido em ataque à cadeia de suprimentos com o worm Shai-Hulud",
           "summary": "A versão 0.5.144 do SDK TypeScript da Tensorlake trazia um hook de preinstall que roubava credenciais de npm, GitHub, AWS, Vault, Kubernetes e chaves SSH, além de configs de ferramentas de IA. O malware se propaga republicando pacotes com a identidade da vítima e ameaça apagar o diretório pessoal se o token roubado for revogado. A versão já foi removida; a recomendação é rotacionar todas as credenciais expostas.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
           "time": "08/10"
-        },
-        {
-          "title": "Anthropic lança serviço de relatórios de bugs gerados por IA para mantenedores de código aberto",
-          "summary": "O OSS Scanner, gratuito e inspirado no OSS-Fuzz, varre projetos open source de forma recorrente com os modelos mais capazes da empresa e envia relatórios com prova de conceito e sugestão de correção. Os relatórios são enviados sem revisão humana, e a empresa espera taxa de acerto acima de 90%. A empresa também lançou um programa com 11 parceiros para segurança de sistemas industriais.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-          "time": "09/10"
-        },
-        {
-          "title": "Falha crítica da Atlassian é atacada horas após publicação de PoC",
-          "summary": "A CVE-2026-21589 (CVSS 9.3) afeta produtos Data Center autohospedados como Jira, Confluence e Bitbucket e permite leitura remota de arquivos sem autenticação. Honeypots registraram tentativas de exploração já em 6 de outubro, e o vazamento de credenciais do Crowd pode levar à tomada de controle do Jira. Há correções disponíveis para todas as versões afetadas.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
-          "time": "08/10"
-        },
-        {
-          "title": "Sequestro dos domínios .gh, .sl e .as afetou domínios do Google",
-          "summary": "Atacantes alteraram registros DNS autoritativos desses domínios de país e obtiveram certificados HTTPS indevidos para domínios do Google e de outras organizações. O Google bloqueou os certificados no Chrome e trabalhou com as autoridades certificadoras para revogá-los. Donos de domínios nesses sufixos devem monitorar logs de Certificate Transparency e publicar registros CAA restritivos.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-          "time": "09/10"
-        },
-        {
-          "title": "Falha crítica no SonicWall SMA1000 é explorada dois dias após a divulgação",
-          "summary": "A CVE-2026-102255, com nota máxima 10.0, é uma SSRF pré-autenticação na interface Work Place dos appliances SMA1000 e pode levar à tomada do dispositivo. As primeiras tentativas de ataque apareceram em 8 de outubro, dois dias após a divulgação. Os modelos 6210, 7210 e 8200v devem ser atualizados para as versões corrigidas.",
-          "source": "SecurityWeek",
-          "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-          "time": "hoje, 05:36"
         }
       ]
     },
@@ -266,6 +273,20 @@
       "id": "ia",
       "label": "IA",
       "items": [
+        {
+          "title": "CEO da Microsoft defende 'freio de emergência' para IA avançada",
+          "summary": "Satya Nadella argumenta que modelos poderosos devem ser tratados como possíveis ameaças internas e propõe um mecanismo capaz de pausar ou desligar a IA no meio de uma tarefa.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/ceo-da-microsoft-pede-freio-de-emergencia-para-ia-avancada",
+          "time": "hoje"
+        },
+        {
+          "title": "Invasões na Anthropic teriam levado a Casa Branca a exigir relatos de incidentes de IA",
+          "summary": "Segundo o Axios, em reportagem exclusiva, falhas de segurança na empresa motivaram uma exigência federal de reporte de incidentes envolvendo IA.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
+          "time": "09/10"
+        },
         {
           "title": "Anthropic lança o Claude Haiku 5.5, modelo pequeno 75% mais barato que o anterior",
           "summary": "É o primeiro Haiku com controle de esforço ajustável e custa US$ 0,10 por milhão de tokens de entrada em prompts de até 100 mil tokens. Na tarefa de uso de computador OSWorld 2.1, saltou de 15,7% para 72,4% em relação ao Haiku 4.5. A empresa também cortou em 50% o preço de leitura de cache do Sonnet 5.5.",
@@ -281,24 +302,17 @@
           "time": "09/10"
         },
         {
+          "title": "ChatGPT para Adolescentes falha em testes de dependência emocional",
+          "summary": "Avaliação da Common Sense Media concluiu que a versão para menores mantém mecanismos de engajamento e raramente orienta o usuário a buscar ajuda de adultos.",
+          "source": "Tecnoblog",
+          "url": "https://tecnoblog.net/noticias/chatgpt-para-adolescentes-falha-em-testes-contra-dependencia-emocional/",
+          "time": "08/10"
+        },
+        {
           "title": "Receita anualizada da OpenAI seria de cerca de US$ 50 bilhões, e não US$ 70 bilhões",
           "summary": "Segundo o Axios, a diferença vem da forma de contabilizar vendas por canais de parceiros de nuvem: a Anthropic registra o valor bruto pago pelo cliente, enquanto a OpenAI registra apenas sua parte. O número maior teria sido uma tentativa de tornar as receitas comparáveis. A reportagem também cita relato de que a Anthropic teria lucro operacional no segundo trimestre, excluindo remuneração em ações.",
           "source": "Axios",
           "url": "https://www.axios.com/2026/10/08/openai-50-billion-arr-anthropic-revenue-accounting",
-          "time": "08/10"
-        },
-        {
-          "title": "Manus capta mais de US$ 500 milhões após desfazer venda para a Meta",
-          "summary": "A startup de agentes de IA teve a aquisição de cerca de US$ 2 bilhões pela Meta barrada por autoridades chinesas em abril e recomprou as ações. A rodada foi liderada por Boyu Capital e IDG Capital, com Tencent, HSG e ZhenFund. Desde a separação, lançou o Manus 2.0 e o app pessoal Cue.",
-          "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/10/08/ai-startup-manus-raises-500-million-after-china-blocks-metas-2-billion-acquisition/",
-          "time": "08/10"
-        },
-        {
-          "title": "Nvidia se compromete a investir US$ 1 bilhão em ciência dos EUA ao longo de cinco anos",
-          "summary": "O anúncio foi feito em evento em Washington e prioriza computação quântica, saúde e segurança energética. Os recursos irão para instituições de pesquisa, esforços de computação quântica e provedores de nuvem que atendem o governo americano. A empresa também participa de prêmios da missão Genesis e amplia parceria com laboratórios do Departamento de Energia.",
-          "source": "NVIDIA Newsroom",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
           "time": "08/10"
         }
       ]
@@ -308,32 +322,32 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Lula mantém liderança, mas Flávio Bolsonaro reduz distância em Taboão, Embu e Itapecerica",
-          "summary": "Nas três cidades, Lula ainda venceu o primeiro turno, mas teve cerca de 25 mil votos a menos que em 2022. Flávio Bolsonaro cresceu quase 17 mil votos em relação a Jair Bolsonaro e a vantagem do petista caiu de 79 mil para 36,8 mil votos.",
+          "title": "Prefeitura de Taboão da Serra retoma Operação Noite de Paz para fiscalizar bares, adegas e tabacarias",
+          "summary": "A prefeitura voltou a aplicar a operação que fiscaliza estabelecimentos como bares, adegas e tabacarias.",
           "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/lula-mantem-lideranca-mas-flavio-bolsonaro-reduz-distancia-em-taboao-embu-e-itapecerica/",
-          "time": "08/10"
-        },
-        {
-          "title": "Prefeitura de Taboão da Serra não terá expediente nesta segunda-feira (12); veja o que fecha no feriado",
-          "summary": "Por causa do feriado de Nossa Senhora Aparecida, repartições, unidades do Poupatempo e agências bancárias ficam fechadas. GCM, Defesa Civil e serviços de emergência funcionam, e o atendimento normal volta na terça (13).",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-nao-tera-expediente-nesta-segunda-feira-12-veja-o-que-fecha-no-feriado/",
-          "time": "10/10"
+          "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-retoma-operacao-noite-de-paz-para-fiscalizar-bares-adegas-e-tabacarias/",
+          "time": "recente"
         },
         {
           "title": "Bilhete de Taboão da Serra ganha R$ 20,5 mil na Loteria Federal",
           "summary": "Um bilhete vendido na cidade levou R$ 20.503 no quinto prêmio do concurso 6108, sorteado em São Paulo. Quem comprou frações recebe o valor proporcional; o prêmio principal de R$ 500 mil saiu em Itatiba.",
           "source": "Taboão em Foco",
           "url": "https://taboaoemfoco.com.br/bilhete-de-taboao-da-serra-ganha-r-205-mil-na-loteria-federal/",
-          "time": "ontem"
+          "time": "11/10"
         },
         {
           "title": "Prefeitura de Taboão da Serra entrega kits pedagógicos para professores do GAPEs",
           "summary": "A Secretaria de Educação entregou jogos educativos e materiais de apoio a professores que atendem alunos do 1º ao 5º ano com dificuldades de aprendizagem. A compra atendeu a um pedido dos próprios docentes e ajuda no trabalho com casos como dislexia e TDAH.",
           "source": "Taboão em Foco",
           "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-entrega-kits-pedagogicos-para-professores-do-gapes/",
-          "time": "ontem"
+          "time": "11/10"
+        },
+        {
+          "title": "Tributo a Michael Jackson chega ao Cemur em Taboão da Serra no dia 22 de outubro",
+          "summary": "O show \"O Rei Ainda Vive\" será na quinta, 22, às 20h, no Cemur, no Jardim Bom Tempo. Os ingressos custam de R$ 60 a R$ 120, mais taxa, e são vendidos online.",
+          "source": "Taboão em Foco",
+          "url": "https://taboaoemfoco.com.br/tributo-a-michael-jackson-chega-ao-cemur-em-taboao-da-serra-no-dia-22-de-outubro/",
+          "time": "10/10"
         },
         {
           "title": "Etec de Taboão da Serra abre 20 processos seletivos para professores; inscrições vão até 19 de outubro",
@@ -343,11 +357,11 @@
           "time": "08/10"
         },
         {
-          "title": "Tributo a Michael Jackson chega ao Cemur em Taboão da Serra no dia 22 de outubro",
-          "summary": "O show \"O Rei Ainda Vive\" será na quinta, 22, às 20h, no Cemur, no Jardim Bom Tempo. Os ingressos custam de R$ 60 a R$ 120, mais taxa, e são vendidos online.",
+          "title": "Lula mantém liderança, mas Flávio Bolsonaro reduz distância em Taboão, Embu e Itapecerica",
+          "summary": "Nas três cidades, Lula ainda venceu o primeiro turno, mas teve cerca de 25 mil votos a menos que em 2022. Flávio Bolsonaro cresceu quase 17 mil votos em relação a Jair Bolsonaro e a vantagem do petista caiu de 79 mil para 36,8 mil votos.",
           "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/tributo-a-michael-jackson-chega-ao-cemur-em-taboao-da-serra-no-dia-22-de-outubro/",
-          "time": "10/10"
+          "url": "https://taboaoemfoco.com.br/lula-mantem-lideranca-mas-flavio-bolsonaro-reduz-distancia-em-taboao-embu-e-itapecerica/",
+          "time": "08/10"
         }
       ]
     },
@@ -356,24 +370,38 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Resultados deste domingo em Xangai e Pequim",
-          "summary": "A terceira rodada do Masters de Xangai definiu os oitavistas, com destaque para Arthur Gea, que eliminou Ben Shelton em dois tie-breaks. Mensik virou sobre Francisco Cerúndolo, e em Pequim Luisa Stefani e Dabrowski levaram o título de duplas.",
+          "title": "João Reis vence Wild, é campeão em Antofagasta e terá melhor ranking da carreira",
+          "summary": "O brasileiro derrotou Thiago Wild na final do torneio chileno e deve alcançar sua melhor posição no ranking.",
           "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/resultados-domingo-xangai-pequim/",
+          "url": "https://www.tenisnews.com.br/joao-reis-campeao-antofagasta-melhor-ranking/",
           "time": "ontem"
         },
         {
-          "title": "Djokovic é eliminado na estreia do Masters 1000 de Xangai",
-          "summary": "Hubert Hurkacz venceu o sérvio por 6/4 e 6/3 na primeira rodada, em sua primeira vitória sobre ele em nove confrontos. Djokovic, que vinha do título em Pequim, perde 390 pontos e pode sair do top 10.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/djokovic-eliminado-xangai.html",
-          "time": "09/10"
+          "title": "Andreeva tira lições após vice em Pequim e alfineta torcida chinesa",
+          "summary": "Mirra Andreeva comentou o que aprendeu com a derrota na final de Pequim e fez uma crítica à torcida local.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/andreeva-tira-licoes-vice-pequim/",
+          "time": "ontem"
         },
         {
-          "title": "Fokina sofre queimadura, mas vence batalha em Xangai salvando match-point",
-          "summary": "O espanhol superou Frances Tiafoe por 7/6, 4/6 e 7/6 em 2h48 e avançou às oitavas, onde pega Hurkacz. Durante o jogo, um creme aplicado pelo fisioterapeuta queimou suas costas.",
+          "title": "Stefani e Dabrowski são as principais favoritas nas duplas do WTA 1000 de Wuhan",
+          "summary": "A brasileira Luisa Stefani e a canadense Gabriela Dabrowski aparecem como as cabeças de chave mais fortes da chave de duplas.",
           "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/fokina-queimadura-vence-xangai/",
+          "url": "https://www.tenisnews.com.br/stefani-dabrowski-favoritas-wuhan/",
+          "time": "ontem"
+        },
+        {
+          "title": "Medvedev se defende de críticas: 'Nunca briguei com ninguém'",
+          "summary": "O russo rebateu críticas e negou ter tido conflitos com outros jogadores do circuito.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/medvedev-se-defende-criticas/",
+          "time": "ontem"
+        },
+        {
+          "title": "De Minaur sugere mudança de regra no tênis",
+          "summary": "O australiano Alex de Minaur defendeu uma alteração em uma das regras do esporte.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/de-minaur-sugere-mudanca-regra/",
           "time": "ontem"
         },
         {
@@ -382,20 +410,6 @@
           "source": "TenisNews",
           "url": "https://www.tenisnews.com.br/tiafoe-estracalha-raquetes-xangai/",
           "time": "ontem"
-        },
-        {
-          "title": "Bublik apronta, se machuca em ataque de fúria, mas vence batalha em Xangai",
-          "summary": "O cazaque bateu Brandon Nakashima por 6/7, 6/3 e 7/6 em 2h28, na terceira rodada. Ele avança às oitavas para enfrentar Zverev, mas se machucou após um acesso de raiva.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/bublik-furia-vence-xangai/",
-          "time": "ontem"
-        },
-        {
-          "title": "Definidos os jogos de 3ª rodada no Masters de Xangai",
-          "summary": "A terceira rodada teve 16 duelos, como Zverev x Halys, Medvedev x Svrcina e Tsitsipas x Fritz. Alcaraz e Zverev seguiam vivos, enquanto Djokovic já havia caído na estreia.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/jogos-3a-rodada-masters-xangai/",
-          "time": "10/10"
         }
       ]
     },
@@ -404,46 +418,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
-          "summary": "A candidata Vivaxin, criada no CTVacinas da UFMG, foi liberada pela Anvisa para testes em humanos. O governo vai investir R$ 12 milhões nas três fases, e a primeira avaliará segurança e resposta imune em 48 adultos.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-avanca-no-desenvolvimento-da-primeira-vacina-do-mundo-contra-malaria-vivax",
-          "time": "10/10"
+          "title": "Anvisa autoriza teste em humanos de vacina 100% brasileira contra malária",
+          "summary": "Foi aprovado um ensaio clínico de fase I para avaliar segurança e resposta imune em 48 adultos de 18 a 59 anos sem infecção prévia.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
+          "time": "esta semana"
         },
         {
-          "title": "Jogos e apostas causaram ou ainda causam problemas? Saiba como fazer o autoteste e buscar atendimento pelo Meu SUS Digital",
-          "summary": "O aplicativo oferece teleconsulta gratuita e sigilosa de saúde mental, além de autoteste anônimo, para quem sofre com apostas e para familiares. A medida vem após a MP que proibiu as bets e os jogos online no país.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/jogos-e-apostas-causaram-ou-ainda-causam-problemas-saiba-como-fazer-o-autoteste-e-buscar-atendimento-pelo-meu-sus-digital",
-          "time": "10/10"
+          "title": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz",
+          "summary": "A Fiocruz avisa que os casos de vírus respiratórios seguem elevados em todo o Brasil.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/virus-respiratorios-ainda-estao-em-alta-no-pais-alerta-fiocruz",
+          "time": "esta semana"
         },
         {
-          "title": "Rio de Janeiro recebe primeira carreta de cardiologia do SUS com oferta de consultas e exames especializados",
-          "summary": "A unidade móvel fica na Penha até 6 de novembro, dentro do programa Agora Tem Especialistas. Deve fazer mais de 1,5 mil procedimentos por mês, como eletrocardiograma, ecocardiograma e Holter.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/rio-de-janeiro-recebe-primeira-carreta-de-cardiologia-do-sus-com-oferta-de-consultas-e-exames-especializados",
-          "time": "09/10"
+          "title": "Einstein diz que ataque hacker acessou dados de pacientes",
+          "summary": "O Hospital Albert Einstein informou que um ataque hacker teve acesso a dados de pacientes.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/saude/einstein-diz-que-ataque-hacker-acessou-dados-de-pacientes",
+          "time": "hoje"
         },
         {
-          "title": "SUS: Sangue raro cruza o país em voo comercial para atender paciente em estado grave",
-          "summary": "Uma bolsa de sangue raro foi levada do Ceará a Juiz de Fora (MG) na cabine de um voo comercial para um paciente transplantado renal. Novo acordo com companhias aéreas e Anac permite esse transporte à noite, em fins de semana e feriados.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/sus-sangue-raro-cruza-o-pais-em-voo-comercial-para-atender-paciente-em-estado-grave",
-          "time": "09/10"
+          "title": "Estudo associa sintomas de Covid longa à queda de dopamina",
+          "summary": "Uma pesquisa relaciona os sintomas da Covid longa a uma redução dos níveis de dopamina no organismo.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/estudo-associa-sintomas-de-covid-longa-a-queda-de-dopamina-entenda/",
+          "time": "ontem"
         },
         {
-          "title": "Aedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco",
-          "summary": "O segundo LIRAa de 2026 mostra que quase metade dos 3.732 municípios que informaram dados está em alerta ou risco, com criadouros sobretudo em casas. Os casos de dengue caíram cerca de 70% frente a 2025, mas o verão e o El Niño pedem cuidado.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/aedes-aegypti-49-dos-municipios-avaliados-estao-em-situacao-de-alerta-ou-risco",
+          "title": "Meningite: quatro cidades do Rio ofertam vacina a pessoas de até 24 anos",
+          "summary": "Quatro municípios fluminenses oferecem a vacina contra meningite para esse grupo etário.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/meningite-quatro-cidades-do-rio-ofertam-vacina-pessoas-ate-24-anos",
+          "time": "esta semana"
+        },
+        {
+          "title": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
+          "summary": "Cerca de 49% dos municípios avaliados estão em situação de alerta ou risco para o mosquito transmissor da dengue.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/aedes-aegypti-quase-metade-dos-municipios-esta-em-alerta-ou-risco",
           "time": "07/10"
-        },
-        {
-          "title": "Brasil intensifica ações contra o sarampo diante de surto nos EUA e avanço da doença nas Américas",
-          "summary": "Com 52 casos importados até 5 de outubro, o país segue sem circulação endêmica, mas reforça vacinação e vigilância em São Paulo, no Amazonas e na tríplice fronteira. A vacina é gratuita no SUS e quem está com doses atrasadas deve procurar uma unidade de saúde.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-intensifica-acoes-contra-o-sarampo-diante-de-surto-nos-eua-e-avanco-da-doenca-nas-americas",
-          "time": "06/10"
         }
       ]
     }
