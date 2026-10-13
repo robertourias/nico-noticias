@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:25:28-03:00",
+  "updatedAt": "2026-10-13T20:35:00-03:00",
   "markets": {
     "asOf": "Ibovespa e dólar: fechamento de 13/10 · BTC às 17:33 (24h) · IFIX, EUA, euro, ETH, SOL e CDI/Selic: último dado disponível (não atualizado)",
     "items": [
@@ -156,6 +156,69 @@
       "id": "politica",
       "label": "Política",
       "items": [
+        {
+          "title": "O segundo turno mais idiota da história (Análises Renais, 13/10)",
+          "summary": "Episódio do programa Análises Renais, publicado no canal de Renan Santos, que comenta a disputa do segundo turno da eleição presidencial. O título já indica o tom crítico do apresentador sobre a campanha.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=zCB5musbafc",
+          "time": "hoje, 14:59"
+        },
+        {
+          "title": "Renan Santos se pronuncia sobre vídeo gravado com deputada do PT Duda Hidalgo",
+          "summary": "O canal reúne trecho em que Renan Santos comenta o vídeo gravado com a deputada Duda Hidalgo (PT). O material é um corte do programa original do MBL.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=CWPJ7jZbfsY",
+          "time": "hoje, 16:00"
+        },
+        {
+          "title": "Fim da escala 6x1 será aprovado? Renan Santos revela qual a sua opinião",
+          "summary": "Corte em que Renan Santos expõe sua opinião sobre a votação do fim da escala 6x1, tema em pauta no Congresso nesta semana.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=o0nuvDVAj34",
+          "time": "hoje, 14:55"
+        },
+        {
+          "title": "Perdão de dívidas de MEI: Lula tenta comprar voto?",
+          "summary": "No vídeo, Kim Kataguiri questiona se o programa de perdão de dívidas de MEIs lançado pelo presidente Lula, a duas semanas do segundo turno, tem fins eleitorais.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=AdqE3v7Nexo",
+          "time": "hoje, 19:01"
+        },
+        {
+          "title": "Agora os 20 milhões de votos vêm!",
+          "summary": "Vídeo de Kim Kataguiri publicado após o primeiro turno, com sua leitura sobre o cenário eleitoral e o eleitorado em disputa no segundo turno.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=6gCiM9JGmfw",
+          "time": "11/10"
+        },
+        {
+          "title": "Plantão Arthur do Val - A direita saiu ganhando",
+          "summary": "Em seu plantão, Arthur do Val avalia o cenário político e defende, segundo o título, que a direita saiu fortalecida do atual momento eleitoral.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=poh0qWM_Kqw",
+          "time": "hoje, 11:20"
+        },
+        {
+          "title": "Escravinhas do Vorcaro",
+          "summary": "Vídeo de Arthur do Val sobre o caso envolvendo Daniel Vorcaro, tema que segue em evidência no noticiário político.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=TlDaWwpYbGA",
+          "time": "hoje, 13:33"
+        },
+        {
+          "title": "REDCAST analisa disputa presidencial",
+          "summary": "Raiam Santos, Junior Masters e Gabriel Gordão analisam as campanhas presidenciais e o que esperar do segundo turno.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=BDTnSYBFuAY",
+          "time": "hoje, 19:45"
+        },
+        {
+          "title": "Autocrítica oficial do MBL (MBL News, 13/10)",
+          "summary": "Edição do MBL News de 13/10 em que o movimento faz, segundo o título, uma autocrítica oficial após o primeiro turno.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=xK3CFAR26aA",
+          "time": "hoje, 14:51"
+        },
         {
           "title": "Direita decide votar a favor do fim da escala 6x1",
           "summary": "Bancadas de oposição e da direita no Senado recuaram e decidiram apoiar a PEC do fim da escala 6x1 para evitar desgaste eleitoral; até a semana passada, planejavam obstruir a votação até depois do segundo turno. Davi Alcolumbre se comprometeu a pautar a proposta, e a votação, prevista para quarta (14), deve ficar para quinta (15).",
