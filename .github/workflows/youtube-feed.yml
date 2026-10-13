@@ -25,7 +25,9 @@ jobs:
         with:
           node-version: 22
       - name: Buscar feeds do YouTube
-        run: node scripts/fetch-youtube.mjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}        
+        run: node scripts/fetch-youtube.mjs      
       - name: Commit (se houver mudança)
         run: |
           if git diff --quiet -- data/youtube.json && [ -f data/youtube.json ] && git ls-files --error-unmatch data/youtube.json >/dev/null 2>&1; then
