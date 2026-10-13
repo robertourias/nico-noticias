@@ -12,7 +12,7 @@ export function NewsGrid({ category }: { category: Category }) {
       {items.length === 0 ? (
         <div className="empty">
           <strong>As notícias de {category.label} chegam na próxima atualização</strong>
-          <span>A página é atualizada automaticamente às 8h e às 14h.</span>
+          <span>A página é atualizada automaticamente todos os dias às 3h15.</span>
         </div>
       ) : (
         <div className="grid">

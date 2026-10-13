@@ -4,7 +4,7 @@
 import { readFileSync } from "node:fs";
 
 const FILE = new URL("../data/news.json", import.meta.url);
-const CATEGORIES = ["noticias", "economia", "programacao", "ia", "taboao", "tenis", "saude"];
+const CATEGORIES = ["noticias", "politica", "economia", "programacao", "ia", "taboao", "tenis", "saude"];
 const MARKETS = ["ibov", "ifix", "cdi-selic", "sp500", "nasdaq100", "dow", "usd", "eur", "btc", "eth", "sol"];
 
 const errors = [];

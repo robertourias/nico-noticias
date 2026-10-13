@@ -167,6 +167,11 @@
       ]
     },
     {
+      "id": "politica",
+      "label": "Política",
+      "items": []
+    },
+    {
       "id": "economia",
       "label": "Economia",
       "items": [

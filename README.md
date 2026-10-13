@@ -4,7 +4,7 @@ Portal de notícias pessoal em Next.js. Mostra a previsão do tempo de São Paul
 Notícias, Economia (com os indicadores financeiros), Programação, IA, Taboão da Serra, Tênis e Saúde.
 
 O site é **100% estático**: todo o conteúdo vem de um único arquivo, [`data/news.json`](data/news.json).
-Uma tarefa agendada do Claude atualiza esse arquivo às 8h e às 14h (horário de Brasília) e faz o commit.
+Uma tarefa agendada do Claude atualiza esse arquivo todos os dias às 3h15 (horário de Brasília) e faz o commit.
 Cada commit em `main` dispara um novo deploy na Vercel, em **https://news.nico.dev.br**.
 
 ```
@@ -47,7 +47,7 @@ npm run check          # validação + lint + build (gera a pasta out/)
     { "id": "noticias", "label": "Notícias", "items": [
       { "title": "...", "summary": "...", "source": "CNN Brasil", "url": "https://...", "time": "hoje, 14:20" }
     ] }
-    /* economia, programacao, ia, taboao, tenis, saude — nesta ordem */
+    /* politica, economia, programacao, ia, taboao, tenis, saude — nesta ordem */
   ]
 }
 ```

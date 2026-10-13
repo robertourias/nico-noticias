@@ -37,7 +37,7 @@ export default function Home() {
 
       <footer>
         <div className="wrap">
-          Atualizado automaticamente todos os dias às 8h e às 14h (horário de Brasília). Os textos são resumos; a
+          Atualizado automaticamente todos os dias às 3h15 (horário de Brasília). Os textos são resumos; a
           matéria completa está no link de cada notícia.
         </div>
       </footer>
