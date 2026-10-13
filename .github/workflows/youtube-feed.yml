@@ -1,0 +1,39 @@
+name: youtube-feed
+
+# Atualiza data/youtube.json com os vídeos recentes dos canais do Missão/MBL
+# (feed RSS público do YouTube). A tarefa agendada das 3h15 lê esse arquivo.
+# 05:00 UTC = 02:00 em São Paulo; a margem cobre atrasos do agendador do GitHub.
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-feed
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Buscar feeds do YouTube
+        run: node scripts/fetch-youtube.mjs
+      - name: Commit (se houver mudança)
+        run: |
+          if git diff --quiet -- data/youtube.json && [ -f data/youtube.json ] && git ls-files --error-unmatch data/youtube.json >/dev/null 2>&1; then
+            echo "Sem mudanças."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/youtube.json
+          git commit -m "chore: atualiza vídeos do YouTube [skip ci]"
+          git push
