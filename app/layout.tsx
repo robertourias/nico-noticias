@@ -21,7 +21,7 @@ const publicSans = localFont({
 
 export const metadata: Metadata = {
   title: "Nico Notícias",
-  description: "Resumo das principais notícias, indicadores financeiros e previsão do tempo, atualizado às 8h e às 14h.",
+  description: "Resumo das principais notícias, indicadores financeiros e previsão do tempo, atualizado diariamente às 3h15.",
 };
 
 export const viewport: Viewport = {
