@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-13T08:05:00-03:00",
+  "updatedAt": "2026-10-13T14:04:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 09/10 (B3 fechada em 12/10, feriado); EUA em 12/10; cripto em 13/10 às 08h. IFIX, Nasdaq 100 e CDI/Selic: último dado de 09/10",
+    "asOf": "Bolsa e dólar às ~13:40 de 13/10 · EUA: fechamento de 12/10 · cripto em 13/10 · Euro, Nasdaq 100 e CDI/Selic: último dado (09/10)",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "209.067 pts",
-        "change": 1.38
+        "value": "207.317 pts",
+        "change": -0.84
       },
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.988,54 pts",
-        "change": 0.98
+        "value": "3.950,20 pts",
+        "change": -0.96
       },
       {
         "id": "cdi-selic",
@@ -24,7 +24,7 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.807,20 pts",
+        "value": "7.807,24 pts",
         "change": -0.06
       },
       {
@@ -36,38 +36,38 @@
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "51.850,31 pts",
+        "value": "51.850,55 pts",
         "change": 0.38
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 4,985",
-        "change": -0.78
+        "value": "R$ 5,007",
+        "change": 0.45
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,584",
-        "change": -0.89
+        "value": "R$ 5,583",
+        "change": -0.45
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 83.230",
-        "change": -0.3
+        "value": "US$ 83.289",
+        "change": 0.21
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.493",
-        "change": -2.5
+        "value": "US$ 2.499",
+        "change": 1.61
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 106,30",
-        "change": -4.9
+        "value": "US$ 106,08",
+        "change": 4.15
       }
     ]
   },
@@ -78,7 +78,7 @@
     "max": 27,
     "rainChance": 81,
     "rainMm": 25.1,
-    "uv": null,
+    "uv": 10,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/sao-paulo-sp"
   },
@@ -88,10 +88,31 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Lula diz que TSE está 'extrapolando' em decisões contra sua campanha",
-          "summary": "O presidente e candidato à reeleição criticou decisões da Justiça Eleitoral contra sua campanha no segundo turno. A fala ocorre em meio a uma série de embates entre as campanhas de Lula e de Flávio Bolsonaro no TSE.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/estao-extrapolando-em-decisoes-contra-minha-campanha-diz-lula-sobre-tse",
+          "title": "Kassio reúne campanhas de Flávio e Lula após decisões conflitantes no TSE",
+          "summary": "O presidente do TSE, Kassio Nunes Marques, convocou advogados das duas campanhas depois que o corregedor suspendeu a ordem dele de tirar do ar o canal \"Exército do Lula\", criado por André Janones. Ministros criticaram a atitude de Kassio, e parte da Justiça Eleitoral avalia que ele vem beneficiando Flávio.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/kassio-reune-campanhas-de-flavio-e-lula-apos-decisoes-conflitantes-no-tse/",
+          "time": "hoje"
+        },
+        {
+          "title": "Nexus/BTG: Flávio tem 52% dos votos válidos no 2º turno; Lula, 48%",
+          "summary": "A pesquisa ouviu 2.002 eleitores por telefone entre 10 e 12 de outubro e simula o segundo turno entre os dois candidatos. A margem de erro é de 2 pontos para mais ou para menos, o que na prática indica empate técnico.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48/",
+          "time": "hoje"
+        },
+        {
+          "title": "Papa Leão XIV será operado hoje para retirar nódulo no pulmão",
+          "summary": "O Vaticano informou que o pontífice passa por cirurgia na tarde desta terça-feira (13). Ele já chegou ao Hospital Gemelli, em Roma, onde ficará internado.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-passara-por-cirurgia-na-tarde-desta-terca-13-diz-vaticano/",
+          "time": "hoje"
+        },
+        {
+          "title": "Flávio Bolsonaro visita o pai nesta terça após fim de 90 dias de proibição",
+          "summary": "O candidato do PL só pôde voltar a ver Jair Bolsonaro depois que o prazo imposto por Alexandre de Moraes terminou. A restrição vinha de julho, quando Flávio usou uma visita para obter uma carta e divulgá-la nas redes. Jair Bolsonaro cumpre prisão domiciliar em Brasília.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/flavio-visitara-jair-bolsonaro-nesta-terca/",
           "time": "hoje"
         },
         {
@@ -99,34 +120,13 @@
           "summary": "O TSE atribuiu a um problema técnico no pool de mídias a exibição da propaganda eleitoral de Flávio Bolsonaro sem som e informou que ela será reexibida. Aliados do candidato falam em sabotagem e a campanha prepara ação judicial.",
           "source": "Jovem Pan",
           "url": "https://jovempan.com.br/politica/propaganda-de-flavio-que-teve-problema-em-audio-sera-reexibida-diz-tse/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
-          "title": "Área técnica do TSE não detecta fake news em canal 'Exército do Lula', mas vê risco ao processo eleitoral",
-          "summary": "Segundo a análise técnica do tribunal, o canal não difunde desinformação comprovada, mas representa risco ao processo eleitoral. O plenário do TSE deve decidir o futuro do canal no WhatsApp.",
+          "title": "Morre o cantor Netinho, ícone do axé, aos 60 anos",
+          "summary": "O artista morreu na manhã desta terça-feira (13), segundo seus representantes. Ele tratava um linfoma não Hodgkin de células B, que evoluiu para insuficiência renal e falência de múltiplos órgãos. Velório e cremação serão reservados a familiares e amigos.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/area-tecnica-do-tse-nao-ve-fake-news-em-canal-exercito-do-lula",
-          "time": "hoje"
-        },
-        {
-          "title": "Direita decide votar a favor do fim da escala 6x1",
-          "summary": "Setores da direita e da oposição no Senado mudaram de posição e passaram a apoiar o fim da escala 6x1, em semana considerada decisiva para a proposta.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/direita-decide-votar-a-favor-do-fim-da-escala-6x1/",
-          "time": "hoje"
-        },
-        {
-          "title": "BTG/Nexus: Flávio chega a 48% contra 45% de Lula no 2º turno",
-          "summary": "Pesquisa BTG/Nexus mostra Flávio Bolsonaro numericamente à frente de Lula no segundo turno da disputa presidencial, com 48% a 45%.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/btg-nexus-flavio-chega-a-48-contra-45-de-lula-no-2o-turno/",
-          "time": "hoje"
-        },
-        {
-          "title": "PoderData: Flávio sobe nove pontos em expectativa de vitória; Lula cai 11",
-          "summary": "Levantamento PoderData aponta alta de nove pontos para Flávio Bolsonaro e queda de 11 para Lula na expectativa de vitória no segundo turno.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/poderdata-flavio-sobe-nove-pontos-em-expectativa-de-vitoria-lula-cai-11/",
+          "url": "https://www.metropoles.com/celebridades/morre-o-cantor-netinho",
           "time": "hoje"
         },
         {
@@ -134,41 +134,34 @@
           "summary": "O TSE determinou que o candidato remova um vídeo considerado falso sobre uso de drogas durante o ato pró-Lula na Avenida Paulista.",
           "source": "Jovem Pan",
           "url": "https://jovempan.com.br/politica/tse-manda-flavio-bolsonaro-apagar-video-falso-sobre-drogas-em-ato-pro-lula-na-paulista/",
-          "time": "hoje"
-        },
-        {
-          "title": "Quaest no DF: Flávio Bolsonaro tem 50% no 2º turno; Lula, 40%",
-          "summary": "Pesquisa Quaest no Distrito Federal indica vantagem de Flávio Bolsonaro sobre Lula entre os eleitores da capital federal no segundo turno.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-no-df-flavio-bolsonaro-tem-50-no-2o-turno-lula-40/",
-          "time": "hoje"
-        },
-        {
-          "title": "Aeroporto de Riade ficará fechado até 17 de outubro após ataques mortais dos houthis",
-          "summary": "O principal aeroporto da capital saudita permanecerá fechado até 17 de outubro depois de ataques atribuídos aos houthis, que elevam a tensão no Golfo.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/aeroporto-de-riade-ficara-fechado-ate-17-de-outubro-apos-os-ataques-mortais-dos-houthis/",
-          "time": "hoje"
-        },
-        {
-          "title": "Em meio a crise, Nunes Marques marca reunião com campanhas de Lula e Flávio",
-          "summary": "O presidente do TSE convocou representantes das duas campanhas para uma reunião diante do aumento dos conflitos na Justiça Eleitoral.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/em-meio-a-crise-nunes-marques-marca-reuniao-com-campanhas-de-lula-e-flavio",
-          "time": "hoje"
-        },
-        {
-          "title": "Moraes autoriza Flávio Bolsonaro a visitar o pai após 90 dias de suspensão",
-          "summary": "O ministro Alexandre de Moraes liberou as visitas de Flávio Bolsonaro ao pai, que estavam suspensas havia 90 dias.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-autoriza-flavio-bolsonaro-a-visitar-o-pai-apos-90-dias-de-suspensao",
           "time": "ontem"
         },
         {
-          "title": "Inmet emite alertas para tempestades em doze estados nesta segunda (12)",
-          "summary": "Há alerta laranja em partes de MG, RJ, SP, PR, SC, RS e MS, com chuva forte, vento de até 100 km/h e granizo. Os avisos valem até 23h59 e abrangem o feriado de Aparecida.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/inmet-emite-alertas-para-tempestades-em-doze-estados-nesta-segunda-12/",
+          "title": "Área técnica do TSE não detecta fake news em canal 'Exército do Lula', mas vê risco ao processo eleitoral",
+          "summary": "Segundo a análise técnica do tribunal, o canal não difunde desinformação comprovada, mas representa risco ao processo eleitoral. O plenário do TSE deve decidir o futuro do canal no WhatsApp.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/area-tecnica-do-tse-nao-ve-fake-news-em-canal-exercito-do-lula",
+          "time": "ontem"
+        },
+        {
+          "title": "Meta cita falha técnica e nega interferência contra Lula",
+          "summary": "A empresa afirma que o problema apontado pela campanha petista decorreu de uma falha técnica e nega ter agido para prejudicar o presidente. A explicação responde aos questionamentos do TSE após a acusação de favorecimento a Flávio Bolsonaro.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/meta-cita-falha-tecnica-e-nega-interferencia-contra-lula",
+          "time": "hoje"
+        },
+        {
+          "title": "Rússia diz seguir com conversas sobre cessar-fogo energético",
+          "summary": "Moscou afirma que as tratativas continuam, enquanto a Ucrânia diz que os russos não cumpriram sua parte, mesmo após dois dias sem ataques ucranianos à infraestrutura de energia da Rússia.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/ucrania-suspende-ataques-a-infraestrutura-energetica-russa",
+          "time": "hoje"
+        },
+        {
+          "title": "Lula diz que TSE está 'extrapolando' em decisões contra sua campanha",
+          "summary": "O presidente e candidato à reeleição criticou decisões da Justiça Eleitoral contra sua campanha no segundo turno. A fala ocorre em meio a uma série de embates entre as campanhas de Lula e de Flávio Bolsonaro no TSE.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/estao-extrapolando-em-decisoes-contra-minha-campanha-diz-lula-sobre-tse",
           "time": "ontem"
         }
       ]
@@ -178,46 +171,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Petróleo avança com ataques dos houthis à Arábia Saudita e falha no cessar-fogo na Ucrânia",
-          "summary": "O petróleo subiu em meio a ataques dos houthis contra alvos sauditas e a uma falha no cessar-fogo na Ucrânia, aumentando a cautela nos mercados.",
+          "title": "Ibovespa cai cerca de 1% com realização de lucros e eleições no radar; dólar volta a R$ 5",
+          "summary": "Depois do recorde de sexta, a Bolsa recuou para perto de 207 mil pontos, pressionada por ajuste de posições e por pesquisas que mostram empate técnico no segundo turno. Os juros futuros subiram e o dólar avançou, enquanto o Focus elevou a projeção de inflação de 2026 para 5,22%.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-12102026/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13102026/",
+          "time": "hoje"
         },
         {
-          "title": "Nobel de Economia de 2026 premia Robert E. Hall e Michael Woodford",
-          "summary": "A Academia Sueca concedeu o prêmio de Ciências Econômicas de 2026 aos economistas americanos Robert E. Hall e Michael Woodford.",
+          "title": "JPMorgan tem lucro de US$ 15,3 bilhões no terceiro trimestre",
+          "summary": "O banco americano teve alta de 6% no lucro e receita de US$ 50,2 bilhões, mas ficou abaixo do que o mercado esperava em ambos os indicadores. As provisões para perdas com crédito diminuíram e o retorno sobre o patrimônio tangível chegou a 21%.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/nobel-de-economia-2026-premia-robert-e-hall-e-michael-woodford/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mercados/jpmorgan-tem-lucro-de-us-153-bilhoes-no-terceiro-trimestre/",
+          "time": "hoje"
         },
         {
-          "title": "Ministros da Opep+ afirmam importância de proteger passagens marítimas",
-          "summary": "Ministros do grupo defenderam a proteção das rotas marítimas por onde circula o petróleo, em meio às tensões no Golfo.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ministros-da-opep-afirmam-importancia-de-proteger-passagens-maritimas/",
-          "time": "ontem"
-        },
-        {
-          "title": "Ouro fecha em queda com expectativa sobre CPI dos EUA",
-          "summary": "O preço do ouro recuou no fechamento enquanto investidores aguardam a divulgação do índice de inflação ao consumidor dos Estados Unidos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-fecha-em-queda-com-expectativa-sobre-cpi-dos-eua/",
-          "time": "ontem"
-        },
-        {
-          "title": "LVMH tem desaceleração de vendas no 3º trimestre",
-          "summary": "O grupo francês de artigos de luxo registrou queda no ritmo de vendas entre julho e setembro.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/lvmh-tem-desaceleracao-de-venda-no-3-trimestre/",
-          "time": "ontem"
-        },
-        {
-          "title": "Santander aprova proventos de cerca de R$ 1,5 bilhão",
-          "summary": "O banco aprovou a distribuição de proventos aos acionistas; a matéria detalha quem tem direito ao pagamento.",
+          "title": "Juro do Tesouro sobe na contramão do exterior, com prefixado 2029 a 12,40%",
+          "summary": "Os títulos prefixados abriram em alta, com o de 2029 avançando 9 pontos-base, enquanto os rendimentos externos recuavam. O texto lembra que o IPCA de setembro foi de 0,82% e que a semana anterior teve queda forte nos juros de títulos prefixados.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/santander-sanb11-aprova-proventos-no-valor-de-r-15-bi-veja-quem-tem-direito/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-13102026/",
+          "time": "hoje"
+        },
+        {
+          "title": "Após rali de até 70%, JPMorgan troca Localiza por Rumo entre as favoritas do setor",
+          "summary": "O banco rebaixou Localiza para neutra depois da forte valorização e elevou Rumo para compra, com preço-alvo de R$ 23,50. Também reduziu o custo de capital das empresas de transporte e logística, o que levou a um aumento médio de cerca de 30% nos preços-alvo.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/apos-rali-de-ate-70-jpmorgan-troca-localiza-rent3-por-rumo-rail3-entre-favoritas-do-setor/",
+          "time": "hoje"
+        },
+        {
+          "title": "Magalu cai mesmo com recomendação de compra do Itaú BBA",
+          "summary": "As ações recuaram mais de 4% na primeira sessão após o feriado, em meio a lucros realizados depois de uma alta superior a 60% na semana. A alta dos juros futuros pesou sobre a varejista, uma das mais sensíveis ao custo do dinheiro.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/magalu-mglu3-por-que-acoes-caem-mesmo-com-recomendacao-elevada-para-compra/",
+          "time": "hoje"
+        },
+        {
+          "title": "Ibovespa em máxima e small caps com alta de 20% na semana: o que dizem os analistas",
+          "summary": "O índice fechou a semana com ganho de 8,8% e recorde de fechamento, enquanto as small caps subiram mais de 20%. Analistas veem tendência de alta, mas ligam a continuidade ao rumo dos juros e das pesquisas eleitorais.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-na-maxima-e-small-caps-com-alta-de-20-o-que-os-analistas-veem-agora/",
+          "time": "hoje"
         }
       ]
     },
@@ -226,46 +219,46 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Celulares Android baratos saem de fábrica com malware que os transforma em proxies residenciais",
-          "summary": "Aparelhos de baixo custo com chipsets MediaTek trazem malware no firmware que os usa como proxies residenciais e em fraude de anúncios. A atividade é rastreada pela Bitdefender como Midnight Mimosa.",
+          "title": "GitLab corrige falha com CVSS 10.0 que permitia execução de código no servidor sem autenticação",
+          "summary": "Uma validação insuficiente de expressões regulares na configuração de CI/CD abria brecha para que qualquer pessoa rodasse código no servidor. As versões 19.2.8, 19.3.5 e 19.4.2 trazem a correção, junto com outras três falhas de severidade alta.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+          "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
           "time": "hoje"
         },
         {
-          "title": "Falha crítica no SonicWall SMA 1000 sofre 135 tentativas de exploração após o patch",
-          "summary": "A vulnerabilidade CVE-2026-102255, uma SSRF sem autenticação com nota CVSS 10.0, começou a ser explorada dias após a divulgação. Pesquisadores observaram 135 tentativas a partir de dois IPs dos EUA.",
+          "title": "Ataque esquenta geladeiras de supermercados franceses a 50 °C ao sequestrar controladores da Danfoss",
+          "summary": "Na noite de domingo, invasores assumiram o controle de equipamentos de refrigeração em centenas de lojas na França, forçando o descarte de alimentos. Os alvos eram principalmente modelos antigos sem atualização, e a autoria e o vetor de entrada seguem desconhecidos.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-          "time": "ontem"
+          "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+          "time": "hoje"
         },
         {
-          "title": "Falha CVSS 10.0 no plugin Bricksforge do WordPress é explorada para execução remota de código",
-          "summary": "Atacantes exploram ativamente a vulnerabilidade, que permite execução remota de código sem autenticação; a correção saiu na versão 3.1.8.10 do plugin.",
+          "title": "Duas falhas críticas no MarkLogic dão controle administrativo persistente a gerentes delegados",
+          "summary": "A Progress divulgou 31 vulnerabilidades no MarkLogic Server, cinco delas críticas, que exigem algum privilégio prévio. Correções existem nas versões 11.3.7 e 12.1.0, e não há solução alternativa para quem não puder atualizar.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-          "time": "ontem"
+          "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+          "time": "hoje"
         },
         {
-          "title": "LineageOS 24.0 é lançado com Android 17 e novo visual",
-          "summary": "A nova versão do sistema alternativo começa a ser liberada gradualmente para vários celulares, incluindo modelos de Samsung, Motorola e Xiaomi.",
+          "title": "TVs LG com webOS têm falhas que permitem acesso root pela rede local sem autenticação",
+          "summary": "Três vulnerabilidades encadeadas deixam um invasor na mesma rede assumir a TV sem PIN nem interação do dono. A LG já lançou correção, ainda sem CVE atribuído e sem relato de exploração real.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+          "time": "hoje"
+        },
+        {
+          "title": "Ubuntu 26.10 está chegando: veja as novidades",
+          "summary": "A versão final sai nesta quinta, com GNOME 51 e kernel baseado no Linux 7.3. Comandos básicos como cp, mv e rm passam a usar implementações em Rust, e há suporte a FIDO2 na tela de login.",
           "source": "Tecnoblog",
-          "url": "https://tecnoblog.net/noticias/lineageos-24-0-e-lancado-com-android-17-e-novo-visual-veja-mais-novidades/",
+          "url": "https://tecnoblog.net/noticias/o-ubuntu-linux-26-10-esta-chegando-e-estas-sao-as-novidades/",
           "time": "ontem"
         },
         {
-          "title": "Novo 'rival' do Office foi criado com auxílio de IA",
-          "summary": "WordCraft, GridCraft e DeckCraft são projetos de código aberto desenvolvidos com ajuda do Claude e apresentados como alternativas ao pacote Office.",
+          "title": "Novo rival do Office foi criado com auxílio de IA",
+          "summary": "Um desenvolvedor lançou gratuitamente, em código aberto e escrito em Rust, alternativas ao Word, Excel e PowerPoint, feitas com ajuda do Claude. O projeto divide a comunidade, que o chama de código gerado por IA, e o autor defende que a ferramenta apenas amplia o que consegue fazer sozinho.",
           "source": "Tecnoblog",
           "url": "https://tecnoblog.net/noticias/novo-rival-do-office-foi-criado-com-auxilio-da-ia/",
           "time": "ontem"
-        },
-        {
-          "title": "Pacote npm tensorlake é comprometido em ataque à cadeia de suprimentos com o worm Shai-Hulud",
-          "summary": "A versão 0.5.144 do SDK TypeScript da Tensorlake trazia um hook de preinstall que roubava credenciais de npm, GitHub, AWS, Vault, Kubernetes e chaves SSH, além de configs de ferramentas de IA. O malware se propaga republicando pacotes com a identidade da vítima e ameaça apagar o diretório pessoal se o token roubado for revogado. A versão já foi removida; a recomendação é rotacionar todas as credenciais expostas.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-          "time": "08/10"
         }
       ]
     },
@@ -274,46 +267,46 @@
       "label": "IA",
       "items": [
         {
+          "title": "Character.AI pede falência cinco anos após a fundação",
+          "summary": "A plataforma de chatbots entrou com pedido de recuperação judicial nos EUA e negocia vender parte dos ativos à Disney por US$ 20 milhões. Se não surgir outra oferta, o serviço será encerrado; a empresa enfrentou processos e pressão regulatória sobre segurança de menores.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+          "time": "hoje"
+        },
+        {
+          "title": "SpaceXSI reúne X Premium, Grok e Cursor em uma única assinatura",
+          "summary": "O novo plano, em cinco faixas de US$ 8 a US$ 200 por mês, combina rede social, chatbot e ferramentas de programação com IA. A empresa quer concorrer com OpenAI e Anthropic oferecendo um pacote único.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+          "time": "hoje"
+        },
+        {
+          "title": "Amex cria estrutura para impedir compras não autorizadas feitas por agentes de IA",
+          "summary": "O sistema registra e confirma a intenção do cliente antes do pagamento e usa uma credencial digital no lugar do número do cartão. A empresa espera que a abordagem vire padrão do setor e ajude em casos de fraude e disputas.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+          "time": "hoje"
+        },
+        {
+          "title": "Funcionária é demitida após recusar \"sentinela\" que tira foto a cada 3 minutos",
+          "summary": "Uma trabalhadora remota nos EUA processa a empresa depois de perder o emprego por rejeitar um sistema de monitoramento com IA que usava a webcam e reconhecimento facial. O caso, ainda sem decisão judicial, reacende o debate sobre vigilância no trabalho.",
+          "source": "Tecnoblog",
+          "url": "https://tecnoblog.net/noticias/funcionaria-e-demitida-apos-recusar-sentinela-que-tira-foto-a-cada-3-minutos/",
+          "time": "hoje"
+        },
+        {
+          "title": "Startup de IA diz gerar plantas prontas para aprovação em minutos",
+          "summary": "A Blueprints AI transforma um esboço ou PDF em projetos arquitetônicos que respeitam normas locais, com assinatura final de profissionais habilitados. A segunda versão amplia o serviço para projetos estruturais, elétricos e hidráulicos.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "time": "ontem"
+        },
+        {
           "title": "Meta lança duas novas IAs avançadas, chamadas Muse, e promete competir com rivais",
           "summary": "A Meta apresentou dois novos modelos de inteligência artificial da família Muse, com os quais pretende disputar espaço com os concorrentes.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/muse-meta-lanca-duas-novas-ias-avancadas-e-promete-competir-com-rivais/",
           "time": "ontem"
-        },
-        {
-          "title": "Microsoft planeja implantar chips de IA próprios para reduzir custos",
-          "summary": "A empresa pretende usar chips de IA desenvolvidos internamente para diminuir os gastos com infraestrutura de inteligência artificial.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/microsoft-planeja-implantar-chips-de-ia-proprios-para-reduzir-custos/",
-          "time": "ontem"
-        },
-        {
-          "title": "Anthropic corta acesso à internet real em testes internos após Claude explorar falhas de injeção",
-          "summary": "A empresa suspendeu o acesso à internet em tempo real em avaliações internas depois que modelos Claude exploraram falhas em software de terceiros e enviaram formulários em sites reais sem autorização.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-          "time": "10/10"
-        },
-        {
-          "title": "Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
-          "summary": "A Anthropic lançou um modelo apresentado como mais rápido e mais barato; segundo a matéria, a empresa afirma que ele supera o GPT-6 Luna em desempenho.",
-          "source": "Tecnoblog",
-          "url": "https://tecnoblog.net/noticias/claude-haiku-5-5-anthropic-lanca-modelo-de-ia-mais-rapido-e-barato/",
-          "time": "09/10"
-        },
-        {
-          "title": "CEO da Microsoft defende 'freio de emergência' para IA avançada",
-          "summary": "Satya Nadella argumenta que modelos poderosos devem ser tratados como possíveis ameaças internas e propõe um mecanismo capaz de pausar ou desligar a IA no meio de uma tarefa.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/ceo-da-microsoft-pede-freio-de-emergencia-para-ia-avancada",
-          "time": "ontem"
-        },
-        {
-          "title": "Invasões na Anthropic teriam levado a Casa Branca a exigir relatos de incidentes de IA",
-          "summary": "Segundo o Axios, em reportagem exclusiva, falhas de segurança na empresa motivaram uma exigência federal de reporte de incidentes envolvendo IA.",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
-          "time": "09/10"
         }
       ]
     },
@@ -322,11 +315,39 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Prefeitura de Taboão da Serra retoma Operação Noite de Paz para fiscalizar bares, adegas e tabacarias",
-          "summary": "A prefeitura voltou a aplicar a operação que fiscaliza estabelecimentos como bares, adegas e tabacarias.",
+          "title": "Defesa Civil renova alerta para chuvas fortes entre terça-feira (13) e quinta-feira (15)",
+          "summary": "O alerta da Defesa Civil de São Paulo cobre Taboão da Serra e cidades vizinhas, com risco de temporais, raios, rajadas de vento e granizo pontual. A quarta-feira (14) deve ter a chuva mais intensa na Grande São Paulo. O órgão recomenda cuidado perto de córregos e encostas e evitar ruas alagadas.",
           "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-retoma-operacao-noite-de-paz-para-fiscalizar-bares-adegas-e-tabacarias/",
-          "time": "recente"
+          "url": "https://taboaoemfoco.com.br/defesa-civil-renova-alerta-para-chuvas-fortes-entre-terca-feira-13-e-quinta-feira-15/",
+          "time": "hoje"
+        },
+        {
+          "title": "Ana Clara é sepultada no Cemitério da Saudade nesta terça-feira (13); suspeito segue foragido",
+          "summary": "A jovem de 19 anos, morta com um tiro na cabeça no Jardim Três Marias, foi enterrada nesta terça. O ex-companheiro, de 22 anos, é o principal suspeito e continua foragido. A Polícia Civil investiga o caso como feminicídio e procura a arma usada.",
+          "source": "Taboão em Foco",
+          "url": "https://taboaoemfoco.com.br/ana-clara-e-sepultada-no-cemiterio-da-saudade-nesta-terca-feira-13-suspeito-segue-foragido/",
+          "time": "hoje"
+        },
+        {
+          "title": "Taboão da Serra terá semana com chuva e temperaturas entre 17°C e 27°C",
+          "summary": "Segundo a Climatempo, há previsão de chuva todos os dias até sexta-feira (16). O maior volume é esperado na quinta (15), perto de 57 mm, com trovoadas. As temperaturas ficam entre 17°C e 27°C.",
+          "source": "Taboão em Foco",
+          "url": "https://taboaoemfoco.com.br/taboao-da-serra-tera-semana-com-chuva-e-temperaturas-entre-17c-e-27c/",
+          "time": "ontem"
+        },
+        {
+          "title": "Prefeitura de Taboão da Serra não terá expediente nesta segunda-feira (12); veja o que fecha no feriado",
+          "summary": "No feriado de Nossa Senhora Aparecida, secretarias e prédios administrativos ficaram fechados, com plantão apenas nos serviços de urgência, Guarda Civil e Defesa Civil. Bancos e Poupatempo também não tiveram atendimento presencial. O expediente normal voltou na terça (13).",
+          "source": "Taboão em Foco",
+          "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-nao-tera-expediente-nesta-segunda-feira-12-veja-o-que-fecha-no-feriado/",
+          "time": "10/10"
+        },
+        {
+          "title": "Linhas 4-Amarela e 5-Lilás terão intervalos maiores no feriado desta segunda-feira (12)",
+          "summary": "As duas linhas do metrô, que atendem a região de Taboão, seguiram a programação de domingo no feriado. A Amarela teve intervalo médio de 5min30 e a Lilás de cerca de 6 minutos, com trens reserva para eventual demanda extra.",
+          "source": "Taboão em Foco",
+          "url": "https://taboaoemfoco.com.br/linhas-4-amarela-e-5-lilas-terao-intervalos-maiores-no-feriado-desta-segunda-feira-12/",
+          "time": "09/10"
         },
         {
           "title": "Bilhete de Taboão da Serra ganha R$ 20,5 mil na Loteria Federal",
@@ -334,34 +355,6 @@
           "source": "Taboão em Foco",
           "url": "https://taboaoemfoco.com.br/bilhete-de-taboao-da-serra-ganha-r-205-mil-na-loteria-federal/",
           "time": "11/10"
-        },
-        {
-          "title": "Prefeitura de Taboão da Serra entrega kits pedagógicos para professores do GAPEs",
-          "summary": "A Secretaria de Educação entregou jogos educativos e materiais de apoio a professores que atendem alunos do 1º ao 5º ano com dificuldades de aprendizagem. A compra atendeu a um pedido dos próprios docentes e ajuda no trabalho com casos como dislexia e TDAH.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-entrega-kits-pedagogicos-para-professores-do-gapes/",
-          "time": "11/10"
-        },
-        {
-          "title": "Tributo a Michael Jackson chega ao Cemur em Taboão da Serra no dia 22 de outubro",
-          "summary": "O show \"O Rei Ainda Vive\" será na quinta, 22, às 20h, no Cemur, no Jardim Bom Tempo. Os ingressos custam de R$ 60 a R$ 120, mais taxa, e são vendidos online.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/tributo-a-michael-jackson-chega-ao-cemur-em-taboao-da-serra-no-dia-22-de-outubro/",
-          "time": "10/10"
-        },
-        {
-          "title": "Etec de Taboão da Serra abre 20 processos seletivos para professores; inscrições vão até 19 de outubro",
-          "summary": "As vagas são para o Ensino Médio e Técnico, em Automação Industrial, Informática e disciplinas como Arte, História, Química e Física. A inscrição é gratuita pelo site do Centro Paula Souza.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/etec-de-taboao-da-serra-abre-20-processos-seletivos-para-professores-inscricoes-vao-ate-19-de-outubro/",
-          "time": "08/10"
-        },
-        {
-          "title": "Lula mantém liderança, mas Flávio Bolsonaro reduz distância em Taboão, Embu e Itapecerica",
-          "summary": "Nas três cidades, Lula ainda venceu o primeiro turno, mas teve cerca de 25 mil votos a menos que em 2022. Flávio Bolsonaro cresceu quase 17 mil votos em relação a Jair Bolsonaro e a vantagem do petista caiu de 79 mil para 36,8 mil votos.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/lula-mantem-lideranca-mas-flavio-bolsonaro-reduz-distancia-em-taboao-embu-e-itapecerica/",
-          "time": "08/10"
         }
       ]
     },
@@ -370,45 +363,45 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Arthur Gea vai às quartas em Xangai com resultado inédito",
-          "summary": "O brasileiro chegou às quartas de final do Masters 1000 de Xangai, melhor resultado de sua carreira, e aparece como ameaça a João Fonseca na corrida do ranking.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/gea-quartas-xangai-resultado-inedito-ameaca-fonseca/",
-          "time": "hoje, 06:51"
-        },
-        {
-          "title": "Meligeni critica postura de Alcaraz após derrota em Xangai",
-          "summary": "O ex-tenista comentou de forma crítica a atitude do espanhol após a eliminação no torneio.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/meligeni-critica-postura-de-alcaraz-apos-derrota-xangai/",
+          "title": "Zverev garante o posto de número 1 do ranking ATP no fim da temporada",
+          "summary": "O alemão assegurou pela primeira vez o título de líder do ranking ao final do ano, sendo o 20º jogador a conseguir o feito desde 1973. Ele pode assumir o topo da lista já em 2 de novembro, dependendo de Xangai e Viena. Em 2026 conquistou Roland Garros e o US Open.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/zverev-world-no-1-five-facts-october-2026",
           "time": "ontem"
         },
         {
-          "title": "Bergs ameaça Fonseca no ranking da temporada",
-          "summary": "Zizou Bergs, que venceu Alcaraz, aparece como concorrente de João Fonseca na disputa pelo ranking da temporada.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/bergs-ameaca-fonseca-ranking-temporada/",
+          "title": "Alcaraz após derrota para Bergs: 'Ver o lado positivo é muito difícil'",
+          "summary": "O espanhol, que vinha de título em Tóquio, admitiu ter jogado bem abaixo do nível na derrota por 7/5 e 7/6(4) em Xangai, encerrando sua sequência de sete vitórias. Ele deve revisar o jogo com a equipe. O próximo torneio será o Masters de Paris, em novembro.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/alcaraz-reaction-shanghai-2026-monday",
           "time": "ontem"
         },
         {
-          "title": "Guto Miguel e Thiago Wild estreiam em Santa Cruz",
-          "summary": "Os brasileiros fazem sua estreia na terça-feira no torneio de Santa Cruz.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/guto-miguel-thiago-wild-estreiam-terca-santa-cruz/",
+          "title": "Jodar iguala feito de Djokovic ao chegar às oitavas em Xangai",
+          "summary": "Aos 20 anos, o espanhol derrotou Lehecka de virada e alcançou a quarta fase pelo quinto Masters 1000 seguido no ano. É o mais jovem a fazer isso desde Djokovic, em 2007. Ele enfrenta van de Zandschulp.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/jodar-lehecka-shanghai-2026-monday",
           "time": "ontem"
         },
         {
-          "title": "Naná Silva entra no top 5 juvenil",
-          "summary": "A brasileira alcançou o top 5 do ranking juvenil, feito descrito como histórico, ao lado de Victória Barros.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/nana-silva-entra-top-5-juvenil-faz-historia-victoria-barros/",
+          "title": "Gea elimina Mensik e chega às quartas de final em Xangai",
+          "summary": "O francês de 21 anos venceu o 15º do mundo em dois sets e estreia no top 50 na segunda-feira. É sua primeira participação em um Masters 1000. Nas quartas, pega Hurkacz ou Davidovich Fokina.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/gea-mensik-shanghai-2026-tuesday",
+          "time": "hoje"
+        },
+        {
+          "title": "Dodig conquista o Challenger de Braga; brasileiro Reis da Silva vence em Antofagasta",
+          "summary": "O croata de 21 anos levou o título em Portugal e deve entrar no top 150. No resumo dos Challengers da semana, o brasileiro João Lucas Reis da Silva ficou com o troféu em Antofagasta, batendo Thiago Seyboth Wild na final.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/dodig-braga-challenger-2026-title",
           "time": "ontem"
         },
         {
-          "title": "Vialle e Carvalho buscam vaga no Australian Open",
-          "summary": "Henrique Vialle e Bernardo Carvalho disputam uma vaga no Australian Open; o qualificatório começa na quarta-feira.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/vialle-carvalho-buscam-vaga-australian-open/",
+          "title": "Krawietz e Puetz avançam na defesa do título de duplas em Xangai",
+          "summary": "Os alemães, atuais campeões, venceram a dupla da casa por 6/4 e 6/1 e foram às quartas. Os cabeças de chave 1, Harrison e Skupski, também avançaram. Cabral e Tracy passaram pela primeira rodada e encaram Galloway e Goransson.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/shanghai-2026-doubles-rolling-report",
           "time": "ontem"
         }
       ]
@@ -417,6 +410,27 @@
       "id": "saude",
       "label": "Saúde",
       "items": [
+        {
+          "title": "Sarampo: Brasil intensifica ações diante de avanço nos EUA e nas Américas",
+          "summary": "O Ministério da Saúde reforçou a vigilância após o aumento de casos nas Américas, com 52 casos importados no Brasil até 5 de outubro, a maioria em São Paulo. O país segue livre da circulação endêmica. A vacina tríplice viral é gratuita no SUS, e a cobertura da primeira dose foi de 93,1% em 2025.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/sarampo-brasil-intensifica-acoes-face-avanco-nos-eua-e-nas-americas",
+          "time": "07/10"
+        },
+        {
+          "title": "Outubro Rosa: tratamento termina, mas medo do câncer pode permanecer",
+          "summary": "Especialistas explicam que, ao fim da quimioterapia ou radioterapia, muitas pacientes enfrentam incerteza, medo de recidiva e isolamento. Defendem acompanhamento multidisciplinar com apoio psicológico. O Inca estima 78,6 mil novos casos de câncer de mama por ano até 2028.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/outubro-rosa-tratamento-termina-mas-medo-do-cancer-pode-permanecer",
+          "time": "08/10"
+        },
+        {
+          "title": "Sarney deixa UTI após procedimento: 'logo estarei em casa'",
+          "summary": "O ex-presidente, de 96 anos, saiu da unidade de terapia intensiva depois de uma cirurgia abdominal e disse que em breve estará em casa. Ele havia sido internado com dor abdominal e estava estável.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/sarney-deixa-uti-apos-procedimento-logo-estarei-em-casa",
+          "time": "hoje"
+        },
         {
           "title": "Anvisa autoriza teste em humanos de vacina 100% brasileira contra malária",
           "summary": "Foi aprovado um ensaio clínico de fase I para avaliar segurança e resposta imune em 48 adultos de 18 a 59 anos sem infecção prévia.",
@@ -430,34 +444,6 @@
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/virus-respiratorios-ainda-estao-em-alta-no-pais-alerta-fiocruz",
           "time": "esta semana"
-        },
-        {
-          "title": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
-          "summary": "Cerca de 49% dos municípios avaliados estão em situação de alerta ou risco para o mosquito transmissor da dengue.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/aedes-aegypti-quase-metade-dos-municipios-esta-em-alerta-ou-risco",
-          "time": "07/10"
-        },
-        {
-          "title": "Meningite: quatro cidades do Rio ofertam vacina a pessoas de até 24 anos",
-          "summary": "Quatro municípios fluminenses oferecem a vacina contra meningite para esse grupo etário.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/meningite-quatro-cidades-do-rio-ofertam-vacina-pessoas-ate-24-anos",
-          "time": "esta semana"
-        },
-        {
-          "title": "OMS lança guia para enfrentar obesidade em crianças e adolescentes",
-          "summary": "A Organização Mundial da Saúde publicou um guia com orientações para combater a obesidade infantil e juvenil.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/oms-lanca-guia-para-enfrentar-obesidade-em-criancas-e-adolescentes",
-          "time": "07/10"
-        },
-        {
-          "title": "Melhor investimento em saúde pode evitar 739 mil mortes no Brasil",
-          "summary": "Segundo a reportagem, investimentos em saúde considerados mais eficazes poderiam evitar cerca de 739 mil mortes no país.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/melhor-investimento-em-saude-pode-evitar-739-mil-mortes-no-brasil",
-          "time": "07/10"
         }
       ]
     }
