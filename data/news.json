@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-13T20:35:00-03:00",
+  "updatedAt": "2026-10-14T03:25:00-03:00",
   "markets": {
-    "asOf": "Ibovespa e dólar: fechamento de 13/10 · BTC às 17:33 (24h) · IFIX, EUA, euro, ETH, SOL e CDI/Selic: último dado disponível (não atualizado)",
+    "asOf": "Fechamento de 13/10 (Ibovespa, dólar, S&P 500, Dow) · cripto às 03:20 (24h) · Nasdaq 100, IFIX e euro: último dado disponível (12-13/10)",
     "items": [
       {
         "id": "ibov",
@@ -24,26 +24,26 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.807,24 pts",
-        "change": -0.06
+        "value": "7.805,47 pts",
+        "change": -0.02
       },
       {
         "id": "nasdaq100",
         "label": "Nasdaq 100",
         "value": "30.883,15 pts",
-        "change": 0.51
+        "change": null
       },
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "51.850,55 pts",
-        "change": 0.38
+        "value": "51.670,70 pts",
+        "change": -0.35
       },
       {
         "id": "usd",
         "label": "Dólar",
         "value": "R$ 5,02",
-        "change": 0.71
+        "change": 0.74
       },
       {
         "id": "eur",
@@ -54,31 +54,31 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 83.348",
-        "change": 1.02
+        "value": "US$ 83.240",
+        "change": 1.69
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.499",
-        "change": 1.61
+        "value": "US$ 2.500",
+        "change": 1.91
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 106,08",
-        "change": 4.15
+        "value": "US$ 106,70",
+        "change": 0.47
       }
     ]
   },
   "weather": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "condition": "sol com muitas nuvens e pancadas de chuva à tarde e à noite",
     "min": 17,
-    "max": 27,
-    "rainChance": 81,
-    "rainMm": 25.1,
-    "uv": 10,
+    "max": 25,
+    "rainChance": 90,
+    "rainMm": 34.9,
+    "uv": null,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/sao-paulo-sp"
   },
@@ -92,63 +92,77 @@
           "summary": "Pesquisa Nexus/BTG ouviu 2.002 eleitores por telefone entre 10 e 12 de outubro e simulou o segundo turno, marcado para 25 de outubro. O resultado, 52% a 48% para Flávio Bolsonaro, está dentro da margem de erro de 2 pontos, o que configura empate técnico.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Lula lança Prospera MEI, com crédito via Pix e perdão de dívidas, a duas semanas do 2º turno",
           "summary": "O pacote prevê crédito de até R$ 5 mil via Pix para melhorias nos negócios, um projeto de lei para perdoar dívidas de MEIs com a União e o Desenrola MEI para reduzir o endividamento do grupo. O anúncio foi feito cerca de duas semanas antes do segundo turno.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/brasil/pix-prospera-e-desenrola-governo-lanca-medidas-para-fortalecer-meis",
-          "time": "hoje"
+          "time": "ontem"
+        },
+        {
+          "title": "Direita decide votar a favor do fim da escala 6x1",
+          "summary": "Bancadas de oposição e da direita no Senado recuaram e decidiram apoiar a PEC do fim da escala 6x1 para evitar desgaste eleitoral; até a semana passada, planejavam obstruir a votação até depois do segundo turno. Davi Alcolumbre se comprometeu a pautar a proposta, e a votação, prevista para quarta (14), deve ficar para quinta (15).",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/direita-decide-votar-a-favor-do-fim-da-escala-6x1/",
+          "time": "ontem"
+        },
+        {
+          "title": "Nunes Marques convoca campanhas de Lula e Flávio para reunião sobre o 2º turno",
+          "summary": "O presidente do TSE chamou as equipes jurídicas das duas campanhas para uma reunião às 15h30, depois de o tribunal registrar ao menos 85 processos envolvendo as candidaturas na primeira semana do segundo turno. A ideia é reduzir o volume de ações e cobrar o cumprimento das regras, em meio ao atrito em torno do canal 'Exército do Lula'.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/nunes-marques-convoca-campanhas-de-lula-e-flavio-para-discussao-sobre-2o-turno/",
+          "time": "ontem, 08:57"
+        },
+        {
+          "title": "MDB se divide no 2º turno e 10 diretórios declaram apoio a Lula",
+          "summary": "Dez diretórios estaduais do MDB, todos do Norte e do Nordeste, declararam apoio a Lula. Segundo o presidente do partido, Baleia Rossi, os outros 17 diretórios apoiarão Flávio Bolsonaro no segundo turno, marcado para 25 de outubro.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/mdb-se-divide-no-2o-turno-das-eleicoes-e-10-diretorios-declaram-apoio-a-lula/",
+          "time": "ontem, 17:34"
+        },
+        {
+          "title": "PCO orienta voto nulo no 2º turno entre Flávio e Lula",
+          "summary": "O Partido da Causa Operária decidiu, na sua 39ª Conferência Nacional, orientar filiados a votar nulo, sem apoiar Lula nem Flávio Bolsonaro. A legenda critica o governo Lula e a aliança do PT com setores da direita; seu candidato, Rui Costa Pimenta, teve 0,01% dos votos válidos no primeiro turno.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pco-orienta-voto-nulo-em-2-turno-entre-flavio-e-lula",
+          "time": "ontem, 16:39"
         },
         {
           "title": "Papa Leão XIV é internado em Roma para cirurgia de nódulo no pulmão",
-          "summary": "O papa chegou à Policlínica Gemelli, em Roma, para retirar um nódulo pulmonar em procedimento marcado para a tarde desta terça. A previsão é de cerca de uma semana de internação, e a agenda religiosa foi cancelada até 20 de outubro.",
+          "summary": "O papa chegou à Policlínica Gemelli, em Roma, para retirar um nódulo pulmonar em procedimento marcado para a tarde de terça. A previsão é de cerca de uma semana de internação, e a agenda religiosa foi cancelada até 20 de outubro.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/mundo/papa-hospital-roma-retirada-nodulo",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Morre o cantor Netinho, ícone do axé, aos 60 anos",
-          "summary": "A equipe do artista informou a morte na manhã desta terça-feira. Ele tratava um linfoma não Hodgkin de células B, que evoluiu para insuficiência renal e falência de múltiplos órgãos. Velório e cremação serão restritos a familiares e amigos, a pedido dele.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/celebridades/morre-o-cantor-netinho",
-          "time": "hoje"
+          "summary": "Segundo o SBT News, o cantor morreu na terça (13) após complicações de um linfoma não Hodgkin do tipo B. Netinho era um dos ícones do axé music.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/quem-era-netinho-icone-do-axe-music-que-morreu-apos-cancer",
+          "time": "ontem"
         },
         {
           "title": "Vídeo mostra ação da PM que terminou com jovem morto com 27 tiros em São Paulo",
           "summary": "Segundo a reportagem, Gustavo Munis de Santana, de 20 anos, foi morto em Moema na madrugada de sábado; a perícia contou 27 ferimentos e o boletim lista 45 disparos. Os policiais disseram ter confundido o celular com uma arma. Quatro PMs foram afastados do serviço operacional e há inquéritos em andamento.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/blogs/adriana-de-luca/nacional/sudeste/sp/video-mostra-acao-da-pm-que-terminou-com-jovem-morto-com-27-tiros-em-sp/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
-          "title": "Time de Ronaldo e Roberto Carlos volta à Série B do Brasileiro após 35 anos",
-          "summary": "O Inter de Limeira garantiu o acesso no domingo (11), mesmo derrotado pela Ferroviária, com ajuda do empate entre Brusque e Paysandu. O clube teve a SAF vendida a um grupo que inclui Ronaldo e Roberto Carlos, que comemoraram com a frase 'O leão subiu'.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/time-de-ronaldo-e-roberto-carlos-volta-a-serie-b-do-brasileiro-apos-35-anos/",
-          "time": "hoje"
-        },
-        {
-          "title": "Bolsonaro está satisfeito com 1º turno e deu 'dicas' para disputa, diz Flávio após visita",
-          "summary": "Manchete da CNN Brasil sobre a visita de Flávio Bolsonaro ao pai, que ele relatou ter saído satisfeito com o resultado do primeiro turno e com conselhos para o segundo.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-esta-satisfeito-com-1o-turno-e-deu-dicas-para-disputa/",
-          "time": "hoje"
-        },
-        {
-          "title": "Morre o advogado Nelson Martins, pai do ministro Zanin, aos 90 anos",
-          "summary": "O Metrópoles noticiou a morte do advogado Nelson Martins, pai do ministro do STF Cristiano Zanin, aos 90 anos.",
+          "title": "Confrontos em terra indígena deixam três mortos no Rio Grande do Sul",
+          "summary": "Segundo a Brigada Militar, os confrontos na Terra Indígena de Votouro, no norte do estado, deixaram três mortos: uma morte entre indígenas e duas durante confronto com policiais. Um motorista baleado recebeu alta e um homem foi preso; as causas dos conflitos ainda não foram divulgadas.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/morre-o-advogado-nelson-martins-pai-do-ministro-zanin-aos-90-anos",
-          "time": "hoje"
+          "url": "https://www.metropoles.com/brasil/confrontos-em-terra-indigena-deixam-tres-mortos-no-rio-grande-do-sul",
+          "time": "ontem, 17:37"
         },
         {
-          "title": "Morre Amber Siyavus, ex-'Big Brother', aos 46 anos",
-          "summary": "A CNN Brasil informou a morte de Amber Siyavus, ex-participante do 'Big Brother', aos 46 anos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/realities/morre-amber-siyavus-ex-big-brother-aos-46-anos/",
-          "time": "hoje"
+          "title": "PoderData/Aya: Flávio chega a 48% no 2º turno; Lula alcança 46%",
+          "summary": "Pesquisa PoderData/Aya, divulgada pela Jovem Pan, aponta Flávio Bolsonaro com 48% e Lula com 46% das intenções de voto no segundo turno.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/poderdata-aya-flavio-chega-a-48-no-2o-turno-lula-alcanca-46/",
+          "time": "recente"
         }
       ]
     },
@@ -158,108 +172,108 @@
       "items": [
         {
           "title": "O segundo turno mais idiota da história (Análises Renais, 13/10)",
-          "summary": "Episódio do programa Análises Renais, publicado no canal de Renan Santos, que comenta a disputa do segundo turno da eleição presidencial. O título já indica o tom crítico do apresentador sobre a campanha.",
+          "summary": "Episódio do programa Análises Renais, no canal de Renan Santos, que comenta a disputa do segundo turno da eleição presidencial. O título indica o tom crítico do apresentador sobre a campanha.",
           "source": "Renan Santos",
           "url": "https://www.youtube.com/watch?v=zCB5musbafc",
-          "time": "hoje, 14:59"
-        },
-        {
-          "title": "Renan Santos se pronuncia sobre vídeo gravado com deputada do PT Duda Hidalgo",
-          "summary": "O canal reúne trecho em que Renan Santos comenta o vídeo gravado com a deputada Duda Hidalgo (PT). O material é um corte do programa original do MBL.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=CWPJ7jZbfsY",
-          "time": "hoje, 16:00"
+          "time": "ontem, 14:59"
         },
         {
           "title": "Fim da escala 6x1 será aprovado? Renan Santos revela qual a sua opinião",
-          "summary": "Corte em que Renan Santos expõe sua opinião sobre a votação do fim da escala 6x1, tema em pauta no Congresso nesta semana.",
+          "summary": "Corte do programa original da TV do MBL em que Renan Santos expõe sua opinião sobre a votação do fim da escala 6x1, tema em pauta no Congresso nesta semana.",
           "source": "Missão Avança",
           "url": "https://www.youtube.com/watch?v=o0nuvDVAj34",
-          "time": "hoje, 14:55"
+          "time": "ontem, 14:55"
+        },
+        {
+          "title": "Esquerdistas vão eleger Flávio Bolsonaro! Manifestações na Paulista foram um presente!",
+          "summary": "Corte de um plantão de Arthur do Val em que, segundo o título, ele afirma que as manifestações na Avenida Paulista favorecem a eleição de Flávio Bolsonaro.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=R9YJ8blpqVY",
+          "time": "ontem, 12:30"
         },
         {
           "title": "Perdão de dívidas de MEI: Lula tenta comprar voto?",
-          "summary": "No vídeo, Kim Kataguiri questiona se o programa de perdão de dívidas de MEIs lançado pelo presidente Lula, a duas semanas do segundo turno, tem fins eleitorais.",
+          "summary": "No vídeo, Kim Kataguiri questiona se o programa de perdão de dívidas de MEIs lançado por Lula, a duas semanas do segundo turno, tem fins eleitorais.",
           "source": "Kim Kataguiri",
           "url": "https://www.youtube.com/watch?v=AdqE3v7Nexo",
-          "time": "hoje, 19:01"
-        },
-        {
-          "title": "Agora os 20 milhões de votos vêm!",
-          "summary": "Vídeo de Kim Kataguiri publicado após o primeiro turno, com sua leitura sobre o cenário eleitoral e o eleitorado em disputa no segundo turno.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=6gCiM9JGmfw",
-          "time": "11/10"
+          "time": "ontem, 19:01"
         },
         {
           "title": "Plantão Arthur do Val - A direita saiu ganhando",
-          "summary": "Em seu plantão, Arthur do Val avalia o cenário político e defende, segundo o título, que a direita saiu fortalecida do atual momento eleitoral.",
+          "summary": "Em seu plantão, Arthur do Val avalia o cenário político e defende, segundo o título, que a direita saiu fortalecida do momento eleitoral.",
           "source": "Arthur do Val - MamãeFalei",
           "url": "https://www.youtube.com/watch?v=poh0qWM_Kqw",
-          "time": "hoje, 11:20"
+          "time": "ontem, 11:20"
         },
         {
           "title": "Escravinhas do Vorcaro",
-          "summary": "Vídeo de Arthur do Val sobre o caso envolvendo Daniel Vorcaro, tema que segue em evidência no noticiário político.",
+          "summary": "Vídeo de Arthur do Val sobre o caso envolvendo Daniel Vorcaro, tema em evidência no noticiário político.",
           "source": "Arthur do Val - MamãeFalei",
           "url": "https://www.youtube.com/watch?v=TlDaWwpYbGA",
-          "time": "hoje, 13:33"
+          "time": "ontem, 13:33"
         },
         {
           "title": "REDCAST analisa disputa presidencial",
           "summary": "Raiam Santos, Junior Masters e Gabriel Gordão analisam as campanhas presidenciais e o que esperar do segundo turno.",
           "source": "Missão Brasil",
           "url": "https://www.youtube.com/watch?v=BDTnSYBFuAY",
-          "time": "hoje, 19:45"
+          "time": "ontem, 19:45"
+        },
+        {
+          "title": "Renan Santos comenta encontro com deputada petista",
+          "summary": "Segundo a descrição do canal, a deputada estadual petista Duda Hidalgo foi ao show da banda de Renan Santos para zoar o candidato. Renan comentou o encontro em seu programa Análises Renais.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=UPeLeb5yEzU",
+          "time": "ontem, 16:30"
         },
         {
           "title": "Autocrítica oficial do MBL (MBL News, 13/10)",
           "summary": "Edição do MBL News de 13/10 em que o movimento faz, segundo o título, uma autocrítica oficial após o primeiro turno.",
           "source": "MBL TV",
           "url": "https://www.youtube.com/watch?v=xK3CFAR26aA",
-          "time": "hoje, 14:51"
+          "time": "ontem, 14:51"
         },
         {
-          "title": "Direita decide votar a favor do fim da escala 6x1",
-          "summary": "Bancadas de oposição e da direita no Senado recuaram e decidiram apoiar a PEC do fim da escala 6x1 para evitar desgaste eleitoral; até a semana passada, planejavam obstruir a votação até depois do segundo turno. Davi Alcolumbre se comprometeu a pautar a proposta, e a votação, prevista para quarta (14), deve ficar para quinta (15).",
+          "title": "Fachin diz a Andrei que PF deve enviar menções a ministros no caso Master",
+          "summary": "O presidente do STF disse ao diretor-geral da PF que a Corte espera receber todas as menções a seus ministros no caso Banco Master, sem exceção, e que qualquer ato investigativo contra ministro exige aval do plenário. O material dos celulares de Daniel Vorcaro e Fabiano Zettel cita ao menos seis dos dez ministros ou parentes; os citados negam envolvimento indevido.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/direita-decide-votar-a-favor-do-fim-da-escala-6x1/",
-          "time": "hoje"
-        },
-        {
-          "title": "PF deve entregar hoje a Fachin material do caso Master que cita ministros",
-          "summary": "O diretor-geral da PF, Andrei Rodrigues, deveria se reunir com o presidente do STF, Edson Fachin, para entregar dados extraídos dos celulares de Daniel Vorcaro e Fabiano Zettel. Segundo a reportagem, o material menciona ao menos seis dos dez ministros do STF ou parentes, e eventuais relatórios dependem de decisão da Corte.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/pf-deve-entregar-hoje-a-fachin-material-do-caso-master-que-cita-ministros/",
-          "time": "hoje"
+          "url": "https://www.cnnbrasil.com.br/politica/fachin-diz-a-andrei-que-pf-deve-enviar-mencoes-a-ministros-no-caso-master/",
+          "time": "ontem, 18:57"
         },
         {
           "title": "Kassio derruba decisão de corregedor e volta a suspender canal 'Exército do Lula'",
           "summary": "O presidente do TSE, Kassio Nunes Marques, anulou decisão do corregedor Ricardo Villas Bôas Cueva que havia restaurado o canal de WhatsApp ligado ao deputado André Janones, a pedido de advogada do PL. O canal exige registro formal na Corte e fica suspenso, e a Meta deve monitorar as publicações.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/colunas/manoela-alcantara/kassio-derruba-decisao-de-corregedor-e-suspende-canal-exercito-do-lula",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
-          "title": "Míssil atinge apartamento de brasileiros voluntários na Ucrânia",
-          "summary": "O ex-paraquedista Lucas Candido filmou um míssil, apontado como russo, atingindo o prédio onde mora com outros quatro brasileiros em Kharkiv. Ninguém ficou ferido. O ataque ocorreu após uma onda de bombardeios na segunda (12) que deixou cerca de três mortos e 20 feridos; a reportagem diz que o prédio do vídeo não foi confirmado de forma independente.",
+          "title": "Vorcaro era sócio de rede de prostituição e recrutou refugiadas, diz site",
+          "summary": "Segundo reportagem do UOL reproduzida pela CNN Brasil, o ex-controlador do Banco Master teria estruturado e financiado uma rede internacional que recrutava mulheres estrangeiras, inclusive refugiadas. Mensagens obtidas pela PF indicariam a negociação; a PF abriu inquérito e Vorcaro nega ter explorado mulheres.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/video-missil-atinge-apartamento-de-brasileiros-voluntarios-na-ucrania/",
-          "time": "hoje"
+          "url": "https://www.cnnbrasil.com.br/politica/vorcaro-era-socio-de-rede-de-prostituicao-e-recrutou-refugiadas-diz-site/",
+          "time": "ontem, 20:04"
         },
         {
           "title": "EUA demitem embaixadora na Grécia, ex-noiva de Trump Jr., após escândalo",
-          "summary": "A Casa Branca pediu a renúncia de Kimberly Guilfoyle, e ela a apresentou horas depois. Um ex-doador, Eric Deters, afirma que ela lhe pediu US$ 100 mil antes da confirmação no Senado; os advogados dela negam e dizem que ele devia dinheiro por consultoria. A Inspetoria-Geral do Departamento de Estado teria aberto investigação.",
+          "summary": "A Casa Branca pediu a saída de Kimberly Guilfoyle, que renunciou. Ela é acusada de pedir US$ 100 mil a um doador em troca de acesso a autoridades e de aceitar presentes de luxo; ela e seus advogados negam. O Departamento de Estado investiga o caso.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/internacional/eua-demitem-embaixadora-na-grecia-ex-noiva-de-trump-jr-apos-escandalo/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
-          "title": "Partido Republicano busca voto evangélico nas midterms",
-          "summary": "A três semanas das eleições legislativas dos EUA, republicanos intensificam a mobilização de eleitores religiosos. Evangélicos brancos são cerca de 13% da população, mas podem chegar a 20% do eleitorado, e líderes religiosos criticam a falta de coordenação do partido; democratas também disputam o eleitorado cristão.",
+          "title": "Míssil atinge apartamento de brasileiros voluntários na Ucrânia",
+          "summary": "O ex-paraquedista Lucas Candido filmou um míssil, apontado como russo, atingindo o prédio onde mora com outros quatro brasileiros em Kharkiv. Ninguém ficou ferido. A cidade sofreu uma onda de bombardeios na segunda (12), com cerca de três mortos e 20 feridos; não há confirmação independente de que o prédio do vídeo foi um dos atingidos.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/partido-republicano-busca-voto-evangelico-nas-midterms/",
-          "time": "hoje"
+          "url": "https://www.cnnbrasil.com.br/internacional/video-missil-atinge-apartamento-de-brasileiros-voluntarios-na-ucrania/",
+          "time": "ontem"
+        },
+        {
+          "title": "Trump libera venda de diesel russo sem contrapartida na guerra da Ucrânia",
+          "summary": "Segundo a CNN Brasil, Trump liberou a venda de diesel russo sem exigir contrapartida de Moscou: mais de 300 mil toneladas em outubro, 500 mil em novembro e 1 milhão depois. A medida busca aliviar o preço do diesel nos EUA, que subiu de US$ 3,81 para US$ 6,53 em média desde o início da guerra contra o Irã, e gerou críticas de democratas e republicanos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/lourival-santanna/internacional/trump-libera-venda-de-diesel-russo-sem-contrapartida-na-guerra-da-ucrania/",
+          "time": "ontem"
         }
       ]
     },
@@ -272,42 +286,42 @@
           "summary": "O Ibovespa fechou a 206.887,52 pontos, depois de bater recorde de 209.066,90 na sexta (9). O dólar comercial subiu 0,71%, a R$ 5,02. Em Nova York, o Dow Jones recuou 0,35%, o S&P 500 0,02% e o Nasdaq 0,15%.",
           "source": "B3 Bora Investir",
           "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-1-apos-recorde-e-feriado-dolar-vai-a-r-502/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Boletim Focus eleva projeção de inflação para 5,22% em 2026",
           "summary": "O Focus do Banco Central subiu a projeção do IPCA de 2026 de 5,01% para 5,22%, quarta alta seguida. O mercado projeta Selic de 13,25% no fim de 2026, e a estimativa para 2027 ficou em 4,30%.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/economia/boletim-focus-eleva-projecao-de-inflacao-para-522-em-2026-e-reduz-cambio/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "FMI reduz previsão de crescimento do Brasil para 2,2% em 2026 e 1,9% em 2027",
           "summary": "No relatório de outubro, o FMI cortou as projeções de PIB brasileiro de 2,4% para 2,2% em 2026 e de 2,2% para 1,9% em 2027. O fundo cita juros altos, retirada de estímulo fiscal e incerteza global; o Brasil deve crescer menos que a América Latina, projetada em 2,3% e 2,5%.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/economia/fmi-reduz-previsao-de-crescimento-do-brasil-para-22-em-2026-e-a-19-em-2027/",
-          "time": "hoje"
-        },
-        {
-          "title": "FMI eleva projeção de crescimento global para 3,1% em 2026, mas alerta para riscos",
-          "summary": "Manchete do InfoMoney sobre a revisão para cima da projeção do FMI para a economia mundial em 2026, acompanhada de alertas sobre riscos.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/fmi-eleva-projecao-de-crescimento-global-para-31-em-2026-mas-alerta-para-riscos/",
-          "time": "hoje"
-        },
-        {
-          "title": "UE limita importações de híbridos da China a 350 mil unidades por ano",
-          "summary": "Segundo autoridade europeia, o teto valerá por quatro anos para híbridos e híbridos plug-in, com alta fixa de 6% ao ano, para reduzir à metade a participação chinesa. A medida pode valer a partir de dezembro, e a China teria aceitado reduzir tarifas sobre cerca de € 4 bilhões em produtos europeus.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/ue-limita-importacoes-de-veiculos-hibridos-vindos-da-china-a-350-mil-unidades-por-ano/",
           "time": "ontem"
         },
         {
-          "title": "Petrobras domina leilões da ANP com R$ 3,2 bi e aposta em Campos e novas fronteiras",
-          "summary": "Nos leilões de 7 de outubro, a ANP arrecadou cerca de R$ 3,54 bilhões em bônus, dos quais a Petrobras comprometeu R$ 3,22 bilhões por 21 blocos, entre eles 12 na Bacia de Campos e sete na Margem Equatorial com a QatarEnergy. XP e Morgan Stanley veem opções de exploração futuras, sem mudar gastos de curto prazo.",
+          "title": "FMI eleva projeção de crescimento global para 3,1% em 2026, mas alerta para riscos",
+          "summary": "O Fundo elevou de 3% para 3,1% a previsão para a economia mundial em 2026 e manteve 3,4% para 2027. Investimentos em IA sustentam a atividade, enquanto a guerra no Oriente Médio pressiona energia e alimentos; o FMI alerta que a capacidade de resistir a novos choques está diminuindo.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-tres-bilhoes-estatal-leiloes-da-anp-aposta-em-campos-e-novas-fronteiras/",
-          "time": "07/10"
+          "url": "https://www.infomoney.com.br/economia/fmi-eleva-projecao-de-crescimento-global-para-31-em-2026-mas-alerta-para-riscos/",
+          "time": "ontem"
+        },
+        {
+          "title": "Varejo encerra 3º trimestre com alta de 6,3% na comparação anual, diz Stone",
+          "summary": "O Índice do Varejo Stone mostrou alta de 6,3% nas vendas no terceiro trimestre frente a 2025 e de 1,6% sobre o segundo trimestre. Em setembro, o varejo caiu 0,3% ante agosto. Segundo a Stone, a renda sustenta o consumo de itens essenciais, enquanto o crédito limita setores mais dependentes de financiamento.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/varejo-encerra-3o-trimestre-com-alta-de-63-na-comparacao-anual-diz-stone/",
+          "time": "ontem"
+        },
+        {
+          "title": "Inflação alemã acelera para 3,3% em setembro, mas fica abaixo do esperado",
+          "summary": "A inflação ao consumidor na Alemanha subiu para 3,3% em setembro, ante 2,9% em agosto, segundo a leitura final do Destatis, igual à prévia. O número ficou levemente abaixo dos 3,4% esperados por analistas consultados pela FactSet.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/inflacao-alema-acelera-para-33-em-setembro-mas-fica-abaixo-do-esperado/",
+          "time": "ontem"
         }
       ]
     },
@@ -320,42 +334,42 @@
           "summary": "O GitHub passou a expirar em 48 horas as configurações de publicação confiável do npm que não foram validadas, para impedir que invasores publiquem versões em pacotes de terceiros.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "SAP revela falha CVSS 10 no Cloud SDK para Python que permite roubo de credenciais OAuth2",
           "summary": "Uma falha no SDK de nuvem da SAP para Python pode vazar credenciais OAuth2 da aplicação para um servidor controlado pelo atacante.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-          "time": "hoje"
-        },
-        {
-          "title": "Docker corrige falha crítica no Hub que permitia a um usuário publicar imagens como outro",
-          "summary": "A falha, registrada como CVE-2026-105445, deixava um usuário agir sobre imagens de outro no registro. A empresa não encontrou exploração.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-          "time": "hoje"
-        },
-        {
-          "title": "Atacante encadeia três zero-days no Ivanti Connect Secure para obter root; só dois foram corrigidos",
-          "summary": "A Volexity relata que o invasor combinou três falhas no VPN da Ivanti para ganhar acesso root, e apenas duas já têm correção.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-          "time": "hoje"
-        },
-        {
-          "title": "Anthropic alerta que modelos pequenos de IA podem formar botnets de IoT que se propagam sozinhas",
-          "summary": "Segundo a reportagem, a Anthropic avisa que modelos pequenos poderão em breve se espalhar entre dispositivos IoT como botnets autorreplicantes.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "GitLab corrige falha com CVSS 10.0 que permitia execução de código no servidor sem autenticação",
           "summary": "Uma validação insuficiente de expressões regulares na configuração de CI/CD abria brecha para que qualquer pessoa rodasse código no servidor. As versões 19.2.8, 19.3.5 e 19.4.2 trazem a correção, junto com outras três falhas de severidade alta.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-          "time": "hoje"
+          "time": "ontem"
+        },
+        {
+          "title": "Atacante encadeia três zero-days no Ivanti Connect Secure para obter root; só dois foram corrigidos",
+          "summary": "A Volexity relata que o invasor combinou três falhas no VPN da Ivanti para ganhar acesso root, e apenas duas já têm correção.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+          "time": "ontem"
+        },
+        {
+          "title": "TVs LG com webOS têm falhas encadeáveis que dão acesso root a partir da rede local",
+          "summary": "Três falhas no webOS podem ser encadeadas para que um dispositivo na mesma rede ganhe root em certas TVs LG, sem PIN nem ação do dono. Foram testados dois modelos com webOS 7.5.7-25; a LG já liberou correção e não há exploração conhecida.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+          "time": "ontem"
+        },
+        {
+          "title": "Ataque a controladores Danfoss aquece geladeiras de supermercados franceses a até 50°C",
+          "summary": "No dia 11, invasores assumiram controladores de refrigeração Danfoss em centenas de supermercados na França, forçando degelo e aquecendo equipamentos a até 50°C, com perda de alimentos. O CERT-FR orientou desconectar os modelos afetados, a maioria antigos e sem atualizações; os autores e a forma de entrada seguem desconhecidos.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+          "time": "ontem"
         }
       ]
     },
@@ -368,42 +382,42 @@
           "summary": "Um tribunal determinou que a OpenAI apresente registros de contratação na disputa de segredos comerciais movida pela Apple.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Google Play agora permite criar apps privados 'vibe-coded' que rodam no Android",
           "summary": "A loja passou a permitir que usuários criem, com ajuda de IA, aplicativos privados feitos para uso próprio em dispositivos Android.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
-          "title": "Pluto Security capta US$ 42 milhões com a IA criando novos desafios para equipes de segurança",
-          "summary": "A startup levantou US$ 42 milhões, num momento em que a IA traz novos problemas de segurança para as empresas.",
+          "title": "Facebook lança 'Your Algorithm' para o usuário moldar o próprio feed",
+          "summary": "A Meta lançou no Facebook uma ferramenta com IA que permite descrever em linguagem natural as preferências para Feed e Reels. O menu de três pontos nos posts também ganhou as opções 'Interessado' e 'Não interessado', após lançamento semelhante no Instagram.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-          "time": "hoje"
+          "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+          "time": "ontem"
         },
         {
-          "title": "Laplace Intelligence testa robôs e carros autônomos com ataques simulados antes do uso real",
-          "summary": "A startup faz testes adversariais (red teaming) em robôs e veículos autônomos antes de eles chegarem ao mundo real.",
+          "title": "CEO da Cerebras rebate alertas apocalípticos sobre IA",
+          "summary": "No TechCrunch Disrupt 2026, Andrew Feldman disse que o foco de líderes do setor nos riscos abafa os benefícios da tecnologia. Ele reconheceu que tecnologia poderosa traz riscos e deve ser regulada com cuidado, e culpou a má relação do setor de data centers com comunidades locais por parte da reação negativa.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "time": "hoje"
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+          "time": "ontem"
         },
         {
           "title": "Character.AI pede falência cinco anos após a fundação",
           "summary": "A plataforma de chatbots entrou com pedido de recuperação judicial nos EUA e negocia vender parte dos ativos à Disney por US$ 20 milhões. Se não surgir outra oferta, o serviço será encerrado; a empresa enfrentou processos e pressão regulatória sobre segurança de menores.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "SpaceXSI reúne X Premium, Grok e Cursor em uma única assinatura",
           "summary": "O novo plano, em cinco faixas de US$ 8 a US$ 200 por mês, combina rede social, chatbot e ferramentas de programação com IA. A empresa quer concorrer com OpenAI e Anthropic oferecendo um pacote único.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-          "time": "hoje"
+          "time": "ontem"
         }
       ]
     },
@@ -416,28 +430,28 @@
           "summary": "O alerta cobre Taboão da Serra, Embu das Artes, Itapecerica da Serra e a Grande São Paulo, com previsão de tempestades, rajadas de vento e possível granizo isolado. O solo saturado eleva o risco de alagamentos e transbordamentos.",
           "source": "Taboão em Foco",
           "url": "https://taboaoemfoco.com.br/defesa-civil-renova-alerta-para-chuvas-fortes-entre-terca-feira-13-e-quinta-feira-15/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Ana Clara é sepultada no Cemitério da Saudade; suspeito segue foragido",
-          "summary": "A jovem de 19 anos, baleada na cabeça na madrugada de segunda (12) no Jardim Três Marias, foi sepultada nesta terça. O principal suspeito, o ex-companheiro de 22 anos, continua foragido, e a polícia investiga o caso como feminicídio.",
+          "summary": "A jovem de 19 anos, baleada na cabeça na madrugada de segunda (12) no Jardim Três Marias, foi sepultada na terça. O principal suspeito, o ex-companheiro de 22 anos, continua foragido, e a polícia investiga o caso como feminicídio.",
           "source": "Taboão em Foco",
           "url": "https://taboaoemfoco.com.br/ana-clara-e-sepultada-no-cemiterio-da-saudade-nesta-terca-feira-13-suspeito-segue-foragido/",
-          "time": "hoje"
+          "time": "ontem"
         },
         {
           "title": "Taboão da Serra terá semana com chuva e temperaturas entre 17°C e 27°C",
           "summary": "A previsão indica chuva todos os dias da semana na cidade, com temperaturas entre 17°C e 27°C.",
           "source": "Taboão em Foco",
           "url": "https://taboaoemfoco.com.br/taboao-da-serra-tera-semana-com-chuva-e-temperaturas-entre-17c-e-27c/",
-          "time": "ontem"
+          "time": "12/10"
         },
         {
           "title": "Rodízio de veículos fica suspenso em São Paulo no feriado de segunda (12)",
-          "summary": "Pelo feriado de Nossa Senhora Aparecida, a capital suspendeu o rodízio municipal, o de caminhões e as restrições a caminhões e ônibus, o que também beneficiou motoristas de Taboão. As regras voltam a valer nesta terça (13).",
+          "summary": "Pelo feriado de Nossa Senhora Aparecida, a capital suspendeu o rodízio municipal, o de caminhões e as restrições a caminhões e ônibus, o que também beneficiou motoristas de Taboão. As regras voltaram a valer na terça (13).",
           "source": "Taboão em Foco",
           "url": "https://taboaoemfoco.com.br/rodizio-de-veiculos-esta-suspenso-em-sao-paulo-nesta-segunda-feira-12/",
-          "time": "ontem"
+          "time": "12/10"
         },
         {
           "title": "Bilhete de Taboão da Serra ganha R$ 20,5 mil na Loteria Federal",
@@ -453,46 +467,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Gea, carrasco de top 20, chega às quartas em Xangai após vencer Mensik",
-          "summary": "Gea derrotou Mensik e avançou às quartas de final do Masters 1000 de Xangai.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/gea-mensik-shanghai-2026-tuesday",
-          "time": "hoje"
-        },
-        {
-          "title": "Zverev garante o posto de número 1 do ranking ATP no fim da temporada",
-          "summary": "O alemão assegurou pela primeira vez o título de líder do ranking ao final do ano, sendo o 20º jogador a conseguir o feito desde 1973. Ele pode assumir o topo da lista já em 2 de novembro, dependendo de Xangai e Viena. Em 2026 conquistou Roland Garros e o US Open.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/zverev-world-no-1-five-facts-october-2026",
+          "title": "Gea, demolidor de top 20, vai às quartas em Xangai e alcança resultado inédito",
+          "summary": "O francês Arthur Gea, de 21 anos, bateu o número 15 do mundo, Jakub Mensik, por 7/6 (7/4) e 6/4, e chegou às quartas do Masters 1000 de Xangai, depois de eliminar Ben Shelton na rodada anterior. Ele deve subir ao 44º posto do ranking.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/gea-quartas-xangai-resultado-inedito-ameaca-fonseca/",
           "time": "ontem"
         },
         {
-          "title": "Alcaraz após derrota para Bergs: 'Ver o lado positivo é muito difícil'",
-          "summary": "O espanhol, que vinha de título em Tóquio, admitiu ter jogado bem abaixo do nível na derrota por 7/5 e 7/6(4) em Xangai, encerrando sua sequência de sete vitórias. Ele deve revisar o jogo com a equipe. O próximo torneio será o Masters de Paris, em novembro.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/alcaraz-reaction-shanghai-2026-monday",
+          "title": "Zverev vence Bublik e avança às quartas do Masters de Xangai",
+          "summary": "Alexander Zverev venceu Alexander Bublik por 2 sets a 1, com parciais de 7/6 (8/6), 4/6 e 7/6 (7/1), em 2h38. Na quinta, o alemão enfrenta Alex De Minaur por uma vaga na semifinal.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/zverev-se-vinga-bublik-batalha-dramatica-xangai/",
           "time": "ontem"
         },
         {
-          "title": "Jodar iguala feito de Djokovic ao chegar às oitavas em Xangai",
-          "summary": "Aos 20 anos, o espanhol derrotou Lehecka de virada e alcançou a quarta fase pelo quinto Masters 1000 seguido no ano. É o mais jovem a fazer isso desde Djokovic, em 2007. Ele enfrenta van de Zandschulp.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/jodar-lehecka-shanghai-2026-monday",
+          "title": "De Minaur vai às quartas em Xangai e atrapalha vida de Djokovic",
+          "summary": "De Minaur bateu Karen Khachanov por 6/3 e 6/4 e chegou às quartas. Com 2.880 pontos, ultrapassou Djokovic (2.840), que caiu para o 10º lugar e saiu da zona de classificação para o ATP Finals.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/de-minaur-quartas-xangai-atrapalha-djokovic/",
           "time": "ontem"
         },
         {
-          "title": "Dodig conquista o Challenger de Braga; brasileiro Reis da Silva vence em Antofagasta",
-          "summary": "O croata de 21 anos levou o título em Portugal e deve entrar no top 150. No resumo dos Challengers da semana, o brasileiro João Lucas Reis da Silva ficou com o troféu em Antofagasta, batendo Thiago Seyboth Wild na final.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/dodig-braga-challenger-2026-title",
-          "time": "ontem"
+          "title": "Cobolli ganha convite para o ATP de Lyon após três desistências",
+          "summary": "Cobolli recebeu convite para o torneio de Lyon, que perdeu três jogadores, de olho na corrida pelo ATP Finals.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/cobolli-convite-lyon-tres-desistencias/",
+          "time": "ontem, 19:03"
         },
         {
-          "title": "Krawietz e Puetz avançam na defesa do título de duplas em Xangai",
-          "summary": "Os alemães, atuais campeões, venceram a dupla da casa por 6/4 e 6/1 e foram às quartas. Os cabeças de chave 1, Harrison e Skupski, também avançaram. Cabral e Tracy passaram pela primeira rodada e encaram Galloway e Goransson.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/shanghai-2026-doubles-rolling-report",
-          "time": "ontem"
+          "title": "Tiafoe desiste de Lyon por lesão",
+          "summary": "O americano deixou o torneio de Lyon por lesão e pode perder posições na disputa por vaga no ATP Finals.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/tiafoe-desiste-lyon/",
+          "time": "ontem, 14:49"
+        },
+        {
+          "title": "Naná Silva recebe convite para o WTA de Curitiba",
+          "summary": "A brasileira Naná Silva ganhou convite para disputar o torneio WTA de Curitiba.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/nana-silva-recebe-convite-wta-curitiba/",
+          "time": "ontem, 15:47"
         }
       ]
     },
@@ -501,46 +515,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Anvisa autoriza teste em humanos de vacina 100% brasileira contra malária",
-          "summary": "O estudo de fase I vai avaliar segurança e resposta imune em 48 adultos de 18 a 59 anos sem infecção prévia.",
+          "title": "Quase 65% das cidades do Brasil têm baixa vacinação contra sarampo",
+          "summary": "Dados do Ministério da Saúde mostram que 3.589 dos 5.570 municípios ficaram abaixo de 95% na segunda dose entre janeiro e agosto. A cobertura nacional foi de 94,66% na primeira dose e 79,78% na segunda. Até 5 de outubro havia 52 casos importados, sem óbitos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/quase-65-das-cidades-do-brasil-tem-baixa-vacinacao-contra-sarampo/",
+          "time": "ontem"
+        },
+        {
+          "title": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
+          "summary": "A Anvisa liberou um estudo clínico de fase I para avaliar a segurança e a resposta imunológica da vacina, com 48 voluntários de 18 a 59 anos que nunca tiveram a doença.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
           "time": "esta semana"
         },
         {
-          "title": "Sarney deixa UTI após procedimento: 'logo estarei em casa'",
-          "summary": "O ex-presidente, de 96 anos, saiu da unidade de terapia intensiva depois de uma cirurgia abdominal e disse que em breve estará em casa. Ele havia sido internado com dor abdominal e estava estável.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/sarney-deixa-uti-apos-procedimento-logo-estarei-em-casa",
-          "time": "hoje"
+          "title": "Sarney diz que está no quarto e se recupera bem após cirurgia abdominal",
+          "summary": "Segundo a CNN Brasil, José Sarney afirmou que já está no quarto e se recupera bem após a cirurgia abdominal.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/sarney-diz-que-esta-no-quarto-e-se-recupera-bem-apos-cirurgia-abdominal/",
+          "time": "ontem, 15:48"
         },
         {
           "title": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
-          "summary": "Levantamento divulgado pela Agência Brasil indica que quase metade dos municípios brasileiros está em situação de alerta ou risco para o Aedes aegypti.",
+          "summary": "Reportagem da Agência Brasil aponta que quase metade dos municípios brasileiros está em situação de alerta ou risco para o Aedes aegypti.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/aedes-aegypti-quase-metade-dos-municipios-esta-em-alerta-ou-risco",
           "time": "esta semana"
         },
         {
-          "title": "Meningite: quatro cidades do Rio ofertam vacina a pessoas até 24 anos",
-          "summary": "Quatro municípios do estado do Rio de Janeiro oferecem vacina contra meningite a pessoas de até 24 anos.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/meningite-quatro-cidades-do-rio-ofertam-vacina-pessoas-ate-24-anos",
-          "time": "esta semana"
-        },
-        {
           "title": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz",
-          "summary": "A Fiocruz avisa que os casos de vírus respiratórios seguem elevados em todo o Brasil.",
+          "summary": "A Fiocruz alerta que os vírus respiratórios continuam em alta no país, segundo a Agência Brasil.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/virus-respiratorios-ainda-estao-em-alta-no-pais-alerta-fiocruz",
           "time": "esta semana"
         },
         {
-          "title": "Sarampo: Brasil intensifica ações diante de avanço nos EUA e nas Américas",
-          "summary": "O Ministério da Saúde reforçou a vigilância após o aumento de casos nas Américas, com 52 casos importados no Brasil até 5 de outubro, a maioria em São Paulo. O país segue livre da circulação endêmica. A vacina tríplice viral é gratuita no SUS, e a cobertura da primeira dose foi de 93,1% em 2025.",
+          "title": "Meningite: quatro cidades do Rio ofertam vacina a pessoas até 24 anos",
+          "summary": "Quatro cidades do estado do Rio de Janeiro passaram a oferecer vacina contra meningite a pessoas de até 24 anos, informa a Agência Brasil.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/sarampo-brasil-intensifica-acoes-face-avanco-nos-eua-e-nas-americas",
-          "time": "07/10"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/meningite-quatro-cidades-do-rio-ofertam-vacina-pessoas-ate-24-anos",
+          "time": "esta semana"
         }
       ]
     }
