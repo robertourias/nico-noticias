@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:20:29.196Z",
+  "updatedAt": "2026-10-14T09:51:40.395Z",
   "channels": [
     {
       "handle": "@renansantosmbl",
@@ -250,6 +250,13 @@
       "method": "api",
       "videos": [
         {
+          "id": "wg2ym2_RSyE",
+          "title": "MINISTÉRIO DOS COACHS",
+          "url": "https://www.youtube.com/watch?v=wg2ym2_RSyE",
+          "published": "2026-10-14T02:42:45Z",
+          "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCkSjy-IOEq-eMtarZl2uH1Q/join Inscreva-se no canal: https://www.youtube.com/mamaefalei?sub_confirmation=1 Me siga em: https://arthurdoval.com.br/"
+        },
+        {
           "id": "KXuTmIJmEAg",
           "title": "ESSE VÍDEO É PARA VOCÊ QUE NÃO ESTÁ BEM",
           "url": "https://www.youtube.com/watch?v=KXuTmIJmEAg",
@@ -311,13 +318,6 @@
           "url": "https://www.youtube.com/watch?v=AhKjmcoch8g",
           "published": "2026-10-09T14:45:27Z",
           "description": "🔥 Desafio SMV — Sua Melhor Versão: 👉 Garanta sua vaga: https://www.desafiosmv.com/arthur Quer começar a treinar e não sabe por onde? O Desafio SMV é um treinamento pra você dar o primeiro passo, seja em casa com peso corporal ou na academia. 💰 De R$297 por apenas R$99 por modalidade 🎁 + 6 bônus inclusos Resultados de 01 ano em apenas 02 meses. 👉 Garanta sua vaga: https://www.desafiosmv.com/arthur"
-        },
-        {
-          "id": "KnClkzJw-eA",
-          "title": "PLANTÃO ARTHUR DO VAL - ESQUERDISTAS DESISTEM DO LULA",
-          "url": "https://www.youtube.com/watch?v=KnClkzJw-eA",
-          "published": "2026-10-08T14:16:56Z",
-          "description": "🔥 Desafio SMV — Sua Melhor Versão: 👉 Garanta sua vaga: https://www.desafiosmv.com/arthur Quer começar a treinar e não sabe por onde? O Desafio SMV é um treinamento pra você dar o primeiro passo, seja em casa com peso corporal ou na academia. 💰 De R$297 por apenas R$99 por modalidade 🎁 + 6 bônus inclusos Resultados de 01 ano em apenas 02 meses. 👉 Garanta sua vaga: https://www.desafiosmv.com/arthur"
         }
       ]
     },
@@ -329,6 +329,13 @@
       "ok": true,
       "method": "api",
       "videos": [
+        {
+          "id": "J8nm5-l0kSE",
+          "title": "ARTHUR DO VAL (MamãeFalei) fala qual foi o maior erro de RENAN SANTOS",
+          "url": "https://www.youtube.com/watch?v=J8nm5-l0kSE",
+          "published": "2026-10-14T03:15:02Z",
+          "description": "📌 Canal de cortes políticos: trechos diretos, reação e análise sem enrolação. Inscreva-se no nosso canal: @brazilmissao #mbl #kimkataguiri #renansantos #arthurdoval"
+        },
         {
           "id": "BDTnSYBFuAY",
           "title": "REDCAST analisa disputa presidencial",
@@ -391,13 +398,6 @@
           "url": "https://www.youtube.com/watch?v=13n9fjFgtlc",
           "published": "2026-10-10T13:30:24Z",
           "description": "Renan Santos analisa vídeo de Ana Elisa Santos Silva tentando convencer eleitores da Missão a votar em Lula. Ana Elisa Santos foi eleita deputada federal na eleição de 2026 pelo PT e foi a candidata com mais votos no campo da esquerda. 📌 Canal de cortes políticos: trechos diretos, reação e análise sem enrolação. Inscreva-se no nosso canal: @brazilmissao #mbl #kimkataguiri #renansantos #arthurdoval"
-        },
-        {
-          "id": "o9WbL-Je3sY",
-          "title": "RENAN SANTOS ironiza apoio de AUGUSTO CURY a FLAVIO",
-          "url": "https://www.youtube.com/watch?v=o9WbL-Je3sY",
-          "published": "2026-10-10T12:33:31Z",
-          "description": "Renan Santos reage a vídeo de Augusto Cury apoiando Flávio Bolsonaro. 📌 Canal de cortes políticos: trechos diretos, reação e análise sem enrolação. Inscreva-se no nosso canal: @brazilmissao #mbl #kimkataguiri #renansantos #arthurdoval"
         }
       ]
     },
@@ -410,18 +410,18 @@
       "method": "api",
       "videos": [
         {
+          "id": "xK3CFAR26aA",
+          "title": "AUTOCRÍTICA OFICIAL DO MBL | MBL NEWS I 13/10/26",
+          "url": "https://www.youtube.com/watch?v=xK3CFAR26aA",
+          "published": "2026-10-13T23:58:17Z",
+          "description": "✅Assine agora o Clube MBL e Receba uma Valete em Casa com Frete Grátis! Acesse: https://clube-lp.mbl.org.br/?utm_source=youtube&utm_campaign=mblive&utm_id=lead ✅Acompanhe todos os MBL News também em podcast! http://mbl.org.br/podcast"
+        },
+        {
           "id": "fm5hZdGyxF0",
           "title": "O SEGUNDO TURNO MAIS IDIOTA DA HISTÓRIA | ANALISES RENAIS | 13/10/2026",
           "url": "https://www.youtube.com/watch?v=fm5hZdGyxF0",
           "published": "2026-10-13T18:58:46Z",
           "description": "Venha para o Festival do MBL! https://festival.mbl.org.br/ Assine o Valete+ em http://valete.org.br"
-        },
-        {
-          "id": "xK3CFAR26aA",
-          "title": "AUTOCRÍTICA OFICIAL DO MBL | MBL NEWS I 13/10/26",
-          "url": "https://www.youtube.com/watch?v=xK3CFAR26aA",
-          "published": "2026-10-13T17:51:42Z",
-          "description": "✅Assine agora o Clube MBL e Receba uma Valete em Casa com Frete Grátis! Acesse: https://clube-lp.mbl.org.br/?utm_source=youtube&utm_campaign=mblive&utm_id=lead ✅Acompanhe todos os MBL News também em podcast! http://mbl.org.br/podcast"
         },
         {
           "id": "tlaLmFmkTv8",
