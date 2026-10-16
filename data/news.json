@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T03:20:00-03:00",
+  "updatedAt": "2026-10-16T03:30:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 14/10 (Ibovespa, IFIX, dólar, S&P 500, Dow) · cripto às 00:00 UTC de 15/10 (24h) · Nasdaq 100, euro e CDI/Selic: último dado disponível",
+    "asOf": "Fechamento de 15/10 (Ibovespa, dólar, S&P 500, Dow, euro PTAX) · cripto em 16/10 03:30 (24h) · IFIX e Nasdaq 100: último dado confirmado (14/10)",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "206.506 pts",
-        "change": -0.18
+        "value": "204.324 pts",
+        "change": -1.06
       },
       {
         "id": "ifix",
@@ -24,8 +24,8 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.719,54 pts",
-        "change": -1.1
+        "value": "7.744,06 pts",
+        "change": 0.33
       },
       {
         "id": "nasdaq100",
@@ -36,51 +36,51 @@
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "51.621,78 pts",
-        "change": -0.09
+        "value": "52.177,69 pts",
+        "change": 1.08
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,03",
-        "change": 0.17
+        "value": "R$ 5,09",
+        "change": 1.15
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,61",
-        "change": null
+        "value": "R$ 5,66",
+        "change": 0.89
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 81.680",
-        "change": -1.8
+        "value": "US$ 81.969",
+        "change": 1.5
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.422",
-        "change": -3.04
+        "value": "US$ 2.440",
+        "change": 3.51
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 101,58",
-        "change": -5.09
+        "value": "US$ 105,69",
+        "change": 3.65
       }
     ]
   },
   "weather": {
-    "date": "2026-10-15",
-    "condition": "chuvoso durante o dia e à noite, com alerta de chuva forte",
-    "min": 16,
-    "max": 23,
-    "rainChance": 99,
-    "rainMm": 59.9,
-    "uv": null,
-    "source": "Climatempo",
-    "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/sao-paulo-sp"
+    "date": "2026-10-16",
+    "condition": "trovoadas com céu parcialmente nublado",
+    "min": 17,
+    "max": 25,
+    "rainChance": 90,
+    "rainMm": 24,
+    "uv": 10,
+    "source": "Meteored",
+    "url": "https://www.meteored.com.br/sao-paulo.htm"
   },
   "categories": [
     {
@@ -88,81 +88,81 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Netflix demite cerca de 6% dos funcionários, em seu maior corte desde 2022",
-          "summary": "Segundo memorando interno obtido pela Reuters, a Netflix cortará cerca de mil vagas, sobretudo em produto, tecnologia, jurídico e recursos humanos. A empresa tinha por volta de 16 mil funcionários no fim do ano passado e diz que o negócio segue sólido e em crescimento. A tentativa frustrada de comprar ativos da Warner Bros Discovery aumentou dúvidas sobre a estratégia.",
+          "title": "Datafolha: Flávio Bolsonaro tem 51% e Lula, 49% no 2º turno",
+          "summary": "Pesquisa da Folha ouviu 2.520 eleitores entre 13 e 15 de outubro e mostra Flávio à frente nos votos válidos, dentro da margem de erro de dois pontos. Na rodada anterior, de 8 de outubro, o placar era de 49% a 45% para o senador. Considerando todos os votos, são 47% a 45%.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/datafolha-flavio-bolsonaro-tem-51-e-lula-49-no-2-turno",
+          "time": "15/10, 21:34"
+        },
+        {
+          "title": "Líder do PT ignora resistência e apresenta emenda para reduzir maioridade penal",
+          "summary": "Camilo Santana, líder do PT no Senado e coordenador da campanha de Lula, protocolou emenda à PEC da Segurança baixando a maioridade de 18 para 16 anos. A líder do governo, Teresa Leitão, afirmou que nenhuma emenda sobre o tema deve prosperar. O assunto virou nova frente de disputa entre Lula e Flávio.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/netflix-demite-cerca-de-6-dos-funcionarios-em-maior-corte-desde-2022/",
-          "time": "ontem"
+          "url": "https://www.cnnbrasil.com.br/politica/lider-do-pt-ignora-resistencia-e-apresenta-emenda-para-reduzir-maioridade/",
+          "time": "15/10, 16:37"
         },
         {
-          "title": "Naufrágio mais antigo do mundo é encontrado na costa da Turquia",
-          "summary": "Arqueólogos localizaram a cerca de 30 metros de profundidade, perto da Ilha de Kekova, um barco com ânforas de 4.400 a 4.700 anos. A análise da argila indica que os recipientes vieram do Vale do Jordão e que o navio seguia do Levante, possivelmente rumo a Troia ou Creta. A equipe diz estar em geral confiante do recorde, mas as análises continuam.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/ciencia/o-naufragio-mais-antigo-do-mundo-foi-encontrado-na-costa-da-turquia-recipientes-de-armazenamento-antigos-conhecidos-como-anforas-tem-4700-anos/",
-          "time": "ontem"
-        },
-        {
-          "title": "Vini Jr. é suspenso por quatro jogos e desfalca o Real Madrid no clássico contra o Barcelona",
-          "summary": "O comitê disciplinar da federação espanhola puniu o atacante por puxar o cabelo de um rival do Villarreal e reclamar da arbitragem. Ele perde duas partidas pela expulsão e duas pela reclamação, incluindo o El Clásico de 25 de outubro. Vinicius pediu desculpas a companheiros e torcedores.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/vini-jr-e-punido-por-puxao-de-cabelo-e-desfalca-o-real-contra-barcelona/",
-          "time": "ontem"
-        },
-        {
-          "title": "Tempestade em São Paulo fecha Congonhas parcialmente e provoca atrasos",
-          "summary": "A chuva forte da tarde de quarta afetou as operações do aeroporto de Congonhas, com atrasos e cancelamentos, e um alagamento próximo dificultou o acesso. A Aena disse que a infraestrutura estava disponível e orientou os passageiros a checar seus voos. Guarulhos também registrou atrasos e cancelamentos.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/aeroporto-de-congonhas-fecha-parcialmente-por-causa-de-tempestade-em-sp",
-          "time": "ontem"
-        },
-        {
-          "title": "Marçal leva seguidores a Ironman no Paraguai e organização aponta despreparo",
-          "summary": "Segundo a coluna, cerca de 30 seguidores de Pablo Marçal competiram no Ironman 70.3 de Encarnación e vários tiveram dificuldade na natação, em rio com forte correnteza; o próprio Marçal precisou ser resgatado. A assessoria dele nega ter organizado o grupo. Atletas podem ser suspensos por conduta antidesportiva.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/reu-por-expor-vidas-marcal-leva-ao-ironman-coachs-despreparados-para-nadar",
-          "time": "ontem"
-        },
-        {
-          "title": "Morre RJ Mitte, ator de Breaking Bad, aos 34 anos",
-          "summary": "Os representantes do ator confirmaram a morte em Brownsville, no Texas, na segunda-feira (12). A causa não foi divulgada e o caso está sob investigação. Mitte interpretou Walter White Jr. nas cinco temporadas da série e atuava como defensor de pessoas com deficiência.",
+          "title": "Nunes Marques determina volta do canal 'Exército do Lula'",
+          "summary": "O presidente do TSE mandou restabelecer de imediato o canal de WhatsApp comandado pelo deputado André Janones, que tem mais de 3,4 milhões de seguidores. A restrição se baseava na falta de registro formal na Justiça Eleitoral e na regra de 48 horas, mas Flávio concordou com o retorno imediato.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/entretenimento/tv-e-cinema/ator-de-breaking-bad-morre-aos-34-anos/",
-          "time": "ontem"
+          "url": "https://jovempan.com.br/politica/nunes-marques-determina-volta-do-canal-exercito-do-lula/",
+          "time": "ontem, 21:50"
+        },
+        {
+          "title": "TSE determina que Meta dê mesmo tratamento a Lula e Flávio",
+          "summary": "Em liminar, o juiz auxiliar Marco Aurélio Bellizze impôs à Meta critérios iguais para os dois candidatos, sob multa de R$ 500 mil por dia. A decisão não afirma que a empresa favoreceu alguém e precisa ser referendada pelo plenário. A big tech também deve suspender anúncios eleitorais não contratados por candidatos ou partidos.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/tse-determina-que-meta-de-mesmo-tratamento-a-lula-e-flavio",
+          "time": "15/10, 22:46"
+        },
+        {
+          "title": "PF prende Márcio Canella, segundo deputado estadual mais votado do RJ",
+          "summary": "A Operação Unha e Carne chegou à oitava fase e prendeu o parlamentar eleito e o ex-secretário de Polícia Civil Marcus Vinicius Amim Fernandes. O grupo é suspeito de lavar dinheiro por meio de postos de combustível; relatório do Coaf aponta movimentação de mais de R$ 7,6 bilhões em seis anos. A Justiça suspendeu 112 empresas ligadas à rede.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pf-prende-marcio-canella-segundo-deputado-estadual-mais-votado-do-rj/",
+          "time": "15/10, 07:46"
+        },
+        {
+          "title": "EUA avaliam 'mãe de todas as bombas' contra o Irã, dizem fontes",
+          "summary": "Segundo autoridades americanas ouvidas pela CNN, o Pentágono preparou planos que incluem a bomba GBU-43/B contra infraestrutura energética e instalações nucleares iranianas, caso Trump mande retomar os combates. Fontes duvidam que ela destrua alvos protegidos por granito. A Casa Branca não comentou os planos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/exclusivo-eua-avaliam-mae-de-todas-as-bombas-contra-ira-dizem-fontes/",
+          "time": "15/10, 02:42"
+        },
+        {
+          "title": "Papa Leão XIV faz primeira declaração após diagnóstico de câncer: 'Rezem por mim'",
+          "summary": "O pontífice agradeceu as orações depois de operar o pulmão direito no Gemelli, em Roma, onde exame confirmou adenocarcinoma. A recuperação segue como esperado, com fisioterapia respiratória e caminhadas no quarto. A agenda do papa está suspensa até 20 de outubro.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/papa-leao-xiv-faz-primeira-declaracao-apos-diagnostico-de-cancer",
+          "time": "ontem, 15:28"
+        },
+        {
+          "title": "Teto de escola desaba no Paquistão e deixa ao menos 35 mortos, a maioria crianças",
+          "summary": "O desabamento ocorreu em uma escola particular de Peshawar durante as aulas da manhã, e mais de 45 pessoas ficaram feridas. A polícia atribui o acidente a uma estrutura frágil com telhado sobrecarregado por obras e prendeu o dono da escola.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/teto-de-escola-desaba-no-paquistao-e-deixa-ao-menos-35-mortos-a-maioria-criancas/",
+          "time": "15/10, 12:22"
         },
         {
           "title": "Palmeiras vence o Fluminense no Maracanã por 2 a 1 na ida da semifinal da Libertadores",
           "summary": "Flaco López e Marlon Freitas marcaram para o Palmeiras, e Wesley Natã descontou nos acréscimos para o Fluminense. O jogo da volta será no Nubank Parque; o Palmeiras avança até com empate. O Fluminense precisa vencer por dois gols de diferença ou levar a decisão aos pênaltis.",
           "source": "Jovem Pan",
           "url": "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-vence-fluminense-no-maracana-e-abre-vantagem-na-semi-da-libertadores/",
-          "time": "hoje, 00:00"
+          "time": "14/10"
         },
         {
-          "title": "CNI prevê alta de 6,2% nos preços com o fim da escala 6x1; Fiesp fala em 'PEC Boca de Urna'",
-          "summary": "Após a aprovação no Senado, a CNI estimou, por conta própria, aumento de custos de até R$ 267,2 bilhões e queda de 0,7% no PIB. A Fiesp criticou a votação em meio à disputa eleitoral e alertou para informalidade e repasse de despesas ao consumidor. A PEC reduz a jornada de 44 para 40 horas em duas etapas, sem corte de salário.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/economia/industria-critica-fim-da-6x1-cni-preve-alta-de-62-nos-precos-e-fiesp-fala-em-pec-boca-de-urna/",
-          "time": "ontem"
+          "title": "Netflix demite cerca de 6% dos funcionários, em seu maior corte desde 2022",
+          "summary": "Segundo memorando interno obtido pela Reuters, a Netflix cortará cerca de mil vagas, sobretudo em produto, tecnologia, jurídico e recursos humanos. A empresa tinha por volta de 16 mil funcionários no fim do ano passado e diz que o negócio segue sólido e em crescimento. A tentativa frustrada de comprar ativos da Warner Bros Discovery aumentou dúvidas sobre a estratégia.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/netflix-demite-cerca-de-6-dos-funcionarios-em-maior-corte-desde-2022/",
+          "time": "14/10"
         },
         {
-          "title": "Azul investiga decolagem em que avião deixou o solo perto do fim da pista de Congonhas",
-          "summary": "Um Embraer E195-E2 que seguia para Belo Horizonte decolou no domingo (11) já próximo do sistema EMAS, no fim da pista, segundo o Estadão Conteúdo. A Azul abriu investigação interna e afirma seguir padrões de segurança nacionais e internacionais.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/azul-investiga-decolagem-de-aviao-que-deixou-solo-perto-do-fim-da-pista-de-congonhas/",
-          "time": "ontem"
-        },
-        {
-          "title": "Black Friday 2026 deve movimentar R$ 13,3 bilhões online, projeta Confi Neotrust",
-          "summary": "A projeção aponta recorde, com R$ 5,22 bilhões no dia 27 de novembro e R$ 3,17 bilhões na 11.11. Será a primeira Black Friday sem bets desde 2024, e executivos veem o TikTok Shop impulsionando compras por impulso. As vendas tendem a se espalhar por várias semanas.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/minhas-financas/sem-bets-com-compras-antecipadas-e-tiktok-shop-o-que-esperar-da-black-friday-2026/",
-          "time": "ontem"
-        },
-        {
-          "title": "Deslizamento provocado pela chuva mata uma pessoa em São Paulo",
-          "summary": "Uma pessoa morreu quando um deslizamento atingiu uma casa na Vila Brasilândia, zona norte. A prefeitura contabilizou 42 mm em 40 minutos perto do Anhangabaú, o volume previsto para 11 dias de outubro. O rodízio foi suspenso e quatro pessoas foram resgatadas do túnel do Anhangabaú.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/deslizamento-provocado-pela-chuva-mata-uma-pessoa-em-sp",
-          "time": "ontem, 23:44"
+          "title": "Vini Jr. é suspenso por quatro jogos e desfalca o Real Madrid no clássico contra o Barcelona",
+          "summary": "O comitê disciplinar da federação espanhola puniu o atacante por puxar o cabelo de um rival do Villarreal e reclamar da arbitragem. Ele perde duas partidas pela expulsão e duas pela reclamação, incluindo o El Clásico de 25 de outubro. Vinicius pediu desculpas a companheiros e torcedores.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/vini-jr-e-punido-por-puxao-de-cabelo-e-desfalca-o-real-contra-barcelona/",
+          "time": "14/10"
         }
       ]
     },
@@ -171,109 +171,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "O segundo turno mais idiota da história (Análises Renais, 13/10)",
-          "summary": "No episódio de Análises Renais de 13/10, Renan Santos comenta a disputa do segundo turno da eleição presidencial. O título do vídeo traz a avaliação do próprio apresentador sobre o cenário.",
+          "title": "Aprenda a votar (Análises Renais, 14/10)",
+          "summary": "Episódio da série Análises Renais publicado em 14/10, em que Renan Santos aborda o voto no segundo turno, segundo o título do vídeo. A descrição convida à filiação à Missão e ao Festival do MBL.",
           "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=zCB5musbafc",
-          "time": "13/10, 14:59"
+          "url": "https://www.youtube.com/watch?v=euHzAqhayXA",
+          "time": "14/10, 14:14"
         },
         {
-          "title": "Renan Santos se pronuncia sobre vídeo gravado com a deputada petista Duda Hidalgo",
-          "summary": "O canal publica o pronunciamento de Renan Santos sobre um vídeo gravado com a deputada do PT Duda Hidalgo. O conteúdo é de cortes do político, que reage ao episódio.",
+          "title": "Vai ter debate!",
+          "summary": "Em vídeo curto publicado em 14/10, Renan Santos comenta a realização de um debate, conforme o título. A descrição traz apenas links de redes e do Valete+.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=98n3kJB7Pgc",
+          "time": "14/10, 16:29"
+        },
+        {
+          "title": "Flávio Bolsonaro ordena onda de ataques a Renan Santos e seus eleitores?",
+          "summary": "Corte do canal que, pelo título, aponta uma suposta ordem de Flávio Bolsonaro para atacar Renan Santos e seus eleitores. O vídeo indica ser baseado em outro conteúdo original.",
           "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=CWPJ7jZbfsY",
-          "time": "13/10, 16:00"
+          "url": "https://www.youtube.com/watch?v=k9XRadseO9Q",
+          "time": "14/10, 08:31"
         },
         {
-          "title": "Fim da escala 6x1 será aprovado? Renan Santos revela sua opinião",
-          "summary": "Em corte publicado antes da votação no Senado, Renan Santos expõe o que pensa sobre a proposta do fim da escala 6x1 e se ela deve ser aprovada.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=o0nuvDVAj34",
-          "time": "13/10, 14:55"
-        },
-        {
-          "title": "Perdão de dívidas de MEI: Lula tenta comprar voto?",
-          "summary": "Kim Kataguiri questiona, no vídeo, se o pacote anunciado pelo governo Lula para os MEIs, que inclui perdão de dívidas, seria uma tentativa de ganhar votos a duas semanas do segundo turno.",
+          "title": "Urgente: derrotei projeto que beneficiaria Daniel Vorcaro",
+          "summary": "Kim Kataguiri afirma, no título, ter derrotado um projeto que beneficiaria Daniel Vorcaro. O vídeo foi publicado na noite de 14/10.",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=AdqE3v7Nexo",
-          "time": "13/10, 19:01"
+          "url": "https://www.youtube.com/watch?v=NuNQM6B3Dac",
+          "time": "14/10, 21:31"
         },
         {
-          "title": "Escravinhas do Vorcaro",
-          "summary": "Arthur do Val comenta, em vídeo de 13/10, as notícias envolvendo Daniel Vorcaro e uma suposta rede de prostituição que teria recrutado refugiadas ucranianas, tema do caso Master.",
+          "title": "Desesperado: Lula quer aumentar limite do MEI para se reeleger",
+          "summary": "No vídeo, Kim Kataguiri critica a proposta de aumentar o limite do MEI, que ele associa a uma tentativa de reeleição de Lula. A descrição divulga o Festival MBL 2026 e o livro do deputado.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=D8MY2R4Okn8",
+          "time": "14/10, 20:37"
+        },
+        {
+          "title": "Plantão Arthur do Val: o PL está com medo da Missão",
+          "summary": "No Plantão, Arthur do Val sustenta, conforme o título, que o PL teme a Missão. O vídeo foi publicado em 14/10.",
           "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=TlDaWwpYbGA",
-          "time": "13/10, 13:33"
+          "url": "https://www.youtube.com/watch?v=kPhAoSOU8F8",
+          "time": "14/10, 11:22"
         },
         {
-          "title": "Plantão Arthur do Val - A direita saiu ganhando",
-          "summary": "No Plantão desta terça, Arthur do Val avalia o cenário eleitoral e defende que a direita saiu fortalecida dos acontecimentos recentes.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=poh0qWM_Kqw",
-          "time": "13/10, 11:20"
-        },
-        {
-          "title": "REDCAST analisa disputa presidencial",
-          "summary": "Raiam Santos, Junior Masters e Gabriel Gordão analisam as campanhas presidenciais e o que esperar do segundo turno entre Lula e Flávio Bolsonaro.",
+          "title": "Renan Santos faz forte desabafo sobre Kim Kataguiri",
+          "summary": "Corte em que, segundo a descrição, Renan Santos se emociona ao falar de Kim Kataguiri. O canal publica trechos de conteúdo político com reação e análise.",
           "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=BDTnSYBFuAY",
-          "time": "13/10, 19:45"
+          "url": "https://www.youtube.com/watch?v=lMC-haaIe0k",
+          "time": "14/10, 15:30"
         },
         {
-          "title": "Arthur do Val (MamãeFalei) fala qual foi o maior erro de Renan Santos",
-          "summary": "Em corte do canal, Arthur do Val aponta o que considera o maior erro de Renan Santos na campanha presidencial.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=J8nm5-l0kSE",
-          "time": "ontem, 00:15"
-        },
-        {
-          "title": "Autocrítica oficial do MBL (MBL News, 13/10)",
-          "summary": "O MBL News de 13/10 traz uma autocrítica do movimento, segundo o título do programa, sobre o momento político e a eleição.",
+          "title": "O que esperar do debate do 2º turno? (MBL News, 14/10)",
+          "summary": "Edição do MBL News de 14/10 que discute, pelo título, o que esperar do debate do segundo turno da eleição presidencial.",
           "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=xK3CFAR26aA",
-          "time": "13/10, 20:58"
+          "url": "https://www.youtube.com/watch?v=pUIumeBKpFQ",
+          "time": "14/10, 21:13"
         },
         {
-          "title": "Moraes reduz pena de general Paulo Sérgio Nogueira e libera trabalho administrativo no Exército",
-          "summary": "O ministro do STF determinou o desconto de 86 dias da pena do ex-ministro da Defesa, condenado a 19 anos pela trama golpista, com base em trabalho, leitura e um curso. Também aprovou plano para que ele acompanhe a gestão orçamentária e financeira de organizações militares de saúde. A decisão foi assinada na terça (13).",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-reduz-pena-de-ex-ministro-de-bolsonaro-e-libera-trabalho-no-exercito",
-          "time": "ontem"
+          "title": "Fim da escala 6x1",
+          "summary": "Vídeo do MBL News sobre o fim da escala 6x1, tema que mobilizou o Congresso nesta semana. A descrição traz apenas links de assinatura e redes do movimento.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=WSWiSJ2ENPQ",
+          "time": "14/10, 12:30"
         },
         {
-          "title": "Zanin dá 48 horas para Anatel explicar falhas no acesso gratuito aos serviços do TSE",
-          "summary": "O ministro do STF quer saber que meio técnico cada operadora usou e a causa das falhas no login do gov.br e nos apps e-Título, Pardal e Boletim na Mão. Para a janela do segundo turno, de 22 a 26 de outubro, falhas generalizadas devem ser comunicadas em 24 horas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/zanin-da-48-horas-para-anatel-explicar-falhas-em-acesso-gratuito-ao-tse/",
-          "time": "ontem"
+          "title": "Senado aprova fim da escala 6x1 e fortalece campanha de Lula",
+          "summary": "O Senado aprovou a PEC que acaba com a escala 6x1 em dois turnos no mesmo dia, com 75 votos a favor e 1 contra. O texto reduz a jornada de 44 para 40 horas semanais e garante dois dias de descanso, com transição de 60 dias para 42 horas e 14 meses para as 40 horas. A votação ocorreu antes do segundo turno de 25 de outubro e foi tratada como vitória para a campanha de Lula.",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-congresso/senado-aprova-fim-da-escala-6-x-1-e-fortalece-campanha-de-lula/",
+          "time": "ontem, 21:52"
         },
         {
-          "title": "Flávio recua e diz que vai ao debate da Band: 'Te espero'",
-          "summary": "O candidato do PL reverteu a posição anunciada na véspera e afirmou que comparecerá ao debate de domingo (18), às 20h; Lula já havia confirmado presença. Se algum faltar, o púlpito ficará vazio. A presença de ambos no debate da Globo, em 23/10, segue incerta.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/flavio-recua-diz-que-vai-ao-debate-da-band-e-provoca-lula-te-espero",
-          "time": "ontem"
+          "title": "Senado votará PEC da Segurança na 5ª feira",
+          "summary": "Depois de a CCJ concluir a análise, o Senado deve começar a votar nesta quinta a PEC da Segurança Pública, que exige 49 votos em dois turnos. O texto põe o Susp na Constituição, repassa 50% dos recursos de fundos de segurança aos estados e prevê perda de bens ligados ao crime. Os senadores retiraram a destinação de 30% da receita das bets, o que, por ser supressão, não obriga o texto a voltar à Câmara.",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-congresso/senado-votara-pec-da-seguranca-na-5a-feira/",
+          "time": "ontem, 22:15"
         },
         {
-          "title": "Trump anuncia exploração 'massiva' de petróleo, gás e minerais na Groenlândia",
-          "summary": "Em post na madrugada de quarta, o presidente americano afirmou que a exploração está prestes a começar, sem detalhar como ou quando. Em setembro, EUA, Dinamarca e Groenlândia assinaram acordo de segurança que prevê duas bases americanas, sem atender à exigência de Trump de anexar o território.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-anuncia-exploracao-de-petroleo-gas-e-minerais-na-groenlandia/",
-          "time": "ontem"
+          "title": "Pazolini tem 47% no ES; Ferraço 38% no 2º turno, diz Quaest",
+          "summary": "Pesquisa Quaest para o governo do Espírito Santo mostra Lorenzo Pazolini (Republicanos) com 47% contra 38% de Ricardo Ferraço (MDB), que busca a reeleição. A aprovação do governo Ferraço subiu para 57%. Foram ouvidos 1.098 eleitores de 10 a 13 de outubro, com margem de erro de 3 pontos.",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/pazolini-tem-47-no-es-ferraco-38-no-2o-turno-diz-quaest/",
+          "time": "ontem, 21:40"
         },
         {
-          "title": "Juiz prorroga decisão que protege acesso de CNN, MS NOW e Politico à Casa Branca",
-          "summary": "O juiz federal Timothy Kelly mandou o governo Trump não aplicar, por ora, a revogação das credenciais permanentes dos jornalistas das três empresas, enquanto o processo avança. A nova ordem permite que o governo recorra. Trump anunciou a medida em 18 de setembro, alegando cobertura negativa.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/juiz-prorroga-decisao-sobre-acesso-da-cnn-ms-now-e-politico-a-casa-branca/",
-          "time": "ontem"
+          "title": "Governo da Colômbia assina decreto que criminaliza protestos sociais",
+          "summary": "O presidente Abelardo de la Espriella assinou um decreto sobre manifestações horas antes do primeiro protesto convocado pela oposição. A norma prevê monitoramento oficial permanente e permite intervenção das forças de segurança quando houver armas ou ataques a terceiros. Críticos veem repressão a atos pacíficos, enquanto o governo diz buscar ordem pública.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/governo-da-colombia-assina-decreto-que-criminaliza-protestos-sociais",
+          "time": "ontem, 18:03"
         },
         {
-          "title": "Houthis atacam sede da Saudi Aramco e ameaçam aeroporto de Riad",
-          "summary": "Segundo a Reuters, um míssil balístico atingiu uma torre de escritórios da Aramco em Dhahran, com incêndio pequeno e sem vítimas. Os rebeldes iemenitas prometem seguir atacando aeroportos e instalações petrolíferas. O Irã se ofereceu para mediar conversas com Riad.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/houthis-atacam-sede-da-saudi-aramco-e-ameacam-aeroporto-de-riad/",
-          "time": "ontem"
+          "title": "Adolescentes franceses fazem mais um dia de protestos sobre escolas",
+          "summary": "Estudantes secundaristas e universitários franceses marcham e bloqueiam escolas há quatro semanas contra salas lotadas e falta de professores. A polícia usou gás lacrimogêneo e o ministro da Educação disse que cerca de 200 escolas fecharam. O tema alimenta a disputa política a seis meses da eleição presidencial, com Marine Le Pen culpando manifestantes violentos.",
+          "source": "Agência Brasil (Reuters)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/adolescentes-franceses-fazem-mais-um-dia-de-protestos-sobre-escolas",
+          "time": "13/10"
+        },
+        {
+          "title": "Pandemias: ONU aprova declaração por mais cooperação entre países",
+          "summary": "A Assembleia Geral da ONU aprovou, por 153 votos a 3, uma declaração política não vinculante sobre prevenção e resposta a pandemias. Estados Unidos, Israel e Argentina votaram contra. O anexo do Acordo de Pandemia da OMS, sobre o compartilhamento de patógenos, segue sem acordo e deve voltar à pauta em maio.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/pandemias-onu-aprova-declaracao-por-mais-cooperacao-entre-paises",
+          "time": "ontem, 09:20"
         }
       ]
     },
@@ -282,46 +282,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Inflação ao consumidor dos EUA sobe 0,6% em setembro e chega a 3,7% em 12 meses",
-          "summary": "O CPI americano avançou 0,6% no mês, em linha com a projeção da Reuters, e 3,7% no ano, acima dos 3,6% esperados. Gasolina (+9,1%) e energia (+5,2%) responderam por mais da metade da alta. O núcleo, sem alimentos e energia, subiu 0,3%, acima dos 0,2% previstos.",
+          "title": "Ibovespa tem terceira queda seguida, após 6x1 e pesquisa; dólar sobe e vai a R$ 5,08",
+          "summary": "O índice fechou em baixa de 1,06%, aos 204.324 pontos, com investidores reduzindo posição após a euforia da semana passada. O dólar comercial subiu 1,17%, a R$ 5,087, e os juros futuros avançaram em meio a pesquisas eleitorais e à aprovação do fim da 6x1.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/inflacao-ao-consumidor-cpi-dos-eua-setembro-2026/",
-          "time": "ontem, 09:31"
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/",
+          "time": "15/10"
         },
         {
-          "title": "Setor de serviços recua 0,1% em agosto e frustra projeções",
-          "summary": "Segundo o IBGE, o volume de serviços caiu 0,1% sobre julho e subiu 0,6% na comparação anual, abaixo do esperado em ambos os casos. Três das cinco atividades recuaram, enquanto serviços prestados às famílias cresceram 2,1%. A média móvel de três meses ficou estável.",
+          "title": "EUA: preços ao produtor sobem 6,3% em setembro na base anual, maior alta desde 2022",
+          "summary": "O índice de preços ao produtor americano avançou 1,3% no mês, bem acima dos 0,6% esperados, pressionado pela energia em meio à guerra com o Irã. A alta anual superou a projeção de 5,5%.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/setor-de-servicos-agosto-2026-ibge/",
-          "time": "ontem, 09:10"
+          "url": "https://www.infomoney.com.br/economia/eua-precos-ao-produtor-sobem-63-em-setembro-na-base-anual-maior-alta-desde-2022/",
+          "time": "15/10, 09:45"
         },
         {
-          "title": "Com MEIs, pacote de benefícios do governo Lula chega a R$ 260 bilhões",
-          "summary": "Reportagem da Agência O Globo soma as medidas do ano, como o reajuste do Bolsa Família, o corte ampliado de tributos sobre combustíveis e um novo Desenrola de R$ 15 bi. As propostas para MEIs, que perdoariam R$ 12,86 bi em dívidas e pagariam até R$ 5 mil via Pix, ainda dependem do Congresso. O governo nega motivação eleitoral antes do segundo turno.",
+          "title": "Senado aprova novo teto do MEI; veja valores de 2027 e 2028",
+          "summary": "Por 78 votos a 0, o Senado elevou o limite de faturamento do MEI de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028, e permitiu dois empregados. O texto também perdoa cerca de R$ 12,6 bilhões em dívidas federais de 3,6 milhões de microempreendedores e vai à sanção de Lula.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/economia/senado-aprova-novo-teto-do-mei-texto-vai-a-sancao-de-lula",
+          "time": "15/10, 21:53"
+        },
+        {
+          "title": "Vendas no varejo do Brasil avançam 0,1% em agosto, abaixo do esperado",
+          "summary": "Segundo o IBGE, o varejo cresceu 0,1% sobre julho, contra 0,7% projetado pelo mercado. No conceito ampliado houve queda de 0,2%, com recuo em veículos e materiais de construção; móveis e eletrodomésticos caíram 4,2%.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/com-meis-pacote-de-beneficios-do-governo-lula-chega-a-r-260-bilhoes/",
-          "time": "ontem, 13:19"
+          "url": "https://www.infomoney.com.br/economia/vendas-no-varejo-do-brasil-avancam-01-em-agosto-abaixo-do-esperado/",
+          "time": "15/10, 09:04"
         },
         {
-          "title": "AIE: guerra derruba demanda global por petróleo, e retomada da oferta fica vulnerável",
-          "summary": "A Agência Internacional de Energia estima queda média de 2,6 milhões de barris por dia na demanda em 2026, com o diesel respondendo por cerca de um quarto do recuo. A oferta deve cair 5,8 milhões de bpd neste ano antes de se recuperar em 2027, e os estoques seguem bem abaixo dos níveis pré-guerra.",
-          "source": "InfoMoney (Reuters)",
-          "url": "https://www.infomoney.com.br/mundo/aie-guerra-derruba-demanda-global-por-petroleo-e-retomada-da-oferta-fica-vulneravel/",
-          "time": "ontem, 08:13"
+          "title": "Minério de ferro atinge menor cotação em 2 anos; entenda motivos",
+          "summary": "O minério caiu pelo terceiro pregão seguido e chegou ao menor nível desde setembro de 2024 em Dalian e Cingapura. Analistas citam demanda fraca de aço na China e expectativa de mais oferta da mina guineense de Simandou.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/minerio-de-ferro-atinge-menor-cotacao-em-2-anos-com-preocupacoes-sobre-demanda-fraca/",
+          "time": "15/10, 10:27"
         },
         {
-          "title": "ONU vê choque de produção e preços de alimentos por gargalo de fertilizantes em Ormuz",
-          "summary": "Um dirigente da ONU alertou que, se EUA e Irã não fecharem em semanas um plano para o transporte de fertilizantes pelo Estreito de Ormuz, partes da Ásia e da África podem enfrentar crises alimentares. Relatório da Câmara de Comércio Internacional projeta altas de até 81% nos cereais caso a interrupção continue.",
-          "source": "InfoMoney (Reuters)",
-          "url": "https://www.infomoney.com.br/mundo/onu-ve-choque-de-producao-e-precos-de-alimentos-por-gargalo-de-fertilizantes-em-ormuz/",
-          "time": "ontem, 12:52"
-        },
-        {
-          "title": "China retoma compras de soja dos EUA após a cúpula Trump-Xi",
-          "summary": "Compradores estatais chineses fecharam de 8 a 10 navios Panamax de soja americana para embarque a partir de dezembro, as primeiras compras desde a cúpula de setembro. A China já havia adquirido cerca de 13,7 milhões de toneladas, mais da metade da meta de 25 milhões para 2026/27.",
-          "source": "InfoMoney (Reuters)",
-          "url": "https://www.infomoney.com.br/economia/china-retoma-compras-de-cargas-de-soja-dos-eua-apos-a-cupula-trump-xi-dizem-fontes/",
-          "time": "ontem, 09:28"
+          "title": "Apple atinge valor de mercado inédito de US$ 5 tri e segue como segunda mais valiosa",
+          "summary": "As ações fecharam em recorde de US$ 342,96 na quarta, levando a empresa a cerca de US$ 5 trilhões, atrás só da Nvidia. A Apple resistiu a um dia de forte queda das techs, com Nasdaq perdendo 1,88%, ajudada por gastos menores em infraestrutura de IA.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/apple-atinge-valor-de-mercado-inedito-de-us-5-tri-e-segue-como-segunda-mais-valiosa/",
+          "time": "ontem, 20:10"
         }
       ]
     },
@@ -330,46 +330,46 @@
       "label": "Programação",
       "items": [
         {
+          "title": "GitHub endurece publicação no npm após falha que deixou mais de 1.500 pacotes vulneráveis a sequestro",
+          "summary": "A Bloom Security mostrou que o npm vinculava a publicação confiável ao nome do repositório, e não ao ID numérico, até a primeira publicação. Quem assumisse um nome liberado após renomeação ou exclusão podia publicar versões de pacotes alheios. O GitHub passou a expirar em 48 horas configurações não validadas e a bloquear tokens vindos de eventos issue_comment.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+          "time": "13/10"
+        },
+        {
+          "title": "Tensorlake no npm: versão 0.5.144 maliciosa ameaçou credenciais e repositórios de desenvolvedores",
+          "summary": "A versão publicada em 8 de outubro trazia um script preinstall que carregava um loader em Bun para buscar tokens do GitHub e npm, chaves de nuvem, arquivos SSH e configurações de ferramentas de IA. Como saiu pelo processo normal de release, tinha atestado de proveniência válido. A recomendação é procurar a versão em lockfiles e rotacionar segredos de forma coordenada.",
+          "source": "Minuto da Segurança",
+          "url": "https://minutodaseguranca.blog.br/tensorlake-npm-0-5-144-malware-credenciais/",
+          "time": "13/10"
+        },
+        {
           "title": "Cisco alerta para ataques ativos a nova falha crítica no Secure Email Gateway",
           "summary": "A falha CVE-2026-76519 (CVSS 9.8) permite que um remetente sem autenticação grave arquivos no equipamento e possa executar comandos como root. Afeta gateways com File Reputation ativado; a correção sai em versões novas do AsyncOS e do Content Scanner Tools, e a Cisco não oferece alternativa de mitigação.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-          "time": "ontem"
+          "time": "14/10"
         },
         {
           "title": "Invasores instalam backdoors em servidores Nextcloud via falha no app Collabora CODE",
           "summary": "A CVE-2026-110447, no app Built-in CODE da Collabora, permite execução de comandos sem login e já foi usada para plantar web shells desde setembro. Desativar o app não basta: é preciso atualizar para a versão 26.4.303 ou removê-lo, e Nextcloud 29 ou anterior não consegue instalar a correção.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-          "time": "ontem"
+          "time": "14/10"
         },
         {
           "title": "curl 8.23.0 corrige falha no upload HTTP/2 com prova de conceito de execução de código",
           "summary": "A CVE-2026-92392 é um use-after-free que afeta as versões 8.12.0 a 8.22.0 e pode ser explorado por servidor malicioso. A equipe do curl diz que o cenário mais provável é apenas uma queda do programa; enquanto não se atualiza, dá para forçar HTTP/1.1. A descoberta veio do OSS Scanner da Anthropic.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-          "time": "ontem"
+          "time": "14/10"
         },
         {
           "title": "Pesquisadores usam modelo público da OpenAI para montar exploit completo do Chrome em seis dias",
           "summary": "A XBOW encadeou três falhas desconhecidas do Chrome com agentes baseados no GPT-5.6 Sol, obtendo execução de código no Windows ao abrir uma página. O Google corrigiu tudo e pagou a recompensa máxima de US$ 250 mil; a empresa cita custo de computação de cerca de US$ 40 mil. A correção está no Chrome 152.0.7977.82 ou superior.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Microsoft desarticula três kits de phishing ligados a mais de 1 bilhão de mensagens",
-          "summary": "Em operação com a Health-ISAC, o JC3 japonês e parceiros, foram derrubados os kits CoGUI, Haozi e Iron Man System, vendidos no mercado clandestino YAM Store. Eles estariam por trás de mais de 1 bilhão de mensagens por e-mail e SMS desde janeiro, atingindo organizações em mais de 150 países.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Trojan Android Hirudo usa apps bancários adulterados para driblar verificações de segurança",
-          "summary": "Segundo a ThreatFabric, o malware substitui oito apps bancários indonésios por versões modificadas que contornam checagens de assinatura e integridade. Chega por apps isca e permite controle remoto, captura de tela e furto de SMS, além de retransmitir a verificação Play Integrity a um servidor dos atacantes.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-          "time": "ontem"
+          "time": "14/10"
         }
       ]
     },
@@ -378,46 +378,46 @@
       "label": "IA",
       "items": [
         {
+          "title": "OpenAI atualiza modelos de voz do ChatGPT com sotaques mais naturais e novas vozes",
+          "summary": "A OpenAI lançou o GPT-Live-1.1 e a versão compacta Quip, modelos de voz em tempo real que ouvem e respondem simultaneamente. Chegam 13 novas vozes, incluindo francês, alemão, hindi, japonês, coreano e espanhol mexicano. A melhoria também chega ao Codex e ao agente dots, com API prevista sem data.",
+          "source": "TI Inside",
+          "url": "https://tiinside.com.br/15/10/2026/openai-atualiza-modelos-de-voz-do-chatgpt-com-sotaques-mais-naturais-e-novas-vozes/",
+          "time": "15/10"
+        },
+        {
           "title": "Figma apresenta recursos para definir como agentes de IA atuam na plataforma",
           "summary": "Na Config da Índia, a empresa lançou o Figma Specs, editor em Markdown que registra a linguagem de design da companhia para equipes e agentes. Também abriu em beta público as camadas de código, integrou o CMS Payload ao Figma Make e ampliou o MCP com mais de 20 ferramentas.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-          "time": "ontem"
+          "time": "14/10"
         },
         {
           "title": "YouTube Music lança rótulos para músicas com IA em meio à enxurrada de faixas geradas",
           "summary": "Os selos indicam se uma faixa é totalmente, parcialmente ou nada gerada por IA, com base na declaração dos parceiros e em detecção própria. Diferentemente de Deezer e TIDAL, o YouTube prioriza a transparência: o uso de IA não impede a monetização.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-          "time": "ontem"
-        },
-        {
-          "title": "Deezer vai permitir filtrar músicas geradas por IA",
-          "summary": "O botão deve chegar até o fim do ano e ocultar faixas, álbuns e artistas de IA nas buscas. A plataforma diz que mais de 50% dos envios diários, cerca de 90 mil faixas, são gerados por IA, e que cerca de 45% dos usuários querem uma forma de removê-los.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-          "time": "ontem"
+          "time": "14/10"
         },
         {
           "title": "Zenzap capta US$ 44 milhões para app de mensagens com IA que quer substituir o WhatsApp no trabalho",
           "summary": "A startup, fundada em 2022, recebeu aportes de Bessemer, Lightspeed e The Garage. O app privado com IA permite que empresas conversem com funcionários dentro das regras de TI e segurança, e tem clientes como FedEx, Starbucks e Taco Bell.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-          "time": "ontem"
+          "time": "14/10"
         },
         {
           "title": "Ricursive Intelligence aposta em chips projetados por IA para enfrentar a crise de computação",
           "summary": "A startup, fundada por Anna Goldie e Azalia Mirhoseini, desenvolve IA que projeta chips e melhora a cada iteração. Para as fundadoras, a demanda por computação exige chips mais eficientes, não só mais data centers, e otimizar o chip inteiro permitiria criar projetos personalizados rapidamente.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-          "time": "ontem"
+          "time": "14/10"
         },
         {
           "title": "Apate envia agentes de IA disfarçados para serem enganados por golpistas e coletar inteligência",
           "summary": "A startup australiana usa milhares de agentes que se passam por vítimas em ligações, mensagens e e-mails, extraindo contas, carteiras cripto e sites falsos para repassar a bancos, operadoras e governos. A empresa afirma ter consumido 17 anos do tempo de golpistas em 2,5 milhões de conversas.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-          "time": "ontem"
+          "time": "14/10"
         }
       ]
     },
@@ -426,46 +426,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
+          "title": "Motociclista morre em acidente na Avenida Taboão da Serra; duas faixas são interditadas",
+          "summary": "Um motociclista morreu na tarde de quinta (15) em uma batida na avenida, perto do Santuário Santa Terezinha. Segundo informações preliminares, o acidente envolveu uma moto, um ônibus intermunicipal e um caminhão. Duas faixas no sentido São Paulo ficaram bloqueadas, com desvios de ônibus e lentidão em vários bairros.",
+          "source": "Taboão em Foco",
+          "url": "https://taboaoemfoco.com.br/motociclista-morre-em-acidente-na-avenida-taboao-da-serra-duas-faixas-sao-interditadas/",
+          "time": "ontem, 17:53"
+        },
+        {
+          "title": "Engenheiro Daniel diz que Ney vai brigar sozinho e avisa que ciclo com político de Embu se encerrou",
+          "summary": "O prefeito de Taboão rompeu com o deputado federal eleito Ney Santos, que o acusara de descumprir um acordo eleitoral. Daniel afirma que cumpriu o combinado, relata dificuldades financeiras da prefeitura e comenta o desempenho nas urnas de aliados na cidade.",
+          "source": "Verbo Online",
+          "url": "https://verboonline.com.br/2026/10/15/engenheiro-daniel-diz-que-ney-vai-brigar-sozinho-e-avisa-que-ciclo-com-politico-de-embu-se-encerrou/",
+          "time": "ontem, 15/10"
+        },
+        {
+          "title": "Prefeitos da região manifestam solidariedade a Engenheiro Daniel após ataque e isolam soberbo Ney",
+          "summary": "Prefeitos do Conisud demonstraram apoio ao prefeito de Taboão depois das críticas públicas feitas por Ney Santos. Um almoço com Ricardo Nunes, em São Paulo, rendeu foto de seis prefeitos com Daniel, sem o de Embu das Artes.",
+          "source": "Verbo Online",
+          "url": "https://verboonline.com.br/2026/10/12/prefeitos-da-regiao-manifestam-solidariedade-a-engenheiro-daniel-apos-ataque-e-isolam-soberbo-ney/",
+          "time": "12/10"
+        },
+        {
+          "title": "Prefeitura de Taboão da Serra entrega kit para atendimento de alunos com dificuldade de aprendizagem",
+          "summary": "A Secretaria de Educação entregou kits de jogos pedagógicos a professores do grupo Gapes, no Centro de Formação Tula Pilar. O material será usado com alunos do 1º ao 5º ano que têm dificuldades de alfabetização ou transtornos como dislexia e TDAH.",
+          "source": "Verbo Online",
+          "url": "https://verboonline.com.br/2026/10/13/prefeitura-de-taboao-da-serra-entrega-kit-para-atendimento-de-alunos-com-dificuldade-de-aprendizagem/",
+          "time": "13/10"
+        },
+        {
+          "title": "Copa Brasil de Xadrez para Deficientes Visuais, etapa Sudeste, reúne mais de 60 atletas em Taboão",
+          "summary": "A cidade sediou a etapa regional do torneio, com 62 enxadristas no campus da UniFecaf. Seis jogadores do Ciadev, centro municipal de apoio a alunos cegos ou com baixa visão, participaram, e um deles ficou em sexto lugar.",
+          "source": "Verbo Online",
+          "url": "https://verboonline.com.br/2026/10/13/copa-brasil-de-xadrez-para-deficientes-visuais-etapa-sudeste-reune-mais-de-60-atletas-em-taboao/",
+          "time": "13/10"
+        },
+        {
           "title": "Suspeito de matar jovem de 19 anos é preso em Taboão da Serra após denúncia anônima",
           "summary": "A PM localizou em um apartamento do Jardim Salete o homem de 22 anos apontado como autor do tiro que matou a ex-companheira, Ana Clara, na segunda (12). Segundo o boletim de ocorrência, ele fugiu de moto e já tinha histórico de violência e ameaças contra ela. Ele foi levado ao 1º DP e três celulares foram apreendidos.",
           "source": "SBT News",
           "url": "https://sbtnews.sbt.com.br/noticia/brasil/foragido-por-feminicidio-e-preso-em-taboao-da-serra",
-          "time": "ontem"
-        },
-        {
-          "title": "Suspeito de matar namorada em Taboão da Serra diz que disparo foi acidental",
-          "summary": "Em vídeo gravado depois de ser preso, o jovem de 22 anos afirma que o tiro foi sem querer, e a polícia diz que ele também alegou ter agido \"na emoção\". A versão ainda será apurada pela Polícia Civil. A audiência de custódia estava marcada para a manhã de quarta (14).",
-          "source": "Diário de S. Paulo",
-          "url": "https://diarioesp.com.br/sao-paulo/2026/10/14/suspeito-de-matar-namorada-em-taboao-da-serra-afirma-que-disparo-foi-acidental.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Pais fazem abaixo-assinado contra transferência de crianças do PAC Santa Terezinha para a EMEB Asas Brancas",
-          "summary": "Pais dizem que não foram consultados sobre a ida de duas turmas de maternal para a EMEB Asas Branca em 2027, e o abaixo-assinado já passa de 250 assinaturas. A Secretaria de Educação afirma que é uma reorganização para ampliar vagas na educação infantil e que a mudança apenas antecipa em um ano o que já estava previsto. Há reunião marcada para sexta (16).",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/pais-fazem-abaixo-assinado-contra-transferencia-de-criancas-da-pac-santa-terezinha-para-a-emeb-asas-brancas-secretaria-de-educacao-explica-mudanca/",
-          "time": "ontem"
-        },
-        {
-          "title": "Câmara de Taboão aprova gratificação para gestores de escolas e novas regras para professores temporários",
-          "summary": "Os vereadores aprovaram, por unanimidade, a atualização da tabela de vencimentos e gratificações de cargos de gestão pedagógica, com impacto estimado de R$ 3,48 milhões por ano. Também passou, por maioria, projeto que muda a contratação temporária de professores e limita esses contratos a 25% do quadro efetivo. Ambos seguem para sanção.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/camara-municipal-aprova-gratificacao-para-gestores-de-escolas-e-novas-regras-para-contratacao-de-professores-temporarios/",
-          "time": "ontem"
-        },
-        {
-          "title": "Prefeitura de Taboão da Serra começa a entregar cestas básicas a servidores nesta quinta (15)",
-          "summary": "A entrega vai de 15 a 25 de cada mês, em três pontos da cidade, para servidores e estagiários, sem desconto em folha. A partir de janeiro de 2027, quem mora a até 7 km do Paço Municipal passará a receber em casa. O benefício foi criado por lei e decreto municipais de 2026.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/prefeitura-de-taboao-da-serra-inicia-entrega-de-cestas-basicas-para-servidores-nesta-quinta-feira-15/",
-          "time": "ontem"
-        },
-        {
-          "title": "Corpos com sinais de violência são achados em Embu das Artes e Itapecerica da Serra",
-          "summary": "A matéria reúne casos recentes na região: um homem encontrado amarrado em um lençol em Embu das Artes (10/10) e outro decapitado em Itapecerica da Serra (27/9), além de ocorrências na capital desde setembro. A Polícia Civil não confirmou ligação entre os casos e descartou a ação de um único assassino em série.",
-          "source": "Taboão em Foco",
-          "url": "https://taboaoemfoco.com.br/misterio-em-sp-corpos-sao-encontrados-com-sinais-de-violencia-embu-das-artes-e-itapecerica-da-serra-registram-casos/",
-          "time": "13/10"
+          "time": "14/10"
         }
       ]
     },
@@ -474,46 +474,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Alcaraz é surpreendido por Bergs em Xangai e faz sua pior campanha no Masters chinês",
-          "summary": "O belga Zizou Bergs, 39º do ranking, venceu Alcaraz por 7-5 e 7-6(4) na terceira rodada, em 2h02. Foi apenas o terceiro torneio do espanhol desde a volta de uma lesão no punho que o deixou quatro meses parado. O resultado é seu pior em Xangai.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/alcaraz-surpreendido-bergs-xangai-martirio-masters/",
-          "time": "12/10"
+          "title": "Top 1 iminente, Zverev despacha De Minaur e avança à semi em Xangai",
+          "summary": "Zverev venceu De Minaur por 6/4 e 6/4 nas quartas do Masters 1000 de Xangai e encara Davidovich Fokina na semifinal de sábado. A matéria diz que o alemão já garantiu o topo do ranking ao fim de 2026, com Sinner lesionado e Alcaraz eliminado.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/top-1-iminente-zverev-despacha-de-minaur-e-avanca-a-semi-em-xangai/",
+          "time": "ontem, 15/10"
         },
         {
-          "title": "Derrota de Alcaraz em Xangai muda a briga no topo do ranking da ATP",
-          "summary": "A eliminação tirou de Alcaraz a chance de terminar 2026 como nº 1 ou nº 2. Zverev já garantiu o primeiro lugar do ano e Sinner deve fechar com 7.950 pontos, número que Alcaraz não alcança nem vencendo Paris e o ATP Finals. A terceira posição dele segue sob pressão de Ben Shelton e outros.",
+          "title": "Alexander Zverev derrota Alex de Minaur nas quartas de final do Masters 1000 de Xangai; confira os resultados",
+          "summary": "Além do triunfo de Zverev em 1h18, o texto traz a outra quartas de quinta: Fokina avançou porque Arthur Gea abandonou com lesão no quadril, quando perdia por 4/1 no primeiro set. Os dois fazem a semifinal no sábado (17).",
+          "source": "Playmaker Brasil",
+          "url": "https://playmakerbrasil.com.br/zverev-minaur-masters-1000-de-xangai/",
+          "time": "ontem, 15/10"
+        },
+        {
+          "title": "Jodar e Medvedev jogam as quartas de Xangai nesta sexta. Horário e onde assistir",
+          "summary": "As outras duas quartas de final do Masters de Xangai ficaram para sexta (16): Rafael Jodar enfrenta Casper Ruud, de madrugada, e Daniil Medvedev joga contra Tommy Paul, às 7h pelo horário de Brasília.",
           "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/12/ranking-atp-alcaraz-derrota-xangai-muda-briga-no-topo/",
-          "time": "12/10"
+          "url": "https://brasiltenis.com.br/2026/10/15/jodar-e-medvedev-jogam-as-quartas-de-xangai-nesta-sexta-horario-e-onde-assistir/",
+          "time": "ontem, 15/10"
         },
         {
-          "title": "Alcaraz critica bolas em Xangai e Bergs rebate: são as mesmas de Tóquio",
-          "summary": "Depois da derrota, Alcaraz disse que a bola parecia maior e mais lenta no jogo ao ar livre, mas também admitiu erros não forçados e dificuldade na devolução. Bergs discordou, afirmando que o material é o mesmo do torneio anterior, e comemorou a maior vitória da carreira. Nas oitavas ele enfrentaria Tommy Paul.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/12/alcaraz-critica-bolas-em-xangai-bergs-rebate-sao-as-mesmas-de-toquio/",
-          "time": "12/10"
+          "title": "Aliassime se pronuncia após abandono em Xangai",
+          "summary": "O canadense Felix Auger-Aliassime sentiu forte dor no joelho nas oitavas e desistiu quando Ruud vencia por 5/2 no primeiro set. Ele voltará para casa a fim de fazer exames e espera que a lesão não seja grave.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/aliassime-pronuncia-abandono-xangai/",
+          "time": "14/10"
         },
         {
-          "title": "Zverev revela início de lesão no tornozelo e liga o sinal de alerta",
-          "summary": "Depois de bater Bublik nas oitavas de Xangai, o alemão contou que o incômodo no tornozelo começou contra Yibing Wu e piorou no meio do segundo set. Ele disse que quer manter a sequência e não pretende abandonar partidas sem motivo. Nas quartas, enfrenta Alex de Minaur.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/13/zverev-revela-inicio-de-lesao-no-tornozelo-e-liga-o-sinal-de-alerta/",
-          "time": "13/10"
+          "title": "Jodar tem novo episódio com boleirinho e leva advertência em Xangai",
+          "summary": "Na vitória de virada sobre Van de Zandschulp nas oitavas, o espanhol se irritou, pediu a toalha ao boleiro de forma ríspida e foi advertido pelo árbitro. Jodar reclamou da punição, no que a matéria trata como mais uma polêmica dele com boleiros.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/jodar-episodio-boleirinho-xangai/",
+          "time": "14/10"
         },
         {
-          "title": "Definidos os jogos de quartas de final do Masters de Xangai",
-          "summary": "As quartas terão Zverev x De Minaur, Davidovich Fokina x Gea, Jódar x Ruud e Medvedev x Tommy Paul. O francês Arthur Gea é o único dos oito que não é cabeça de chave.",
-          "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/quartas-de-final-xangai/",
-          "time": "ontem"
-        },
-        {
-          "title": "Quartas de Xangai: Zverev e Gea jogam nesta quinta (15) e Medvedev e Jódar na sexta",
-          "summary": "Zverev x De Minaur e Gea x Davidovich Fokina estão marcados para o dia 15; Medvedev x Paul e Jódar x Ruud, para o dia 16. Ruud avançou porque Auger-Aliassime desistiu por lesão no joelho. Nas duplas, já há uma semifinal definida entre franceses e a dupla Cabral/Tracy.",
-          "source": "Terra",
-          "url": "https://www.terra.com.br/esportes/tenis/veja-quais-tenistas-passaram-para-as-quartas-do-simples-e-semifinal-de-duplas-no-atp-de-xangai,9ac10d096368aa94d9eeb89ad33ee01bbo53ar0v.html",
-          "time": "ontem"
+          "title": "Swiatek boosts WTA Finals bid at Wuhan Open but rival Muchova goes out",
+          "summary": "Swiatek bateu Ashlyn Krueger por 6/1 e 6/4 e avançou às quartas em Wuhan, o que ajuda na corrida pelas WTA Finals. Muchova caiu para Shnaider, e Svitolina e Kartal também seguiram no torneio.",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/tennis/news/swiatek-boosts-wta-finals-bid-at-wuhan-open-but-rival-muchova-goes-out",
+          "time": "ontem, 15/10"
         }
       ]
     },
@@ -522,39 +522,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Ministério da Saúde envia Força Nacional do SUS ao Amazonas por causa das queimadas",
-          "summary": "Uma equipe chegou ao estado para fazer diagnóstico da rede de saúde e apoiar gestores diante da fumaça, com atenção a crianças, idosos, gestantes e quem tem doenças prévias. O governo federal reconheceu em 10/10 a emergência decretada em 36 municípios. A missão também avalia a saúde de populações indígenas e vai produzir relatório inicial para o ministro.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-mobiliza-forca-nacional-do-sus-para-apoiar-servicos-de-saude-no-amazonas",
+          "title": "Anvisa aprova novo medicamento para tratar lúpus",
+          "summary": "A Anvisa aprovou o obinutuzumabe (Gazyva), já usado em alguns tipos de câncer, para adultos com lúpus ativo moderado a grave em tratamento padrão. O anticorpo elimina linfócitos B e, segundo o órgão, reduz a atividade da doença, as crises e a exposição a corticoides.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
+          "time": "ontem, 09:43"
+        },
+        {
+          "title": "Anvisa proíbe canetas emagrecedoras sem registro vendidas na internet",
+          "summary": "A Anvisa determinou a apreensão de produtos vendidos online, como retatrutida e tirzepatida, sem comprovação de qualidade, segurança e eficácia. A retatrutida não tem registro em nenhum país. Também foram proibidos kits e produtos de empresas sem regularização.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
+          "time": "ontem, 10:44"
+        },
+        {
+          "title": "Homens costumam descobrir câncer de mama em estágio mais avançado",
+          "summary": "Levantamento da Sociedade Brasileira de Radioterapia com registros do Inca aponta que homens são diagnosticados mais tarde: 29,95% chegam ao estágio IV, contra 26,42% das mulheres. Entre 2020 e 2023 foram 2.126 casos masculinos, 1,3% do total. Médicos pedem atenção a nódulos e alterações no mamilo.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/homens-costumam-descobrir-cancer-de-mama-em-estagio-mais-avancado",
           "time": "13/10"
         },
         {
-          "title": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
-          "summary": "Pesquisadores do Observatório de Clima e Saúde reuniram dados de partículas finas, focos de incêndio e previsão de qualidade do ar, e apontam risco maior para comunidades indígenas. Manaus teve episódios de poluição muito acima do recomendado pela OMS no início do mês. Fiocruz e Sesai desenvolvem o sistema AlertAr Saúde para prever a exposição à fumaça nas aldeias.",
+          "title": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
+          "summary": "A Anvisa liberou testes em humanos da Vivaxin, vacina contra a malária por Plasmodium vivax criada pela UFMG. A fase I terá 48 voluntários e o Ministério da Saúde destinou R$ 12 milhões às três fases. O Brasil teve 118 mil casos da doença em 2025.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
-          "time": "13/10"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
+          "time": "10/10"
         },
         {
-          "title": "Anvisa proíbe suplementos alimentares de origem desconhecida",
-          "summary": "A agência determinou a apreensão de todos os produtos da PSM Pennaforte Produtos Naturais, depois que a vigilância sanitária de Marataízes (ES) constatou que o endereço cadastrado é residencial e sem atividade comercial. Os produtos não podem ser fabricados, vendidos, divulgados nem usados. A Agência Brasil não conseguiu contato com a empresa.",
+          "title": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
+          "summary": "O LIRAa do Ministério da Saúde, em 3.732 municípios, mostrou que 49,2% estão em alerta ou risco para o Aedes aegypti. Os casos prováveis de dengue caíram cerca de 70% em relação a 2025. O governo reforça a prevenção antes do verão, com agentes treinados e ovitrampas.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-suplementos-alimentares-de-origem-desconhecida",
-          "time": "ontem"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/aedes-aegypti-quase-metade-dos-municipios-esta-em-alerta-ou-risco",
+          "time": "08/10"
         },
         {
-          "title": "Anvisa suspende e manda recolher o suplemento Peptistrong",
-          "summary": "A medida vale para todos os lotes do produto, com suspensão de fabricação, venda, propaganda e uso, por falta de avaliação de segurança da proteína de fava hidrolisada. O documento não relata danos à saúde. A empresa afirma que a decisão é preventiva e não tem relação com contaminação.",
-          "source": "CNN Brasil",
-          "url": "https://cnnbrasil.com.br/saude/anvisa-suspende-e-determina-recolhimento-de-suplemento-peptistrong",
-          "time": "09/10"
-        },
-        {
-          "title": "Ministério da Saúde lança campanha sobre acesso a consultas, exames e cirurgias pelo SUS",
-          "summary": "A campanha explica o caminho do paciente a partir da UBS e da regulação municipal, e lembra que a fila de cirurgia pode ser acompanhada pelo Meu SUS Digital. Cita ainda Telessaúde em 4,4 mil municípios e as Carretas da Saúde, que somam mais de 1,2 milhão de procedimentos. Hospitais privados e filantrópicos também atendem pelo programa, sem custo ao paciente.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-apresenta-campanha-com-orientacoes-sobre-acesso-a-consultas-exames-e-cirurgias-pelo-sus",
-          "time": "06/10"
+          "title": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz",
+          "summary": "O boletim InfoGripe indica alta de rinovírus, metapneumovírus e Sars-CoV-2 no país, enquanto VSR e influenza B recuam. Alagoas, Roraima e Sergipe têm crescimento de casos, sobretudo em crianças. A Fiocruz pede que grupos prioritários atualizem a vacina da covid-19.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/virus-respiratorios-ainda-estao-em-alta-no-pais-alerta-fiocruz",
+          "time": "08/10"
         }
       ]
     }
