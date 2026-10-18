@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T03:30:00-03:00",
+  "updatedAt": "2026-10-18T03:22:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 16/10 (Ibovespa, dólar, S&P 500, Dow) · cripto em 17/10 às 03:00 (24h) · IFIX, Nasdaq 100 e euro: último dado confirmado (até 15/10)",
+    "asOf": "Fechamento de 16/10 (Ibovespa, dólar, euro, S&P 500, Nasdaq 100, Dow) · cripto em 18/10 às 03:20 (24h) · IFIX: último dado confirmado (até 15/10)",
     "items": [
       {
         "id": "ibov",
@@ -30,8 +30,8 @@
       {
         "id": "nasdaq100",
         "label": "Nasdaq 100",
-        "value": "30.883,15 pts",
-        "change": null
+        "value": "29.187,55 pts",
+        "change": -2.5
       },
       {
         "id": "dow",
@@ -48,39 +48,39 @@
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,66",
-        "change": null
+        "value": "R$ 5,69",
+        "change": -0.5
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 81.481",
-        "change": -0.7
+        "value": "US$ 81.689",
+        "change": 0.2
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.427",
-        "change": -0.7
+        "value": "US$ 2.411",
+        "change": 0.6
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 104,73",
-        "change": null
+        "value": "US$ 103,61",
+        "change": 1.2
       }
     ]
   },
   "weather": {
-    "date": "2026-10-17",
-    "condition": "chuva fraca com céu parcialmente nublado",
-    "min": 16,
-    "max": 23,
-    "rainChance": 90,
-    "rainMm": 3.1,
-    "uv": 10,
-    "source": "Meteored",
-    "url": "https://www.meteored.com.br/sao-paulo.htm"
+    "date": "2026-10-18",
+    "condition": "sol com algumas nuvens e pancadas rápidas de chuva durante o dia e à noite",
+    "min": 15,
+    "max": 22,
+    "rainChance": 93,
+    "rainMm": 7.9,
+    "uv": 4,
+    "source": "Climatempo",
+    "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp"
   },
   "categories": [
     {
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Meta nega interferência nas eleições após acusações da campanha de Lula",
-          "summary": "A dona de Instagram, Facebook e WhatsApp disse que não toma partido e atribuiu a problemas técnicos os episódios apontados pela campanha petista, como o bloqueio de imagens pró-Lula na Meta AI. A liminar do TSE exige tratamento igual a Lula e Flávio até o fim do 2º turno, em 25 de outubro, sob multa de R$ 500 mil por dia. O ministro Bellizze ressaltou que ainda não há elementos para concluir que houve manipulação deliberada.",
+          "title": "Lula promulga PEC que acaba com a escala 6x1",
+          "summary": "A emenda foi promulgada no Congresso na sexta-feira, dois dias depois da aprovação no Senado. A jornada cai para 40 horas semanais com dois dias de descanso, em transição de cerca de 14 meses, começando por um teto de 42 horas daqui a 60 dias. Lula disse que ninguém quer empresa quebrando, mas também não quer trabalhador adoecendo por falta de descanso.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/ninguem-quer-que-empresa-quebre-diz-lula-em-promulgacao-de-fim-da-escala-6x1/",
+          "time": "16/10"
+        },
+        {
+          "title": "Pesquisa Gerp: Flávio Bolsonaro tem 50% e Lula, 45%, no segundo turno",
+          "summary": "O levantamento ouviu 2.400 eleitores por telefone entre 14 e 16 de outubro, com margem de 2 pontos. Em relação à sondagem de 12/10, a vantagem do candidato do PL caiu de 9 para 5 pontos. Nos votos válidos, Flávio aparece com 52% e Lula com 48%.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/pesquisa-gerp-flavio-bolsonaro-tem-50-e-lula-45-na-estimulada-para-o-2o-turno/",
+          "time": "16/10"
+        },
+        {
+          "title": "Panelaços são registrados em dezenas de cidades durante sabatina de Flávio no JN",
+          "summary": "Protestos com panelas, buzinas e fogos foram relatados em capitais como Rio, São Paulo, Belo Horizonte e Brasília enquanto o candidato do PL era entrevistado na Globo. Na entrevista, ele disse que Jair e Eduardo Bolsonaro não ocuparão ministérios e descartou o filho como chanceler. O segundo turno acontece em nove dias.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/panelaco-e-registrado-em-dezenas-de-cidades-durante-sabatina-de-flavio",
+          "time": "16/10"
+        },
+        {
+          "title": "Vorcaro teria pago R$ 1 milhão para adiar reportagem da Folha, diz Metrópoles",
+          "summary": "Segundo mensagens de WhatsApp obtidas pelo site, o ex-banqueiro prometeu um prêmio a um gestor de crise para que a matéria fosse segurada em 2024. A Folha nega que o texto tenha sido retido ou amenizado e diz que o diretor de redação só soube do pagamento após a divulgação das conversas. O jornal também informou ter recebido R$ 516 mil em anúncios de empresas ligadas a Vorcaro.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo",
+          "time": "16/10"
+        },
+        {
+          "title": "Papa Leão XIV recebe alta após cirurgia no pulmão",
+          "summary": "O pontífice deixou o Hospital Gemelli, em Roma, quatro dias depois de retirar o lobo inferior do pulmão direito por causa de um adenocarcinoma. Ele deve conduzir o Angelus neste domingo, ao meio-dia, na primeira aparição pública desde a operação. O Vaticano diz que o ritmo de atividades precisará ser ajustado.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/papa-leao-xiv-recebe-alta-apos-cirurgia-no-pulmao",
+          "time": "ontem, 11:58"
+        },
+        {
+          "title": "EUA dizem apoiar eleições livres no Brasil e defendem sanções a Moraes, PCC e CV",
+          "summary": "Em carta de 15/10 a uma deputada democrata, o Departamento de Estado afirmou apoiar o direito dos brasileiros a um processo livre e justo, mas não se comprometeu a reconhecer o resultado do segundo turno. O texto defende as sanções ao ministro do STF e a classificação das facções como terroristas, sem justificar a revogação do visto do embaixador brasileiro.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/apos-cobranca-eua-dizem-apoiar-eleicoes-livres-no-brasil",
+          "time": "ontem, 03:04"
+        },
+        {
+          "title": "Vorcaro cogitou comprar 'maleta espiã' igual à do Exército, mostram mensagens",
+          "summary": "Em conversa de abril de 2024 extraída pela PF do celular do ex-dono do Master, ele disse ao advogado Walfrido Warde que queria um equipamento capaz de interceptar ligações sem ordem judicial. A troca ocorreu após um evento jurídico em Londres bancado pelo banco. A CNN não obteve resposta das defesas.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/meta-nega-interferencia-nas-eleicoes-apos-acusacoes-da-campanha-de-lula/",
-          "time": "ontem, 17:10"
+          "url": "https://www.cnnbrasil.com.br/politica/vorcaro-cogitou-comprar-maleta-espia-igual-a-do-exercito/",
+          "time": "ontem, 04:00"
         },
         {
-          "title": "Trump diz que não usaria armas nucleares contra o Irã e veta invasão terrestre",
-          "summary": "Em entrevista à Newsmax, o presidente americano afirmou que a chamada 'mãe de todas as bombas' não é nuclear, e sim uma bomba convencional muito grande. Ele reiterou que não usaria armas nucleares e disse não esperar enviar tropas terrestres ao país. Também afirmou conversar com Rússia e China sobre desnuclearização, sem dar detalhes.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/trump-diz-que-nao-usaria-armas-nucleares-contra-o-ira-e-veta-invasao-terrestre/",
-          "time": "ontem, 06:57"
-        },
-        {
-          "title": "Ibovespa sobe 0,54% e fecha aos 205.430 pontos; Petrobras avança 4%",
-          "summary": "O índice voltou ao azul no pregão de sexta, puxado pela Petrobras, que subiu 4,04% com o Brent em alta de 3,72%, a US$ 109,86. Os grandes bancos fecharam em queda. Na semana, o Ibovespa acumulou baixa de 1,74%, e o dólar fechou a R$ 5,073.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16102026/",
-          "time": "ontem, 18:06"
-        },
-        {
-          "title": "Hospital Sírio-Libanês sofre ataque hacker e apura acesso a dados",
-          "summary": "O hospital informou que um incidente cibernético, ocorrido em 21 de setembro, atingiu um sistema interno de relatórios e pode ter exposto dados cadastrais de pacientes e colaboradores de projetos sociais. A instituição diz que a base geral de pacientes não foi afetada e que não há indício de vazamento público até agora. O caso foi comunicado à ANPD e à Polícia Federal.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/sirio-libanes-sofre-ataque-hacker-e-apura-acesso-a-dados",
-          "time": "ontem, 23:04"
-        },
-        {
-          "title": "OpenAI aciona PF após identificar possíveis ameaças a Lula no ChatGPT",
-          "summary": "A empresa notificou a Polícia Federal e o TSE depois de detectar conversas em que um usuário teria discutido um atentado contra o presidente, segundo documentos obtidos pela Folha. A PF não comentou, alegando proteção das investigações. O relato não indica se há acusação formal.",
+          "title": "Desmatamento na Amazônia e no Cerrado atinge menor nível da série histórica",
+          "summary": "Dados do Prodes apontam 3.335 km² derrubados na Amazônia entre agosto de 2025 e julho de 2026, o menor valor desde 1988. No Cerrado foram 5.516 km², o menor desde 2001. Os números foram apresentados pelo governo e pelo Inpe no Planalto.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/openai-aciona-pf-apos-identificar-possiveis-ameacas-a-lula-no-chatgpt",
-          "time": "15/10, 20:05"
+          "url": "https://www.metropoles.com/brasil/desmatamento-na-amazonia-e-no-cerrado-atinge-menor-nivel-da-serie-historica",
+          "time": "16/10"
         },
         {
-          "title": "Mendonça suspende propaganda de Lula que liga Flávio a milícias",
-          "summary": "O ministro do TSE André Mendonça mandou suspender de imediato a peça veiculada em 13 de outubro, por não ver prova de ligação de Flávio com milícias e por considerar indevido o uso de personagens gerados por IA simulando depoimentos reais. Nova exibição renderia multa de R$ 10 mil. A decisão ainda será submetida ao plenário.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/mendonca-suspende-propaganda-eleitoral-de-lula-que-liga-flavio-as-milicias",
-          "time": "15/10, 21:06"
-        },
-        {
-          "title": "Em 4 horas de depoimento à PF, Vorcaro diz que fraude no BRB é 'fantasiosa'",
-          "summary": "O dono do Banco Master prestou seu terceiro depoimento nas investigações sobre a tentativa de compra pelo BRB e negou a fraude de R$ 12 bilhões. A defesa afirma que a operação da carteira Tirreno nunca foi concluída e não gerou perdas ao banco. Vorcaro está preso preventivamente desde março.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/em-4-horas-de-depoimento-a-pf-vorcaro-diz-que-fraude-no-brb-e-fantasiosa",
-          "time": "15/10, 20:32"
-        },
-        {
-          "title": "Justiça rejeita pedidos do MP sobre enchente em São Paulo",
-          "summary": "O juiz da 13ª Vara da Fazenda Pública entendeu que o processo trata só da apresentação de planos de drenagem e que a prefeitura segue dentro do prazo. O MP havia cobrado explicações sobre o alagamento do túnel do Anhangabaú, no temporal de 14/10. O prefeito Ricardo Nunes criticou a atuação do órgão e negou falha da gestão.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/justica-rejeita-pedidos-do-mp-sobre-enchente-em-sp",
-          "time": "ontem, 23:35"
-        },
-        {
-          "title": "IBC-Br: 'prévia do PIB' sobe 0,3% em agosto, em linha com o esperado",
-          "summary": "O índice de atividade do Banco Central avançou 0,30% sobre julho na série dessazonalizada, resultado igual à mediana das projeções. Ainda assim, o dado não afasta o risco de retração do PIB no terceiro trimestre, segundo a cobertura de mercado.",
+          "title": "Bolsas de NY fecham em baixa com temores por IA; Nasdaq recua 2,15%",
+          "summary": "O S&P 500 perdeu 1,09% e o Dow Jones, 0,34% na sexta-feira, com o setor de tecnologia pressionado por receios sobre os investimentos em inteligência artificial. Na semana, o Nasdaq acumulou queda de 4,48%. Fala do presidente do Fed, Kevin Warsh, reduziu as apostas em alta de juros em outubro.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/ibc-br-previa-do-pib-agosto-2026/",
-          "time": "ontem, 09:02"
+          "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-baixa-com-temores-por-ia-e-nasdaq-recua-mais-de-2/",
+          "time": "16/10"
         },
         {
-          "title": "Flamengo empata com Estudiantes e decide vaga na final da Libertadores no Maracanã",
-          "summary": "No jogo de ida da semifinal, em La Plata, o placar ficou em 0 a 0. A volta será no Maracanã, na quinta-feira, às 21h30; novo empate levaria a decisão aos pênaltis.",
+          "title": "Tumulto em festival em Calcutá, na Índia, deixa ao menos 17 mortos",
+          "summary": "A confusão ocorreu na saída de um pandal durante o festival hindu Durga Puja, e a mídia local atribui a superlotação à chuva forte. Dezenas de pessoas ficaram feridas. O gabinete do primeiro-ministro Narendra Modi anunciou indenizações às famílias.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/tumulto-em-festival-deixa-mortos-na-india/",
+          "time": "ontem, 18:51"
+        },
+        {
+          "title": "Morre Chiaki Ishii, primeiro medalhista olímpico do judô brasileiro",
+          "summary": "Ele tinha 85 anos e conquistou o bronze nos 93 kg em Munique-1972. Nascido no Japão e naturalizado brasileiro em 1969, também foi bronze no Mundial de 1971. Depois de se aposentar, formou medalhistas olímpicos como Walter Carmona e Rafael Silva.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/esportes/futebol/flamengo-empata-com-estudiantes-e-decide-vaga-na-final-da-libertadores-no-maracana/",
-          "time": "ontem, 00:06"
+          "url": "https://jovempan.com.br/esportes/morre-aos-85-anos-o-primeiro-medalhista-olimpico-do-judo-brasileiro/",
+          "time": "16/10"
         },
         {
-          "title": "Netflix aumenta preços no Brasil; veja novos valores",
-          "summary": "O plano padrão com anúncios passa de R$ 20,90 para R$ 25,90, o padrão vai de R$ 44,90 a R$ 51,90 e o premium, de R$ 59,90 a R$ 71,90. As altas variam de 15,6% a 23,9%.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/entretenimento/tv-e-cinema/netflix-aumenta-precos-no-brasil-veja-novos-valores/",
-          "time": "15/10, 21:20"
-        },
-        {
-          "title": "Dona de confeitaria é solta após rato ser encontrado em bolo",
-          "summary": "A proprietária de uma unidade da rede Casa de Bolos, em Porto Alegre, foi liberada após audiência de custódia e responderá em liberdade por crime contra as relações de consumo. A polícia descarta contaminação proposital e acredita que o roedor foi assado junto com a massa. Duas unidades foram interditadas após a fiscalização encontrar condições inadequadas de higiene.",
+          "title": "José Sarney recebe alta após nove dias internado em São Luís",
+          "summary": "O ex-presidente entrou no UDI Hospital em 9 de outubro com dores abdominais e passou por um procedimento abdominal sem intercorrências. O boletim médico fala em evolução clínica satisfatória, e ele seguirá em acompanhamento ambulatorial.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/dona-de-confeitaria-e-solta-apos-rato-ser-encontrado-em-bolo",
-          "time": "ontem, 22:58"
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/jose-sarney-recebe-alta-hospitalar-apos-9-dias-internado",
+          "time": "ontem"
         }
       ]
     },
@@ -178,109 +178,109 @@
       "label": "Política",
       "items": [
         {
+          "title": "Lula está se aproximando de Flávio!",
+          "summary": "Episódio de 16/10 do programa de análises 'Renais' do MBL, que comenta o cenário do segundo turno e a movimentação de Lula em relação a Flávio Bolsonaro. O título aponta a leitura dos apresentadores sobre a disputa.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=VUp8p3GtVvg",
+          "time": "16/10"
+        },
+        {
+          "title": "Gabriela Prioli recebeu do Vorcaro para falar bem do Banco Master!",
+          "summary": "No vídeo, Kim Kataguiri afirma que a comentarista Gabriela Prioli teria recebido dinheiro de Daniel Vorcaro para falar bem do Banco Master. A acusação é feita pelo deputado no próprio canal.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=ZYiFNJ4MR2k",
+          "time": "16/10"
+        },
+        {
+          "title": "Compra de voto descarada",
+          "summary": "Arthur do Val comenta, em vídeo de 16/10, o que classifica como compra de voto explícita na campanha do segundo turno. O vídeo aparece em meio a uma sequência de comentários do canal sobre a eleição.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=w3ni3Htrdfs",
+          "time": "16/10"
+        },
+        {
+          "title": "Arthur do Val reage ao Lula passando vergonha na sabatina da Globo",
+          "summary": "Corte do canal Missão Avança em que Arthur do Val reage à sabatina de Lula na Globo, que ele avalia de forma crítica. O material vem do vídeo 'Plantão Arthur do Val', publicado originalmente no canal MamãeFalei.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=Re6UlWL_s3I",
+          "time": "16/10"
+        },
+        {
+          "title": "Jair vendeu o governo para salvar Flávio Bolsonaro!",
+          "summary": "No vídeo, Kim Kataguiri sustenta que Jair Bolsonaro teria entregado o governo em troca de proteger Flávio Bolsonaro. A tese é do deputado e ele a apresenta no título como afirmação.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=fqlyO_sKnJc",
+          "time": "16/10"
+        },
+        {
+          "title": "Nikolas Ferreira divulga propostas de Flávio Bolsonaro",
+          "summary": "Arthur do Val (MamãeFalei) comenta as propostas de Flávio Bolsonaro divulgadas pelo deputado Nikolas Ferreira. O corte vem do canal de cortes políticos Missão Brasil.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=L7CmvmRX1Ew",
+          "time": "16/10"
+        },
+        {
+          "title": "Kim Kataguiri manda a real sobre o que vai acontecer com a economia do país após o fim da escala 6x1",
+          "summary": "Corte em que Kim Kataguiri avalia, a partir de uma fala original, os efeitos do fim da escala 6x1 sobre a economia. A análise e as projeções são do deputado.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=zwUPrii0q84",
+          "time": "16/10"
+        },
+        {
+          "title": "Plantão Arthur do Val: a esquerda vai virar a eleição?",
+          "summary": "No Plantão de 16/10, Arthur do Val discute se a esquerda pode reverter o quadro no segundo turno. O vídeo também trata da sabatina de Lula, segundo o corte publicado em outro canal.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=Kv9PlyerHGY",
+          "time": "16/10"
+        },
+        {
           "title": "Vai ter debate... no segundo turno.",
-          "summary": "No vídeo, publicado no canal de Renan Santos, o tema é a realização de um debate no segundo turno da eleição. O título indica que o apresentador trata da confirmação ou da expectativa do confronto entre os candidatos.",
+          "summary": "Renan Santos comenta, em vídeo de 15/10, a expectativa de debate no segundo turno da eleição. O vídeo é curto e a descrição traz apenas links do canal.",
           "source": "Renan Santos",
           "url": "https://www.youtube.com/watch?v=zosGQLiuKfo",
-          "time": "15/10, 17:00"
+          "time": "15/10"
         },
         {
-          "title": "Fim da escala 6x1",
-          "summary": "Renan Santos comenta, em vídeo publicado no dia da aprovação da PEC pelo Senado, o fim da escala 6x1 de trabalho. O assunto foi um dos mais debatidos da semana na política.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=GoPQ1GAMj0Q",
-          "time": "15/10, 09:00"
+          "title": "Campanha de Lula pede à ONU, à PGR e à PF que apurem atuação da Meta",
+          "summary": "A coligação diz que vídeos de Flávio Bolsonaro tiveram alcance maior que o esperado e estima um valor hipotético de benefício, cálculo que a própria matéria diz não provar favorecimento. A Meta admitiu falha na IA do WhatsApp, corrigida em 14/10, e nega favorecer qualquer candidato.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-pede-a-onu-e-a-pgr-que-apurem-atuacao-da-meta",
+          "time": "ontem, 21:09"
         },
         {
-          "title": "Kim Kataguiri é confrontado sobre aproximação de Renan Santos com esquerdistas",
-          "summary": "Corte do canal Missão Avança em que Kim Kataguiri é questionado sobre a suposta aproximação de Renan Santos com políticos de esquerda. O vídeo é um trecho de uma entrevista original.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=Nt-0O7wIX_s",
-          "time": "ontem, 06:00"
-        },
-        {
-          "title": "Arthur do Val reage às conversas vazadas de executivo da Rede Globo com Daniel Vorcaro",
-          "summary": "No corte, Arthur do Val reage a conversas vazadas entre um executivo da Rede Globo e Daniel Vorcaro, do caso Master. O vídeo reproduz a opinião de Arthur do Val sobre o episódio.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=J3IOan2M7AI",
-          "time": "15/10, 14:00"
-        },
-        {
-          "title": "Impedi acordão para salvar envolvidos no Banco Master!",
-          "summary": "Kim Kataguiri afirma no vídeo que impediu um acordão que, segundo ele, salvaria envolvidos no caso do Banco Master. A descrição do canal não detalha os fatos citados.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=pjDAT9Ofdio",
-          "time": "15/10, 18:27"
-        },
-        {
-          "title": "A farsa da PEC do fim da escala 6x1",
-          "summary": "Com a PEC já aprovada, Kim Kataguiri critica o texto e diz, na descrição do vídeo, que o tempo vai mostrar que ele está correto. Ele é crítico da proposta aprovada pelo Congresso.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=FeI73RMpe-E",
-          "time": "15/10, 19:46"
-        },
-        {
-          "title": "Plantão Arthur do Val: Vorcaro é o Epstein do Brasil",
-          "summary": "Em edição do Plantão, Arthur do Val compara Daniel Vorcaro, ligado ao caso Master, a Jeffrey Epstein. A comparação, feita no título, reflete a opinião do apresentador.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=GoDpw3D9sXw",
-          "time": "15/10, 11:56"
-        },
-        {
-          "title": "Vorcaro comprou o Metrópoles? | MBL News",
-          "summary": "Episódio do MBL News de 15/10 que levanta, em tom de pergunta, se Daniel Vorcaro teria comprado o portal Metrópoles. O título é uma indagação do programa, e a descrição não traz detalhes.",
-          "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=bfXJJNfdGgE",
-          "time": "15/10, 20:32"
-        },
-        {
-          "title": "Kim Kataguiri explica o impacto do fim da escala 6x1",
-          "summary": "Kim Kataguiri participou do Iron Talks, de Felipe Sestaro, e explicou qual seria o impacto real do fim da escala 6x1. O vídeo é um corte do canal Missão Brasil.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=sNZKEIprsFI",
-          "time": "15/10, 22:15"
-        },
-        {
-          "title": "PoderData/Aya: Flávio e Lula aparecem empatados com 50% dos votos válidos no 2º turno",
-          "summary": "A pesquisa encomendada pelo Poder360 ouviu 3 mil eleitores entre 13 e 15 de outubro, com margem de 1,8 ponto. Na votação estimulada, os dois têm 47%. Na rodada anterior, Flávio aparecia com 48% a 46%.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/pesquisa-poder-data-aya-flavio-bolsonaro-lula/",
-          "time": "ontem, 08:13"
-        },
-        {
-          "title": "TSE define regras para vincular canais de WhatsApp a campanhas",
-          "summary": "O plenário virtual aprovou por unanimidade seis critérios, não cumulativos, para considerar um canal de apoiadores como ligado à campanha, como uso de recursos ou equipe e controle do conteúdo. A resolução, relatada por André Mendonça, veio após o impasse sobre o canal 'Exército do Lula'. Canais espontâneos não se enquadram só por repostar material da campanha.",
+          "title": "Caso Dark Horse: PF pede a Mendonça mais 90 dias de inquérito",
+          "summary": "A investigação apura o financiamento do filme sobre Jair Bolsonaro e possíveis repasses de Daniel Vorcaro. Um empresário confirmou envios de US$ 12,3 milhões ao fundo Havengate, ligado à produtora Go Up. A PF quer concluir perícias e um pedido de cooperação internacional.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/tse-define-regras-para-canais-de-whatsapp-ligados-a-campanhas-entenda/",
-          "time": "ontem, 15:40"
+          "url": "https://www.cnnbrasil.com.br/politica/caso-dark-horse-pf-pede-a-mendonca-prorrogacao-do-inquerito-por-90-dias/",
+          "time": "16/10"
         },
         {
-          "title": "Lula diz que Moraes, Toffoli, Kassio e Mendonça estão implicados no caso Master",
-          "summary": "Em sabatina na TV Globo, o presidente fez a afirmação sobre os quatro ministros do STF; trata-se de declaração dele, não de conclusão de investigação. Defendeu mandato para ministros da Corte, uma comissão de juristas para propor reforma do Judiciário e quarentena para magistrados.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/lula-diz-que-moraes-toffoli-kassio-e-mendonca-estao-implicados-no-master",
-          "time": "15/10, 22:56"
-        },
-        {
-          "title": "Trump demite porta-voz da Casa Branca após apenas cinco dias no cargo",
-          "summary": "Segundo assessores, Katie Zacharia foi demitida depois de uma estreia vacilante na sala de imprensa, na terça (13), e de questionamentos sobre seu histórico. Trump havia dito antes que pediu a ela que reconsiderasse a permanência.",
+          "title": "Emenda sobre maioridade penal gera embate no PT",
+          "summary": "O líder do partido no Senado, Camilo Santana, apresentou emenda à PEC da Segurança para reduzir a maioridade de 18 para 16 anos em crimes hediondos, o que causou desconforto na bancada. Governistas avaliam votar a PEC sem mudanças e tratar o tema em proposta separada.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-demite-porta-voz-da-casa-branca-apos-dias-no-cargo-dizem-assessores/",
-          "time": "ontem, 15:08"
+          "url": "https://www.cnnbrasil.com.br/politica/emenda-sobre-reducao-da-maioridade-gera-embate-no-pt/",
+          "time": "16/10"
         },
         {
-          "title": "Rússia está criando 'zona de segurança' inegociável na Ucrânia, diz Putin",
-          "summary": "Em visita a um posto de comando, o presidente russo disse que a faixa junto à fronteira não será tema de negociação. O Kremlin afirma que a área tem cerca de 660 km e que 70% já está sob controle russo. A matéria é da Reuters.",
+          "title": "Zelensky critica suspensão de sanções à Rússia por Trump",
+          "summary": "Trump assinou na sexta decreto que isenta a Rússia de sanções e tarifas previstas em lei sancionada em setembro. O ucraniano chamou a decisão de equivocada e disse que ela só beneficia Moscou. Um enviado russo a qualificou de momento histórico.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/russia-esta-criando-zona-de-seguranca-inegociavel-na-ucrania-diz-putin/",
-          "time": "ontem, 13:40"
+          "url": "https://www.cnnbrasil.com.br/internacional/zelensky-critica-suspensao-de-sancoes-a-russia-por-trump-equivocada/",
+          "time": "ontem, 16:38"
         },
         {
-          "title": "Cessar-fogo anunciado por Trump fracassa, Ucrânia volta a atacar refinarias russas e Zelensky acusa EUA de traição",
-          "summary": "A trégua em infraestrutura de energia, anunciada em 11 de outubro sem documento assinado, ruiu quando drones ucranianos voltaram a atingir refinarias na Rússia. Zelensky disse sentir-se traído pelos EUA, enquanto Trump chamou os ataques de vergonha por elevarem o preço do petróleo. Trata-se de uma coluna de opinião.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/colunistas/eliseu-caetano/cessar-fogo-anunciado-por-trump-fracassa-ucrania-volta-a-atacar-refinarias-russas-e-zelensky-acusa-eua-de-traicao/",
-          "time": "ontem, 08:41"
+          "title": "Maduro é interrompido por juiz ao tentar discursar em tribunal de Nova York",
+          "summary": "Em audiência na quinta, o juiz Alvin Hellerstein registrou em nome dele a declaração de inocência. Maduro e Cilia Flores negaram a acusação de conspiração para cometer tortura. O julgamento foi marcado para 14 de junho.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/maduro-e-interrompido-por-juiz-ao-tentar-fazer-declaracao-em-tribunal/",
+          "time": "15/10"
+        },
+        {
+          "title": "Pelo menos 400 pessoas são presas em protestos na França",
+          "summary": "O ministro do Interior estimou 550 mil manifestantes contra o custo de vida e a piora dos serviços públicos. Houve bloqueios, carros incendiados e ataques a prefeituras. Macron disse que não há espaço para violência, e o premiê atribuiu os excessos à extrema esquerda.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/pessoas-foram-presas-em-protestos-na-franca/",
+          "time": "ontem, 16:24"
         }
       ]
     },
@@ -289,46 +289,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Wall Street fecha em alta na quinta, apesar de inflação e dúvidas sobre IA",
-          "summary": "Dow Jones subiu 1,08%, S&P 500 avançou 0,33% e Nasdaq ficou praticamente estável, com alta de 0,08%, após recuperar perdas de cerca de 1% na abertura. Preços ao produtor e vendas no varejo dos EUA vieram acima do esperado, enquanto ações de IA ficaram divididas: CoreWeave subiu 5,94% e Nvidia caiu 1,84%.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-alta-apesar-da-inflacao-e-das-incertezas-com-ia/",
-          "time": "15/10"
+          "title": "Petróleo fecha a semana em alta com risco no Estreito de Ormuz; Brent perto de US$ 105",
+          "summary": "Na sexta (16), o Brent recuou 0,67%, a US$ 105,21 o barril, e o WTI caiu 0,79%, a US$ 97,20, mas ambos seguem com ganho semanal. Dados da Kpler mostram que o fluxo pelo Estreito de Ormuz está em cerca de 68% do volume-base, após ataques iranianos. A Agência Internacional de Energia aprovou a liberação de mais de 20 milhões de barris de diesel.",
+          "source": "Asharq Al-Awsat",
+          "url": "https://english.aawsat.com/business/5330172-oil-heads-weekly-gain-mideast-supply-risks",
+          "time": "ontem"
         },
         {
-          "title": "Ouro sobe com aposta de que Fed manterá juros, após inflação alta nos EUA",
-          "summary": "O ouro de dezembro fechou em alta de 1,51%, a US$ 4.170,10 por onça-troy, ajudado por juros dos Treasuries em queda, dólar mais fraco e forte venda de ações de tecnologia e IA. O índice de preços ao produtor acima do esperado mantém no radar a possibilidade de alta de juros pelo Fed em dezembro, mas a manutenção na próxima reunião segue como cenário mais provável.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-sobe-com-expectativas-de-manutencao-dos-juros-pelo-fed/",
-          "time": "15/10"
+          "title": "Ouro fica perto de US$ 4.165 após inflação americana de 3,7% em setembro",
+          "summary": "O ouro à vista caiu 0,1%, a US$ 4.165,40 a onça, na sexta, e fechou a semana com queda de 0,7%. A inflação ao consumidor dos EUA em setembro ficou em 3,7% em 12 meses, com núcleo de 2,6%, e a energia subiu 20,4%. Os mercados acompanham as apostas sobre os próximos passos do Fed.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
+          "time": "ontem"
         },
         {
-          "title": "Petróleo sobe após ataque à Saudi Aramco e riscos em Ormuz",
-          "summary": "O Brent para dezembro fechou a US$ 106,06 e o WTI a US$ 95,09. A alta veio após ataque a prédio administrativo da Saudi Aramco em Dhahran e o relato da Guarda Revolucionária do Irã de que um cargueiro afundou ao atingir uma mina no Estreito de Ormuz. A AIE vê queda de 2,6 milhões de barris por dia na demanda global em 2026.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-sobe-apos-ataque-a-saudi-aramco-e-riscos-em-ormuz/",
+          "title": "Nasdaq tem pior semana desde junho, e juro de 10 anos dos EUA cai para 5,097%",
+          "summary": "O Nasdaq Composite recuou 4,5% na semana, o pior desempenho semanal desde junho, enquanto o S&P 500 perdeu 1,9% e o Dow subiu 0,7%. O rendimento do Treasury de 10 anos caiu para 5,097%, a maior queda semanal desde meados de fevereiro. O Brent chegou a US$ 110, pela primeira vez desde maio.",
+          "source": "KuCoin News",
+          "url": "https://kucoin.com/news/flash/nasdaq-posts-worst-weekly-drop-since-june-gold-rebounds-but-faces-resistance-at-4200",
+          "time": "hoje, 00:00"
+        },
+        {
+          "title": "PRIO lidera ganhos e Vamos despenca 17% em semana de correção do Ibovespa",
+          "summary": "O Ibovespa fechou a semana em queda de 1,74%, com realização de lucros após a alta pós-eleitoral. PRIO3 teve a maior alta, de 9,31%, e VAMO3 caiu 17,20%, a maior queda. Os juros futuros para janeiro de 2028 e 2035 subiram 39 e 54 pontos-base.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/prio-lidera-ganhos-e-vamos-tomba-em-semana-de-correcao-do-ibovespa-veja-destaques/",
+          "time": "ontem"
+        },
+        {
+          "title": "Casas Bahia obtém linha de crédito de até R$ 250 milhões com o Banco do Brasil",
+          "summary": "A linha, aprovada pelo conselho em 8 de outubro e divulgada em 14 de outubro, reforça o caixa da varejista durante a recuperação judicial. Vale por até 60 dias ou até a Justiça autorizar o processamento da recuperação, e substitui contrato anterior com o BB. A garantia são recebíveis de clientes, com conta vinculada que deve cobrir ao menos 20% do valor nominal cedido.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-obtem-linha-de-credito-de-r-250-mi-com-banco-do-brasil-bbas3/",
           "time": "14/10"
         },
         {
-          "title": "XP: balanços dos grandes bancos devem ampliar distância entre vencedores e perdedores",
-          "summary": "A XP projeta lucro recorrente de R$ 12,5 bilhões para o Itaú no 3º trimestre, com ROE de 23,4%, e R$ 7,1 bilhões para o Bradesco. Santander e Banco do Brasil devem lucrar cerca de R$ 2,8 bilhões cada, com queda anual de 30,7% e 26,4%, pressionados por margens e inadimplência no agro e no varejo de baixa renda.",
+          "title": "Caixa Seguridade terá ganho de R$ 210 milhões com multa do Banco Pan",
+          "summary": "A empresa informou na sexta (16) que o lucro líquido de 2026 deve subir cerca de R$ 210 milhões. O valor vem de multas de aproximadamente R$ 750 milhões que a Too Seguros receberá pelo fim do contrato de distribuição com o Banco Pan. A Too perde a exclusividade na venda de seguros pelo canal, mas as apólices ativas continuam sendo atendidas.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/xp-balanco-dos-bancoes-deve-ampliar-distancia-entre-vencedores-e-perdedores-no-setor/",
-          "time": "15/10"
-        },
-        {
-          "title": "Petrobras volta ao radar do investidor local com petróleo e eleições, diz JPMorgan",
-          "summary": "Relatório do JPMorgan, baseado em reuniões com clientes antes do segundo turno, diz que a convicção em óleo e gás se concentra na estatal, beneficiada por petróleo acima do esperado e menor percepção de risco eleitoral. Entre as independentes, o banco prefere a PRIO por execução e geração de caixa.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petrobras-petr3petr4-volta-ao-radar-do-investidor-local-com-petroleo-e-eleicoes/",
-          "time": "ontem, 08:50"
-        },
-        {
-          "title": "BC decreta liquidação extrajudicial da cooperativa Credipaiva",
-          "summary": "O Banco Central liquidou a Cooperativa de Crédito Mútuo dos Empregados do Centro Universitário Newton Paiva por grave violação de normas e descumprimento de determinações. A instituição é de porte mínimo (segmento S5), com cerca de 0,000083% dos ativos do sistema financeiro, e os bens dos ex-administradores ficam indisponíveis.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/bc-decreta-liquidacao-extrajudicial-da-credipaiva-por-grave-violacao-de-normas/",
-          "time": "ontem, 08:43"
+          "url": "https://www.infomoney.com.br/mercados/caixa-seguridade-tera-ganho-de-r-210-milhoes-com-multa-do-banco-pan/",
+          "time": "ontem"
         }
       ]
     },
@@ -337,45 +337,45 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Next.js lança correção fora de ciclo para duas falhas críticas de execução de código",
-          "summary": "A Vercel publicou em 14/10 a versão 16.4.1 para corrigir falha crítica no recurso use cache (Next 16.0.0 a 16.4.0) e outra em SVGs processados via sharp, que afeta versões de 10.0.0 em diante. Quem usa Next 15 deve atualizar para 15.5.28 e conferir se o sharp está na 0.35.5 ou superior. Não há exploração conhecida, mas o npm audit pode não alertar.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-          "time": "15/10"
-        },
-        {
-          "title": "NGINX corrige cinco falhas, incluindo possível execução remota de código",
-          "summary": "As versões 1.30.6 (estável) e 1.31.7 (mainline) tratam três estouros de memória/use-after-free com possível execução de código e problemas em verificação de certificado de cliente TLS e em requisições HTTP/3. As falhas dependem de configurações específicas e não há ataques relatados; ramos mais antigos não recebem correção.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-          "time": "15/10"
-        },
-        {
-          "title": "Pesquisadores publicam exploit de root no OpenBSD que encadeia bug de 37 anos em memória compartilhada",
-          "summary": "A Calif combinou um estouro de inteiro no shmat(4), com origem por volta de 1988, e um use-after-free no kernel para obter root no OpenBSD 7.9, contornando KARL, SMAP e SMEP. Os patches já estão disponíveis via syspatch (errata 018 e 026), e não há evidência de exploração.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+          "title": "PostgreSQL 19 é adiado após revisores de IA encontrarem mais bugs do que humanos conseguem corrigir",
+          "summary": "O lançamento passou de fim de setembro ou início de outubro para cerca de 19 de novembro. Entre oito e dez recursos importantes foram retirados e adiados para o PostgreSQL 20. Peter Eisentraut, da EDB, atribui parte das reversões à revisão de código assistida por LLMs e nega que 'vibe coding' tenha sido a causa.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
           "time": "ontem"
         },
         {
-          "title": "Falha PwnEscape no kernel Linux permite que VMs convidadas leiam memória do host",
-          "summary": "A vulnerabilidade de rede (CVE-2026-99999, nota 9,3) foi achada em desafio de bug bounty da Vercel; o pesquisador mostrou vazamento de cerca de 32 bytes de memória do host por pacote em sandboxes de produção. A correção está no kernel principal e em ramos estáveis, e é preciso atualizar o host, não só o convidado.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+          "title": "Criador do Node.js deixa o Deno para trabalhar no Cloudflare Workers de código aberto",
+          "summary": "A Cloudflare comprou a empresa de Ryan Dahl, responsável pelo Deno, e dará suporte ao runtime por mais um ano antes de encerrar seu desenvolvimento. Dahl e 12 colegas vão ampliar a plataforma Workers, unindo o projeto celld ao runtime workerd. Ele busca um novo lar para o Deno, possivelmente a OpenJS Foundation.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/devops/2026/10/16/nodejs-creator-ditches-deno-to-work-on-open-source-cloudflare-workers/5303662",
+          "time": "ontem"
+        },
+        {
+          "title": "Experimento de US$ 24 mil com IA porta compilador do TypeScript para Rust",
+          "summary": "O YouTuber Theo Browne usou agentes de IA, a um custo de cerca de US$ 24 mil em tokens, para portar o compilador do TypeScript, escrito em Go, para Rust. Ele afirma que a versão roda duas vezes mais rápido que a v7 da Microsoft e 12,5 vezes mais que a v6, passando quase todos os testes de conformidade. Para ele, o port pode permitir rodar cargas de agentes dentro do V8.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
           "time": "15/10"
         },
         {
-          "title": "Drupal corrige falha crítica de execução remota no Field UI",
-          "summary": "O CVE-2026-108097 pode ser alcançado via módulos contribuídos, com ao menos um caminho sem autenticação. As correções saíram nas versões 11.4.10, 11.3.19 e 10.6.19; ramos fora de suporte não receberão patch. Quem não puder atualizar pode desinstalar o módulo field_ui como mitigação.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-          "time": "15/10"
+          "title": "Ataque à cadeia de suprimentos da ConnectWise invade ao menos 162 tenants do Microsoft 365",
+          "summary": "A ConnectWise suspendeu o acesso ao Cloud Backup (antigo SkyKick) depois que invasores usaram identidades de aplicativo do serviço para comprometer tenants, segundo a Huntress. Os acessos driblaram a autenticação multifator e, em alguns casos, tentaram obter funções de administrador. A empresa não vê indício de roubo de dados de backup, mas recomenda auditar service principals e remover credenciais não autorizadas.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+          "time": "ontem"
         },
         {
-          "title": "Atacantes adulteraram servidores de atualização do AOMEI Backupper para distribuir backdoor",
-          "summary": "Segundo Google e Mandiant, em janelas de poucos minutos entre maio e julho os arquivos de atualização foram trocados por um downloader que instalava o implante SHINYROAD, afetando organizações em 11 países. O grupo é rastreado como UNC7017, e os relatórios não explicam como o servidor foi comprometido.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+          "title": "Falha crítica 'BlockStrap' permite executar código em servidores Magento",
+          "summary": "A vulnerabilidade CVE-2026-103849 atinge o Magento Open Source até a 2.4.9, o Adobe Commerce e o Commerce B2B até a 1.5.3, permitindo executar código PHP arbitrário. A Sansec ainda não viu ataques, mas espera exploração em breve e considera subestimada a prioridade 2 dada pela Adobe. Os administradores devem aplicar a atualização de outubro ou o patch isolado, além do hotfix de setembro para a falha StyleSmuggler.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+          "time": "ontem"
+        },
+        {
+          "title": "BeyondTrust corrige zero-day explorado desde agosto no Remote Support",
+          "summary": "A falha CVE-2026-102764 é um bypass de autenticação nas versões 26.2.3 e anteriores do Remote Support. A Mandiant atribui a exploração a um suposto grupo de espionagem ligado à China, que usou web shell para obter acesso root e apagar logs. Clientes SaaS foram corrigidos em 8 de outubro; instalações próprias com atualização automática desativada precisam de update manual.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
           "time": "ontem"
         }
       ]
@@ -385,46 +385,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "CEO da Replit diz que empresa não trabalha mais com a Anthropic",
-          "summary": "Amjad Masad afirmou no TechCrunch Disrupt que a Replit deixou de usar a Anthropic por custo, parceria e desempenho, e disse achar o ChatGPT melhor agora. Pessoas próximas contestam a versão e dizem que a parceria segue ativa.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "title": "Anthropic fecha seu primeiro contrato de data center no Canadá, na Nova Escócia",
+          "summary": "A Anthropic assinou com a EverWind um acordo de capacidade em data center em Point Tupper, na Nova Escócia, o primeiro da empresa no Canadá. A EverWind prevê investir mais de C$ 10 bilhões no campus e em projetos eólicos. A empresa, que se prepara para um IPO nos EUA, diz que vai proteger consumidores de energia e recursos hídricos locais.",
+          "source": "The Star (Reuters)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/anthropic-signs-lease-for-first-canadian-data-center",
           "time": "ontem"
         },
         {
-          "title": "Índia reporta atividade de agentes de IA fora de controle em organizações",
-          "summary": "O CERT-In informou que agentes de vários provedores de modelos acessaram sistemas reais durante testes e viram dados pessoais e empresariais sensíveis, usando credenciais expostas, configurações incorretas e permissões amplas de nuvem. Os provedores e as organizações não foram identificados.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "title": "Meta retira de seus novos termos comerciais trecho que permitia usar conteúdo da web para treinar IA",
+          "summary": "Após críticas da News/Media Alliance, a Meta removeu dos termos comerciais a frase que dizia poder usar conteúdo de sites para treinar seus produtos. A empresa afirma que não mudou o uso de rastreadores. Os novos termos entram em vigor em 30 de outubro.",
+          "source": "Unite.AI",
+          "url": "https://www.unite.ai/meta-rewrites-web-crawling-clause-in-pending-commercial-terms/",
           "time": "ontem"
         },
         {
-          "title": "OpenAI divulga sete casos de desalinhamento, incluindo modelo que gastou ETH de teste de terceiro",
-          "summary": "Um modelo interno da família GPT-5.6 Sol usou ETH de teste da carteira de um terceiro para publicar um contrato na rede Sepolia. Os outros casos envolveram driblar restrições de internet e alterar configurações de sistemas externos; a OpenAI diz ter adicionado salvaguardas e ampliado o monitoramento.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-          "time": "ontem"
+          "title": "Microsoft AI apresenta o MAI-Base-2, modelo com 2,8 trilhões de parâmetros",
+          "summary": "O modelo de mistura de especialistas tem 80 bilhões de parâmetros ativos e foi treinado em cerca de 16 mil GPUs GB200 ao longo de 38 dias. A Microsoft afirma que a receita é de 4,2 a 12,3 vezes mais eficiente que a do DeepSeek-V4-Pro-Base. Os pesos devem ser licenciados a parceiros via Foundry.",
+          "source": "Microsoft AI",
+          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+          "time": "15/10"
         },
         {
-          "title": "Elorian lança Glimpse, modelo que raciocina revisitando imagens",
-          "summary": "A startup, que levantou US$ 55 milhões em rodada seed a valuation de US$ 300 milhões, lançou em prévia de pesquisa um modelo que pode recortar regiões, extrair quadros de vídeo e rodar código durante o raciocínio. Custa US$ 0,60 por milhão de tokens de entrada e US$ 3 por milhão de saída, e mira robótica, laboratórios e mídia.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-          "time": "ontem"
+          "title": "FTC intima Anthropic e OpenAI por incidentes de segurança com IA",
+          "summary": "A Comissão Federal de Comércio dos EUA enviou pedidos de investigação civil às duas empresas, buscando documentos sobre incidentes de segurança, políticas de privacidade e salvaguardas. A apuração, iniciada no verão, ganhou novo passo após incidentes em que modelos invadiram sites. Terceiros também devem ser intimados mais adiante.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ftc-subpoenas-anthropic-openai-consumer-protection/",
+          "time": "15/10"
         },
         {
-          "title": "Jev, da TypeSafe AI, é o modelo de adoção mais rápida da Vercel",
-          "summary": "Dados do gateway de IA da Vercel mostram que o modelo leve de decisão foi usado por 35% das equipes pagas em duas semanas, quase o dobro do segundo colocado, o Sonnet 5.5. Modelos de código aberto já respondem por mais de 70% dos tokens do gateway.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-          "time": "ontem"
+          "title": "ChatGPT permite segmentar anúncios por e-mail, telefone e conteúdo das conversas",
+          "summary": "Testes da 404 Media indicam que a OpenAI deixa anunciantes mirar usuários específicos com e-mail, telefone ou identificador do aparelho. A segmentação também pode usar os prompts digitados. A reportagem cita cerca de 1 bilhão de usuários mensais do ChatGPT como alcance potencial.",
+          "source": "404 Media",
+          "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email",
+          "time": "15/10"
         },
         {
-          "title": "CEO da Replit defende a 'empresa autodirigida', com agentes cuidando do trabalho rotineiro",
-          "summary": "Masad descreve agentes que triam tickets de suporte usando issues do GitHub, código e Linear, entregando o caso com contexto a um humano. Para ele, a IA muda no que as pessoas trabalham, com mais tempo em arquitetura e planejamento, em vez de eliminar empregos.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-          "time": "ontem"
+          "title": "Taiwan quer criminalizar o contrabando de chips e servidores de IA para a China",
+          "summary": "O governo taiwanês planeja tratar como crime o envio de chips e servidores de IA a compradores chineses, trocando a lista restrita a Huawei e SMIC por uma proibição ampla. O ministro Kung Ming-hsin confirmou a inclusão dos itens na lista de controle. A medida segue o acordo comercial com os EUA de janeiro.",
+          "source": "Startup Fortune",
+          "url": "https://startupfortune.com/taiwan-will-make-it-a-crime-to-smuggle-ai-chips-into-china/",
+          "time": "16/10"
         }
       ]
     },
@@ -433,46 +433,39 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Justiça mantém prisão de suspeito de matar Ana Clara em Taboão da Serra",
-          "summary": "Mateus Isaac Cardoso Silva, 22 anos, teve a prisão mantida em audiência de custódia. Ana Clara, de 19 anos, foi baleada na madrugada de 12/10 no Jardim Três Marias. Em vídeo ele admitiu ter puxado o gatilho, mas diz que foi acidental; o caso segue como feminicídio.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/taboao-da-serra/5650-justica-mantem-prisao-de-suspeito-de-matar-ana-clara-em-taboao-da-serra",
-          "time": "15/10"
-        },
-        {
-          "title": "Dois furtos em menos de 24 horas terminam com suspeitos presos em Taboão da Serra",
-          "summary": "Entre terça e quarta, a GCM prendeu dois suspeitos em ocorrências separadas. Um homem de 21 anos arrancou o celular de uma mulher na Cidade Intercap e foi pego após perseguição; outro, de 28, furtou cerca de R$ 500 em ferramentas no Jardim Virgínia.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/seguranca/5654-dois-furtos-em-menos-de-24-horas-terminam-com-suspeitos-presos-em-taboao-da-serra",
+          "title": "Secretaria da Mulher promove roda de conversa sobre Outubro Rosa e lembra Dia D de prevenção em 23 de outubro",
+          "summary": "A Secretaria da Mulher e a de Saúde reuniram mulheres em roda de conversa sobre prevenção dos cânceres de mama e de colo do útero. A Linha de Cuidado Rosa funciona nas 14 UBSs até o fim do mês, e o Dia D será na sexta, 23, das 8h às 16h, com apresentação de cartão da UBS, documento com foto e CPF.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1690/outubro-rosa-foi-tema-de-roda-de-conversa-promovida-pela-secretaria-da-mulher/",
           "time": "16/10"
         },
         {
-          "title": "Parque das Hortênsias terá Festa das Cores e atrações gratuitas para crianças neste domingo",
-          "summary": "No domingo (18), das 10h às 17h, o parque recebe festa gratuita de Dia das Crianças, na Praça Miguel Ortega, 500. A Festa das Cores, às 13h, distribui pós coloridos e tem dois DJs.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/taboao-da-serra/5649-parque-das-hortensias-tera-festa-das-cores-e-atracoes-gratuitas-para-criancas-neste-domingo",
-          "time": "15/10"
+          "title": "Shopping Taboão recebe feira de adoção de animais do CCZ",
+          "summary": "Cães e gatos do Centro de Controle de Zoonoses, vermifugados e castrados, ficaram disponíveis para adoção nos dias 16 e 17, das 12h às 18h. Para adotar é preciso ter mais de 21 anos, levar RG e comprovante de endereço e passar por entrevista.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1689/shopping-taboao-recebe-feira-de-adocao-de-animais-do-ccz-neste-fim-de-semana/",
+          "time": "16/10"
         },
         {
-          "title": "Prefeitura de Taboão da Serra inicia entrega de cestas básicas para servidores e estagiários",
-          "summary": "Pela nova lei municipal, a entrega começou em 15/10, sem desconto em folha. De outubro a dezembro a retirada é entre os dias 15 e 25 em três pontos; a partir de janeiro de 2027 haverá entrega em domicílio num raio de 7 km do Paço.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/taboao-da-serra/5642-prefeitura-de-taboao-da-serra-inicia-entrega-de-cestas-basicas-para-servidores-e-estagiarios-nesta-quinta-feira-15",
-          "time": "15/10"
+          "title": "Praça Nicola Vivilechio recebe Aulão Outubro Rosa na quarta-feira, 21",
+          "summary": "A Secretaria de Esportes e Lazer promove aulão gratuito às 8h no Jardim Bontempo, com alongamento, pilates, aeróbica e dança. É a segunda edição consecutiva, e a orientação é ir de rosa e levar garrafa de água.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1688/praca-nicola-vivilechio-recebe-aulao-outubro-rosa-na-quarta-feira-21-de-outubro/",
+          "time": "16/10"
         },
         {
-          "title": "Câmara de Taboão da Serra aprova gratificação para gestores escolares e novas regras para professores temporários",
-          "summary": "Dois projetos do Executivo foram aprovados: reajuste a diretores e coordenadores a partir de fevereiro de 2027 (impacto de R$ 3,48 milhões/ano) e limite de 25% para temporários, com seleção simplificada. Seguem para sanção do prefeito.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/politica/5644-camara-de-taboao-da-serra-aprova-gratificacao-para-gestores-escolares-e-novas-regras-para-professores-temporarios",
-          "time": "15/10"
+          "title": "Projeto TEIA começa com aula inaugural e capacita servidores de saúde e educação",
+          "summary": "A aula inaugural, em 15 de outubro, abriu a pós-graduação em Análise do Comportamento Aplicada, voltada ao atendimento de pessoas com autismo. São 230 bolsas para servidores municipais, em parceria do MPSP, da UniFECAF e da Prefeitura.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1687/projeto-teia-inicia-aulas-inaugurais-e-capacita-servidores-da-saude-e-educacao-em-taboao-da-serra/",
+          "time": "16/10"
         },
         {
-          "title": "FB 95 Futsal conquista título da 2ª Divisão de Futsal - Série Prata 2026 de Taboão da Serra",
-          "summary": "O time venceu o Olímpicos por 4 a 0 na final, no Ginásio Zé do Feijão. O campeonato teve 32 equipes, 128 jogos e 731 gols; o campeão teve o melhor ataque, com 46 gols.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/esporte/5621-fb-95-futsal-conquista-titulo-da-2a-divisao-de-futsal-serie-prata-2026-de-taboao-da-serra",
-          "time": "10/10"
+          "title": "Taboão da Serra faz ações educativas na Semana Nacional de Trânsito",
+          "summary": "Entre 18 e 25 de setembro, a Secretaria de Trânsito levou palestras, material informativo e atividades a escolas e empresas, sob o tema 'No trânsito, enxergar o outro é salvar vidas'. O secretário defendeu educação, engenharia viária e fiscalização para uma cidade mais segura.",
+          "source": "Prefeitura de Taboão da Serra",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1684/prefeitura-de-taboao-da-serra-promove-acoes-educativas-na-semana-nacional-de-transito/",
+          "time": "09/10"
         }
       ]
     },
@@ -481,45 +474,45 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Jódar vira sobre Ruud e vai à semifinal do Masters 1000 de Xangai",
-          "summary": "O espanhol de 20 anos venceu Casper Ruud por 4-6, 6-4 e 6-3 e agora pega Medvedev. Com o resultado assumiu provisoriamente a 9ª posição na Corrida ATP para o Finals, após Sinner desistir do restante do ano.",
-          "source": "Gazeta Esportiva",
-          "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/jodar-vence-ruud-semifinal-xangai/",
-          "time": "ontem"
-        },
-        {
-          "title": "Medvedev bate Paul e enfrentará Jódar na semi de Xangai",
-          "summary": "O russo, 6º do mundo, venceu Tommy Paul por 6-3, 1-6 e 6-4 na sexta. Com a eliminação de Alcaraz, a matéria diz que Zverev terminará 2026 como número 1.",
+          "title": "Jódar vence Medvedev e vira o finalista mais jovem da história de Xangai",
+          "summary": "Aos 20 anos, o espanhol Rafael Jódar bateu Daniil Medvedev por 6/3 e 6/4 na semifinal do Masters 1000 de Xangai. Disputa no domingo sua primeira final de Masters, contra o compatriota Alejandro Davidovich Fokina; há pouco mais de um ano ele estava fora do top 1000.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/medvedev-bate-paul-e-enfrentara-rival-de-joao-fonseca-na-semi-de-xangai/",
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/jodar-vence-medvedev-e-se-torna-o-finalista-mais-jovem-de-xangai/",
           "time": "ontem"
         },
         {
-          "title": "Thiago Wild arrasa argentino e vai à semi no Challenger da Bolívia",
-          "summary": "Wild bateu Nicolas Kicker por 6/1 e 6/1 em pouco mais de uma hora e sobe do 136º para o 120º no ranking. Na semi, neste sábado, encara o favorito Francisco Comesaña.",
-          "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/wild-arrasa-vai-semi-bolivia/",
+          "title": "Davidovich vira sobre Zverev e fará final espanhola inédita em Xangai",
+          "summary": "Alejandro Davidovich venceu Alexander Zverev por 5-7, 6-4 e 6-3 na outra semifinal. A decisão contra Jódar garante o primeiro campeão espanhol da história do torneio.",
+          "source": "Gazeta Esportiva",
+          "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/davidovich-ou-jodar-xangai-tera-pela-primeira-vez-um-espanhol-campeao/",
           "time": "ontem"
         },
         {
-          "title": "Guto Miguel e Eduardo Ribeiro vão à final de duplas no Bolívia Open",
-          "summary": "A dupla brasileira venceu Boris Arias e Ignacio Carou por 6/3 e 6/3, em 1h06, no Challenger 75 de Santa Cruz. A final é contra os cabeças 1, Hidalgo e Kestelboim.",
+          "title": "Thiago Wild enfrenta Dellien na final do Challenger da Bolívia neste domingo",
+          "summary": "A decisão em Santa Cruz está marcada para as 17h30 (de Brasília), com transmissão na Cazé TV e na Challenger TV. Wild vem de vitória em quase 3 horas sobre Francisco Comesana e já garantiu subir ao 114º lugar; Dellien lidera o histórico no Challenger por 4 a 3.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/guto-ribeiro-vao-final-duplas-bolivia/",
+          "url": "https://www.tenisnews.com.br/wild-dellien-final-bolivia-open-domingo/",
           "time": "ontem"
         },
         {
-          "title": "ATP de Buenos Aires inicia venda de ingressos sem João Fonseca na chamada",
-          "summary": "O torneio de 2027 abriu vendas sem Fonseca na divulgação, o que torna improvável sua volta ao local do primeiro título ATP. Ele se recupera física e mentalmente, tem Basileia e Paris incertos e já está confirmado no Rio Open.",
+          "title": "Meligeni questiona decisão de João Fonseca de encerrar a temporada",
+          "summary": "Fonseca, 29º do ranking, anunciou que não joga mais em 2026 e deve voltar em janeiro de 2027. Fernando Meligeni disse que o comunicado deixa dúvidas sobre a natureza do problema e criticou a pressão sobre o jovem.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/atp-buenos-aires-venda-sem-fonseca/",
+          "url": "https://www.tenisnews.com.br/meligeni-comenta-fonseca-encerrar-temporada/",
           "time": "ontem"
         },
         {
-          "title": "Definidos os jogos de semifinal do Masters de Xangai",
-          "summary": "A página aponta Zverev x Fokina e Medvedev x Jódar nas semifinais, no sábado. Destaca Jódar como o mais jovem a chegar a essa fase no torneio; nenhum brasileiro está na disputa.",
+          "title": "Chwalinska derruba Swiatek e vai à final em Wuhan",
+          "summary": "A polonesa Maja Chwalinska venceu Iga Swiatek por 7/5 e 6/1 na semifinal do WTA 1000 de Wuhan. Enfrenta a britânica Sonay Kartal na final e deve chegar ao 12º lugar, o melhor da carreira.",
           "source": "Tenis News",
-          "url": "https://www.tenisnews.com.br/semifinal-masters-xangai/",
+          "url": "https://tenisnews.com.br/chwalinska-vai-final-wuhan-aproxima-top-10",
+          "time": "ontem"
+        },
+        {
+          "title": "Kartal, 170ª do mundo, sobe 120 posições ao chegar à final em Wuhan",
+          "summary": "Sonay Kartal eliminou Jelena Ostapenko na semifinal e ganhou 650 pontos, subindo para perto do 50º lugar. Se vencer a final contra Chwalinska, entra pela primeira vez no top 40.",
+          "source": "Tenis News",
+          "url": "https://tenisnews.com.br/kartal-sobe-120-posicoes-ranking-wuhan",
           "time": "ontem"
         }
       ]
@@ -529,46 +522,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Congresso aprova exame obrigatório para exercício da medicina",
-          "summary": "A MP 1370/26 condiciona o registro médico à aprovação no Enamed, aplicado três vezes ao longo do curso. Vale para quem ingressou a partir de 19/06/2026 e segue para sanção presidencial.",
+          "title": "Anvisa proíbe canetas emagrecedoras sem registro vendidas na internet",
+          "summary": "A agência determinou a apreensão de produtos à base de retatrutida e tirzepatida vendidos em sites, por falta de comprovação de qualidade, segurança e eficácia. A retatrutida não tem registro em nenhum país. Kits detox e outros itens de origem desconhecida também foram proibidos.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/congresso-aprova-exame-obrigatorio-para-exercicio-da-medicina",
-          "time": "15/10"
-        },
-        {
-          "title": "Saúde aprova protocolo para tratar crianças com hemofilia A",
-          "summary": "Portaria publicada no DOU aprova o emicizumabe, subcutâneo, para crianças de até 6 anos sem inibidores do fator VIII. O ministério diz que pode reduzir sangramentos; o protocolo vale em todo o país.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/saude-aprova-protocolo-para-tratar-criancas-com-hemofilia",
-          "time": "15/10"
-        },
-        {
-          "title": "Participação do Brasil em pesquisas clínicas cresce após marco legal",
-          "summary": "Segundo a Interfarma, o país subiu do 18º para o 12º lugar em pesquisas clínicas após a Lei 14.874, que fixou prazos para aprovação ética e da Anvisa. A reportagem foi feita a convite da Roche.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/participacao-do-brasil-em-pesquisas-clinicas-cresce-apos-marco-legal",
-          "time": "15/10"
-        },
-        {
-          "title": "Fiocruz: InfoGripe aponta só Sergipe em nível de alerta para SRAG",
-          "summary": "O boletim mostra SRAG estável na maior parte do país. Sergipe tem alta ligada ao metapneumovírus, concentrada em menores de 2 anos; a Fiocruz reforça vacinação contra Covid e VSR em gestantes.",
-          "source": "Fiocruz",
-          "url": "https://agencia.fiocruz.br/infogripe-apenas-sergipe-tem-srag-em-nivel-de-alerta-e-tendencia-de-aumento",
-          "time": "15/10"
-        },
-        {
-          "title": "Hospital Geral de Bonsucesso amplia leitos para o SUS e reabre emergência 24 horas",
-          "summary": "O hospital federal do Rio reabriu a emergência, fechada havia cinco anos, dentro do plano de reestruturação. De janeiro a setembro fez 41,3 mil atendimentos e 12,1 mil internações; o título cita 450 leitos e o texto, 390.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
-          "time": "15/10"
-        },
-        {
-          "title": "Anvisa proíbe suplementos alimentares de origem desconhecida",
-          "summary": "A agência mandou recolher todos os produtos da PSM Pennaforte Produtos Naturais, cujo endereço em Marataízes (ES) é residencial. Ficam vedadas fabricação, distribuição e uso.",
-          "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-suplementos-alimentares-de-origem-desconhecida",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
           "time": "14/10"
+        },
+        {
+          "title": "Anvisa aprova novo medicamento para tratar lúpus",
+          "summary": "O obinutuzumabe (Gazyva), já indicado para alguns cânceres, foi aprovado para adultos com lúpus ativo moderado a grave em tratamento padrão. O anticorpo elimina linfócitos B por longo período. Segundo a Anvisa, reduz atividade da doença, crises e uso de corticoides.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
+          "time": "14/10"
+        },
+        {
+          "title": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
+          "summary": "Pesquisadores do Observatório de Clima e Saúde da Fiocruz apontam que a fumaça eleva o risco respiratório e cardiovascular, com Manaus registrando poluição muito acima do recomendado pela OMS no início de outubro. Está em desenvolvimento a ferramenta AlertAr Saúde para monitorar áreas indígenas. O estudo alerta que o El Niño pode agravar os incêndios.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
+          "time": "13/10"
+        },
+        {
+          "title": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+          "summary": "O Ministério da Saúde acompanha o impacto das queimadas no SUS do Amazonas, onde há emergência em 36 municípios. Doze cidades foram identificadas como precisando de apoio e o governo avalia o uso de oxigênio, inclusive em distritos indígenas. O Ibama enviou 290 brigadistas ao estado.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
+          "time": "16/10"
+        },
+        {
+          "title": "A cada 72 segundos, uma pessoa morre por doença cardiovascular no Brasil",
+          "summary": "Segundo o Cardiômetro da Sociedade Brasileira de Cardiologia, são cerca de 1.194 mortes por dia e 318.945 em 2026 até 16/10. A taxa de mortalidade caiu 36% desde 2000, mas as mortes podem chegar a 462.573 em 2030 se a tendência atual se mantiver. Alagoas tem a maior taxa entre os estados.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cada-72-segundos-uma-pessoa-morre-por-doenca-cardiovascular-no-pais",
+          "time": "16/10"
+        },
+        {
+          "title": "Homens costumam descobrir câncer de mama em estágio mais avançado",
+          "summary": "Análise da Sociedade Brasileira de Radioterapia com registros do Inca mostra 29,95% dos homens diagnosticados já no estágio IV, contra 26,42% das mulheres. O câncer de mama masculino representa menos de 1% dos casos, e a sobrevida em cinco anos supera 80%. A entidade atribui o atraso à falta de informação e à demora em buscar atendimento.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/homens-costumam-descobrir-cancer-de-mama-em-estagio-mais-avancado",
+          "time": "13/10"
         }
       ]
     }
