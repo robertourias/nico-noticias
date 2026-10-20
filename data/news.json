@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-19T03:35:00-03:00",
+  "updatedAt": "2026-10-20T03:24:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 16/10 (Ibovespa, dólar, S&P 500, Nasdaq 100, Dow) · cripto em 19/10 às 03:30 (24h) · IFIX e euro: último dado confirmado",
+    "asOf": "Fechamento de 19/10 (IBOV, IFIX, S&P 500, Dow, dólar, euro) · cripto em 20/10 (24h) · Nasdaq 100: último dado confirmado, de 16/10",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "205.430 pts",
-        "change": 0.54
+        "value": "205.079 pts",
+        "change": -0.17
       },
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.953,80 pts",
-        "change": 0.07
+        "value": "3.956,84 pts",
+        "change": 0.43
       },
       {
         "id": "cdi-selic",
@@ -24,63 +24,63 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.659,44 pts",
-        "change": -1.09
+        "value": "7.690,73 pts",
+        "change": 0.41
       },
       {
         "id": "nasdaq100",
         "label": "Nasdaq 100",
         "value": "29.187,55 pts",
-        "change": -2.5
+        "change": null
       },
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "52.002,41 pts",
-        "change": -0.34
+        "value": "51.966,03 pts",
+        "change": -0.07
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,07",
-        "change": -0.28
+        "value": "R$ 5,05",
+        "change": -0.49
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,69",
-        "change": -0.5
+        "value": "R$ 5,67",
+        "change": -0.72
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 82.827",
-        "change": 1.22
+        "value": "US$ 81.630",
+        "change": -1.3
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.431,86",
-        "change": 0.78
+        "value": "US$ 2.391,58",
+        "change": -1.6
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 105,98",
-        "change": 2.14
+        "value": "US$ 104,69",
+        "change": -0.8
       }
     ]
   },
   "weather": {
-    "date": "2026-10-19",
-    "condition": "sol entre muitas nuvens durante o dia e noite nublada com chance de garoa",
-    "min": 14,
+    "date": "2026-10-20",
+    "condition": "sol com muitas nuvens e períodos nublados",
+    "min": 13,
     "max": 23,
-    "rainChance": 66,
-    "rainMm": 1.2,
-    "uv": 9,
+    "rainChance": null,
+    "rainMm": 0,
+    "uv": null,
     "source": "Climatempo",
-    "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp"
+    "url": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/558/saopaulo-sp"
   },
   "categories": [
     {
@@ -88,88 +88,81 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Flávio e Lula trocam ataques e citam Luchsinger, Vorcaro e SUS no 1º debate do 2º turno",
-          "summary": "O primeiro debate entre os candidatos teve troca de acusações pessoais, com menções a Roberta Luchsinger, ao banqueiro Daniel Vorcaro e ao SUS. A CNN Brasil também registrou gritaria e interrupções nas considerações finais.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
+          "title": "PoderData: Flávio tem 52% dos votos válidos contra 48% de Lula no 2º turno",
+          "summary": "Pesquisa telefônica com 3 mil eleitores, feita de 16 a 18 de outubro, mostra Flávio Bolsonaro à frente na projeção de votos válidos, após o empate em 50% da rodada anterior. Na votação total, ele aparece com 49% contra 46%. A margem de erro é de 1,8 ponto, e 50% desaprovam o governo Lula contra 45% que aprovam.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/poderdata-flavio-bolsonaro-tem-52-dos-votos-validos-contra-48-de-lula-no-2o-turno/",
           "time": "ontem"
         },
         {
-          "title": "Luchsinger diz que quer fazer delação e não vai poupar Lula nem Lulinha",
-          "summary": "A empresária e lobista Roberta Luchsinger disse à CNN Brasil que quer firmar acordo de delação e que não vai poupar ninguém. Ela é investigada pela PF no caso INSS; Lula diz que o assunto é da polícia e a defesa de Lulinha nega irregularidades.",
+          "title": "Atlas/Bloomberg: Flávio Bolsonaro lidera contra Lula em cenário de 2º turno",
+          "summary": "Levantamento AtlasIntel com 4.998 eleitores, de 13 a 18 de outubro, dá 49,8% a Flávio e 47,6% a Lula, dentro da margem de erro de 1 ponto. Nos votos válidos, 51,1% a 48,9%, com vantagem menor que a da pesquisa de 8 de outubro. A desaprovação do governo Lula é de 52,3%.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/atlas-flavio-bolsonaro-lidera-contra-lula-em-cenario-de-2o-turno/",
+          "time": "ontem"
+        },
+        {
+          "title": "Como chegam Lula e Flávio à última semana? O que mostram Datafolha, Quaest e CNT/MDA",
+          "summary": "As três pesquisas dão a Flávio uma vantagem numérica nos votos válidos: 51% a 49% no Datafolha e na Quaest, e 50,5% a 49,5% na CNT/MDA. Como a diferença cabe na margem de erro, os institutos falam em empate técnico. No Datafolha, a distância caiu de quatro para dois pontos em uma semana.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/como-chegam-lula-e-flavio-a-ultima-semana-o-que-mostram-datafolha-quaest-e-cnt-mda/",
+          "time": "ontem"
+        },
+        {
+          "title": "Flávio e Lula fazem último giro de campanha e travam disputa de atos de rua",
+          "summary": "Na última semana antes da votação de domingo (25), os dois candidatos fazem comícios, carreatas e eventos em várias regiões. Flávio começa pelo Norte e passa por Fortaleza e Rio; Lula parte de Porto Alegre e percorre o Nordeste. Ambos preveem comícios finais no sábado, 24.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/luchsinger-diz-que-quer-fazer-delacao-e-nao-vai-poupar-lula-nem-lulinha/",
-          "time": "recente"
+          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-fazem-ultimo-giro-de-campanha-e-travam-disputa-de-atos-de-rua/",
+          "time": "ontem"
+        },
+        {
+          "title": "Lula mira abstenção, Flávio aposta em aliados: as estratégias da última semana",
+          "summary": "A campanha de Lula quer garantir comparecimento da base, sobretudo eleitores mais pobres, nordestinos e maiores de 70 anos, para quem o voto é facultativo. Flávio conta com governadores e lideranças regionais para proteger sua vantagem. As duas equipes concentram esforços no Sudeste, que reúne mais de 40% do eleitorado.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/lula-mira-abstencao-flavio-aposta-em-aliados-as-estrategias-da-ultima-semana/",
+          "time": "ontem"
+        },
+        {
+          "title": "Pesquisa interna do PT mostra como indecisos viram Lula e Flávio no debate",
+          "summary": "Segundo a coluna, levantamento qualitativo do PT indica que os indecisos viram Lula como vencedor por margem estreita. Eles também criticaram Flávio como agressivo e Lula como nervoso e com poucas propostas. A maior preocupação da campanha é que o debate quase não mexeu na opinião de quem ainda não decidiu.",
+          "source": "Metrópoles",
+          "url": "https://metropoles.com/colunas/igor-gadelha/pesquisa-interna-do-pt-mostra-como-indecisos-viram-lula-e-flavio-no-debate",
+          "time": "ontem"
+        },
+        {
+          "title": "Lula usará desafio sobre sigilos como mote contra Flávio na reta final",
+          "summary": "Conforme a coluna, a campanha petista vai insistir para que Flávio abra seus sigilos bancário e telefônico, desafio feito por Lula no debate da Band. Flávio rebateu dizendo que Lula recebe dinheiro \"por fora\". A tática teria sido sugerida por um ministro e deve ser central até o dia 25.",
+          "source": "Metrópoles",
+          "url": "https://metropoles.com/colunas/igor-gadelha/lula-usara-desafio-sobre-sigilos-como-mote-contra-flavio-na-reta-final",
+          "time": "ontem"
+        },
+        {
+          "title": "Comitê de Lula em Joinville (SC) é alvo de ataque",
+          "summary": "Na noite de segunda (19), um homem atirou uma pedra de cerca de cinco quilos contra a porta de vidro do comitê de campanha de Lula em Joinville. Não houve feridos. Três pessoas que estavam no local filmaram o agressor fugindo e acionaram a polícia.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/comite-de-lula-em-joinville-sc-e-alvo-de-ataque-intimidacao",
+          "time": "ontem"
+        },
+        {
+          "title": "Deputado do PL é detido após disparo de arma em bar na zona oeste de SP",
+          "summary": "O deputado estadual Marcelo Theodoro de Aguiar foi levado à delegacia após um tiro dentro de um bar em Pinheiros, na madrugada de segunda (19). Segundo uma testemunha, ele incomodava mulheres e o disparo ocorreu quando homens pediram que se afastasse. Ninguém se feriu; a pistola foi apreendida e ele foi liberado por causa da imunidade parlamentar.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/deputado-do-pl-e-detido-apos-disparo-de-arma-em-bar-na-zona-oeste-de-sp/",
+          "time": "ontem"
         },
         {
           "title": "Vorcaro negociou entrada como sócio da CNN Brasil, mostram mensagens",
-          "summary": "Mensagens reveladas nos últimos dias indicam que o banqueiro Daniel Vorcaro negociou participar como sócio da CNN Brasil. A emissora contesta a versão divulgada por outro veículo, segundo reportagem da própria CNN.",
+          "summary": "Mensagens reveladas primeiro pelo ICL Notícias indicam que Daniel Vorcaro, dono do Banco Master, discutiu em 2024 entrar na CNN Brasil. As conversas também tratam de patrocínio ao CNN Money e de propostas para o banco monitorar conteúdo editorial. A CNN Brasil nega que ele tenha sido sócio ou influenciado a redação e diz que o banco era apenas anunciante.",
           "source": "Jovem Pan",
           "url": "https://jovempan.com.br/brasil/vorcaro-negociou-entrada-como-socio-da-cnn-brasil-mostram-mensagens/",
           "time": "ontem"
         },
         {
-          "title": "França vira 'zona de guerra' após protestos com saques, incêndios e 1.800 presos",
-          "summary": "Manifestações em várias cidades francesas terminaram com saques, incêndios e cerca de 1.800 detidos, segundo o InfoMoney. A reportagem trata os atos como parte de uma onda de protestos que atinge outros países europeus.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/franca-vira-zona-de-guerra-apos-protestos-com-1-800-presos-veja-imagens/",
-          "time": "recente"
-        },
-        {
-          "title": "Morre o cantor Benito di Paula, aos 84 anos",
-          "summary": "O cantor, compositor e pianista morreu em São Paulo, vítima de câncer de próstata em tratamento havia cerca de um ano. Autor de 'Retalhos de Cetim', ele estava internado no Hospital 9 de Julho; detalhes do velório ainda não foram divulgados.",
+          "title": "Aliados fazem atos pelo país, e Flávio e Lula se enfrentam em debate na TV",
+          "summary": "No domingo (18), aliados dos dois candidatos fizeram atos em várias cidades antes do primeiro debate do 2º turno, na Band. A fiscalização do TSE manteve os atos pró-democracia e negou pedido do Novo para proibir shows e carros de som de forma preventiva. A votação será no domingo, 25.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-cantor-benito-di-paula-vitima-de-cancer-aos-84-anos/",
-          "time": "recente"
-        },
-        {
-          "title": "Papa Leão XIV reza o Angelus no Vaticano no primeiro compromisso público após deixar o hospital",
-          "summary": "O pontífice reapareceu para a oração do Angelus depois de receber alta hospitalar. Ele agradeceu as orações recebidas após a cirurgia no pulmão.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/papa-leao-xiv-realiza-a-oracao-do-angelus-no-vaticano-apos-deixar-hospital",
+          "url": "https://www.cnnbrasil.com.br/politica/aliados-fazem-atos-pelo-pais-e-flavio-e-lula-se-enfrentam-em-debate-na-tv/",
           "time": "ontem"
-        },
-        {
-          "title": "Sétima parcela do Pé-de-Meia começa a ser paga nesta segunda-feira (19)",
-          "summary": "O pagamento da sétima parcela do programa Pé-de-Meia, voltado a estudantes do ensino médio, tem início hoje, segundo o Metrópoles.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/setima-parcela-do-pe-de-meia-comeca-a-ser-paga-nesta-segunda-feira-19-10",
-          "time": "hoje"
-        },
-        {
-          "title": "Governo anuncia envio de novos aviões para combater incêndios no Amazonas",
-          "summary": "O governo federal informou que mandará mais aeronaves para reforçar o combate aos focos de incêndio no Amazonas.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/governo-anuncia-envio-de-novos-avioes-para-combater-incendios-no-amazonas",
-          "time": "recente"
-        },
-        {
-          "title": "TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consultar",
-          "summary": "O Tribunal Superior Eleitoral alterou mais de 4 mil locais de votação para o segundo turno. O eleitor pode conferir o novo endereço pelos canais oficiais da Justiça Eleitoral.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/tse-muda-mais-de-4-mil-locais-de-votacao-para-o-segundo-turno-veja-como-consultar/",
-          "time": "recente"
-        },
-        {
-          "title": "Reino Unido: chefe do Exército diz que governo deve preparar população para guerra",
-          "summary": "O comandante do Exército britânico afirmou que o governo precisa preparar a população para a possibilidade de uma guerra, segundo a Jovem Pan.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/reino-unido-chefe-do-exercito-diz-que-governo-deve-preparar-populacao-para-guerra/",
-          "time": "recente"
-        },
-        {
-          "title": "Mega-Sena acumula e prêmio pode chegar a R$ 185 milhões na terça-feira",
-          "summary": "Ninguém acertou as seis dezenas do último concurso, e o prêmio estimado para o próximo sorteio, na terça-feira, é de R$ 185 milhões.",
-          "source": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/mega-sena-acumula-e-proximo-sorteio-pode-pagar-r-185-milhoes/",
-          "time": "ontem"
-        },
-        {
-          "title": "Reitor da PUC-PR, Rogério Renato Mateucci, morre em acidente nos EUA",
-          "summary": "O reitor da PUC do Paraná morreu em um acidente nos Estados Unidos, segundo o Metrópoles.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/reitor-da-puc-pr-rogerio-renato-mateucci-morre-em-acidente-nos-eua",
-          "time": "recente"
         }
       ]
     },
@@ -178,109 +171,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "FLÁVIO BOLSONARO VAI FAZER IMPEACHMENT DE ALEXANDRE DE MORAES?",
+          "title": "O pior debate da história",
+          "summary": "Em vídeo publicado após o debate da Band entre Lula e Flávio Bolsonaro, Renan Santos classifica o confronto como o pior da história. A descrição do vídeo traz apenas links para o Festival do MBL e o Valete+.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=XVwWk6DQ7BU",
+          "time": "18/10"
+        },
+        {
+          "title": "Renan Santos faz análise do debate entre Flávio Bolsonaro e Lula na Band",
+          "summary": "O canal de cortes publica o trecho em que Renan Santos comenta o debate do segundo turno entre Flávio Bolsonaro e Lula, realizado na Band.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=lqQKxIgHfuo",
+          "time": "18/10"
+        },
+        {
+          "title": "Urgente: Roberta Luchsinger joga Lula na fogueira",
+          "summary": "No vídeo, Kim Kataguiri comenta as declarações de Roberta Luchsinger sobre Lula, tema que dominou a reta final do segundo turno.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=jIoJ9E1m8Uc",
+          "time": "18/10"
+        },
+        {
+          "title": "Flávio Bolsonaro vai fazer impeachment de Alexandre de Moraes?",
+          "summary": "Kim Kataguiri discute no vídeo se Flávio Bolsonaro, caso eleito, avançaria com um pedido de impeachment do ministro do STF Alexandre de Moraes.",
           "source": "Kim Kataguiri",
           "url": "https://www.youtube.com/watch?v=7MIbXVXzqr0",
-          "time": "17/10",
-          "summary": "No vídeo, Kim Kataguiri discute se Flávio Bolsonaro, caso eleito, levaria adiante um pedido de impeachment contra o ministro Alexandre de Moraes. O tema é tratado como pergunta, a partir do título do vídeo, em meio à reta final do segundo turno."
+          "time": "17/10"
         },
         {
-          "title": "Lula pode VIRAR os VOTOS e VENCER FLÁVIO?!",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=-eHStrQJFyQ",
-          "time": "17/10",
-          "summary": "Kim Kataguiri analisa no vídeo se Lula tem chances de virar os votos e vencer Flávio Bolsonaro no segundo turno. A análise é publicada na semana que antecede a votação."
+          "title": "Plantão Arthur do Val - Debate da Band",
+          "summary": "Arthur do Val faz um plantão ao vivo comentando o debate da Band entre Lula e Flávio Bolsonaro no segundo turno.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=BjdQygU7waY",
+          "time": "ontem"
         },
         {
-          "title": "JUNITO EXPLICA SAÍDA DO MBL",
+          "title": "Essa sabatina virou o jogo",
+          "summary": "No vídeo, Arthur do Val avalia uma sabatina com candidato do segundo turno e opina que ela mudou o rumo da disputa.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=ukp6j77IcoA",
+          "time": "18/10"
+        },
+        {
+          "title": "Arthur do Val (MamãeFalei) analisa debate na Band",
+          "summary": "Segundo a descrição, Arthur do Val analisou o debate promovido pela Band entre os presidenciáveis Lula e Flávio Bolsonaro.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=3PuOhrZw4eY",
+          "time": "ontem"
+        },
+        {
+          "title": "Junito explica saída do MBL",
+          "summary": "Conforme a descrição, Junito fala sobre como foi o pós-eleição do Partido Missão e do MBL, explicando sua saída do movimento.",
           "source": "Missão Brasil",
           "url": "https://www.youtube.com/watch?v=HLVMeBSzYaE",
-          "time": "17/10",
-          "summary": "Em corte do canal, Junito fala sobre como foi o pós-eleição do Partido Missão e do MBL e explica a saída do MBL, segundo a descrição do vídeo."
+          "time": "17/10"
         },
         {
-          "title": "LULA ESTÁ SE APROXIMANDO DE FLÁVIO! | ANALISES RENAIS | 16/10/2026",
+          "title": "Lula está se aproximando de Flávio!",
+          "summary": "No programa Análises Renais de 16/10, os apresentadores comentam a avaliação de que Lula estaria diminuindo a distância para Flávio Bolsonaro na corrida do segundo turno.",
           "source": "MBL TV",
           "url": "https://www.youtube.com/watch?v=VUp8p3GtVvg",
-          "time": "16/10",
-          "summary": "Na edição de 16/10 do programa Análises Renais, a equipe do MBL comenta a aproximação de Lula em relação a Flávio Bolsonaro na disputa presidencial, a partir do título do episódio."
+          "time": "16/10"
         },
         {
-          "title": "COMPRA DE VOTO DESCARADA",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=w3ni3Htrdfs",
-          "time": "16/10",
-          "summary": "No vídeo, Arthur do Val comenta o que chama de compra de voto descarada no cenário eleitoral, conforme o título do episódio."
-        },
-        {
-          "title": "ARTHUR DO VAL REAGE AO LULA PASSANDO VERGONHA NA SABATINA DA GLOBO!",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=Re6UlWL_s3I",
-          "time": "16/10",
-          "summary": "O canal reúne a reação de Arthur do Val à participação de Lula na sabatina da TV Globo, que ele classifica como vexame para o presidente, segundo o título."
-        },
-        {
-          "title": "KIM KATAGUIRI responde se o MBL irá para a ESQUERDA",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=TIOgq0EDOb8",
-          "time": "16/10",
-          "summary": "Em corte do Iron Talks de Felipe Sestaro, Kim Kataguiri responde se o MBL irá para a esquerda, segundo a descrição do vídeo."
-        },
-        {
-          "title": "Vai ter debate... no segundo turno.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=zosGQLiuKfo",
-          "time": "15/10",
-          "summary": "Renan Santos comenta no vídeo a expectativa de debate entre os candidatos no segundo turno, de acordo com o título do episódio."
-        },
-        {
-          "title": "PLANTÃO ARTHUR DO VAL - A ESQUERDA VAI VIRAR A ELEIÇÃO?",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=Kv9PlyerHGY",
-          "time": "16/10",
-          "summary": "No Plantão, Arthur do Val discute se a esquerda pode virar a eleição presidencial no segundo turno, conforme o título do vídeo."
-        },
-        {
-          "title": "Ato de Flávio Bolsonaro reúne 76,2 mil na Avenida Paulista a uma semana do 2º turno",
-          "summary": "Segundo estimativa divulgada pelo Poder360, a manifestação de Flávio Bolsonaro na Paulista reuniu 76.200 pessoas e ocupou seis quarteirões da avenida, um a menos do que o ato de Lula.",
-          "source": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-flavio-reune-76-200-na-paulista-a-uma-semana-do-2o-turno/",
+          "title": "Governo vai remanejar R$ 20 bilhões em despesas para o Orçamento de 2027",
+          "summary": "A equipe econômica anunciou que precisará deslocar cerca de R$ 20 bilhões no Orçamento de 2027, em meio ao pacote de medidas de Lula como reajuste do Bolsa Família, Pé-de-Meia e Desenrola 3.0. O governo diz haver folga por gastos previdenciários menores que o previsto. A IFI projeta déficit de R$ 86,1 bilhões e analistas duvidam da meta fiscal.",
+          "source": "Metrópoles",
+          "url": "https://metropoles.com/brasil/governo-vai-remanejar-r-20-bilhoes-em-despesas-para-o-orcamento-de-2027",
           "time": "ontem"
         },
         {
-          "title": "Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem do senador cai 3 pontos",
-          "summary": "Pesquisa Ipespe mostra Flávio Bolsonaro com 51,2% contra 48,8% de Lula nos votos válidos. A vantagem do candidato do PL encolheu três pontos em relação à sondagem anterior.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/",
-          "time": "recente"
-        },
-        {
-          "title": "Debate de Lula e Flávio na Band chega a 5,39 milhões de espectadores simultâneos",
-          "summary": "O primeiro debate do segundo turno, na Band, alcançou pico de 5,39 milhões de pessoas simultâneas, segundo o Poder360. O site também registra que as buscas por Flávio Bolsonaro dispararam após o confronto.",
-          "source": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/debate-de-lula-e-flavio-na-band-chega-a-539-milhoes-simultaneos/",
-          "time": "ontem, 22:32"
-        },
-        {
-          "title": "Trump declara apoio total a Netanyahu antes de eleições acirradas em Israel",
-          "summary": "O presidente dos EUA, Donald Trump, deu um endosso completo ao primeiro-ministro Benjamin Netanyahu para a reeleição. A votação em Israel está marcada para 27 de outubro.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/trump-declara-apoio-total-a-netanyahu-antes-de-eleicoes-acirradas-em-israel/",
+          "title": "Em clima de 'já ganhou', bolsonarismo negocia divisão de poder no Congresso",
+          "summary": "Segundo a reportagem, PL e Centrão discutem antes do fim da eleição como dividir o comando do Congresso. O PL quer manter a presidência do Senado e aceita que o Centrão fique com a da Câmara, com Silvio Costa Filho como nome palatável. O acordo dependeria da vitória de Flávio e seria fechado antes de fevereiro.",
+          "source": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/em-clima-de-ja-ganhou-bolsonarismo-negocia-divisao-de-poder-no-congresso/",
           "time": "ontem"
         },
         {
-          "title": "ONU termina nova votação sem escolher secretário-geral; novos nomes são cogitados",
-          "summary": "Mais uma rodada de votação no Conselho de Segurança terminou sem definir o próximo secretário-geral da ONU. Segundo o Metrópoles, novos nomes passaram a ser ventilados nos bastidores.",
+          "title": "PEC da Segurança: maioridade penal expõe racha no PT e abre flanco para Flávio",
+          "summary": "A PEC travou por emendas de PT e PL sobre redução da maioridade penal, e Alcolumbre a retirou da pauta em 15 de outubro. Lula disse na TV Globo defender 16 anos para crimes hediondos. A campanha de Flávio quer explorar a mudança de posição, enquanto o governo quer votar o texto na próxima semana sem alterações.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/onu-termina-nova-votacao-sem-secretario-geral-novos-nomes-sao-ventilados",
-          "time": "recente"
+          "url": "https://www.metropoles.com/brasil/pec-da-seguranca-maioridade-expoe-racha-no-pt-e-abre-flanco-para-flavio",
+          "time": "ontem"
         },
         {
-          "title": "Cuba pede ajuda da ONU contra 'castigo coletivo' imposto pelos EUA",
-          "summary": "O governo cubano recorreu à ONU alegando que as medidas dos Estados Unidos configuram um castigo coletivo contra a população da ilha.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/cuba-busca-ajuda-da-onu-contra-castigo-coletivo-imposto-pelos-eua",
-          "time": "recente"
+          "title": "Putin propõe cúpula com Trump e Xi para discutir fim da guerra na Ucrânia, diz WSJ",
+          "summary": "Segundo a Reuters, citando o Wall Street Journal, Putin sugeriu em telefonema com Trump em 9 de outubro uma reunião a três, possivelmente à margem da cúpula da Apec em Shenzhen, em 18 e 19 de novembro. O Kremlin diz que a pauta não está clara, e um funcionário americano afirma que Trump não aceitou, mas pode estar aberto. Zelensky criticou o acordo de diesel e a isenção de sanções dos EUA à Rússia.",
+          "source": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/world/20261019/putin-proposes-summit-with-trump-and-xi-to-discuss-ukraine-deal-wsj-says",
+          "time": "ontem"
+        },
+        {
+          "title": "Albânia: premiê Rama recusa renunciar no sexto dia de protestos universitários",
+          "summary": "A polícia usou canhão d'água e gás lacrimogêneo em Tirana em novo dia de protestos violentos sobre condições das universidades, mensalidades e corrupção. Edi Rama chamou as manifestações de obra de uma \"mão externa\". O ministério da Saúde contabiliza 272 feridos, 169 deles policiais.",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day",
+          "time": "ontem"
+        },
+        {
+          "title": "Benny Gantz desiste da eleição em Israel",
+          "summary": "O ex-ministro da Defesa anunciou na segunda (19) que não disputará a votação de 27 de outubro, depois que pesquisas mostraram seu partido abaixo da cláusula de barreira de 3,25%. Ele disse que continuará trabalhando pela unidade. Um analista avaliou que a saída não tem impacto eleitoral real.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race",
+          "time": "ontem"
         }
       ]
     },
@@ -289,46 +282,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Mesmo com subsídios, inflação de combustíveis é quase o dobro da de 2025",
-          "summary": "Segundo o IBGE, os combustíveis acumulam alta de 4,49% até setembro, contra 2,30% em todo o ano passado. O governo comprometeu cerca de R$ 40 bilhões em isenções e subsídios, e o diesel subiu até 20,85% desde o início da guerra.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/mesmo-com-subsidios-inflacao-de-combustiveis-e-quase-o-dobro-da-de-2025",
-          "time": "recente"
+          "title": "Ibovespa recua 0,17% com Petrobras em baixa e dólar cai a R$ 5,05 na última semana antes do segundo turno",
+          "summary": "O Ibovespa fechou a segunda-feira em 205.079 pontos, pressionado pelas ações da Petrobras, que perderam cerca de 3%. O dólar comercial caiu 0,50%, a R$ 5,0476. Pesquisas divulgadas pela manhã mostram disputa acirrada entre Flávio Bolsonaro e Lula, com votação no domingo.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-19-outubro-2026/",
+          "time": "ontem"
         },
         {
-          "title": "Ajuste fiscal: quais são as opções do governo a partir de 2027?",
-          "summary": "A dívida bruta chegou a 82,9% do PIB em agosto e pode atingir 100% até 2030, com cerca de 95% do Orçamento já comprometido com despesas obrigatórias. Os candidatos divergem entre cortar gastos e enxugar o Estado ou combinar o arcabouço fiscal com mais impostos para os mais ricos.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/divida-publica-desafios-propostas-proximo-governo/",
-          "time": "recente"
+          "title": "Petróleo atinge maior patamar desde maio com barril perto de US$ 110",
+          "summary": "O Brent chegou a US$ 110,70 durante o pregão e fechou a US$ 109,55, com leve queda de 0,28%, em meio a preocupações com a oferta global. A reportagem cita ataques à infraestrutura energética russa e hostilidades no Mar Vermelho e no Estreito de Ormuz. Na semana anterior, o Brent acumulou alta de 4,9%.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-19-outubro-2026/",
+          "time": "ontem"
         },
         {
-          "title": "De faxineiro a gerente: como fica a jornada de 30 profissões com o fim da 6×1",
-          "summary": "A emenda que acaba com a escala 6x1 foi promulgada na sexta e beneficia cerca de 22 milhões de trabalhadores formais. Em dezembro a semana cai de 44 para 42 horas, chegando a 40 horas até o fim de 2027.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/minhas-financas/de-faxineiro-a-gerente-como-fica-a-jornada-de-30-profissoes-com-o-fim-da-6x1/",
-          "time": "recente"
+          "title": "IPCA estoura o teto da meta e Selic segue em queda: o dilema do Banco Central",
+          "summary": "A inflação de setembro foi de 0,82%, e o acumulado em 12 meses chegou a 4,58%, acima do teto de 4,5%. A conta de luz subiu 7,98% com o fim do bônus de Itaipu. O Focus passou a prever Selic de 13,25% no fim do ano, com dois cortes de 0,25 ponto, e o Copom volta a se reunir em 3 e 4 de novembro.",
+          "source": "Forbes Brasil",
+          "url": "https://forbes.com.br/forbes-money/2026/10/ipca-fura-o-teto-e-a-selic-segue-caindo-o-dilema-do-bc/",
+          "time": "15/10"
         },
         {
-          "title": "Com fim das bets, secretaria de apostas será coordenada pela Casa Civil",
-          "summary": "A Secretaria de Prêmios e Apostas integrará um comitê interministerial coordenado pela Casa Civil para fiscalizar apostas ilegais e sua publicidade. A medida provisória assinada em setembro proíbe o funcionamento das casas de apostas online no país.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/bets-coordenada-pela-casa-civil",
-          "time": "recente"
+          "title": "Agenda econômica da semana: IPCA-15 de outubro, inflação do Reino Unido e PMIs saem até sexta",
+          "summary": "O destaque é o IPCA-15 de outubro, que o IBGE divulga na sexta-feira (23), após alta de 0,70% na leitura anterior. A semana também traz o ZEW alemão, o IPC do Reino Unido e os PMIs de EUA e Europa. O CMN se reúne na quinta-feira.",
+          "source": "Boletim Nacional",
+          "url": "https://boletimnacional.com.br/2026/10/18/a-agenda-economica-da-semana-de-19-a-23-de-outubro-de-2026/",
+          "time": "18/10"
         },
         {
-          "title": "Bolsas de NY fecham em baixa com temores por IA; Nasdaq recua mais de 2%",
-          "summary": "Na sexta-feira, as bolsas de Nova York encerraram em queda, pressionadas por receios ligados à inteligência artificial e pela alta do petróleo. O Nasdaq 100 caiu 2,50% e o S&P 500, 1,09%.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-baixa-com-temores-por-ia-e-nasdaq-recua-mais-de-2/",
-          "time": "16/10"
+          "title": "FMI vê crescimento global de 3,1% em 2026 e alerta para riscos negativos",
+          "summary": "O relatório semanal do ministério de comércio neozelandês cita as projeções do FMI de crescimento mundial de 3,1% em 2026 e 3,4% em 2027, com inflação global de 4,7% neste ano. O Fundo diz que a economia foi mais resiliente que o esperado, mas aponta riscos como escalada no Oriente Médio, tensões comerciais, fragilidade fiscal e possível correção nos investimentos em IA.",
+          "source": "MFAT (Nova Zelândia)",
+          "url": "https://www.mfat.govt.nz/en/trade/mfat-market-reports/weekly-global-economic-report-19-october-2026",
+          "time": "ontem"
         },
         {
-          "title": "Caixa Seguridade terá ganho de R$ 210 milhões com multa do Banco Pan",
-          "summary": "A Caixa Seguridade vai registrar ganho de R$ 210 milhões com multa paga pelo Banco Pan, segundo o InfoMoney.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/caixa-seguridade-tera-ganho-de-r-210-milhoes-com-multa-do-banco-pan/",
-          "time": "16/10"
+          "title": "Focus: economistas elevam projeção de inflação e reduzem a da Selic para 2026",
+          "summary": "No primeiro Focus após o primeiro turno, a previsão de IPCA para 2026 subiu de 5,01% para 5,22%, e a de Selic para o fim do ano caiu de 13,5% para 13,25%. As projeções para 2027 ficaram estáveis, com inflação de 4,3% e Selic de 12%. A matéria também cita o recorde do Ibovespa e o dólar abaixo de R$ 5 no início do mês.",
+          "source": "Diário do Comércio",
+          "url": "https://diariodocomercio.com.br/economia/inflacao-selic-previsao-economistas/",
+          "time": "13/10"
         }
       ]
     },
@@ -337,46 +330,46 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Hackers invadem tenants do Microsoft 365 via ataque à cadeia de suprimentos da ConnectWise",
-          "summary": "O BleepingComputer relata que invasores comprometeram ambientes Microsoft 365 por meio de um ataque de cadeia de suprimentos envolvendo a ConnectWise.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-          "time": "17/10"
+          "title": "Hackers exploram falhas Plex2Shell para instalar minerador de criptomoedas e backdoor em Linux",
+          "summary": "Quatro vulnerabilidades encadeadas no Plex Media Server permitem execução remota de código sem autenticação, e a exploração começou um dia após a divulgação dos detalhes técnicos. Os ataques instalam o minerador XMRig e um proxy reverso. A correção está na versão 1.43.3.10861, lançada em 3 de agosto.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+          "time": "ontem"
         },
         {
-          "title": "Drupal corrige falhas críticas de execução remota de código e alerta para exploits em breve",
-          "summary": "O projeto Drupal lançou correções para vulnerabilidades críticas de RCE e avisou que explorações podem surgir em breve, recomendando atualização imediata.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-          "time": "17/10"
+          "title": "Amazon e PyTorch lançam o TorchNeuron, backend nativo para os chips Trainium",
+          "summary": "O backend de código aberto (Apache 2.0) entra em beta pública e permite rodar código PyTorch existente no Trainium2 e no Trainium3 com `.to('neuron')`. Suporta modos eager e torch.compile, treinamento distribuído e integração com Hugging Face Transformers v5 e vLLM. A primeira versão ainda não suporta tensores esparsos nem formas dinâmicas.",
+          "source": "PyTorch Blog",
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+          "time": "hoje"
         },
         {
-          "title": "Falha crítica no BlockStrap permite executar código em servidores Magento",
-          "summary": "Uma vulnerabilidade crítica no BlockStrap permite que invasores executem código em servidores que rodam Magento, segundo o BleepingComputer.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-          "time": "16/10"
+          "title": "GitHub endurece publicação no npm após falha que deixou mais de 1.500 pacotes vulneráveis a sequestro",
+          "summary": "A falha SlugFest vinculava a confiança do trusted publishing ao nome do repositório, e não ao ID imutável, permitindo que um invasor assumisse nomes abandonados e publicasse versões maliciosas. Agora, configurações não validadas expiram em 48 horas, e tokens originados de eventos issue_comment são rejeitados. Os pacotes afetados somam mais de 10 milhões de downloads.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+          "time": "13/10"
         },
         {
-          "title": "BeyondTrust corrige zero-day explorado em ataques desde agosto",
-          "summary": "A BeyondTrust publicou correção para uma falha zero-day que vinha sendo explorada em ataques desde agosto.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-          "time": "16/10"
+          "title": "Pesquisadores usam modelo público da OpenAI para montar exploit de Chrome de US$ 250 mil em seis dias",
+          "summary": "A XBOW encadeou três bugs desconhecidos do Chrome (V8, decodificador WebP animado e Crashpad) em um ataque que executa código no Windows ao carregar uma página. Agentes de IA fizeram a maior parte do trabalho técnico, a um custo de cerca de US$ 40 mil em computação. O Google corrigiu as falhas e pagou a recompensa máxima.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+          "time": "14/10"
         },
         {
-          "title": "Pacotes falsos do Arch Linux distribuem malware com privilégios de root",
-          "summary": "Pacotes falsificados no ecossistema do Arch Linux foram usados para instalar malware com privilégios de root, de acordo com o BleepingComputer.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-          "time": "15/10"
+          "title": "Microsoft corrige recorde de 1.413 vulnerabilidades, incluindo falha do Windows Shell já explorada",
+          "summary": "O Patch Tuesday de outubro tratou 1.102 falhas no Windows e 134 no Office, com mais de 70 classificadas como críticas. Uma injeção de comando no Windows Shell que contorna o Mark of the Web já era explorada e entrou no catálogo KEV da CISA. A Microsoft também introduziu os chamados risk cohorts para ajudar na priorização.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+          "time": "14/10"
         },
         {
-          "title": "Lean passa a ser distribuído com kernels verificados",
-          "summary": "O assistente de provas Lean agora vem com kernels verificados, anunciou o criador da linguagem, Leonardo de Moura, em post que ganhou destaque no Hacker News.",
-          "source": "Leonardo de Moura (blog)",
-          "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-          "time": "15/10"
+          "title": "Pacote npm Tensorlake é comprometido para espalhar worm Shai-Hulud e roubar segredos de desenvolvedores",
+          "summary": "A versão 0.5.144 do pacote, publicada em 8 de outubro, trouxe uma variante do worm que rouba credenciais de nuvem, chaves SSH e tokens de CI/CD. O código malicioso entrou no GitHub por commits feitos com identidade de mantenedor e baixa o runtime Bun para executar o payload. Quem instalou a versão deve tratar a máquina como comprometida e rotacionar credenciais.",
+          "source": "Cyber Security News",
+          "url": "https://cybersecuritynews.com/tensorlake-npm-package/",
+          "time": "08/10"
         }
       ]
     },
@@ -385,46 +378,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "Anthropic destinará 5% das ações a fundo de impacto da IA em trabalhadores",
-          "summary": "A Anthropic anunciou que reservará 5% de suas ações, sujeito à aprovação dos acionistas, para uma nova entidade chamada Anthropic Public Benefit Fund.",
-          "source": "Anthropic",
-          "url": "https://www.anthropic.com/news/public-benefit-fund",
-          "time": "recente"
+          "title": "UE publica a primeira norma harmonizada de apoio ao AI Act",
+          "summary": "A Comissão Europeia publicou no Jornal Oficial a referência à norma EN 18286:2026, sobre sistemas de gestão da qualidade para IA. Fornecedores de sistemas de alto risco que a adotarem terão presunção de conformidade com o Artigo 17 do AI Act, na parte coberta. Outras normas harmonizadas ainda devem ser publicadas.",
+          "source": "Comissão Europeia",
+          "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+          "time": "ontem"
         },
         {
-          "title": "Sam Altman confirma que a OpenAI está construindo um robô humanoide",
-          "summary": "O CEO da OpenAI afirmou que a empresa desenvolve um robô humanoide e que espera mostrar uma demonstração em 2027, segundo o Engadget.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
-          "time": "recente"
+          "title": "Meta detalha o Prometheus, supercluster de IA em escala de gigawatts, e mira 1 milhão de GPUs",
+          "summary": "A primeira fase do supercomputador em New Albany, Ohio, já treinou a família de modelos Muse, incluindo o Muse Wonder. A Meta diz ter reduzido em 99% a taxa de interrupções e mantido goodput acima de 85% no pré-treinamento. O próximo projeto, o Hyperion, na Louisiana, seguirá as lições do Prometheus.",
+          "source": "Engineering at Meta",
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+          "time": "ontem"
         },
         {
-          "title": "OpenAI divulga mais incidentes de IA fora de controle, incluindo dados de hospitais",
-          "summary": "A OpenAI revelou outros incidentes até então não divulgados; num deles, um modelo baixou 24 anos de registros de leitos hospitalares de um site do governo em junho, segundo a Fortune.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-          "time": "16/10"
+          "title": "Tenstorrent, de Jim Keller, capta US$ 1,5 bilhão e é avaliada em US$ 6,2 bilhões",
+          "summary": "A rodada Série E foi liderada por Trace Capital e Innovation X, com participação de nomes como Fidelity e ARK Invest. A startup canadense de chips baseados em RISC-V se posiciona como alternativa às GPUs da Nvidia e vende plataformas completas de computação. O dinheiro vai ampliar a produção dos servidores Galaxy e a pesquisa em RISC-V.",
+          "source": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/",
+          "time": "ontem"
         },
         {
-          "title": "Schwab e JPMorgan bloqueiam agentes de IA não autorizados que tentam movimentar dinheiro",
-          "summary": "As instituições barram agentes de IA que tentam mexer em contas de clientes; a Schwab diz registrar 'dezenas' de tentativas bloqueadas por semana, segundo o Forkast.",
-          "source": "Forkast",
-          "url": "https://forkast.news/schwab-and-jpmorgan-block-unauthorized-ai-agents-from-moving-money-as-private-ordering-reaches-financial-core/",
-          "time": "recente"
+          "title": "Gartner: só 13% dos CIOs obtiveram valor significativo com IA, e 21% têm governança para agentes",
+          "summary": "A pesquisa com mais de 2.000 CIOs mostra gastos com IA 18 vezes maiores em dois anos, mas retorno ainda restrito. Embora 71% planejem implantar agentes em até 12 meses, poucos têm governança para eles. A consultoria recomenda equilibrar velocidade de adoção e controle de riscos.",
+          "source": "InformationWeek",
+          "url": "https://www.informationweek.com/responsible-ai/gartner-cios-must-balance-ai-value-with-risk-and-fast",
+          "time": "ontem"
         },
         {
-          "title": "Replit adota a OpenAI como padrão no lugar da Anthropic, diz CEO",
-          "summary": "O CEO da Replit afirmou que a plataforma deixou de trabalhar com a Anthropic e passou a usar a OpenAI como opção padrão, de acordo com o TechCrunch.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "title": "Inception lança o Mercury 3, LLM de difusão que passa de mil tokens por segundo",
+          "summary": "A empresa afirma que o modelo é o LLM baseado em difusão mais capaz até hoje, com contexto de 1 milhão de tokens e preço de US$ 0,20 por milhão de tokens de entrada. Os números de velocidade e a comparação com concorrentes são da própria Inception e de parceiros. Está disponível pela API da empresa, OpenRouter, Baseten e Vercel.",
+          "source": "Inception Labs",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "time": "ontem"
+        },
+        {
+          "title": "DeepSeek publica o V4.1-Flash-1017 com pesos abertos sob licença MIT",
+          "summary": "A atualização menor do V4.1-Flash melhora raciocínio, programação e tarefas de agentes, segundo a página do modelo, e promete respostas mais curtas e execuções mais rápidas. A janela de contexto recomendada é de 1 milhão de tokens. Código e pesos saem sob licença MIT.",
+          "source": "Hugging Face",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "time": "17/10"
-        },
-        {
-          "title": "Investidores pressionam Nscale a reduzir valuation de IPO para US$ 16 bi a 19 bi",
-          "summary": "A empresa de nuvem para IA busca avaliação de US$ 30 bi a 35 bi em seu IPO na NYSE, mas investidores empurram para um valor bem menor, segundo a Bloomberg.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
-          "time": "18/10"
         }
       ]
     },
@@ -433,46 +426,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Outubro Rosa: Taboão da Serra terá Dia D de prevenção ao câncer nas UBSs na sexta-feira (23)",
-          "summary": "As unidades básicas de saúde de Taboão da Serra terão mobilização de prevenção ao câncer na sexta-feira, dia 23, dentro da campanha Outubro Rosa.",
+          "title": "Taboão da Serra abre inscrições para castração gratuita de mais de 300 cães e gatos",
+          "summary": "A Prefeitura oferece castração e microchipagem gratuitas para mais de 300 animais em mutirão nos dias 23 e 24 de outubro, no Parque São Joaquim. Inscrições podem ser feitas pela internet ou presencialmente, e os tutores devem respeitar os horários marcados e as orientações de cuidado.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/outubro-rosa-taboao-da-serra-tera-dia-d-de-prevencao-ao-cancer-nas-ubss-na-sexta-feira-23/",
+          "url": "https://otaboanense.com.br/taboao-da-serra-abre-inscricoes-para-castracao-gratuita-de-mais-de-300-caes-e-gatos/",
           "time": "ontem"
         },
         {
-          "title": "UniFECAF reúne mil pessoas em evento com empresas e oportunidades de estágio",
-          "summary": "Evento da UniFECAF em Taboão da Serra reuniu cerca de mil participantes e apresentou empresas com vagas de estágio.",
+          "title": "Taboão da Serra lança livro de poesias de alunos da rede municipal no dia 27",
+          "summary": "A Antologia de Poesia Periférica reúne textos de mais de 400 alunos do 4º ano de quatro escolas municipais, no projeto transformado em política pública por lei municipal. O lançamento será em sarau no dia 27, às 13h30, no CEMUR, com leituras, apresentações e sessão de autógrafos.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/unifecaf-reune-mil-pessoas-em-evento-com-empresas-e-oportunidades-de-estagio/",
+          "url": "https://otaboanense.com.br/taboao-da-serra-lanca-livro-de-poesias-de-alunos-da-rede-municipal-no-dia-27/",
           "time": "ontem"
         },
         {
-          "title": "UniFECAF realiza aula inaugural do Projeto TEIA com 220 profissionais da saúde e da educação",
-          "summary": "A aula inaugural do Projeto TEIA reuniu 220 profissionais das áreas de saúde e educação de Taboão da Serra.",
+          "title": "Taboão da Serra abre vagas para curso gratuito de manutenção elétrica com ar-condicionado",
+          "summary": "O curso de 40 horas, com aulas teóricas e práticas e certificado, ocorre de 26 de outubro a 6 de novembro na Escola de Construção Civil. As inscrições são feitas no site cursofussp.sp.gov.br e a prioridade é para pessoas em vulnerabilidade social, dentro do programa Caminho da Capacitação.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/unifecaf-realiza-aula-inaugural-do-projeto-teia-com-220-profissionais-da-saude-e-da-educacao-em-taboao-da-serra/",
+          "url": "https://otaboanense.com.br/taboao-da-serra-abre-vagas-para-curso-gratuito-de-manutencao-eletrica-com-ar-condicionado/",
           "time": "ontem"
         },
         {
-          "title": "Taboão da Serra promove roda de conversa sobre prevenção ao câncer de mama e de colo do útero",
-          "summary": "A cidade realizou roda de conversa sobre prevenção aos cânceres de mama e de colo do útero, como parte do Outubro Rosa.",
+          "title": "E.C. Taboão da Serra decide título da Liga Feminina de Futsal contra o Stein Cascavel",
+          "summary": "Após empate em 3 a 3 com o Barateiro em Brusque (SC), a equipe avançou à final por 7 a 6 no agregado. O primeiro jogo da decisão será em 28 de novembro em Taboão e o segundo em 5 de dezembro, em Cascavel (PR).",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-promove-roda-de-conversa-sobre-prevencao-ao-cancer-de-mama-e-de-colo-do-utero/",
-          "time": "16/10"
+          "url": "https://otaboanense.com.br/e-c-taboao-da-serra-decide-titulo-da-liga-feminina-de-futsal-contra-o-stein-cascavel/",
+          "time": "ontem"
         },
         {
-          "title": "Outubro Rosa terá aulão gratuito de dança e ginástica em Taboão da Serra",
-          "summary": "A programação do Outubro Rosa inclui aulão gratuito de dança e ginástica aberto à população.",
+          "title": "Guarda civil persegue e prende suspeito de furto após morador flagrar invasão em Taboão da Serra",
+          "summary": "Um homem de 28 anos foi flagrado dentro de uma casa no Jardim Virgínia e fugiu com ferramentas. Perseguido pelo morador, foi detido por um guarda civil na Avenida Intercontinental, autuado por furto e aguarda audiência de custódia.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/outubro-rosa-tera-aulao-gratuito-de-danca-e-ginastica-em-taboao-da-serra/",
-          "time": "16/10"
+          "url": "https://otaboanense.com.br/taboao-da-serra-guarda-civil-persegue-e-prende-suspeito-de-furto-apos-morador-flagrar-invasao/",
+          "time": "ontem"
         },
         {
-          "title": "Senac Vozes Potentes em Taboão da Serra terá roda de conversa gratuita sobre trabalho e transformação social",
-          "summary": "O Senac promove em Taboão da Serra uma roda de conversa gratuita sobre trabalho e transformação social, dentro do projeto Vozes Potentes.",
+          "title": "Comandante do 36º BPM fala sobre segurança pública em Taboão e Embu das Artes no EmOff Cast",
+          "summary": "O tenente-coronel Edson Castro será entrevistado ao vivo na quinta-feira (22), às 20h, no canal do portal no YouTube. Entre os temas estão roubos de celulares, policiamento preventivo, monitoramento por tecnologia e os Consegs desativados.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/senac-vozes-potentes-em-taboao-da-serra-tera-roda-de-conversa-gratuita-sobre-trabalho-e-transformacao-social/",
-          "time": "16/10"
+          "url": "https://otaboanense.com.br/comandante-do-36o-bpm-tenente-coronel-edson-castro-fala-sobre-seguranca-publica-em-taboao-da-serra-e-embu-das-artes-no-emoff-cast/",
+          "time": "ontem"
         }
       ]
     },
@@ -481,45 +474,45 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Fokina vira, acaba com a festa de Jodar e conquista o maior título da carreira em Xangai",
-          "summary": "Alejandro Davidovich Fokina venceu o espanhol Rafael Jodar por 1/6, 7/6(5) e 6/4, em 2h29, na final do Masters 1000 de Xangai. É o título mais importante da carreira dele.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/fokina-campeao-xangai/",
-          "time": "18/10"
-        },
-        {
-          "title": "Chwalinska conquista o WTA 1000 de Wuhan e chega ao top 10",
-          "summary": "A polonesa Chwalinska venceu o WTA 1000 de Wuhan, após eliminar Swiatek na semifinal, e entra no top 10 do ranking.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/chwalinska-campea-wuhan/",
-          "time": "18/10"
-        },
-        {
-          "title": "Luisa Stefani é campeã em Wuhan e vira número 1 do mundo",
-          "summary": "A brasileira Luisa Stefani levou o título em Wuhan e, segundo o TenisNews, ficou no topo do ranking mundial de duplas.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/stefani-brilha-campea-wuhan-vira-numero-1-mundo/",
-          "time": "18/10"
-        },
-        {
-          "title": "Thiago Wild é campeão do Challenger da Bolívia e vira o número 2 do Brasil",
-          "summary": "Thiago Wild conquistou o título na Bolívia, assumiu a segunda posição entre os brasileiros no ranking e se aproxima do top 100.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/wild-campeao-bolivia-open/",
-          "time": "18/10"
-        },
-        {
-          "title": "Lucas Andrade vence 10º jogo seguido, é campeão em Quito e sobe no ranking",
-          "summary": "O brasileiro Lucas Andrade emendou a 10ª vitória consecutiva e conquistou mais um título, desta vez em Quito.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/andrade-campeao-quito-dispara-ranking/",
-          "time": "18/10"
-        },
-        {
-          "title": "Após desistência de Fonseca, ATP de Basileia perde mais um top 5",
-          "summary": "O torneio de Basileia perdeu outro top 5 do ranking depois da desistência de João Fonseca, segundo o TenisNews.",
-          "source": "TenisNews",
+          "title": "Após Fonseca desistir, ATP da Basileia sofre nova baixa de tenista top 5",
+          "summary": "Felix Auger-Aliassime, 5º do mundo e cabeça de chave 2, desistiu do ATP 500 da Basileia. Ele também deixou Bruxelas para se recuperar visando o Masters de Paris; Djokovic, Shelton, Jodar e Fritz seguem confirmados.",
+          "source": "Tenis News",
           "url": "https://www.tenisnews.com.br/atp-basileia-nova-baixa/",
+          "time": "18/10"
+        },
+        {
+          "title": "Jodar ganha força na briga pelo ATP Finals; veja o cenário atualizado",
+          "summary": "Faltam três semanas para definir os últimos classificados ao torneio de Turim. Zverev, Alcaraz, Shelton e Sinner já estão garantidos, e o cenário atual colocaria Jodar entre os oito, com Djokovic e Fritz ainda na disputa.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/jodar-briga-finals-cenario-atualizado/",
+          "time": "18/10"
+        },
+        {
+          "title": "O impressionante salto de Jodar e Chwalinska no ranking em apenas 10 meses",
+          "summary": "Jodar subiu do 150º lugar em janeiro para o 11º após a final do Masters de Xangai. Chwalinska, 145ª em janeiro, deve chegar à 11ª posição após o título do WTA 1000 de Wuhan.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/salto-jodar-chwalinska-ranking/",
+          "time": "18/10"
+        },
+        {
+          "title": "Em meio a retorno, Rune sofre nova lesão e é baixa de última hora em Bruxelas",
+          "summary": "O dinamarquês desistiu antes da estreia no ATP 250 de Bruxelas por dor nas costas. Ele voltou em setembro após quase um ano afastado por ruptura do tendão de Aquiles e deve estar apto para os últimos torneios do ano.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/rune-baixa-ultima-hora-bruxelas/",
+          "time": "18/10"
+        },
+        {
+          "title": "João Schiessl vence final brasileira e é campeão em Maringá",
+          "summary": "O brasileiro venceu Pedro Sakamoto por 6/3 e 6/4 no ITF M15 de Maringá, em quadra de saibro. É o quarto título profissional dele, que ainda deve perder posições no ranking por ter muitos pontos a defender.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/schiessl-campeao-maringa/",
+          "time": "18/10"
+        },
+        {
+          "title": "Sem vencer há 4 meses, Perricard faz desabafo e revela momento delicado",
+          "summary": "O francês, que chegou ao 29º lugar em 2025, caiu para 108º e soma oito derrotas seguidas. Ao L'Equipe, disse viver um período muito difícil, com algo próximo de depressão e esgotamento.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/perricard-faz-desabafo/",
           "time": "18/10"
         }
       ]
@@ -529,45 +522,45 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Santos (SP) passa a contar com dois aceleradores lineares para tratar pacientes com câncer",
-          "summary": "O Ministério da Saúde informou que Santos recebeu dois aceleradores lineares, equipamentos usados na radioterapia, ampliando o tratamento oncológico no SUS na cidade.",
+          "title": "Ministério da Saúde mobiliza Força Nacional do SUS para apoiar serviços de saúde no Amazonas",
+          "summary": "Equipe enviada em 11/10 faz diagnóstico da rede de saúde do estado diante dos efeitos das queimadas. O levantamento definirá o apoio federal, que pode incluir hospitais de campanha, após reconhecimento da emergência em 36 municípios.",
           "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/santos-sp-passa-a-contar-com-dois-aceleradores-lineares-para-tratar-pacientes-com-cancer",
-          "time": "17/10"
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-mobiliza-forca-nacional-do-sus-para-apoiar-servicos-de-saude-no-amazonas",
+          "time": "13/10"
         },
         {
-          "title": "Aprovada MP que torna obrigatória a avaliação dos estudantes de medicina durante a graduação",
-          "summary": "O Congresso aprovou a medida provisória que passa a exigir avaliação dos estudantes de medicina ao longo do curso, segundo o Ministério da Saúde.",
+          "title": "Sesai completa 16 anos de atuação na atenção à saúde dos povos indígenas no SUS",
+          "summary": "A secretaria atende mais de 830 mil indígenas aldeados em 34 distritos sanitários especiais. Desde sua criação, a atenção primária indígena passou a ser coordenada diretamente pelo Ministério da Saúde, antes sob a Funasa.",
           "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/aprovada-mp-que-torna-obrigatoria-a-avaliacao-dos-estudantes-de-medicina-durante-a-graduacao",
-          "time": "15/10"
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/sesai-completa-16-anos-de-atuacao-na-atencao-a-saude-dos-povos-indigenas-no-sus",
+          "time": "ontem"
         },
         {
-          "title": "SUS aprova emicizumabe para crianças com hemofilia A",
-          "summary": "O medicamento emicizumabe foi aprovado para uso no SUS em crianças com hemofilia A, segundo o Mix Vale.",
-          "source": "Mix Vale",
-          "url": "https://mixvale.com.br/2026/10/15/sus-aprova-emicizumabe-para-criancas-com-hemofilia-a-no-pais",
-          "time": "15/10"
-        },
-        {
-          "title": "Exame de sangue para detectar sinais de Alzheimer chega ao Brasil com aprovação da Anvisa",
-          "summary": "Um exame de sangue que detecta sinais de Alzheimer foi aprovado pela Anvisa e chega ao país por cerca de R$ 3 mil, segundo o Diário do Nordeste.",
-          "source": "Diário do Nordeste",
-          "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/exame-de-sangue-para-alzheimer-chega-ao-brasil-por-cerca-de-r-3-mil-veja-quem-pode-fazer-1.3799049",
-          "time": "recente"
-        },
-        {
-          "title": "Hospital Geral de Bonsucesso ganha segundo tomógrafo e chega a 450 leitos para o SUS",
-          "summary": "O hospital federal no Rio de Janeiro passou a contar com um segundo tomógrafo e alcançou 450 leitos para atendimento do SUS.",
+          "title": "Circuito de Cuidado da Mulher leva ações de saúde a vários pontos do país",
+          "summary": "Na primeira edição, no sábado (17), houve rastreamento de câncer, orientação contraceptiva, saúde menstrual e saúde mental. Algumas cidades receberam carretas com mamografia, ultrassonografia e colposcopia.",
           "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/hospital-geral-de-bonsucesso-tem-segundo-tomografo-e-chega-a-450-leitos-para-atendimento-do-sus",
-          "time": "15/10"
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-estados-e-municipios-promovem-circuito-de-cuidado-da-mulher-neste-sabado",
+          "time": "16/10"
         },
         {
-          "title": "Roraima inicia radioterapia com o primeiro acelerador linear do SUS no estado",
-          "summary": "Roraima começou a oferecer radioterapia pelo SUS com seu primeiro acelerador linear, segundo o Ministério da Saúde.",
+          "title": "Hospital São Paulo volta a integrar programa de reestruturação de hospitais universitários",
+          "summary": "Vinculado à Unifesp, o hospital retorna ao Rehuf após acordo com a AGU, com cerca de R$ 112 milhões para ensino, pesquisa e extensão voltados ao SUS. O ministro Padilha afirmou que a rede tem 47 hospitais universitários e 13 em construção.",
           "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/roraima-inicia-atendimentos-de-radioterapia-com-primeiro-acelerador-linear-do-sus-no-estado",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/hospital-sao-paulo-volta-a-integrar-programa-de-reestruturacao-de-hospitais-universitarios",
+          "time": "16/10"
+        },
+        {
+          "title": "Profissionais do SUS terão curso gratuito sobre cuidado ao diabetes na Atenção Primária",
+          "summary": "Em parceria com a Sociedade Brasileira de Diabetes, o curso on-line começa pelos profissionais do Mais Médicos e é aberto a outras categorias. A meta é capacitar cerca de 25 mil pessoas em até 12 meses, na plataforma Diabetes Play.",
+          "source": "Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/cuidado-ao-diabetes-na-atencao-primaria-profissionais-do-sus-terao-acesso-a-curso-gratuito-com-certificacao",
+          "time": "14/10"
+        },
+        {
+          "title": "Como acompanhar a saúde da criança pelo celular com a Caderneta Digital no Meu SUS Digital",
+          "summary": "O miniapp mostra vacinas, crescimento, desenvolvimento, saúde bucal e histórico de atendimentos, com acesso gratuito por conta Gov.br. Dados ausentes costumam indicar que o serviço de saúde ainda não enviou a informação à RNDS.",
+          "source": "Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/quer-acompanhar-a-saude-da-crianca-pelo-celular-saiba-como-acessar-a-caderneta-digital-no-meu-sus-digital",
           "time": "14/10"
         }
       ]
