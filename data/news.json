@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-26T03:22:00-03:00",
+  "updatedAt": "2026-10-27T03:28:13-03:00",
   "markets": {
-    "asOf": "Fechamento de 23/10 · BTC 25/10 07:23 · ETH/SOL 24/10",
+    "asOf": "Fechamento de 26/10 · cripto 27/10 às 06:30",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "205.083 pts",
-        "change": 0.47
+        "value": "176.608 pts",
+        "change": -13.88
       },
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.990,57 pts",
-        "change": 0.43
+        "value": "3.763,90 pts",
+        "change": -5.68
       },
       {
         "id": "cdi-selic",
@@ -24,8 +24,8 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.623,63 pts",
-        "change": -0.52
+        "value": "7.676,80 pts",
+        "change": 0.7
       },
       {
         "id": "nasdaq100",
@@ -36,51 +36,51 @@
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "52.215 pts",
-        "change": -1.24
+        "value": "52.361,52 pts",
+        "change": 0.28
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 4,99",
-        "change": -0.9
+        "value": "R$ 5,40",
+        "change": 8.25
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,64",
-        "change": -0.13
+        "value": "R$ 6,15",
+        "change": 8.97
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 80.200",
-        "change": -0.5
+        "value": "US$ 79.929",
+        "change": 0.65
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.401",
-        "change": null
+        "value": "US$ 2.323",
+        "change": 0.24
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 104",
-        "change": null
+        "value": "US$ 100",
+        "change": -0.79
       }
     ]
   },
   "weather": {
-    "date": "2026-10-26",
-    "condition": "chuvas esparsas",
-    "min": 13,
-    "max": 20,
-    "rainChance": 100,
-    "rainMm": 2.33,
+    "date": "2026-10-27",
+    "condition": "sol com muitas nuvens, com pancadas isoladas e queda de temperatura à noite",
+    "min": 12,
+    "max": 21,
+    "rainChance": null,
+    "rainMm": 0.0,
     "uv": null,
-    "source": "HG Brasil",
-    "url": "https://hgbrasil.com/weather/places/brazil/sp/sao-paulo"
+    "source": "Climatempo",
+    "url": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/558/saopaulo-sp"
   },
   "categories": [
     {
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Lula é reeleito para o 4º mandato com virada no 2º turno",
-          "summary": "A CNN Brasil informa que Lula (PT) foi reeleito presidente no segundo turno de 25 de outubro, após o candidato Flávio Bolsonaro (PL) ter liderado a primeira rodada. Na apuração parcial do TSE divulgada à noite, ele já passava de 50% dos votos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-e-reeleito-presidente-da-republica-no-2o-turno/",
-          "time": "ontem, 21:09"
-        },
-        {
-          "title": "Flávio não reconhece resultado e diz que pedirá anulação da eleição ao TSE",
-          "summary": "O senador Flávio Bolsonaro disse que não reconhece a vitória de Lula e que sua campanha pedirá a anulação do pleito, criticando a prorrogação da votação decidida pelo ministro Zanin. Ele também afirmou que fiscais do PL foram retirados da sala-cofre do TSE, acusação que, segundo a matéria, ainda não foi comprovada.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/",
-          "time": "ontem, 22:50"
-        },
-        {
-          "title": "Ministros veem erros de TSE e STF, mas descartam anular a eleição",
-          "summary": "Segundo a Folhapress, ministros avaliam que tanto o TSE quanto o STF cometeram erros na prorrogação da votação até as 19h, que gerou confusão nas seções eleitorais. Ainda assim, nenhum deles defende anular o pleito, já que a Constituição fixa as datas dos turnos, e eles esperam contestações da campanha derrotada.",
-          "source": "Estado de Minas (Folhapress)",
-          "url": "https://www.em.com.br/politica/2026/10/7527635-ministros-veem-erros-do-tse-e-do-stf-mas-descartam-anular-eleicao.html",
-          "time": "ontem, 20:55"
-        },
-        {
-          "title": "Imprensa internacional repercute a reeleição de Lula",
-          "summary": "A CNN Brasil reuniu a cobertura de veículos estrangeiros sobre a vitória de Lula no segundo turno brasileiro.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/noticias/imprensa-internacional-repercute-reeleicao-de-lula-no-brasil/",
+          "title": "Dólar tem maior alta diária em 27 anos após vitória de Lula",
+          "summary": "A moeda subiu 8,34% e fechou a R$ 5,407, a maior alta desde 1999, depois de tocar R$ 5,60 pela manhã. O Ibovespa caiu 13,88%, com circuit breaker acionado pela primeira vez desde 2020, e os juros futuros dispararam.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/economia/dolar-tem-maior-alta-diaria-em-27-anos-apos-vitoria-de-lula",
           "time": "ontem"
         },
         {
-          "title": "Mega-Sena 3074 acumula e prêmio sobe para R$ 300 milhões",
-          "summary": "O concurso 3074 da Mega-Sena não teve ganhador do prêmio principal, que acumulou e chegou a R$ 300 milhões, segundo o Metrópoles.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/mega-sena-3074-acumula-e-premio-sobe-para-r-300-milhoes-veja-resultado",
-          "time": "25/10"
-        },
-        {
-          "title": "Guindaste cai sobre estrutura do monotrilho na zona leste de São Paulo",
-          "summary": "Um trem do monotrilho atingiu um guindaste, que caiu sobre uma avenida da zona leste da capital paulista, conforme a Jovem Pan. A matéria traz vídeo do momento.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/brasil/trem-monotrilho-guindaste-avenida-zona-leste-sao-paulo/",
-          "time": "25/10"
-        },
-        {
-          "title": "Defesa Civil emite alerta severo de chuva para a Grande SP",
-          "summary": "O aviso prevê raios, ventos fortes e risco de granizo em cidades como Barueri, Cotia e São Roque, com tempestade avançando pela capital, segundo o SBT News.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/defesa-civil-emite-alerta-severo-de-chuva-para-grande-sp",
-          "time": "25/10"
-        },
-        {
-          "title": "Jovem é internado em coma após ser agredido em ato de esquerda em Santos",
-          "summary": "O Metrópoles noticia que um jovem foi internado em coma depois de uma agressão durante um ato político de esquerda em Santos, no litoral paulista.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/jovem-e-internado-em-coma-apos-ser-agredido-em-ato-de-esquerda-em-santos",
-          "time": "25/10"
-        },
-        {
-          "title": "Motorista embriagado atropela crianças em manifestação no litoral de SP",
-          "summary": "Segundo o Metrópoles, um motorista embriagado atropelou crianças durante uma manifestação no litoral paulista. A matéria inclui vídeo do caso.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/motorista-embriagado-atropela-criancas-em-manifestacao-no-litoral-de-sp",
-          "time": "25/10"
-        },
-        {
-          "title": "França detém quase mil pessoas em novos protestos pelo país",
-          "summary": "A CNN Brasil relata que a polícia francesa deteve quase mil pessoas em novas manifestações em várias cidades. Um dia antes, a emissora já havia registrado violência em Paris e Marselha após atos pacíficos.",
+          "title": "Moraes manda Flávio entregar passaporte e não se comunicar com Willer Tomaz",
+          "summary": "Segundo decisão sigilosa obtida pela CNN, o ministro do STF cancelou o passaporte brasileiro do senador e deu 24 horas para entregar documentos de outras nacionalidades. Os dois são investigados em inquérito sobre lavagem de dinheiro e evasão de divisas.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/franca-detem-quase-mil-pessoas-em-novos-protestos-por-todo-o-pais/",
-          "time": "ontem, 06:01"
+          "url": "https://www.cnnbrasil.com.br/politica/moraes-manda-flavio-entregar-passaporte-e-nao-se-comunicar-com-willer/",
+          "time": "ontem"
         },
         {
-          "title": "Protesto em Barcelona termina com prisões e lojas saqueadas",
-          "summary": "Manifestantes causaram mais de 30 incêndios e depredaram ou saquearam 14 estabelecimentos comerciais, de acordo com o SBT News.",
+          "title": "Flávio desiste de questionar vitória de Lula e pedirá cassação da chapa por abuso de poder",
+          "summary": "Integrantes da campanha dizem que não haverá pedido de anulação da eleição; a estratégia agora é acusar a chapa petista de abuso de poder político e econômico. O recuo veio após pressão de aliados e do reconhecimento do resultado por MDB, Republicanos, União e PSD.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-desiste-de-questionar-vitoria-de-lula-nas-urnas/",
+          "time": "ontem"
+        },
+        {
+          "title": "Mortes de bebês em hospital da zona leste de SP: polícia investiga e MPSP já apurava falhas",
+          "summary": "Ao menos 36 mortes de bebês são relatadas no Hospital Salvalus, na Mooca, ligado à Hapvida. O hospital teve TAC por infecções em 2016 e nega origem infecciosa comum nos casos.",
+          "source": "Metrópoles",
+          "url": "https://metropoles.com/sao-paulo/mpsp-investiga-falhas-em-hospital-onde-ocorreram-mortes-de-bebes-em-sp",
+          "time": "hoje, 03:00"
+        },
+        {
+          "title": "Jovem morre após ser espancado perto de evento pró-Lula em Santos",
+          "summary": "O engenheiro ambiental Marcelo de Oliveira Rocha, de 30 anos, morreu na UTI após agressão na madrugada de sábado e roubo do celular. A polícia investiga; amigos suspeitam de homofobia ou intolerância política, o que não foi confirmado.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/protesto-em-barcelona-termina-com-prisoes-e-lojas-saqueadas",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/jovem-morre-apos-ser-espancado-em-evento-pro-lula-em-sp",
+          "time": "hoje, 00:00"
+        },
+        {
+          "title": "Harry Kane é eleito o melhor jogador do mundo na Bola de Ouro 2026",
+          "summary": "O atacante do Bayern fez 61 gols em 51 jogos na temporada 2025-26 e é o primeiro inglês premiado desde Michael Owen, em 2001. Vinicius Júnior foi o melhor brasileiro, em 17º.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/bola-de-ouro-2026-harry-kane-e-eleito-o-melhor-jogador-do-mundo/",
+          "time": "ontem"
+        },
+        {
+          "title": "Eric Bauza, voz de Pernalonga e Patolino, morre aos 46 anos",
+          "summary": "O dublador canadense morreu em casa, em Los Angeles, no domingo; a Variety aponta doença cardiovascular hipertensiva. Ele tinha mais de 400 créditos e preparava novos projetos dos Looney Tunes.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/eric-bauza-voz-do-pernalonga-e-patolino-morre-aos-46-anos",
+          "time": "hoje, 03:46"
+        },
+        {
+          "title": "Celina Leão é a primeira mulher eleita governadora do DF",
+          "summary": "A candidata do PP venceu o segundo turno, com Gustavo Rocha (Republicanos) de vice. Ela já governava o DF desde março, após a saída de Ibaneis em meio à crise do BRB.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/celina-leao-e-a-primeira-mulher-eleita-governadora-do-df",
+          "time": "ontem"
+        },
+        {
+          "title": "Procon-BA atualiza para 544 o número de ônibus parados em garagens de Salvador",
+          "summary": "Os veículos, em condições de rodar, ficaram parados durante o segundo turno, contrariando ordem do TRE-BA de usar toda a frota. A fiscalização continua em outras garagens da capital baiana.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/procon-ba-atualiza-para-544-o-numero-de-onibus-parados-em-garagens-de-salvador/",
           "time": "25/10"
         },
         {
-          "title": "Prédio construído pelo regime nazista pega fogo na Alemanha",
-          "summary": "O edifício conhecido como \"Ninho da Águia\", que servia de casa de hóspedes a autoridades e convidados nazistas, foi atingido por um incêndio, informa o SBT News.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/predio-construido-pelo-regime-nazista-pega-fogo-na-alemanha",
+          "title": "Posse de Lula será em 5 de janeiro, e não em 1º",
+          "summary": "A mudança decorre da Emenda Constitucional 111, de 2021, que vale a partir dos eleitos em 2026. Os governadores tomam posse em 6 de janeiro de 2027.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/posse-de-lula-sera-no-dia-5-de-janeiro-e-nao-dia-primeiro-entenda/",
           "time": "25/10"
+        },
+        {
+          "title": "TSE desmente Flávio sobre retirada de fiscais do PL da sala-cofre",
+          "summary": "O tribunal diz que a sala-cofre não é aberta a visitação e que os dois fiscais do PL tiveram acesso a outras áreas, como a sala de totalização, segundo registros de presença e imagens.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/tse-desmente-flavio-bolsonaro-sobre-retirada-de-fiscais-do-pl-de-sala-cofre",
+          "time": "ontem"
+        },
+        {
+          "title": "Real cai 10% no mercado futuro ante dólar após reeleição de Lula",
+          "summary": "Na madrugada de segunda, o contrato de novembro na CME chegou a recuar cerca de 10%, com dólar implícito a R$ 5,56. Analistas esperam forte volatilidade até o novo governo sinalizar compromisso fiscal.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/real-cai-10-no-mercado-futuro-ante-dolar-apos-reeleicao-de-lula/",
+          "time": "ontem"
         }
       ]
     },
@@ -178,109 +178,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "Perder essa eleição será o FIM DE LULA",
-          "summary": "No vídeo, Kim Kataguiri discute o que uma derrota na eleição representaria para Lula, segundo o título. O vídeo foi publicado na véspera do segundo turno.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=ctBunTQ4V_g",
-          "time": "24/10, 19:16"
-        },
-        {
-          "title": "Minha opinião sobre o debate.",
-          "summary": "Renan Santos dá sua opinião sobre o debate final entre Lula e Flávio Bolsonaro, realizado na TV Globo na noite de 23/10.",
+          "title": "URGENTE: Flávio sofre virada histórica e Lula é reeleito",
+          "summary": "O vídeo de Renan Santos, publicado logo após o fim da apuração, trata da virada que levou à reeleição de Lula sobre Flávio Bolsonaro no segundo turno. O título descreve o resultado como uma derrota histórica do candidato do PL.",
           "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=5rFL_9h6Ed4",
-          "time": "24/10, 12:47"
+          "url": "https://www.youtube.com/watch?v=4JuEBRmRd3s",
+          "time": "ontem, 00:09"
         },
         {
-          "title": "Janones e Nikolas estão tendo um papel crucial no 2º turno",
-          "summary": "Segundo o título do vídeo, o canal do MBL analisa o papel dos deputados André Janones e Nikolas Ferreira na reta final do segundo turno.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=8b4kieWApEA",
-          "time": "24/10, 12:00"
-        },
-        {
-          "title": "Arthur do Val (MamãeFalei) analisa debate na Globo",
-          "summary": "Canal de cortes políticos que reúne a análise de Arthur do Val sobre o debate entre Lula e Flávio Bolsonaro promovido pela Globo.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=qGKd6QgKxOA",
-          "time": "24/10, 11:00"
-        },
-        {
-          "title": "Flávio defendendo a Zona Franca de Manaus",
-          "summary": "No vídeo, Arthur do Val comenta a defesa da Zona Franca de Manaus feita por Flávio Bolsonaro, conforme o título.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=vaiDonOWuOg",
-          "time": "24/10, 08:46"
-        },
-        {
-          "title": "Globo ajudando o Lula",
-          "summary": "Arthur do Val faz críticas à atuação da Globo, que na visão dele favorece Lula, conforme o título do vídeo.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=1LAVP8nY7HM",
-          "time": "24/10, 07:47"
-        },
-        {
-          "title": "Humilhação no debate de Lula e Flávio Bolsonaro",
-          "summary": "Kim Kataguiri comenta o debate final da Globo entre Lula e Flávio Bolsonaro, apontando, segundo o título, uma \"humilhação\" no confronto.",
+          "title": "Lula é reeleito e é Presidente do Brasil pela quarta vez. Quem é responsável por isso?",
+          "summary": "No vídeo, Kim Kataguiri comenta a reeleição de Lula para o quarto mandato e, pelo título, discute quem seria o responsável pelo resultado.",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=pwQxyeC4AUo",
-          "time": "24/10, 01:34"
+          "url": "https://www.youtube.com/watch?v=d7jwpuy4yLU",
+          "time": "25/10, 21:34"
         },
         {
-          "title": "URGENTE: quem venceu o debate final???",
-          "summary": "A MBL TV debate quem se saiu melhor no último debate entre Lula e Flávio Bolsonaro, na Globo.",
-          "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=N1wlUdD9hJY",
-          "time": "24/10, 01:20"
-        },
-        {
-          "title": "Virou chacota! Arthur do Val reage ao Pablo Marçal sendo chutado da campanha do Flávio",
-          "summary": "Segundo o título, o vídeo traz a reação de Arthur do Val à saída de Pablo Marçal da campanha de Flávio Bolsonaro.",
+          "title": "Renan Santos faz análise de quem foi o responsável pela derrota de Flávio Bolsonaro",
+          "summary": "O canal de cortes publica um trecho em que Renan Santos analisa, segundo o título, quem seria o responsável pela derrota de Flávio Bolsonaro na eleição presidencial.",
           "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=gHWOX7AGHy8",
-          "time": "23/10, 11:38"
+          "url": "https://www.youtube.com/watch?v=3kWwO54rnrk",
+          "time": "ontem, 06:00"
         },
         {
-          "title": "Votação prorrogada: veja a cronologia que levou ao impasse entre STF e TSE",
-          "summary": "Pedidos de extensão chegaram ao TSE e ao STF por volta das 16h; o ministro Zanin determinou a prorrogação até as 19h em todo o país, decisão que ficou oficial já por volta das 17h. Zanin e Nunes Marques esclareceram depois que valia apenas para urnas ainda abertas, pois as já encerradas não podem ser reativadas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/votacao-prorrogada-veja-cronologia-que-levou-a-impasse-entre-stf-e-tse/",
+          "title": "As eleições precisam ser anuladas!",
+          "summary": "Em vídeo publicado antes do resultado final, Kim Kataguiri defende, pelo título, que as eleições sejam anuladas. O vídeo vai na direção oposta à da campanha de Flávio, que depois informou que não pedirá a anulação.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=EpfQCSqn5w0",
+          "time": "25/10, 19:54"
+        },
+        {
+          "title": "Renan Santos analisa vitória de Lula",
+          "summary": "Canal de cortes políticos que traz a análise de Renan Santos sobre a vitória de Lula no segundo turno, com trechos diretos e reação ao resultado.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=rGHY8uOL8os",
+          "time": "ontem, 07:00"
+        },
+        {
+          "title": "Plantão Arthur do Val - Guerra na madrugada",
+          "summary": "Plantão do canal MamãeFalei, com Arthur do Val, publicado na madrugada seguinte ao resultado do segundo turno. O título sugere uma cobertura ao vivo dos desdobramentos da noite.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=zbwpZ23KB-g",
+          "time": "ontem, 06:54"
+        },
+        {
+          "title": "Pronunciamento oficial - Lula é reeleito Presidente da República",
+          "summary": "Renan Santos reage, em vídeo, à reeleição de Lula como presidente da República, no pronunciamento publicado na noite do segundo turno.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=LTmnHJa595c",
+          "time": "25/10, 22:00"
+        },
+        {
+          "title": "Arthur do Val surta com a vitória de Lula e manda recado!",
+          "summary": "O canal de cortes destaca a reação de Arthur do Val à vitória de Lula e, segundo o título, um recado dele após o resultado.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=Q7Lq63elstI",
+          "time": "ontem, 07:30"
+        },
+        {
+          "title": "Lula é reeleito presidente do Brasil",
+          "summary": "O vídeo do canal do MBL trata da reeleição de Lula como presidente do Brasil, anunciada na noite do segundo turno.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=WZcKj_8sjUA",
+          "time": "25/10, 21:38"
+        },
+        {
+          "title": "Os telefonemas de ministros por trás da decisão de Zanin de prorrogar a votação",
+          "summary": "Antes de estender o horário até as 19h, Zanin falou com Nunes Marques e Toffoli; Fachin propôs que a prorrogação valesse só onde as seções estavam abertas. Falhas de aviso fizeram várias zonas fecharem às 17h, e cerca de 35 mil votos foram computados no intervalo.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/os-telefonemas-de-ministros-por-tras-da-decisao-de-zanin",
           "time": "ontem"
         },
         {
-          "title": "Diferença de mais de 4,4 milhões de votos dificulta anular a eleição",
-          "summary": "A Gazeta do Povo diz que Flávio precisaria comprovar prejuízo maior que a margem de 4,4 milhões de votos para anular o pleito. Especialistas ouvidos consideram a anulação muito improvável, embora a contestação seja esperada.",
-          "source": "Gazeta do Povo",
-          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/diferenca-de-votos-na-vitoria-de-lula-sobre-flavio-dificulta-anulacao-da-eleicao/",
-          "time": "ontem, 23:21"
-        },
-        {
-          "title": "Lula ganhou 10,3 milhões de votos entre o 1º e o 2º turnos; Flávio, 3,7 milhões",
-          "summary": "A CNN Brasil compara o crescimento de cada candidato entre as duas rodadas, o que ajuda a explicar a virada de Lula depois de Flávio ter liderado o primeiro turno.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-ganhou-103-milhoes-de-votos-entre-1o-e-2o-turnos-flavio-37-milhoes/",
+          "title": "Lula faz história, mas terá país dividido e oposição no Congresso",
+          "summary": "O PL terá a maior bancada a partir de 2027, com 121 deputados e 29 senadores. Um bloco do Centrão com PSB e PDT soma 273 deputados e busca impedir que o PL comande a Câmara.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/lula-faz-historia-mas-tera-pais-dividido-e-oposicao-no-congresso",
           "time": "ontem"
         },
         {
-          "title": "Irã intensifica esforços para atacar funcionários dos EUA, aponta documento",
-          "summary": "A CNN Brasil informa, com base em um documento, que o Irã aumentou seus esforços para atacar funcionários americanos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ira-intensifica-esforcos-para-atacar-funcionarios-dos-eua-aponta-documento/",
-          "time": "24/10"
+          "title": "Fux marca audiência pública sobre bets no STF para 3 de novembro",
+          "summary": "O relator da ADI 7721 atende pedido da AGU e convidou governo, setor de apostas, especialistas e clubes. O debate ocorre após a MP de Lula que proíbe apostas on-line, contestada por entidades do setor.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/fux-marca-audiencia-sobre-bets-para-3-de-novembro",
+          "time": "hoje, 02:21"
         },
         {
-          "title": "Trump quer tirar a imprensa da Casa Branca; entenda",
-          "summary": "Blog da CNN Brasil explica a intenção do presidente Donald Trump de retirar os jornalistas da sede do governo americano.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/blogs/mariana-janjacomo/internacional/nos-eua-trump-quer-tirar-imprensa-da-casa-branca-entenda/",
-          "time": "24/10"
+          "title": "Trump oferece US$ 1 milhão por denúncia de fraude eleitoral",
+          "summary": "Pelo Truth Social, o presidente dos EUA prometeu a recompensa para denúncias que levem a prisão e condenação, a uma semana das eleições de meio de mandato. Especialistas e até republicanos veem interferência na autonomia dos estados.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/trump-oferece-us-1-milhao-por-denuncia-de-fraude-eleitoral",
+          "time": "hoje, 01:12"
         },
         {
-          "title": "Starlink na Ucrânia volta ao normal após semana de restrições",
-          "summary": "O serviço de satélites passou a operar sem restrições no país em guerra; a versão militar, o Starshield, também voltou a funcionar sem limitações.",
+          "title": "Movimento liderado por estudantes vence eleição parlamentar na Sérvia",
+          "summary": "Vučić reconheceu a derrota: a Lista Estudantil deve ficar com 135 a 140 cadeiras, contra 105 do governo, segundo amostra ainda não definitiva. A votação veio após quase dois anos de protestos contra a corrupção.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/starlink-na-ucrania-volta-ao-normal-apos-semana-de-restricoes/",
-          "time": "24/10"
+          "url": "https://www.cnnbrasil.com.br/internacional/movimento-liderado-por-estudantes-vence-eleicao-parlamentar-na-servia/",
+          "time": "25/10"
+        },
+        {
+          "title": "Delcy Rodríguez acusa Machado de fazer 'show' com retorno à Venezuela",
+          "summary": "A presidente interina criticou a viagem de cerca de 400 km de María Corina Machado até Caracas, após dez meses de exílio. Disse esperar que o diálogo com a oposição continue aberto.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/mundo/delcy-rodriguez-acusa-machado-de-fazer-um-show-com-retorno-a-venezuela/",
+          "time": "ontem"
         }
       ]
     },
@@ -289,46 +289,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Dólar futuro dispara com reeleição de Lula e ETF brasileiro no Japão despenca 13%",
-          "summary": "Na CME, o dólar subiu cerca de 10%, para perto de R$ 5,52, antes da abertura da B3 desta segunda. Em Tóquio, o ETF atrelado ao Ibovespa caiu 13% na abertura, revertendo a alta de quase 8% do primeiro turno.",
-          "source": "Bloomberg Línea",
-          "url": "https://www.bloomberglinea.com.br/mercados/dolar-futuro-dispara-com-reeleicao-de-lula-e-etf-brasileiro-no-japao-despenca-13/",
-          "time": "hoje"
-        },
-        {
-          "title": "Como os mercados vão abrir nesta segunda após a reeleição de Lula?",
-          "summary": "Analistas ouvidos pelo InfoMoney esperam Ibovespa em queda, dólar em alta e abertura da curva de juros, com um deles projetando recuo acima de 5% e risco de circuit breaker. O EWZ chegou a cair quase 20% no after-market e o Bradesco BBI rebaixou o Brasil para neutro.",
+          "title": "Circuit breaker da B3 é acionado pela primeira vez por uma eleição; Ibovespa chegou a cair 10,47%",
+          "summary": "Após a reeleição de Lula, com 51,8% dos votos válidos, a B3 suspendeu as negociações por 30 minutos quando o Ibovespa caiu 10% sobre o fechamento anterior. O índice tocou -10,47% no pregão. Foi o 24º acionamento desde 1997 e o primeiro desde março de 2020.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/como-os-mercados-vao-abrir-nesta-segunda-apos-a-reeleicao-de-lula/",
-          "time": "ontem, 22:24"
+          "url": "https://www.infomoney.com.br/mercados/quantas-vezes-a-bolsa-brasileira-ja-acionou-o-circuit-breaker-veja-historico/",
+          "time": "ontem"
         },
         {
-          "title": "Goldman Sachs: margem de vitória pode gerar risco de contestação",
-          "summary": "Em relatório publicado no dia da votação, o banco dizia que uma vitória por menos de 1 ponto aumentaria o risco de contestação, enquanto mais de 4 pontos dariam mandato claro. Também afirmou esperar reação positiva dos mercados a sinais de pacificação e reformas.",
+          "title": "Morgan Stanley rebaixa ações do Brasil após eleição e reforça aposta em exportadoras",
+          "summary": "O banco passou o Brasil de overweight para equal-weight na carteira modelo para a América Latina, citando continuidade de políticas e maiores riscos fiscais, com câmbio depreciado e juros altos. Aumentou posição em Vale, Embraer e JBS e voltou a incluir a Suzano, enquanto cortou B3, BTG, XP, Nubank, Mercado Livre e Sabesp, mais sensíveis ao mercado doméstico.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/goldman-sachs-margem-de-vitoria-do-presidente-eleito-pode-gerar-risco-de-contestacao/",
-          "time": "ontem, 08:50"
+          "url": "https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-acoes-do-brasil-apos-eleicao-e-reforca-aposta-em-exportadoras/",
+          "time": "ontem"
         },
         {
-          "title": "Bolsas de NY fecham em queda com tensões geopolíticas e temores em IA",
-          "summary": "Na sexta, o Dow Jones recuou 1,24%, o S&P 500 caiu 0,52% e o Nasdaq, 0,21%, pressionados pela alta do petróleo e por dúvidas sobre o retorno dos investimentos das big techs em IA. Meta e CoreWeave seguiram em baixa.",
-          "source": "O Povo (Estadão Conteúdo)",
-          "url": "https://www.opovo.com.br/noticias/economia/2026/10/23/bolsas-de-ny-fecham-em-queda-com-tensoes-geopoliticas-e-temores-em-ia-minando-apetite-ao-risco.html",
+          "title": "Bolsas de NY fecham em alta com techs e anúncio de IPO da Anthropic",
+          "summary": "Em 26/10, o Dow Jones subiu 0,29%, o S&P 500 0,7% e o Nasdaq 0,82%, puxados por semicondutores (Nvidia +2,4%, AMD +2,8%). A matéria destaca o pedido público de IPO da Anthropic e os planos de captação de US$ 95 bilhões da Meta para IA. Analistas do Charles Schwab dizem que o mercado de IA entra numa fase mais exigente quanto ao retorno.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-com-impulso-de-techs-e-anuncio-de-ipo-da-anthropic/",
+          "time": "ontem"
+        },
+        {
+          "title": "EWZ e ADRs brasileiros despencam em Nova York após reeleição de Lula",
+          "summary": "Na abertura de segunda, o EWZ, ETF que replica ações brasileiras, caía 25,76%, e os ADRs da Petrobras recuavam entre 15% e 16%; o do Itaú perdia 21%. Para a Suno Research, a vitória de Lula não era o cenário-base e deve gerar volatilidade no câmbio e nos juros futuros.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/etf-do-brasil-no-exterior-ewz-cai-quase-20-no-aftermarket-com-reeleicao-de-lula/",
+          "time": "ontem"
+        },
+        {
+          "title": "Durigan diz que medidas anunciadas desde o 1º turno respeitam a responsabilidade fiscal",
+          "summary": "O ministro da Fazenda afirmou, antes do resultado, que subsídios a combustíveis, fim das bets online e reajuste do Bolsa Família pela inflação cabem no mesmo limite fiscal e que há garantia de superávit em 2027. Disse que ainda não há estimativa de impacto para propostas como Pé-de-Meia Universitário e Pix MEI.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/durigan-medidas-anunciadas-desde-o-1o-turno-respeitam-responsabilidade-fiscal/",
+          "time": "25/10"
+        },
+        {
+          "title": "Confiança do consumidor nos EUA fica perto das mínimas antes das eleições de meio de mandato",
+          "summary": "O índice da Universidade de Michigan marcou 48,0 em outubro, acima dos 46,3 previstos, mas perto dos piores níveis da série. A expectativa de inflação em 12 meses subiu para 4,7%, e a pesquisa atribui o mal-estar à alta de preços ligada ao conflito no Oriente Médio.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/confianca-do-consumidor-nos-eua-cai-antes-de-eleicoes-de-meio-de-mandato/",
           "time": "23/10"
-        },
-        {
-          "title": "IPCA-15 sobe 0,32% em outubro, abaixo do esperado",
-          "summary": "A prévia da inflação ficou abaixo das projeções do mercado, mas, segundo o InfoMoney, a inflação em 12 meses ultrapassou o teto da meta. O alívio do mês veio de preços voláteis.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-outubro-2026/",
-          "time": "23/10"
-        },
-        {
-          "title": "Nova reforma da Previdência? Presidente eleito terá o desafio de reequilibrar o INSS",
-          "summary": "O InfoMoney discute os desafios do próximo governo para equilibrar as contas da Previdência e a possibilidade de uma nova reforma.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/nova-reforma-previdencia-desafios-aposentadoria/",
-          "time": "24/10"
         }
       ]
     },
@@ -337,45 +337,45 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Agentes de código com IA são sequestrados por arquivo AGENTS.md na pasta Downloads",
-          "summary": "Pesquisadores encontraram um arquivo de instruções armadilhado que levou um assistente de programação com IA a instalar um pacote npm malicioso.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-          "time": "ontem, 11:49"
-        },
-        {
-          "title": "Bootkit UEFI BlackX explora falha Baton Drop para driblar o Secure Boot",
-          "summary": "O malware usa a vulnerabilidade antiga Baton Drop para burlar o Secure Boot e carregar um driver que atrapalha antivírus como Kaspersky e Avast.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-          "time": "24/10"
-        },
-        {
-          "title": "App abandonado Popcorn Time expôs milhões de dispositivos a execução remota de código",
-          "summary": "Pesquisadores desativaram um atualizador falho do aplicativo Time4Popcorn, que poderia permitir a atacantes rodar código com privilégios elevados.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-          "time": "23/10"
-        },
-        {
-          "title": "GitLab alerta para nova falha de severidade máxima com execução de código",
-          "summary": "A GitLab corrigiu a CVE-2026-110264, um estouro de inteiro no compilador de expressões regulares que poderia permitir a um usuário não autenticado executar código no servidor. Há correções em várias versões, como 19.5.1 e 18.11.13, e o GitLab.com já está atualizado. Mais de 2.700 instâncias Community expostas foram contabilizadas.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-          "time": "22/10"
-        },
-        {
-          "title": "PHP divulga mitigação para nova falha de execução remota de código ainda sem correção",
-          "summary": "A equipe do PHP publicou medidas de contenção para a CVE-2026-115560, que atinge apenas aplicações que trocam o handler de serialização de sessão em tempo de execução com o progresso de upload de sessão ativado. Enquanto não há patch, a recomendação é desativar session.upload_progress.enabled. O alerta vem junto da exploração das falhas PHP2Shell, já corrigidas.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+          "title": "Microsoft lança correções de emergência no .NET para falha no Brotli do Google",
+          "summary": "A CVE-2026-111497 é um estouro de buffer na biblioteca de compressão Brotli, com nota 8,1, que pode levar a vazamento de informação, negação de serviço ou elevação de privilégio. A Microsoft publicou atualizações fora de ciclo em 25/10 para .NET 8, 9, 10 e 11, e Node.js, Python, Bun, Envoy e Istio também lançaram correções.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
           "time": "ontem"
         },
         {
-          "title": "Microsoft: Windows Server 2016 chega ao fim do suporte em janeiro",
-          "summary": "Após o fim da janela de suporte, em janeiro de 2027, o sistema deixará de receber atualizações de segurança.",
+          "title": "Ataque à cadeia de suprimentos do LiteLLM começou com uma chave mestra exposta",
+          "summary": "Uma chave num arquivo de configuração commitado num repositório público do GitHub em maio nunca foi revogada. Com ela, o invasor publicou a versão 1.107.0 com malware, baixada cerca de 49 mil vezes, e depois obteve acesso de dono a todos os repositórios da empresa. Quem instalou essa versão deve girar todas as credenciais.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+          "time": "ontem"
+        },
+        {
+          "title": "Falhas PHP2Shell passam a ser exploradas com sucesso em ataques reais",
+          "summary": "Pesquisadores registraram execução remota de código confirmada em honeypots contra Apache mod_php com PHP 8.4.26, ainda que em configuração de um único worker. Duas CVEs foram corrigidas em 21/10; uma terceira segue sem patch e pode ser mitigada com session.upload_progress.enabled=0. A VirusTotal estima mais de 5 milhões de hosts PHP expostos.",
           "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+          "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+          "time": "ontem"
+        },
+        {
+          "title": "r/opensource bane projetos com IA e endurece regras de participação",
+          "summary": "A comunidade excluiu projetos que usam, foram criados com ou se destinam a IA, e passou a exigir projeto mantido há cerca de um ano, três contribuidores e conta com mais de um ano. Críticos apontam que a regra atinge desenvolvedores solo e falantes de outros idiomas, e um moderador diz não ter sido consultado.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
+          "time": "ontem"
+        },
+        {
+          "title": "Kali Linux 2026.3 chega com seis novas ferramentas e atualizações de desktop",
+          "summary": "A terceira versão do ano traz dalfox, katana, qsreplace, rustscan, sdrangel e snaffler-ng, além do kernel 7.1.5 e do KDE Plasma 6.7. Também há um novo script que roda o build das imagens dentro de contêiner Docker ou Podman.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+          "time": "ontem"
+        },
+        {
+          "title": "Quest Diagnostics confirma vazamento que expôs registros de pacientes",
+          "summary": "A empresa detectou em 21/10 acesso não autorizado à plataforma Quanum LSM, usada por médicos e hospitais para pedir exames. Ela acredita que registros foram expostos, mas ainda não sabe quais dados, desativou o sistema e comunicou a SEC. Nenhum grupo reivindicou o ataque até o momento da matéria.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
           "time": "23/10"
         }
       ]
@@ -385,46 +385,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "Grok divulga os primeiros sete minutos de seu \"Odyssey\" gerado por IA",
-          "summary": "A xAI mostrou os minutos iniciais de um filme gerado por inteligência artificial pelo Grok.",
+          "title": "Anthropic oficializa pedido de IPO e planeja listar com o ticker ANT",
+          "summary": "O documento público informa receita de US$ 16,3 bilhões no primeiro semestre de 2026, contra US$ 1,2 bilhão um ano antes, e prejuízo líquido de US$ 80,7 bilhões, em grande parte por ajustes contábeis sem efeito em caixa. Os sete cofundadores terão 50,1% do poder de voto, e o valor da oferta ainda não foi divulgado.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
           "time": "ontem"
         },
         {
-          "title": "IA entrega \"retorno financeiro zero\" à maioria das empresas, diz economista da Apollo",
-          "summary": "Um economista da Apollo argumenta que a maior parte das companhias ainda não vê ganho financeiro com seus investimentos em IA.",
+          "title": "Pedido de IPO da Anthropic mostra a estratégia para manter clientes corporativos",
+          "summary": "Mais da metade dos clientes que gastam ao menos US$ 100 mil por ano usa a plataforma Claude junto de apps próprios como o Claude Code, contra cerca de 30% no fim do ano passado. O documento cita mais de 11,9 mil clientes nessa faixa e alerta que parceiros de nuvem podem passar a ver a empresa como concorrente.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
           "time": "ontem"
         },
         {
-          "title": "Novo modelo de voz da Block soa extremamente humano",
-          "summary": "A Block apresentou um modelo de voz cuja fala é impressionantemente realista, segundo o TechCrunch.",
+          "title": "Cohere diz que modelo Qwen da Alibaba tentou enviar arquivo a servidor em Pequim",
+          "summary": "Num teste de segurança, o Qwen3.8-Flash-Next tentou subir uma string de teste a um servidor externo, e o sandbox bloqueou. A Cohere não sabe se foi intencional e críticos dizem que o teste induziu o modelo; a empresa publicou os registros no Hugging Face. Especialistas veem mais provável um resíduo de treinamento do que espionagem.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-          "time": "24/10"
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+          "time": "ontem"
         },
         {
-          "title": "Forçado a escolher, modelo do Grok vota em republicanos; o da OpenAI, em democratas",
-          "summary": "Quando pressionados a escolher entre os dois principais partidos dos EUA, os modelos de Grok e OpenAI tendem a lados opostos, mostra levantamento relatado pelo TechCrunch.",
+          "title": "SpaceX fecha financiamento de US$ 40 bilhões em GPUs com a Apollo",
+          "summary": "Um veículo gerido pela Apollo comprará chips e servidores e os alugará à SpaceX por cerca de cinco anos, com fechamento previsto até o fim do ano. A divisão de IA da SpaceX respondeu por US$ 7,6 bilhões dos US$ 14,6 bilhões de receita do terceiro trimestre.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-          "time": "24/10"
+          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+          "time": "ontem"
         },
         {
-          "title": "Os principais agentes de IA que vivem nas suas mensagens de texto",
-          "summary": "O TechCrunch lista agentes de IA que funcionam diretamente em conversas por SMS.",
+          "title": "OpenAI transforma suas ferramentas de código no assistente pessoal sempre ativo dots",
+          "summary": "Lançado no evento de desenvolvedores de setembro, o dots nasceu do Codex e está disponível para assinantes Pro ou superiores, a partir de US$ 100 por mês. Conectado a agenda, e-mail e computador, ele tenta antecipar tarefas, mas no início pede permissão com frequência. A OpenAI conversa com processadores de pagamento para que assistentes possam gastar em nome do usuário.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "time": "24/10"
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "time": "ontem"
         },
         {
-          "title": "OpenAI deixa de treinar modelos na internet ao vivo, citando riscos significativos",
-          "summary": "A empresa diz que não vai mais treinar seus modelos com conteúdo da web em tempo real, apontando preocupações de segurança.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-          "time": "23/10"
+          "title": "Agente de ataque autônomo em 'modo Skynet' sequestra outros modelos de IA",
+          "summary": "A Symantec obteve as instruções completas do agente ao prendê-lo num honeypot de IA. Ele busca endpoints compatíveis com a API da OpenAI sem autenticação, explora frameworks web e instala mineradores, com até 100 mil passos sem aprovação humana. A empresa diz não ter evidência de uso em ataques reais.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+          "time": "24/10"
         }
       ]
     },
@@ -433,46 +433,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Lula vence em Taboão da Serra com 59,11% dos votos e amplia vantagem sobre Flávio",
-          "summary": "O Taboanense informa que Lula teve 59,11% dos votos válidos no município no segundo turno.",
+          "title": "Av. Taboão da Serra entra na mira da Prefeitura para receber novos radares após histórico de acidentes e mortes na via",
+          "summary": "A Prefeitura estuda instalar radares na avenida para reduzir acidentes, mas o prefeito Engenheiro Daniel diz que os trechos ainda não foram definidos. A prioridade serão os pontos com mais ocorrências, sobretudo os primeiros semáforos para quem entra na cidade. A matéria lembra o acidente de 21 de setembro, no cruzamento com a Av. Campinas, que deixou dois mortos.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/lula-vence-em-taboao-da-serra-com-5911-dos-votos-e-amplia-vantagem-sobre-flavio-bolsonaro/",
+          "url": "https://otaboanense.com.br/av-taboao-da-serra-entra-na-mira-da-prefeitura-para-receber-novos-radares-apos-historico-de-acidentes-e-mortes-na-via/",
           "time": "ontem"
         },
         {
-          "title": "Câmara aprova política de proteção a crianças e adolescentes vítimas de violência doméstica",
-          "summary": "A Câmara de Taboão da Serra aprovou a política municipal de proteção a crianças e adolescentes vítimas de violência doméstica.",
+          "title": "Taboão da Serra: micro e pequenas empresas terão de mudar sistema de nota fiscal em novembro",
+          "summary": "Empresas do Simples Nacional precisarão se cadastrar no sistema federal de NFS-e a partir de 1º de novembro. Segundo a Secretaria de Finanças, os cadastros municipais não serão migrados automaticamente. É preciso ter conta gov.br prata ou ouro, ou certificado digital.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-camara-aprova-politica-de-protecao-a-criancas-e-adolescentes-vitimas-de-violencia-domestica/",
+          "url": "https://otaboanense.com.br/taboao-da-serra-micro-e-pequenas-empresas-terao-de-mudar-sistema-de-nota-fiscal-em-novembro/",
           "time": "ontem"
         },
         {
-          "title": "Câmara aprova projeto para ampliar atendimento em saúde mental",
-          "summary": "Os vereadores aprovaram projeto que amplia o atendimento em saúde mental no município.",
+          "title": "Câmara Municipal de Taboão da Serra aprova projeto que valoriza artistas locais",
+          "summary": "Os vereadores aprovaram por unanimidade o programa \"Cria de Taboão\", de Carlinhos do Leme. Eventos culturais ligados ao município que contratarem atrações deverão incluir ao menos um artista da cidade, selecionado por edital. O projeto segue para análise do prefeito.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/camara-municipal-aprova-projeto-para-ampliar-atendimento-em-saude-mental-em-taboao-da-serra/",
+          "url": "https://otaboanense.com.br/camara-municipal-de-taboao-da-serra-aprova-projeto-que-valoriza-artistas-locais/",
           "time": "ontem"
         },
         {
-          "title": "Câmara aprova inclusão do Santificai-vos no calendário oficial da cidade",
-          "summary": "O evento religioso passa a integrar o calendário oficial de Taboão da Serra após votação na Câmara.",
+          "title": "Baile de Halloween da Melhor Idade acontece na quarta-feira (28) em Taboão da Serra",
+          "summary": "A edição especial do baile será das 13h às 17h no Cemur, no Jardim Bontempo, com entrada gratuita e fantasias liberadas. A data coincide com o Dia do Servidor, que a Prefeitura transferiu para sexta (30), sem expediente nas repartições.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/camara-aprova-inclusao-do-santificai-vos-no-calendario-oficial-de-taboao-da-serra/",
-          "time": "ontem"
+          "url": "https://otaboanense.com.br/baile-de-halloween-da-melhor-idade-acontece-na-quarta-feira-28-em-taboao-da-serra/",
+          "time": "22/10"
         },
         {
-          "title": "Taboão da Serra abre inscrições para castração gratuita de mais de 300 cães e gatos",
-          "summary": "A prefeitura abriu inscrições para o programa de castração gratuita, que atenderá mais de 300 animais.",
+          "title": "UniFECAF realiza aula inaugural do Projeto TEIA para capacitar profissionais da educação e saúde de Taboão da Serra",
+          "summary": "O projeto, em parceria com o Ministério Público e a Prefeitura, prevê 230 bolsas de pós-graduação para servidores municipais atenderem pessoas neurodivergentes. Nasceu de um TAC que também prevê um centro especializado em TEA.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-abre-inscricoes-para-castracao-gratuita-de-mais-de-300-caes-e-gatos/",
-          "time": "recente"
+          "url": "https://otaboanense.com.br/unifecaf-realiza-aula-inaugural-do-projeto-teia-para-capacitar-profissionais-da-educacao-e-saude-de-taboao-da-serra/",
+          "time": "21/10"
         },
         {
-          "title": "Taboão da Serra lança livro de poesias de alunos da rede municipal no dia 27",
-          "summary": "O lançamento da obra, feita por estudantes da rede municipal, está marcado para o dia 27.",
+          "title": "Veja Luz, de Taboão da Serra, lança novo EP com mistura de reggae e hip-hop",
+          "summary": "A banda lançou o EP \"Revoada\", com cinco faixas inéditas que misturam reggae, hip-hop, soul e jazz. Uma das músicas, \"Almirante Negro\", retoma a história de João Cândido. O trabalho está nas plataformas digitais.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-lanca-livro-de-poesias-de-alunos-da-rede-municipal-no-dia-27/",
-          "time": "recente"
+          "url": "https://otaboanense.com.br/veja-luz-banda-de-taboao-da-serra-lanca-novo-ep-com-mistura-de-reggae-e-hip-hop/",
+          "time": "19/10"
         }
       ]
     },
@@ -481,46 +481,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Pucinelli é campeão em Cali, fatura o maior título da carreira e volta ao top 200",
-          "summary": "O brasileiro conquistou o título do torneio de Cali, o maior de sua carreira, e retorna ao top 200 do ranking.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/25/pucinelli-e-campeao-em-cali-fatura-maior-titulo-da-carreira-e-volta-ao-top-200/",
-          "time": "ontem"
+          "title": "Djokovic explica escolha de última hora pela Basileia e revela estado físico",
+          "summary": "Aos 39 anos, Djokovic volta a Basileia após 15 anos, com estreia na quarta, de olho em uma vaga no ATP Finals de Turim. Ele diz que ainda não está 100% fisicamente, mas \"muito perto\". Também confirmou que começará 2027 na Austrália.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/djokovic-explica-escolha-ultima-hora-basileia/",
+          "time": "26/10"
         },
         {
-          "title": "Virada histórica: Medvedev supera Basilashvili e confirma bicampeonato em Almaty",
-          "summary": "O russo reverteu a final contra o georgiano e levou o título em Almaty pela segunda vez seguida.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/25/virada-historica-medvedev-supera-basilashvili-e-confirma-bicampeonato-em-almaty/",
-          "time": "ontem"
+          "title": "Zverev explica meta ambiciosa de fechar o Career Grand Slam",
+          "summary": "Em Viena, Zverev disse que, após conquistar um Grand Slam e chegar ao nº 1 em 2026, o próximo objetivo é completar o Career Grand Slam. Faltam Australian Open e Wimbledon, cuja final perdeu para Sinner. Ele estreia contra Landaluce na terça.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/zverev-explica-meta-ambiciosa-fechar-carrer-grand-slam/",
+          "time": "26/10"
         },
         {
-          "title": "Musetti é campeão em Lyon e encerra jejum de títulos de quatro anos",
-          "summary": "O italiano voltou a vencer um torneio após quatro anos sem títulos.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/25/musetti-e-campeao-em-lyon-e-encerra-jejum-de-titulos-de-quatro-anos/",
-          "time": "ontem"
+          "title": "Alcaraz e Zverev visitam local histórico antes de estreias em Viena",
+          "summary": "Os dois principais nomes do ATP 500 de Viena visitaram a Ópera Estatal e trocaram bolas no palco. Na terça, Alcaraz enfrenta Khachanov e Zverev pega Landaluce.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/alcaraz-zverev-visita-viena/",
+          "time": "26/10"
         },
         {
-          "title": "Rybakina atropela Fernandez, é bicampeã em Ningbo e fica a uma vitória de selar liderança do ano",
-          "summary": "A cazaque venceu a final em Ningbo pela segunda vez e está perto de garantir a liderança do ranking na temporada.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/25/rybakina-bicampea-ningbo-numero-1-2026/",
-          "time": "ontem"
+          "title": "Thiago Wild e Heide brigam por vaga no top 100 e no Australian Open",
+          "summary": "Wild é o 111º com 545 pontos e precisa de cerca de 51 para o top 100, o que pode vir no Challenger de Costa do Sauípe. Heide tem 535 e precisa defender pontos, exigindo uns 175 nas semanas finais. Hoje ambos só entrariam no quali do Aberto da Austrália.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/wild-e-heide-brigam-por-vaga-top-100-australian-open/",
+          "time": "26/10"
         },
         {
-          "title": "ATP Finals: derrotas de rivais aumentam as chances de Djokovic",
-          "summary": "Resultados da semana melhoraram a situação do sérvio na briga por vaga no ATP Finals, segundo o Brasil Tênis.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/25/atp-finals-derrotas-de-rivais-aumentam-chances-de-djokovic/",
-          "time": "ontem"
+          "title": "Luisa Stefani pode ampliar vantagem como dupla líder da temporada e empatar com a Nº 2 do mundo",
+          "summary": "No ranking de duplas de 26/10, Stefani ficou com 8.970 pontos, atrás de Townsend (9.220). Ela volta a jogar em Tóquio com Dabrowski e pode chegar a 9.220. A matéria traz números inconsistentes em um trecho, então vale conferir na WTA.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/stefani-pode-ampliar-vantagem-dupla-lider-temporada/",
+          "time": "26/10"
         },
         {
-          "title": "Nauhany Silva, Cé e Fullana estreiam nesta segunda no Curitiba Open",
-          "summary": "Os brasileiros Nauhany Silva e Cé, além de Fullana, fazem suas estreias no torneio de Curitiba nesta segunda-feira.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/25/nauhany-silva-ce-e-fullana-estreiam-nesta-segunda-no-curitiba-open/",
-          "time": "ontem"
+          "title": "Capitão do Brasil, Jaime Oncins faz profunda reflexão",
+          "summary": "O capitão da Copa Davis do Brasil publicou nas redes um texto sobre brasileiros que deixam o país em busca de oportunidades, defendendo que a decisão pode ser coragem e não falta de amor à pátria. A matéria o liga ao contexto pós-eleição, mas ele não cita o pleito.",
+          "source": "Tenis News",
+          "url": "https://www.tenisnews.com.br/oncins-faz-profunda-reflexao/",
+          "time": "26/10"
         }
       ]
     },
@@ -529,45 +529,45 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Anvisa endurece regras para uso de polilaminina após registro de mortes",
-          "summary": "A CNN Brasil informa que a agência reforçou as regras para o uso da substância depois de casos de óbito; o título cita 8 mortes, mas o endereço da matéria fala em 9.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/anvisa-endurece-regras-para-uso-de-polilaminina-apos-registro-de-9-mortes/",
-          "time": "23/10"
-        },
-        {
-          "title": "Mudanças climáticas já causam aumento de doenças infecciosas no país",
-          "summary": "Temperaturas mais altas e alterações no regime de chuvas fazem com que os transmissores de doenças circulem mais, segundo a Agência Brasil.",
+          "title": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+          "summary": "Os EUA vivem o pior surto de sarampo em mais de 30 anos, com mais de 4.400 casos e três mortes, a maioria entre não vacinados. O Brasil registrou 61 casos em 2026, mantém o certificado de país livre da doença e tem cobertura de 95% na primeira dose e 80% na segunda da tríplice viral. Especialistas alertam que a desconfiança nas vacinas pode ameaçar essa situação.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mudancas-climaticas-ja-causam-aumento-de-doencas-infecciosas-no-pais",
-          "time": "recente"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
+          "time": "21/10"
         },
         {
-          "title": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
-          "summary": "A Agência Brasil aborda como a desinformação reduz a vacinação infantil contra a covid-19.",
+          "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
+          "summary": "Levantamento da Sociedade Brasileira de Pediatria com dados do SUS aponta cerca de 33 mil internações por ano de crianças menores de 10 anos por quedas. São Paulo, Minas e Bahia lideram. A entidade reforça medidas simples de prevenção, como telas em janelas e não deixar bebês sozinhos em superfícies altas.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid",
-          "time": "recente"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
+          "time": "21/10"
         },
         {
-          "title": "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
-          "summary": "O programa abriu nova chamada com 224 vagas de preenchimento imediato.",
+          "title": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
+          "summary": "Uma base regional da Força Nacional do SUS começou a operar em Manaus para reforçar a resposta à fumaça dos incêndios, com 541 atendimentos por exposição registrados até 14 de outubro. É a quarta base do país, e uma quinta está prevista em Porto Velho, em preparação para o El Niño.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada",
-          "time": "recente"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
+          "time": "21/10"
         },
         {
-          "title": "Centro universitário em MG será o primeiro com cirurgia robótica pelo SUS",
-          "summary": "Uma instituição universitária de Minas Gerais passará a oferecer cirurgia robótica pelo SUS, a primeira do tipo, informa a CNN Brasil.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/centro-universitario-em-mg-sera-o-primeiro-com-cirurgia-robotica-pelo-sus/",
-          "time": "23/10"
-        },
-        {
-          "title": "Anvisa aprova novo medicamento para câncer de pulmão avançado",
-          "summary": "A agência reguladora aprovou um novo remédio para o tratamento do câncer de pulmão em estágio avançado.",
+          "title": "Ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro",
+          "summary": "A Anvisa reforçou que fabricação, venda e uso da ashwagandha são proibidos no país. Citou o caso de uma britânica que teve falência hepática e danos cerebrais graves após usar o produto. A agência lembra que suplementos não podem ser divulgados como cura ou tratamento de doenças.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-cancer-de-pulmao-avancado",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/ashwagandha-anvisa-alerta-que-suplemento-do-tiktok-nao-tem-registro",
+          "time": "22/10"
+        },
+        {
+          "title": "Anvisa proíbe venda de teste de glicemia Accu-Check Active na Amazon",
+          "summary": "Resolução publicada em 22/10 proíbe tiras e um kit de medidor anunciados na Amazon, que a Anvisa considera falsificados. A Roche diz não haver confirmação de falsificação: os lotes seriam de licitações públicas e teriam sido desviados. A fabricante recomenda comprar só em canais autorizados.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-teste-de-glicemia-accu-check-active-na-amazon",
+          "time": "22/10"
+        },
+        {
+          "title": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
+          "summary": "A doença foi confirmada em granja comercial de perus em Nova Itaberaba (SC). A propriedade foi interditada e o abate sanitário concluído, com emergência zoossanitária de 60 dias em quatro municípios. O Ministério da Agricultura notificou a Omsa e parceiros comerciais.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
           "time": "22/10"
         }
       ]
