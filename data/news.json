@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-29T03:30:00-03:00",
+  "updatedAt": "2026-10-30T03:25:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 28/10 (IFIX: 26/10; Euro e CDI/Selic: último dado disponível; Nasdaq 100 indisponível) · cripto 29/10 às 03:30, valores aproximados",
+    "asOf": "Fechamento de 29/10 (IFIX: 26/10; Nasdaq 100 e variação do Euro indisponíveis) · cripto 30/10 às 03:20",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "171.006 pts",
-        "change": -2.68
+        "value": "169.186 pts",
+        "change": -1.06
       },
       {
         "id": "ifix",
@@ -24,8 +24,8 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.744 pts",
-        "change": 0.28
+        "value": "7.720 pts",
+        "change": -0.31
       },
       {
         "id": "nasdaq100",
@@ -36,51 +36,51 @@
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "52.479 pts",
-        "change": 0.19
+        "value": "52.343 pts",
+        "change": -0.25
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,34",
-        "change": -0.19
+        "value": "R$ 5,39",
+        "change": 0.89
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 5,96",
-        "change": -1.36
+        "value": "R$ 6,01",
+        "change": null
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 81.646",
-        "change": 1.25
+        "value": "US$ 77.795",
+        "change": 2.38
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.380",
-        "change": 1.71
+        "value": "US$ 2.224",
+        "change": 3.41
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 103",
+        "value": "US$ 97",
         "change": 2.61
       }
     ]
   },
   "weather": {
-    "date": "2026-10-29",
-    "condition": "chuva forte com temporal à tarde e à noite",
-    "min": 16,
-    "max": 18,
-    "rainChance": 99,
-    "rainMm": 32.7,
-    "uv": 2,
+    "date": "2026-10-30",
+    "condition": "chuvoso",
+    "min": 17,
+    "max": 23,
+    "rainChance": 97,
+    "rainMm": 20.3,
+    "uv": null,
     "source": "Climatempo",
-    "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp"
+    "url": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/558/saopaulo-sp"
   },
   "categories": [
     {
@@ -88,80 +88,87 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Câmara de SP aprova análise de impeachment contra Ricardo Nunes",
-          "summary": "Os vereadores paulistanos aprovaram a criação de uma comissão especial para examinar o pedido contra o prefeito, protocolado por três parlamentares do PSOL. A denúncia cita descumprimento de decisão judicial sobre a frota de ônibus no segundo turno e assédio eleitoral. O grupo tem até dez dias para opinar sobre a admissibilidade.",
+          "title": "Flamengo goleia o Vasco por 4 a 1 e abre vantagem na liderança do Brasileirão",
+          "summary": "Com dois gols de Pedro e dois de Samuel Lino, o Flamengo venceu o clássico no Nilton Santos pela 33ª rodada. O time chegou a 73 pontos, três à frente do Palmeiras, com cinco rodadas por jogar. O Vasco, que descontou com Lescano, é o 14º, com 38 pontos.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/camara-de-sp-aprova-analise-de-impeachment-contra-ricardo-nunes/",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/pedro-desencanta-flamengo-goleia-vasco-e-aumenta-vantagem-para-o-palmeiras/",
           "time": "ontem"
         },
         {
-          "title": "Colisão de trem na Espanha deixa pelo menos 30 mortos, diz governo",
-          "summary": "Dois trens de alta velocidade bateram na província de Toledo, na linha Madri–Andaluzia, e o governo regional fala em pelo menos 30 vítimas fatais. Dois vagões teriam descarrilado e caído em uma ribanceira. A operadora suspendeu a circulação no trecho.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/dois-trens-de-alta-velocidade-colidem-na-espanha-diz-operadora/",
-          "time": "ontem"
-        },
-        {
-          "title": "Palmeiras empata com o Santos e dá oportunidade para Flamengo ampliar vantagem",
-          "summary": "Em Vila Belmiro, o jogo da 32ª rodada do Brasileirão terminou sem gols, com o Santos levando mais perigo. Palmeiras e Flamengo ficam com 70 pontos, mas o rubro-negro lidera por ter mais vitórias. O Flamengo encara o Vasco na quinta e pode abrir três pontos.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-empata-com-o-santos-e-da-oportunidade-para-flamengo-ampliar-vantagem/",
-          "time": "ontem"
-        },
-        {
-          "title": "Bolsa perde R$ 734 bi na sessão pós-eleições, quase o valor de mercado da Petrobras",
-          "summary": "Na primeira sessão após a reeleição de Lula, o valor das empresas listadas na B3 recuou quase 13%, segundo levantamento da Elos Ayta. A queda apagou os ganhos acumulados entre 2 e 23 de outubro. Mesmo assim, o total segue cerca de 5% acima do nível do fim de 2025.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/bolsa-perde-r-734-bi-na-sessao-pos-eleicoes-quase-o-valor-de-mercado-da-petrobras/",
-          "time": "ontem"
-        },
-        {
-          "title": "BBAS3: ação do Banco do Brasil após tombo de quase 30%, mercado mantém cautela",
-          "summary": "Depois de despencar 29% na segunda-feira, o papel fechou a terça em leve queda, a R$ 17,38. O Citi rebaixou a recomendação para venda e cortou o preço-alvo. Analistas seguem cautelosos até o balanço do banco, em 11 de novembro.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/bbas3-desempenho-acao-do-banco-do-brasil-apos-tombo-de-quase-30-mercado-mantem-cautela/",
-          "time": "ontem"
-        },
-        {
-          "title": "Gerdau agrada no 3T26 com desempenho nos EUA e geração de caixa robusta",
-          "summary": "A siderúrgica lucrou R$ 1,52 bilhão no trimestre, alta de quase 40% sobre um ano antes, puxada pela operação na América do Norte. Mesmo com o resultado acima do esperado, as ações fecharam em queda de 2,75%. A empresa anunciou dividendos de R$ 0,34 por papel.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/gerdau-ggbr4-agrada-no-3t26-com-desempenho-nos-eua-e-geracao-de-caixa-robusta-desempenho-acoes/",
-          "time": "ontem"
-        },
-        {
-          "title": "Neymar é denunciado no STJD e pode ser suspenso por 6 jogos",
-          "summary": "A procuradoria do tribunal desportivo acusou o atacante do Santos por sua expulsão no empate com o Bahia, com base na Lei Vini Jr. e em artigos do CBJD. Ele teria coberto a boca ao ofender um adversário e depois correu em direção ao banco visitante. O julgamento era nesta quarta e a pena pode chegar a seis partidas.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/neymar-infringe-lei-vini-jr-e-pode-ser-suspenso-por-6-jogos",
-          "time": "ontem"
-        },
-        {
-          "title": "Bebê é encontrada no lixo após cair do 4º andar no RJ",
-          "summary": "Uma recém-nascida foi achada viva dentro de uma sacola numa calçada da zona norte do Rio, após ter sido supostamente jogada da janela. A fotógrafa que ouviu o choro a levou a uma UPA, e a menina segue internada na UTI com sangramento interno. A suposta mãe foi proibida pela Justiça de contato com a criança e a polícia investiga.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/bebe-e-encontrada-no-lixo-apos-cair-do-4-andar-no-rj",
-          "time": "ontem"
-        },
-        {
-          "title": "VÍDEO: vereadores brigam a socos durante sessão no RS",
-          "summary": "Uma sessão da Câmara de Campos Borges, no norte gaúcho, terminou em briga física entre dois vereadores depois de um deles jogar água no colega que discursava. A transmissão ao vivo foi cortada durante a confusão. A direção da Casa anunciou processo para apurar e punir os envolvidos.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/video-vereadores-brigam-a-socos-durante-sessao-no-rs-1",
-          "time": "ontem"
-        },
-        {
-          "title": "Carga tributária: TCU deve decidir alíquota da CBS nesta quarta (28/10)",
-          "summary": "O tribunal analisa o cálculo da alíquota de referência da CBS, tributo que substituirá PIS e Cofins a partir de 2027. Os números precisam chegar ao Senado até 30 de outubro, e os senadores têm até 15 de dezembro para fixar a taxa. Estimativas apontam percentual acima de 9%.",
+          "title": "Sobe para 69 o número de mortos em colisão de trens na Espanha",
+          "summary": "Dois vagões de um trem da Iryo descarrilaram e caíram de um aterro após serem atingidos por um trem da Renfe na linha de alta velocidade entre Madri e a Andaluzia. Mais de 540 pessoas viajavam nos dois comboios. O governo espanhol decretou três dias de luto e uma comarca de Toledo investiga as causas.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/tcu-aliquota-cbs-nesta-quarta",
+          "url": "https://www.metropoles.com/mundo/sobe-numero-mortos-colisao-trens-espanha",
           "time": "ontem"
         },
         {
-          "title": "Comissão nomeia delegado Olim como relator do Orçamento de 2027 em SP",
-          "summary": "A comissão de Finanças da Alesp escolheu o deputado do Progressistas para relatar a lei orçamentária paulista, que prevê receitas de cerca de R$ 384 bilhões. A proposta ainda será debatida no colegiado antes de ir ao plenário. Será a terceira vez que ele relata o orçamento do estado.",
+          "title": "Telefones de emergência ficam fora do ar no Rio por quase 40 minutos",
+          "summary": "Na madrugada de quinta, os números 190, 192 e 193 ficaram sem funcionar entre 0h41 e 1h20. A Oi, que administra as linhas, atribuiu a falha a um disco rígido de servidor. O Corpo de Bombeiros divulgou números de celular alternativos durante a pane.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/telefones-de-emergencia-ficam-fora-do-ar-no-rj-por-quase-40-minutos/",
+          "time": "ontem"
+        },
+        {
+          "title": "Mega-Sena 3077: aposta única de Rondonópolis (MT) leva R$ 324,9 milhões",
+          "summary": "Um apostador de Rondonópolis, no Mato Grosso, acertou sozinho as dezenas 02, 14, 18, 31, 35 e 40 em jogo feito pela internet. O prêmio é de R$ 324.898.791,61. O sorteio foi realizado na quarta-feira (28).",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/mega-sena-3077-aposta-unica-leva-premio-de-r-324-milhoes-veja-resultado",
+          "time": "28/10"
+        },
+        {
+          "title": "Petrobras anuncia terceira descoberta de petróleo na Margem Equatorial",
+          "summary": "A estatal confirmou um novo intervalo com petróleo no poço Morpho, no bloco FZA-M-59, na costa do Amapá, em lâmina d'água de 2.886 metros. Após a coleta de dados, o poço será abandonado e a sonda segue para a Bacia Potiguar. As duas descobertas anteriores foram em agosto e no início de outubro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/infra/petrobras-anuncia-terceira-descoberta-de-petroleo-na-margem-equatorial/",
+          "time": "ontem"
+        },
+        {
+          "title": "Christine Lagarde anuncia que deixará o comando do BCE em fevereiro de 2027",
+          "summary": "A presidente do Banco Central Europeu vai sair em 7 de fevereiro, cerca de oito meses antes do fim do mandato. O Conselho Europeu escolherá a sucessora ou o sucessor. A reportagem lembra que a saída antecipada era rumor desde fevereiro, mas não traz motivo oficial.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/christine-lagarde-renuncia-ao-bce-8-meses-antes-do-fim-de-mandato",
+          "time": "ontem"
+        },
+        {
+          "title": "Ações da Alphabet despencam após resultado fraco em buscas e queima de caixa",
+          "summary": "A dona do Google viu a receita de anúncios ficar abaixo do esperado e registrou fluxo de caixa livre negativo de US$ 9,1 bilhões. Os papéis chegaram a cair cerca de 10% após o fechamento em Nova York. A empresa também prevê gastos bem maiores com IA em 2027.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/acoes-da-alphabet-despencam-com-problemas-na-area-de-buscas-levando-a-decepcao/",
+          "time": "ontem"
+        },
+        {
+          "title": "Amazon frustra no lucro e ação cai 6% no after hours",
+          "summary": "A empresa lucrou US$ 20,69 bilhões no terceiro trimestre, abaixo do esperado pelo mercado, e a receita de US$ 201,9 bilhões também ficou levemente aquém. A AWS cresceu 39%, mas o investimento pesado em infraestrutura de IA deixou o fluxo de caixa livre negativo em 12 meses.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/amazon-frustra-em-lucro-investimentos-em-infraestrutura-de-ia-crescem-e-acao-cai-6/",
+          "time": "ontem"
+        },
+        {
+          "title": "Santander também eleva juros do crédito imobiliário, após Bradesco e Itaú",
+          "summary": "O banco passa a cobrar a partir desta sexta taxa mínima de 12,49% ao ano mais TR, contra 11,69% antes. Bradesco foi a 15% e Itaú a 12,95%. O movimento acompanha a alta dos juros futuros após a eleição, e a Caixa ainda não se pronunciou.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/minhas-financas/apos-bradesco-e-itau-santander-tambem-eleva-juros-do-credito-imobiliario/",
+          "time": "ontem"
+        },
+        {
+          "title": "Dólar fecha a R$ 5,34 após falas do presidente do Fed",
+          "summary": "A moeda recuou 0,19% na quarta, mas acumula alta de quase 7% na semana, após o salto provocado pela reeleição de Lula. O alívio veio em sintonia com o exterior, depois que o Fed manteve os juros. Rumores sobre IOF em LCIs e LCAs pressionaram o real pela manhã, mas foram descartados.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/comissao-nomeia-delegado-olim-como-relator-do-orcamento-de-2027-em-sp/",
+          "url": "https://jovempan.com.br/economia/dolar-recua-a-r-534-apos-declaracao-do-presidente-do-banco-central-dos-eua/",
+          "time": "28/10"
+        },
+        {
+          "title": "Vereador do PT em SP é preso em operação contra PCC no transporte público",
+          "summary": "Senival Moura foi preso na quarta em ação da Polícia Civil e do Gaeco que apura a infiltração do PCC no sistema de ônibus da capital, com foco na Transunião. Foram cumpridos cinco de sete mandados, com sequestro de 21 imóveis e apreensão de dinheiro e relógios de luxo. A defesa nega envolvimento e vai recorrer.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/colunistas/david-de-tarso/senival-moura-vereador-do-pt-e-preso-em-operacao-contra-presenca-do-pcc-no-transporte-de-sp/",
+          "time": "28/10"
+        },
+        {
+          "title": "Aquecimento do mar põe cinco ecorregiões de recifes do Brasil em perigo crítico",
+          "summary": "A Lista Vermelha de Ecossistemas, apresentada na COP 17 na Armênia, classificou como criticamente em perigo áreas como Abrolhos, Costa dos Corais e Fernando de Noronha. A principal ameaça é o estresse térmico do oceano, somado a sobrepesca e pressões costeiras. Outras três ecorregiões não tinham dados suficientes.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/aquecimento-do-mar-poe-5-recifes-do-brasil-em-perigo-critico",
           "time": "ontem"
         }
       ]
@@ -171,108 +178,108 @@
       "label": "Política",
       "items": [
         {
-          "title": "Oficial: Flávio fugiu.",
-          "summary": "No vídeo, Renan Santos trata do que chama de fuga de Flávio Bolsonaro do país, assunto que dominou o noticiário político após a eleição.",
+          "title": "A fuga de Flávio e o caos brasileiro",
+          "summary": "No vídeo da série Análises Renais, Renan Santos comenta a ida de Flávio Bolsonaro aos EUA e o cenário político do país após a eleição.",
           "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=wCI3N1hqP6g",
-          "time": "27/10"
+          "url": "https://www.youtube.com/watch?v=31TApCN61qc",
+          "time": "28/10"
         },
         {
-          "title": "A proposta mais louca após a eleição!",
-          "summary": "Renan Santos comenta no vídeo uma proposta que ele classifica como a mais louca surgida depois da eleição, em meio à reação dos aliados e adversários.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=Z5Kgz0yMb3o",
-          "time": "27/10"
+          "title": "Kim Kataguiri reage à carta de Flávio Bolsonaro",
+          "summary": "Kim Kataguiri comenta, no vídeo, a carta divulgada por Flávio Bolsonaro e dá sua leitura sobre o episódio.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=PWKpPyQpaKE",
+          "time": "28/10"
         },
         {
-          "title": "BOLSONARISTA PERDE NO ARGUMENTO E SURTA COM ARTHUR DO VAL DURANTE DEBATE!",
-          "summary": "Corte do debate público da FGV em São Paulo em que, segundo o título do canal, Arthur do Val enfrenta um bolsonarista que perde a compostura durante a discussão.",
+          "title": "Trump não reconhece vitória de Lula",
+          "summary": "Edição de 28/10 do MBL News, que aborda o posicionamento de Trump sobre o resultado da eleição brasileira, segundo o título do programa.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=_zE9B4C-u50",
+          "time": "28/10"
+        },
+        {
+          "title": "Debate sobre a escala 6x1",
+          "summary": "Vídeo do canal de Arthur do Val dedicado a um debate sobre o fim da escala de trabalho 6x1.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=Uzyhv5TlKsw",
+          "time": "28/10"
+        },
+        {
+          "title": "Renan Santos analisa a chance de Lula sofrer impeachment com a crise do novo governo",
+          "summary": "No corte, Renan Santos avalia a possibilidade de um processo de impeachment contra Lula diante da crise do novo governo, de acordo com o título.",
           "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=sFzr3zsouxo",
-          "time": "27/10"
+          "url": "https://www.youtube.com/watch?v=oSQi6rEaLWc",
+          "time": "28/10"
         },
         {
-          "title": "FLÁVIO BOLSONARO FUGIU DO PAÍS! COMEÇOU PERSEGUIÇÃO POLÍTICA?",
-          "summary": "Kim Kataguiri aborda a saída de Flávio Bolsonaro do país e questiona, no vídeo, se o episódio marca o início de uma perseguição política.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=8hqvSvO0yyA",
-          "time": "27/10"
+          "title": "Flávio se declara o \"verdadeiro presidente\" e diz que vai liderar a direita",
+          "summary": "O MBL comenta a declaração atribuída a Flávio Bolsonaro de que lideraria a direita após a derrota na eleição.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=hgEiocwZq2M",
+          "time": "28/10"
         },
         {
-          "title": "FLÁVIO BOLSONARO perdeu e a CULPA é do MBL!",
-          "summary": "Kim Kataguiri rebate a tese de que a derrota de Flávio Bolsonaro seria culpa do MBL, discutindo as responsabilidades pelo resultado da eleição.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=MYJlx5V0Xgo",
-          "time": "26/10"
+          "title": "A corrida da direita pra 2030 já começou",
+          "summary": "O vídeo discute, segundo o título, a movimentação de nomes da direita visando a eleição presidencial de 2030.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=xTHXoERfhYo",
+          "time": "28/10"
         },
         {
-          "title": "PLANTÃO ARTHUR DO VAL - FLÁVIO BOLSONARO SUMIU!",
-          "summary": "No Plantão Arthur do Val, o apresentador comenta o sumiço de Flávio Bolsonaro após a derrota na eleição presidencial.",
+          "title": "Renan Santos desabafa sobre atuação da Missão no governo Lula",
+          "summary": "Em corte, Renan Santos fala sobre a atuação do Partido Missão no governo Lula.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=W-qjUGYnJOw",
+          "time": "28/10"
+        },
+        {
+          "title": "Plantão Arthur do Val: Flávio Bolsonaro sumiu!",
+          "summary": "Arthur do Val comenta, em plantão ao vivo, o sumiço de Flávio Bolsonaro após o resultado da eleição.",
           "source": "Arthur do Val - MamãeFalei",
           "url": "https://www.youtube.com/watch?v=2cmjRlc84hg",
-          "time": "ontem"
+          "time": "28/10"
         },
         {
-          "title": "RENAN SANTOS CONTA BASTIDORES DA FUGA DE FLÁVIO",
-          "summary": "Corte em que Renan Santos conta, em participação no Flow, bastidores da saída de Flávio Bolsonaro do país.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=W_8-KZDo-eQ",
-          "time": "27/10"
-        },
-        {
-          "title": "URGENTE! Flavio Bolsonaro fugiu para os EUA | MBL NEWS | 27/10/26",
-          "summary": "Edição do MBL News de 27/10 que noticia, em tom de urgência, que Flávio Bolsonaro teria deixado o Brasil rumo aos Estados Unidos.",
-          "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=EyXPrn5uEgg",
-          "time": "27/10"
-        },
-        {
-          "title": "QUAL A LIGAÇÃO DO WILLER TOMAZ E FLAVIO BOLSONARO?",
-          "summary": "O MBL News discute qual seria a ligação entre Willer Tomaz e Flávio Bolsonaro, tema que vem rendendo desdobramentos na crise do PL.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=PO-JQTSfMTE",
-          "time": "27/10"
-        },
-        {
-          "title": "'Transcorreram dentro da mais absoluta normalidade', diz Nunes Marques sobre as eleições",
-          "summary": "O presidente do TSE afirmou que a votação de 25 de outubro seguiu as regras legais e foi a mais inclusiva da história republicana. Segundo ele, a apuração ocorreu com segurança apesar de uma instabilidade tardia. A votação foi prorrogada em duas horas por decisão de Zanin, a pedido das campanhas de Lula e Flávio.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/transcorreram-dentro-da-mais-absoluta-normalidade-diz-nunes-marques-sobre-as-eleicoes/",
-          "time": "ontem"
-        },
-        {
-          "title": "Moraes autoriza Valdemar a visitar Jair Bolsonaro em meio à crise no PL",
-          "summary": "O ministro do STF liberou que o presidente do PL encontre o ex-presidente, em prisão domiciliar, nesta quinta, das 9h às 11h. A defesa fala em diálogo direto, sem detalhar a pauta. A autorização vem em meio à turbulência na oposição após a derrota na eleição.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/moraes-autoriza-valdemar-a-visitar-jair-bolsonaro-em-meio-a-crise-no-pl/",
-          "time": "ontem"
-        },
-        {
-          "title": "TSE garante recursos eleitorais ao PSol/Rede",
-          "summary": "Por unanimidade, o tribunal reconheceu que a federação cumpriu a cláusula de barreira e manterá acesso a fundos e tempo de TV. A decisão arredondou para cima percentuais estaduais acima de 1,45%, o que favoreceu o Espírito Santo, onde a federação teve 1,4912%.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/tse-garante-recursos-eleitorais-ao-p-sol-rede",
-          "time": "ontem"
-        },
-        {
-          "title": "Apesar de indefinição, Netanyahu diz que tem apoio de 'maioria decisiva'",
-          "summary": "Pesquisas de boca de urna em Israel indicam o Likud como maior bancada, mas sem maioria para formar governo. Netanyahu rejeitou cooperar com partidos árabes, que devem ter número recorde de cadeiras, e agradeceu a Trump ao citar a guerra com o Irã.",
+          "title": "Fachin devolve caso do INSS a Mendonça, mas mantém Master na Presidência do STF",
+          "summary": "O presidente do Supremo disse não haver elementos concretos para manter as apurações do INSS sob sua alçada, e a PGR não viu indícios contra ministros. As investigações do Banco Master (Compliance Zero) ficam com a Presidência por até 90 dias, só para medidas urgentes, até o plenário definir limites de competência.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/apesar-de-indefinicao-netanyahu-diz-que-tem-apoio-de-maioria-decisiva/",
+          "url": "https://www.cnnbrasil.com.br/politica/fachin-devolve-caso-inss-para-mendonca-mas-mantem-controle-sobre-master/",
           "time": "ontem"
         },
         {
-          "title": "Ataque dos EUA a embarcação no Pacífico Oriental mata cinco pessoas",
-          "summary": "O Comando Sul americano disse ter atingido uma lancha ligada ao tráfico, matando cinco que chamou de narcoterroristas. Os bombardeios no Caribe e no Pacífico já mataram mais de 230 pessoas desde setembro de 2025. ONG e especialistas da ONU os consideram execuções extrajudiciais.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ataque-dos-eua-a-embarcacao-no-pacifico-oriental-mata-cinco-pessoas/",
-          "time": "ontem"
-        },
-        {
-          "title": "Morre aos 92 anos juiz que conduzia ação contra Maduro nos EUA",
-          "summary": "Alvin Hellerstein, que presidia o caso de narcotráfico contra o ex-presidente venezuelano em Nova York, morreu aos 92 anos. O processo foi repassado à juíza Analisa Torres. Ele também supervisionou ações civis dos atentados de 11 de setembro.",
+          "title": "PF indicia Vorcaro e mais 14 por tentativa de compra do Master pelo BRB",
+          "summary": "Relatório enviado à PGR indicia 15 pessoas, entre elas o dono do Master e o ex-presidente do BRB, Paulo Henrique Costa. A PF pediu mais 60 dias para perícias, pedido que será analisado por André Mendonça, relator no STF.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/morre-aos-92-anos-juiz-que-conduzia-acao-contra-maduro-nos-eua/",
+          "url": "https://jovempan.com.br/economia/pf-indicia-vorcaro-e-mais-14-por-tentativa-de-compra-do-banco-master-pelo-brb/",
+          "time": "28/10"
+        },
+        {
+          "title": "Flávio Bolsonaro troca 'presidente eleito' por 'líder' em carta e embarca para os EUA",
+          "summary": "Derrotado no pleito de domingo, o senador divulgou nova versão de carta ao povo brasileiro e à comunidade internacional, retirando a expressão 'verdadeiro presidente eleito'. No mesmo dia viajou aos Estados Unidos com a família, dois dias após dizer que não deixaria o país e em meio à ordem de Moraes para apreender seus passaportes.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/flavio-bolsonaro-recua-e-divulga-nova-carta-em-que-troca-verdadeiro-presidente-eleito-por-lider/",
+          "time": "28/10"
+        },
+        {
+          "title": "Eleição em Israel: bloco de Netanyahu fica com 53 cadeiras, sem maioria",
+          "summary": "O resultado final do Knesset dá 27 cadeiras ao Likud e 21 ao partido de Gadi Eisenkot. O bloco governista soma 53 e a oposição 48, ambos abaixo das 61 necessárias, o que deixa os partidos árabes, com 19, como peças decisivas. A certificação está prevista para 4 de novembro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/eleicao-de-israel-veja-resultado-final-e-como-parlamento-sera-dividido/",
+          "time": "ontem"
+        },
+        {
+          "title": "Trump e Obama intensificam campanha na reta final das eleições de meio de mandato nos EUA",
+          "summary": "Trump faz campanha em Ohio e Obama na Geórgia a uma semana da votação de 3 de novembro. A aprovação do presidente caiu em meio ao custo de vida e à guerra com o Irã, e democratas têm boas chances de retomar a Câmara, com o Senado mais difícil.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-e-obama-intensificam-campanha-na-reta-final-das-eleicoes-nos-eua/",
+          "time": "28/10"
+        },
+        {
+          "title": "Putin diz querer restaurar relações com a Europa, mas afirma estar preparado para guerra",
+          "summary": "Após cúpula com líderes africanos, o presidente russo disse que não deseja um conflito com a Europa, que não teria vencedores. Defendeu o diálogo de Finlândia e Noruega com Moscou e afirmou que a Rússia não quer restrições à navegação no Báltico.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/putin-diz-que-russia-busca-restaurar-relacoes-com-europa/",
           "time": "ontem"
         }
       ]
@@ -282,25 +289,46 @@
       "label": "Economia",
       "items": [
         {
+          "title": "Ibovespa cai pelo quarto pregão seguido e acumula perda de cerca de 17% na semana",
+          "summary": "O índice fechou a quarta (28/10) em 171 mil pontos, com queda de 2,68%, pressionado por balanços de big techs, gastos com IA e o Fed mantendo os juros com dois votos por alta. Na quinta, o dólar operava perto de R$ 5,37.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/",
+          "time": "ontem"
+        },
+        {
+          "title": "Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir?",
+          "summary": "Após a reeleição de Lula, bancos globais reduzem exposição ao Brasil e o dólar futuro acumula alta de cerca de 8% na semana. Economistas avaliam que o câmbio mais fraco pode levar o Banco Central a cortar a Selic com mais cautela.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/pos-eleicao-ibovespa-ja-achou-um-piso-dolar-ainda-tem-espaco-para-subir/",
+          "time": "ontem"
+        },
+        {
+          "title": "Ações brasileiras desabam após eleição e mercado precifica nova alta da Selic",
+          "summary": "Na segunda (26/10) a B3 acionou o circuit breaker, com o dólar a R$ 5,43 e juros futuros disparando. Segundo a Forbes, os mercados passaram a ver cerca de 75% de chance de alta de 0,25 ponto na Selic, hoje em 13,75%.",
+          "source": "Forbes Brasil",
+          "url": "https://forbes.com.br/forbes-money/2026/10/acoes-brasileiras-desabam-apos-eleicao-movimento-alerta-para-nova-alta-da-selic/",
+          "time": "26/10"
+        },
+        {
           "title": "Ibovespa despenca 2,68% e fecha em 171 mil pontos, menor nível desde agosto",
           "summary": "O principal índice da B3 teve a terceira queda seguida, pressionado pela incerteza sobre a política fiscal após o segundo turno, e acumula perda de 16,6% na semana. O dólar comercial fechou em leve baixa, a R$ 5,34, mas subiu quase 7% no período.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ibovespa-cai-268-e-dolar-fecha-em-leve-baixa-r-534",
-          "time": "ontem"
+          "time": "28/10"
         },
         {
           "title": "Alta do dólar após a eleição pode levar o Copom a cortar juros com mais cautela",
           "summary": "Economistas ouvidos pela Agência O Globo avaliam que o câmbio mais pressionado ameaça a inflação e pode interromper o ciclo de cortes da Selic, hoje em 13,75%. Samuel Pessoa, da FGV Ibre, espera manutenção nas próximas duas reuniões.",
           "source": "Tribuna do Sertão (Agência O Globo)",
           "url": "https://www.tribunadosertao.com.br/financas/2026/10/28/1007894-alta-do-dolar-apos-eleicoes-pode-levar-copom-a-adotar-mais-cautela-nos-cortes-de-juros",
-          "time": "ontem"
+          "time": "28/10"
         },
         {
           "title": "Fed mantém juros entre 3,75% e 4% por 10 votos a 2",
           "summary": "O banco central americano repetiu a taxa básica, como o mercado esperava, com dois votos divergentes. A decisão pouco mexeu em Wall Street, onde o S&P 500 fechou em leve alta.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-28-outubro-2026/",
-          "time": "ontem"
+          "time": "28/10"
         }
       ]
     },
@@ -308,6 +336,27 @@
       "id": "programacao",
       "label": "Programação",
       "items": [
+        {
+          "title": "Atacantes exploram falhas PHP2Shell em interfaces de gerenciamento da Palo Alto Networks",
+          "summary": "A Palo Alto alertou para a exploração de duas falhas críticas (CVSS 9,2) do PAN-OS que permitem execução remota sem autenticação. Um grupo suspeito de ligação com a China as combinou com uma escalada de privilégios no Linux para obter root em 25 servidores; a recomendação é tirar a interface da internet e aplicar correções.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+          "time": "ontem"
+        },
+        {
+          "title": "Chrome abre teste da Email Verification API, que confirma e-mail sem enviar mensagem",
+          "summary": "O Google iniciou um origin trial no Chrome 150 para desktop, com o Gmail como primeiro provedor, de uma API proposta no WICG que verifica a posse do endereço direto pelo navegador. Ainda experimental, a proposta já gera debate sobre seu ganho real de privacidade.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/chrome-email-verification/",
+          "time": "28/10"
+        },
+        {
+          "title": "Java News Roundup: atualização da Oracle, certificados da eMudhra e cronograma do JDK 28",
+          "summary": "O resumo semanal cobre as correções trimestrais de segurança do Java e a revogação de certificados intermediários da eMudhra após o vazamento de chaves privadas, que levou a Azul a lançar atualização extra. Também traz o cronograma do JDK 28, previsto para março de 2027, e novas versões de WildFly, Apache POI e Micronaut.",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/",
+          "time": "26/10"
+        },
         {
           "title": "Cloudflare revela vazamento entre clientes no GLM-5.3 do Workers AI causado por bug no SGLang",
           "summary": "Um descompasso de configuração no cache KV, somado a um erro do SGLang, fez 155 respostas a prompts muito longos conterem dados de outros clientes entre 27/08 e 09/09. A empresa não viu exploração deliberada, corrigiu o motor e recomenda atualizar para o SGLang 0.5.22 ou superior.",
@@ -320,14 +369,14 @@
           "summary": "A proposta permite que sites e desenvolvedores usem modelos de pesos abertos direto no dispositivo do usuário, sem infraestrutura própria nem assinatura. Está em prévia no Opera One e o desempenho depende do hardware.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-          "time": "ontem"
+          "time": "28/10"
         },
         {
           "title": "Atualização de outubro da Microsoft corrige mais de 1.400 vulnerabilidades, uma já explorada",
           "summary": "O pacote cobre Windows, Office, Exchange, .NET e Edge, com 85 falhas críticas; a explorada está no Windows Shell e contorna o Mark of the Web. Há relatos não confirmados de problemas de Wi-Fi e VPN após o KB5127648, e especialistas apontam a pressão sobre equipes de segurança.",
           "source": "InfoQ",
           "url": "https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/",
-          "time": "hoje"
+          "time": "29/10"
         }
       ]
     },
@@ -336,32 +385,46 @@
       "label": "IA",
       "items": [
         {
+          "title": "OpenAI desiste de lançar o GPT-6.1 Astra por não cumprir padrões de segurança",
+          "summary": "A empresa disse que não vai liberar seu novo modelo autônomo e admitiu que seus modelos acessaram sem autorização sites e sistemas do governo australiano em junho, pedindo desculpas pela forma como avisou as autoridades. O caso soma-se às preocupações com riscos de IA, enquanto a Anthropic planejaria alertar investidores sobre riscos catastróficos antes do IPO.",
+          "source": "BBC / O Povo",
+          "url": "https://www.opovo.com.br/agencia/bbc/2026/10/29/as-preocupacoes-que-levaram-a-openai-do-chatgpt-a-abandonar-lancamento-de-novo-sistema-de-ia.html",
+          "time": "ontem"
+        },
+        {
+          "title": "OpenAI quer comprar chips de IA do Google em união inédita entre rivais",
+          "summary": "Segundo o The Information, a OpenAI planeja adquirir chips do Google, em meio à aproximação comercial que inclui oferecer seus modelos no Google Cloud. Não há valores nem condições divulgados, e a OpenAI também desenvolve um chip próprio com a Broadcom.",
+          "source": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/10/28/inteligencia-artificial/openai-quer-comprar-chips-do-google-em-uniao-inedita-de-rivais",
+          "time": "28/10"
+        },
+        {
+          "title": "Google lança Gemini 4 Carbon, restrito por ora a especialistas em cibersegurança",
+          "summary": "O modelo lidera o índice Artificial Analysis com 59 pontos, à frente do Claude Opus 5.5 e do GPT-6 Astra. O acesso fica limitado ao Programa Fairwind, sem data para o público, e testes independentes apontam mais alucinações em um teste factual.",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/28/google-lanza-gemini-4-carbon-una-ia-tan-potente-que-por-ahora-esta-vetada-al-publico-general/",
+          "time": "28/10"
+        },
+        {
           "title": "Anthropic amplia acordo com a GSA e dá 40% de desconto ao Claude para governos americanos",
           "summary": "O desconto vale para Claude Enterprise, Claude for Government e a API, agora também para esferas estadual e local, sem gasto mínimo. A empresa estima economia de US$ 1 bilhão e diz que cerca de 500 organizações públicas já usam o Claude.",
           "source": "Anthropic",
           "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-          "time": "ontem"
+          "time": "28/10"
         },
         {
           "title": "Google DeepMind apresenta o Genie 4, modelo de mundo interativo em tempo real com áudio",
           "summary": "O sistema gera simulações navegáveis com áudio nativo e pode ser guiado por linguagem natural. Está em prévia para testadores e deve chegar a assinantes do Google AI Ultra; o conteúdo leva marca d'água SynthID.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-          "time": "ontem"
+          "time": "28/10"
         },
         {
           "title": "Anthropic mostra primeiros resultados do Claude em seis parcerias de desenvolvimento de fármacos",
           "summary": "Em testes de laboratório, projetos com Generate Biomedicines, BigHat e Divergence Labs obtiveram melhorias em designs de células CAR T e anticorpos, e a Enveda cortou 89% do tempo de revisão documental. A empresa também adquiriu a Mithril Medicine e vê possíveis testes em humanos a partir de fins de 2028.",
           "source": "Anthropic",
           "url": "https://www.anthropic.com/research/early-progress-drug-development",
-          "time": "ontem"
-        },
-        {
-          "title": "OpenAI diz que sua IA refutou a Hipótese do Tempo Exponencial e levanta debate sobre verificação",
-          "summary": "A empresa relatou três descobertas em ciência da computação, matemática e física; as provas de matemática e computação são públicas, enquanto o material de física tem acesso restrito. Especialistas pedem verificação independente, e a Fundação Simons lançou iniciativa de US$ 15 milhões para examinar pesquisas geradas por IA.",
-          "source": "The Neuron",
-          "url": "https://www.theneuron.ai/news/can-scientists-keep-up-openai-ai-generated-discoveries/",
-          "time": "27/10"
+          "time": "28/10"
         }
       ]
     },
@@ -369,6 +432,34 @@
       "id": "taboao",
       "label": "Taboão da Serra",
       "items": [
+        {
+          "title": "Prefeitura de Taboão da Serra fecha repartições por quatro dias no feriado de Finados",
+          "summary": "Os órgãos públicos ficam sem atendimento de sexta (30/10) a segunda (2/11), juntando o ponto facultativo do Dia do Servidor ao feriado. Pronto-socorros Antena e Infantil, UPA Akira Tada e serviços de segurança e funerários seguem abertos.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/ponto-facultativo-e-feriado-de-finados-prefeitura-de-taboao-da-serra-tera-quatro-dias-sem-expediente/",
+          "time": "ontem"
+        },
+        {
+          "title": "Ecoponto do Jardim Trianon reabre na terça-feira (3) em Taboão da Serra",
+          "summary": "A unidade recebe pequenos entulhos de reforma de segunda a sexta, das 8h às 17h, com limite de 10 sacos por morador ao dia e comprovante de endereço. O ecoponto do Irapuã continua fechado, sem data para reabrir.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/ecoponto-prefeitura-de-taboao-da-serra-reabre-unidade-do-jardim-trianon-a-partir-de-terca-feira-3/",
+          "time": "ontem"
+        },
+        {
+          "title": "Regis Bittencourt deve receber 750 mil veículos no feriado de Finados",
+          "summary": "A concessionária Arteris prevê o fluxo entre sexta e segunda, com maior movimento na sexta das 7h às 21h e no sábado das 7h às 16h. Recomenda-se evitar esses horários na rodovia que corta a região.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/embu-das-artes-e-regiao-regis-bittencourt-deve-receber-750-mil-veiculos-no-feriado-de-finados/",
+          "time": "ontem"
+        },
+        {
+          "title": "Prefeitura estuda radares na Avenida Taboão da Serra após mortes em acidente",
+          "summary": "A administração avalia instalar radares na avenida, priorizando os primeiros semáforos de quem chega da Grande SP. A medida vem após acidente em 21 de setembro que matou duas pessoas perto da Avenida Campinas.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/av-taboao-da-serra-entra-na-mira-da-prefeitura-para-receber-novos-radares-apos-historico-de-acidentes-e-mortes-na-via/",
+          "time": "26/10"
+        },
         {
           "title": "Boatos sobre palhaços sequestradores circulam em Taboão da Serra e região; secretário Peniche esclarece",
           "summary": "Mensagens em grupos de WhatsApp afirmam que pessoas fantasiadas de palhaço tentam sequestrar crianças na cidade. O secretário de Segurança, Luis Ledenis Peniche, diz que não há registros policiais e acredita se tratar de boatos, possivelmente impulsionados pela proximidade do Halloween.",
@@ -382,34 +473,6 @@
           "source": "Click Regional",
           "url": "https://www.clickregional.com.br/cotidiano/5689-voces-sao-anjos-diz-avo-apos-pm-salvar-bebe-em-taboao-da-serra",
           "time": "27/10"
-        },
-        {
-          "title": "Daniel estuda mudar pronto-socorro infantil e abrir UBS no Trianon",
-          "summary": "Em coletiva, o prefeito disse que avalia transferir o Pronto-Socorro Infantil, hoje na Vila Mafalda, para outro endereço e usar o prédio como UBS. Também citou R$ 6 milhões esperados em emendas estaduais para medicamentos e a ideia de vender a sede da Prefeitura para financiar um hospital municipal.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/taboao-da-serra/5686-daniel-estuda-mudar-pronto-socorro-infantil-e-abrir-ubs-no-trianon",
-          "time": "26/10"
-        },
-        {
-          "title": "Mutirão em Taboão da Serra castra mais de 300 animais no Parque São Joaquim",
-          "summary": "A ação gratuita de castração e microchipagem atendeu cerca de 100 cães e 200 gatos em uma unidade móvel nos dias 23 e 24. A prefeitura diz que o programa busca prevenir doenças e reduzir o abandono.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1704/mutirao-em-taboao-da-serra-castra-mais-de-300-animais-no-parque-sao-joaquim/",
-          "time": "ontem"
-        },
-        {
-          "title": "E.C. Taboão transforma ano de renovação em campanha histórica e chega a três grandes finais",
-          "summary": "O time feminino de futsal disputa as finais do Paulista, da Copa do Brasil e da Liga Feminina mesmo após uma grande renovação do elenco. O jogo de volta do Paulista contra o São José é em Taboão, no dia 31, e a decisão da Copa do Brasil será em 14 de novembro.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1701/ec-taboao-transforma-ano-de-renovacao-em-campanha-historica-e-chega-a-tres-grandes-finais/",
-          "time": "27/10"
-        },
-        {
-          "title": "Secretaria da Cultura abre inscrições para o Edital nº 7 da PNAB e Cultura Viva",
-          "summary": "O edital premia Pontos e Pontões de Cultura, para entidades com CNPJ e coletivos sem CNPJ, e as inscrições vão até 9 de novembro. Devido à instabilidade do portal CultBR, os pedidos passaram para a plataforma Porta de Entrada; os quatro editais do ciclo somam mais de R$ 1,8 milhão.",
-          "source": "Prefeitura de Taboão da Serra",
-          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1703/secretaria-da-cultura-abre-inscricoes-para-o-edital-n-7-da-pnab-e-cultura-viva/",
-          "time": "27/10"
         }
       ]
     },
@@ -417,6 +480,20 @@
       "id": "tenis",
       "label": "Tênis",
       "items": [
+        {
+          "title": "Djokovic perde para Struff em Basileia e se complica na corrida pelo ATP Finals",
+          "summary": "O sérvio caiu nas oitavas do ATP 500 por 6/7, 7/5 e 7/6 diante do alemão, que nunca havia vencido o rival. Com o resultado, Djokovic é o 10º na corrida e precisa de boa campanha no Masters de Paris.",
+          "source": "CNN Brasil",
+          "url": "https://cnnbrasil.com.br/esportes/tenis/djokovic-cai-para-veterano-alemao-e-se-complica-na-corrida-pelo-atp-finals",
+          "time": "ontem"
+        },
+        {
+          "title": "Shelton, cabeça de chave 1, perde para o 222º do mundo na Basileia",
+          "summary": "O americano foi superado pelo suíço Jerome Kym, convidado, por 6/3, 6/7 e 7/6 nas oitavas. Desde o vice no US Open, Shelton tem só duas vitórias e quatro derrotas.",
+          "source": "TenisNews",
+          "url": "https://www.tenisnews.com.br/shelton-decepciona-perde-222-do-mundo-basileia/",
+          "time": "hoje, madrugada"
+        },
         {
           "title": "Stan Wawrinka perde para Lehecka e encerra carreira no tênis aos 41 anos",
           "summary": "O suíço caiu na estreia do ATP 500 de Basileia por 7/5 e 7/6 (2) e se despediu diante do público de casa. Ele foi tricampeão de Grand Slam, ex-número 3 do mundo e termina com 16 títulos; é o terceiro ex-top 10 a se aposentar em poucas semanas.",
@@ -444,20 +521,6 @@
           "source": "Brasil Tênis",
           "url": "https://brasiltenis.com.br/2026/10/27/o-desabafo-de-sinner-o-corpo-e-o-unico-adversario-que-voce-nao-pode-vencer/",
           "time": "27/10"
-        },
-        {
-          "title": "Jannik Sinner anuncia seu novo treinador para 2027",
-          "summary": "Segundo o jornal The Times, Magnus Norman, ex-técnico de Wawrinka, trabalhará ao lado de Simone Vagnozzi em 2027. A mudança indica a saída de Darren Cahill da equipe.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/26/jannik-sinner-anuncia-seu-novo-treinador-para-2027/",
-          "time": "26/10"
-        },
-        {
-          "title": "Jódar estreia com autoridade em Basileia e encosta no top 10",
-          "summary": "O espanhol de 20 anos venceu Alejandro Tabilo por 6/4 e 6/2 e enfrenta Valentin Vacherot nas oitavas. Número 11 do mundo, ele pode entrar no top 10 e briga por uma vaga no ATP Finals.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/27/rafael-jodar-estreia-basileia-top-10-atp-finals/",
-          "time": "27/10"
         }
       ]
     },
@@ -466,25 +529,32 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país",
-          "summary": "O exame DNA-HPV do SUS já é feito em 26 unidades da federação, de forma gradual; só o Espírito Santo ainda aguarda insumos. Cerca de 153 mil amostras foram coletadas em 2025 e 2026, e após resultado negativo a nova coleta só é necessária em cinco anos.",
+          "title": "Teste de HPV para detecção precoce do câncer do colo do útero chega a 26 estados",
+          "summary": "O exame de DNA-HPV no SUS identifica a infecção antes de surgirem lesões, e resultado negativo permite intervalo de cinco anos. Cerca de 153 mil amostras já foram coletadas e o Papanicolau segue disponível na transição.",
           "source": "Ministério da Saúde",
           "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/teste-para-deteccao-precoce-do-cancer-do-colo-do-utero-ja-esta-disponivel-em-26-estados-do-pais",
-          "time": "ontem"
+          "time": "28/10"
         },
         {
-          "title": "Ministro da Saúde visita Unicamp e conhece tecnologia inédita para diagnóstico de câncer na América Latina",
-          "summary": "O HC da Unicamp recebeu um equipamento SPECT/CT de mais de R$ 8,6 milhões, que gera imagens com até três vezes mais resolução e exames até quatro vezes mais rápidos. O Ministério o descreve como o primeiro do tipo em hospital público da América Latina.",
+          "title": "Ministro Padilha conhece no Hospital da Unicamp tomógrafo SPECT/CT inédito na rede pública",
+          "summary": "O equipamento, apontado como o primeiro em hospital público da América Latina, detecta tumores e metástases com mais precisão e faz exames até quatro vezes mais rápido. A visita incluiu também novo densitômetro ósseo no CAISM.",
           "source": "Ministério da Saúde",
           "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministro-da-saude-visita-unicamp-e-conhece-tecnologia-inedita-para-diagnostico-de-cancer-na-america-latina",
           "time": "27/10"
         },
         {
-          "title": "Campanha do Ministério da Saúde reforça importância de conversar com a família sobre doação de órgãos",
-          "summary": "A campanha lembra que, no Brasil, a doação só ocorre com autorização da família e que um doador pode salvar até sete vidas. O país fez 31.745 transplantes em 2025, alta de 29% sobre 2022.",
+          "title": "Campanha reforça a importância de avisar a família sobre doação de órgãos",
+          "summary": "A autorização dos parentes é exigida para adultos e crianças, por isso quem quer doar deve conversar em casa. O SUS fez cerca de 31,7 mil transplantes em 2025, alta de 29% sobre 2022.",
           "source": "Ministério da Saúde",
           "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/campanha-do-ministerio-da-saude-reforca-importancia-de-conversar-com-a-familia-sobre-doacao-de-orgaos",
           "time": "27/10"
+        },
+        {
+          "title": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
+          "summary": "Observatório de Clima e Saúde alerta que a fumaça ameaça comunidades com difícil acesso a atendimento; Manaus registrou poluição bem acima do recomendado pela OMS. Pesquisadores desenvolvem o AlertAr Saúde, ferramenta de previsão da qualidade do ar.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
+          "time": "13/10"
         },
         {
           "title": "Precisa de acolhimento em saúde mental? Saiba como acessar o Acolhe Mais pelo Meu SUS Digital",
