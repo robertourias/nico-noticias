@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T03:30:00-03:00",
+  "updatedAt": "2026-11-02T03:30:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 30/10 (IFIX: último disponível, data não confirmada; Nasdaq 100 indisponível) · cripto: última cotação de 30/10",
+    "asOf": "Fechamento de 30/10 (Nasdaq 100 indisponível) · cripto em 02/11",
     "items": [
       {
         "id": "ibov",
@@ -48,39 +48,39 @@
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 6,08",
-        "change": 1.11
+        "value": "R$ 6,05",
+        "change": 0.86
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 76.975",
-        "change": -1.07
+        "value": "US$ 78.607",
+        "change": 1.06
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.240",
-        "change": -0.44
+        "value": "US$ 2.306",
+        "change": 1.65
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 94",
-        "change": -1.28
+        "value": "US$ 95,49",
+        "change": 0.2
       }
     ]
   },
   "weather": {
-    "date": "2026-11-01",
-    "condition": "sol com pancadas de chuva e trovoadas à tarde",
-    "min": 17,
-    "max": 26,
-    "rainChance": 82,
-    "rainMm": 11.9,
+    "date": "2026-11-02",
+    "condition": "muitas nuvens e sol entre nuvens pela manhã, com pancadas fortes de chuva e trovoadas à tarde",
+    "min": 18,
+    "max": 27,
+    "rainChance": null,
+    "rainMm": null,
     "uv": null,
-    "source": "Climatempo",
-    "url": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/558/saopaulo-sp"
+    "source": "São Paulo Agora (CGE/Inmet)",
+    "url": "https://www.spagora.com.br/cotidiano/clima/previsao-tempo-sao-paulo-segunda-2-novembro/"
   },
   "categories": [
     {
@@ -88,74 +88,81 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Rússia lança ataque com drones contra infraestrutura energética da Ucrânia",
-          "summary": "Drones russos atingiram instalações de energia durante a madrugada e deixaram cerca de 280 mil residências sem luz nas regiões de Kiev e Dnipropetrovsk, segundo Zelensky. Ele acusou Moscou de mirar de propósito a infraestrutura civil e pediu apoio da Europa.",
+          "title": "Nove pessoas morrem após queda de jato em área residencial da Flórida",
+          "summary": "Um Learjet 60 que ia de Austin para as Bahamas caiu em uma região residencial perto de West Palm Beach e explodiu, segundo a FAA. FAA e NTSB investigam o caso. Havia tempestades isoladas na área, mas ainda não se sabe se o clima influenciou a queda.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/russia-lanca-ataque-com-drones-contra-infraestrutura-energetica-da-ucrania/",
+          "url": "https://www.cnnbrasil.com.br/internacional/autoridades-investigam-queda-de-aviao-com-9-pessoas-a-bordo-na-florida/",
           "time": "ontem"
         },
         {
-          "title": "Oncoclínicas diz que obteve adesão necessária de credores para recuperação",
-          "summary": "A empresa afirmou ter reunido apoio de credores que detêm mais de R$ 3,5 bilhões, equivalente a 61,6% dos créditos abrangidos, o que supera o quórum exigido. Agora vai pedir à Justiça de São Paulo a homologação do plano de recuperação extrajudicial.",
+          "title": "Manifestantes encapuzados saqueiam lojas em Frankfurt durante protestos na Alemanha",
+          "summary": "Atos em 34 cidades alemãs, convocados contra o serviço militar obrigatório e o alto custo de vida, tiveram saques em Frankfurt. A polícia contou no máximo 18 mil participantes, bem abaixo dos 182 mil esperados pelos organizadores. Autoridades dizem que grupos extremistas tentam se aproveitar do movimento.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/oncoclinicas-diz-que-obteve/",
-          "time": "30/10"
+          "url": "https://www.cnnbrasil.com.br/internacional/manifestantes-encapuzados-saqueiam-lojas-em-frankfurt/",
+          "time": "31/10"
         },
         {
-          "title": "Surto de ebola já matou mais de 5 mil pessoas na RD do Congo",
-          "summary": "O Ministério da Saúde congolês registra mais de 5 mil mortes e 10.351 casos desde maio, concentrados em Ituri e Kivu do Norte, com letalidade perto de 50%. A OMS diz que um terço dos mortos não recebeu atendimento em meio ao conflito armado, e não há vacina.",
+          "title": "Fuvest registra a menor taxa de abstenção de sua história",
+          "summary": "Na primeira fase da Fuvest 2027, 6,4% dos inscritos faltaram, apesar de as inscrições terem caído cerca de 5%. Atrasos em trens em Mogi das Cruzes fizeram alguns candidatos chegarem após o fechamento dos portões, e a USP disse que não haverá reaplicação.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/educacao/fuvest-registra-menor-taxa-de-abstencao-da-historia/",
+          "time": "ontem"
+        },
+        {
+          "title": "Leão XIV pede que trégua entre Rússia e Ucrânia abra caminho para a paz",
+          "summary": "No Angelus, o papa pediu que a cooperação que permitiu o cessar-fogo em Oleshky, cidade ucraniana ocupada, leve a novas iniciativas de paz. A trégua, que termina em 2 de novembro, permitiu retirar civis e levar ajuda. Um assessor do Kremlin disse que Putin aceitaria conversar com Zelensky.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/surto-de-ebola-ja-matou-mais-de-5-mil-pessoas-na-rd-do-congo",
+          "url": "https://www.metropoles.com/mundo/leao-xiv-pede-que-tregua-entre-russia-e-ucrania-abra-caminho-para-a-paz",
           "time": "ontem"
         },
         {
-          "title": "Mega-Sena 3079 acumula e prêmio vai a R$ 42 milhões",
-          "summary": "Ninguém acertou as seis dezenas do sorteio de sexta (05, 09, 16, 40, 41, 59). Doze apostas acertaram a quina e levam R$ 50.706,28 cada. O concurso 3080, neste domingo (1º), tem prêmio estimado em R$ 42 milhões.",
+          "title": "Mega-Sena 3080 acumula e prêmio chega a R$ 46 milhões",
+          "summary": "Ninguém acertou as seis dezenas do concurso 3080: 13, 17, 28, 29, 39 e 58. A quina teve 29 apostas vencedoras, com R$ 38.878,66 cada, e a quadra, 3.133 apostas, com R$ 514,10 cada.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/mega-sena-3079-acumula-e-premio-vai-a-r-42-milhoes-veja-resultado",
-          "time": "30/10"
+          "url": "https://www.metropoles.com/brasil/mega-sena-3080-acumula-e-premio-chega-a-r-46-milhoes-veja-numeros",
+          "time": "ontem"
         },
         {
-          "title": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
-          "summary": "A varejista quer renegociar cerca de R$ 340 milhões em dívidas bancárias, com até R$ 50 milhões de novo aporte dos credores. O plano foi estruturado com Itaú, Akron e Vega e não inclui fornecedores nem funcionários.",
+          "title": "França registra mais de 560 prisões em protestos e confrontos isolados com a polícia",
+          "summary": "No terceiro fim de semana seguido de protestos contra o custo de vida e pela educação, o governo estimou cerca de 320 mil participantes, menos que nas semanas anteriores. Os atos foram em sua maioria pacíficos, com confrontos pontuais em Paris e outras cidades, e 70 mil policiais foram mobilizados.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/business/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mundo/franca-registra-mais-de-560-prisoes-em-protestos-e-confrontos-isolados-com-a-policia/",
+          "time": "31/10"
         },
         {
-          "title": "Hack de US$ 6,3 bi na Binance mobilizou 'sala de guerra' com 100 pessoas",
-          "summary": "Hackers retiraram cerca de US$ 6,3 bilhões de contas da corretora após testes com valores pequenos. Tether e Circle congelaram mais de US$ 2,3 bilhões, e empresas de análise apontam a Coreia do Norte como autora. A Binance prometeu ressarcir os usuários.",
+          "title": "Agência russa diz que EUA alertaram sobre possível ataque terrorista em Moscou",
+          "summary": "O FSB afirmou ter recebido dos EUA informações sobre preparativos de um atentado em Moscou. A embaixada americana citou ameaça crível de evento com muitas vítimas no Museu-Reserva Tsaritsyno, que foi fechado temporariamente. A matéria lembra que alerta parecido em março de 2024 antecedeu o ataque ao Crocus City Hall.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/business/hack-binance-6-bilhoes-sala-guerra-bastidores/",
+          "url": "https://www.infomoney.com.br/mundo/agencia-russa-diz-que-eua-fizeram-alerta-sobre-possivel-ataque-terrorista-em-moscou/",
+          "time": "31/10"
+        },
+        {
+          "title": "Conmebol define final da Libertadores entre Palmeiras e Estudiantes para 28 de novembro",
+          "summary": "A decisão será às 17h (Brasília) no estádio Centenário, em Montevidéu. O Palmeiras busca o quarto título continental, na segunda final seguida, e o Estudiantes disputa sua primeira final em 17 anos. Os dois chegaram à decisão nos pênaltis.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/palmeiras-estudiantes-final-libertadores-horario/",
+          "time": "31/10"
+        },
+        {
+          "title": "Ministro da Fazenda nega discussão sobre tabelar a taxa Selic",
+          "summary": "Circulou no mercado a possibilidade de um encontro entre Lula e o economista André Lara Resende, que propõe manter a Selic dentro de uma banda. Dario Durigan negou que o governo discuta a ideia e disse que não há reunião marcada.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/economia/ministro-da-fazenda-nega-discussao-sobre-tabelar-taxa-selic",
+          "time": "hoje, 00:17"
+        },
+        {
+          "title": "Reino Unido orienta população a estocar comida e água para emergências",
+          "summary": "A campanha Be Ready pede que famílias mantenham alimentos não perecíveis e água para ao menos três dias. O premiê Andy Burnham a defendeu como precaução contra clima extremo, ataques cibernéticos e falhas de abastecimento, e o governo diz que não há ameaça iminente específica.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/reino-unido-orienta-populacao-a-estocar-comida-entenda",
           "time": "ontem"
         },
         {
-          "title": "Tiroteio entre facções bloqueia BR-040 e causa pânico no RJ",
-          "summary": "Uma disputa entre facções gerou troca de tiros em Duque de Caxias, e criminosos usaram um caminhão e um ônibus de turismo como barricada. Um suspeito morreu e seis foram presos; fuzis, pistola e granadas foram apreendidos. O tráfego voltou ao normal após cerca de duas horas.",
+          "title": "Justiça libera acesso da família a documentos médicos de Tancredo Neves",
+          "summary": "O TRF-1 decidiu por unanimidade que a família pode consultar o prontuário, em pedido do filho do ex-presidente eleito para uma nova edição de livro sobre o caso. O tribunal reformou a decisão anterior e mandou CFM e CRM-DF liberarem os documentos.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/policia/tiroteio-entre-faccoes-bloqueia-br-040-e-causa-panico-no-rj",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/justica-libera-acesso-a-documentos-medicos-de-tancredo-neves",
           "time": "ontem"
-        },
-        {
-          "title": "Raízen aprova recuperação extrajudicial e prevê R$ 39,8 bi",
-          "summary": "O plano para reestruturar R$ 61,4 bilhões em dívidas teve apoio de 81,6% dos credores. Prevê aumento de capital de até R$ 39,8 bilhões, com a Shell aportando R$ 3,5 bilhões, e a divisão da empresa em dois negócios listados.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/economia/raizen-aprova-recuperacao-extrajudicial-e-preve-r-39-8-bi",
-          "time": "30/10"
-        },
-        {
-          "title": "Moraes manda transferir Bacellar e soltar desembargador",
-          "summary": "O ministro do STF determinou que o ex-presidente da Alerj Rodrigo Bacellar saia do presídio federal de Mossoró e vá para uma unidade do Rio, e substituiu a prisão do desembargador Macário Júdice por medidas cautelares. Ambos são investigados por vazar informações de operações policiais a uma facção.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/moraes-manda-transferir-bacellar-e-soltar-desembargador",
-          "time": "ontem"
-        },
-        {
-          "title": "Cento e sete países reconheceram reeleição de Lula; EUA e Argentina não se manifestaram",
-          "summary": "Segundo painel do TSE, 107 países e 11 organismos felicitaram Lula. Entre as exceções estão a Argentina, onde Milei não pretende se pronunciar, e os EUA, onde Trump disse não tomar lado, mas criticou a condução da eleição sem apresentar provas.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/cento-e-sete-paises-reconheceram-reeleicao-de-lula-eua-e-argentina-nao-se-manifestaram/",
-          "time": "30/10"
         }
       ]
     },
@@ -165,108 +172,108 @@
       "items": [
         {
           "title": "Bolsonarista x petista: quem vence o boicote?",
-          "summary": "No vídeo da série Análises Renais, Renan Santos discute a onda de boicotes entre bolsonaristas e petistas e questiona qual dos lados sai vencedor dessa disputa.",
+          "summary": "No vídeo, Renan Santos analisa a onda de boicotes entre apoiadores de Bolsonaro e de Lula e discute qual dos lados leva vantagem nessa disputa.",
           "source": "Renan Santos",
           "url": "https://www.youtube.com/watch?v=anj0k2rRRqo",
-          "time": "30/10, 18:48"
-        },
-        {
-          "title": "Tarcísio vs Flávio: Renan Santos fala sobre disputa interna do bolsonarismo",
-          "summary": "Em corte do canal, Renan Santos comenta a disputa entre Tarcísio de Freitas e Flávio Bolsonaro e o que chama de problema interno do bolsonarismo.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=M0nHOG5LlkQ",
-          "time": "30/10, 18:30"
-        },
-        {
-          "title": "Boicotes entre petistas e bolsonaristas",
-          "summary": "Kim Kataguiri comenta os boicotes cruzados entre eleitores petistas e bolsonaristas que ganharam espaço nas redes após a eleição.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=7Jy25aG6pAg",
-          "time": "30/10, 15:59"
-        },
-        {
-          "title": "Plantão Arthur do Val: todos estão com raiva da Missão",
-          "summary": "No Plantão, Arthur do Val comenta a reação de adversários e críticos ao movimento Missão, segundo o título do vídeo.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=I8xFpXsa46M",
-          "time": "30/10, 11:49"
-        },
-        {
-          "title": "Urgente: vazam os nomes dos novos ministros de Lula",
-          "summary": "Em corte do canal, Arthur do Val reage à lista que vazou com supostos nomes dos novos ministros do governo Lula.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=_RMgO3cBcLA",
-          "time": "30/10, 15:30"
-        },
-        {
-          "title": "Vorcaro livre e inocentado?",
-          "summary": "No MBL News, os apresentadores discutem a situação de Daniel Vorcaro, questionando no título se ele estaria livre e inocentado.",
-          "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=yU5roCMoxoo",
-          "time": "30/10, 19:32"
-        },
-        {
-          "title": "Carlos será o sucessor no bolsonarismo? Renan e Thomas Giulliano analisam",
-          "summary": "Renan Santos e Thomas Giulliano analisam se Carlos Bolsonaro pode se tornar o sucessor do bolsonarismo.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=mDDdpEm35Vc",
-          "time": "30/10, 14:07"
-        },
-        {
-          "title": "O Flávio vai liderar o bolsonarismo ou vai ser substituído?",
-          "summary": "O vídeo debate se Flávio Bolsonaro conseguirá liderar o bolsonarismo ou se acabará substituído por outro nome.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=iiJ0zaomAHs",
-          "time": "30/10, 10:09"
-        },
-        {
-          "title": "Esquerda em desespero: Renan Santos responde ao ataque da ex-MTV Titi Müller",
-          "summary": "Em corte da live, Renan Santos responde às críticas feitas pela apresentadora Titi Müller ao movimento.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=AAItVHF8sX8",
-          "time": "30/10, 17:30"
-        },
-        {
-          "title": "Flávio pede que Moraes deixe investigação e que Mendonça assuma o caso",
-          "summary": "O senador Flávio Bolsonaro apresentou três petições ao STF. Duas pedem que Moraes se afaste da apuração sobre sua relação com o advogado Willer Thomaz, e a terceira pede a revisão da apreensão do passaporte e da proibição de deixar o país. A defesa diz que ele vai colaborar.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/flavio-pede-que-moraes-deixe-investigacao-e-que-mendonca-assuma-caso/",
-          "time": "ontem"
-        },
-        {
-          "title": "Voto distrital misto divide Centrão e oposição e ganha força no Congresso",
-          "summary": "O presidente da Câmara, Hugo Motta, trabalha para trocar o sistema proporcional de lista aberta pelo distrital misto, com votação de emenda ainda neste ano. PP, União, PSD e Republicanos apoiam, enquanto PL e parte da oposição resistem. A proposta prevê transição pelo distritão em 2030 e adoção plena em 2034.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/voto-distrital-misto-divide-centrao-e-oposicao-e-ganha-forca-no-congresso",
-          "time": "ontem"
-        },
-        {
-          "title": "Lula deve indicar Messias novamente ao STF, agora com apoio de Alcolumbre",
-          "summary": "O governo prepara reenviar o nome de Jorge Messias, rejeitado pelo Senado em abril, desta vez com o respaldo do presidente do Senado, Davi Alcolumbre. Pelas regras, nova votação só seria possível em 2027 e exigiria ao menos 41 votos.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/lula-deve-indicar-messias-novamente-ao-stf-agora-com-apoio-de-alcolumbre/",
           "time": "30/10"
         },
         {
-          "title": "Polônia convoca reunião de emergência em meio a crise e acusações de golpe",
-          "summary": "O presidente Karol Nawrocki chamou consultas com partidos após uma juíza suspender o presidente do Tribunal Constitucional, Bogdan Swieczkowski. Ele chamou o ato de violação da Constituição e pediu a retirada da polícia do entorno da corte, em disputa com o governo de Donald Tusk.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/polonia-convoca-reuniao-de-emergencia-em-meio-a-crise-e-acusacoes-de-golpe",
-          "time": "ontem"
+          "title": "Trump acabou com Flávio Bolsonaro",
+          "summary": "Em nova edição das \"Análises Renais\", Renan Santos comenta a relação entre Donald Trump e Flávio Bolsonaro e as consequências que enxerga para o político.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=4r7WXN_Tv20",
+          "time": "29/10"
         },
         {
-          "title": "EUA têm recorde de votação antecipada nas midterms",
-          "summary": "Mais de 51 milhões de eleitores já haviam votado antecipadamente até a tarde de sábado. A eleição de 3 de novembro define o controle do Congresso, com 435 vagas na Câmara e 35 no Senado, e pesquisas indicam chance de os democratas retomarem o comando.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/eua-tem-recorde-de-votacao-antecipada-nas-midterms",
-          "time": "hoje, 00:10"
+          "title": "Tarcísio vs Flávio: Renan Santos fala sobre disputa interna do bolsonarismo",
+          "summary": "Corte em que Renan Santos comenta a disputa interna do bolsonarismo entre Tarcísio de Freitas e Flávio Bolsonaro, chamada no título de \"bomba interna\".",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=M0nHOG5LlkQ",
+          "time": "30/10"
         },
         {
-          "title": "Autoridade iraniana afirma que EUA atacaram barcos de pesca em Ormuz",
-          "summary": "A TV estatal iraniana, citando um funcionário da província de Hormozgan, disse que dois barcos de pesca perto da ilha de Qeshm foram atingidos e um pescador ficou ferido. Os EUA não confirmaram, e o líder supremo do Irã ordenou resposta imediata a qualquer ameaça.",
+          "title": "Kim Kataguiri reage à carta de Flávio Bolsonaro",
+          "summary": "No vídeo, Kim Kataguiri reage à carta divulgada por Flávio Bolsonaro, apresentando sua avaliação sobre o conteúdo e o momento político.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=PWKpPyQpaKE",
+          "time": "29/10"
+        },
+        {
+          "title": "Plantão Arthur do Val: todos estão com raiva da Missão",
+          "summary": "No plantão do canal MamãeFalei, Arthur do Val comenta a reação de críticos e adversários à Missão, partido ligado ao MBL.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=I8xFpXsa46M",
+          "time": "30/10"
+        },
+        {
+          "title": "Golpe? Bisotto revela o que sabe sobre o resultado das eleições 2026",
+          "summary": "Canal de cortes políticos: Eduardo Bisotto fala sobre o resultado da eleição presidencial de 2026 entre Lula e Flávio Bolsonaro, sugerindo no título a hipótese de golpe.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=8lMuu4LPHRI",
+          "time": "31/10"
+        },
+        {
+          "title": "Vorcaro livre e inocentado?",
+          "summary": "Edição do MBL News que discute a situação de Vorcaro, questionando no título se ele estaria livre e inocentado.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=yU5roCMoxoo",
+          "time": "30/10"
+        },
+        {
+          "title": "Carlos será o sucessor no bolsonarismo? Renan e Thomas Giulliano analisam",
+          "summary": "Renan Santos e Thomas Giulliano analisam se Carlos Bolsonaro pode assumir a liderança do bolsonarismo.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=mDDdpEm35Vc",
+          "time": "30/10"
+        },
+        {
+          "title": "Trump manda retirar título de \"presidente eleito\" de carta de Flávio Bolsonaro",
+          "summary": "Vídeo do MBL News sobre a carta de Flávio Bolsonaro, que segundo o título teria sido alvo de um pedido de Trump para retirar o título de \"presidente eleito\".",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=M_3AgvM9gcc",
+          "time": "29/10"
+        },
+        {
+          "title": "PGR endossa decisão de Moraes que quebrou sigilo de jornalista do Maranhão",
+          "summary": "A PGR, chefiada por Paulo Gonet, apoiou a ordem de Moraes que atinge o jornalista Luis Pablo, autor de reportagens sobre suposto uso indevido de veículos oficiais por Flávio Dino. A defesa alega violação ao sigilo da fonte, e relatório da PF não apontou indício de crime.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/autoridade-iraniana-afirma-que-os-eua-atacaram-barcos-de-pesca-em-ormuz/",
-          "time": "ontem"
+          "url": "https://www.cnnbrasil.com.br/politica/pgr-endossa-decisao-de-moraes-que-quebrou-sigilo-de-jornalista-do-maranhao/",
+          "time": "31/10"
+        },
+        {
+          "title": "Após visita a Jair Bolsonaro, Carlos reafirma apoio a Rogério Marinho",
+          "summary": "O senador eleito disse manter o apoio de Marinho à presidência do Senado. Contou que o pai, em prisão domiciliar, voltou a ter soluços e que ele se preocupa com o emagrecimento. Carlos afirmou ainda que o pai sente falta de Flávio, que foi aos EUA após perder a eleição.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/apos-visita-a-jair-bolsonaro-carlos-reafirma-apoio-a-rogerio-marinho/",
+          "time": "31/10"
+        },
+        {
+          "title": "Lula avalia convidar opositores de Milei para a posse",
+          "summary": "Em meio à tensão com o governo argentino, Lula considera convidar o governador Axel Kicillof, e o Itamaraty avalia chamar também Sergio Massa. Lula pretende convidar Milei, mas o governo considera improvável que ele aceite.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/lula-avalia-convidar-opositores-de-milei-para-posse/",
+          "time": "31/10"
+        },
+        {
+          "title": "Trump diz que Flávio Bolsonaro pode ficar nos EUA, mas não planeja encontrá-lo",
+          "summary": "Em Mar-a-Lago, Trump disse que Flávio pode ficar o tempo que quiser e chamou a eleição brasileira de vergonha. Afirmou que a tensão entre os dois países pode persistir, mesmo após conversa de Rubio com o chanceler brasileiro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/donald-trump-diz-que-nao-tem-planos-de-se-encontrar-com-flavio-bolsonaro/",
+          "time": "31/10"
+        },
+        {
+          "title": "Califórnia pede que Justiça barre tentativas de Trump de confiscar votos",
+          "summary": "O governador Gavin Newsom alertou tribunais federais para possíveis tentativas do governo Trump de apreender cédulas nas eleições de meio de mandato. Um tribunal de apelações rejeitou o pedido federal por registros de eleitores, e um juiz mandou o Departamento de Justiça parar de ameaçar processar autoridades eleitorais californianas.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/california-pede-que-justica-barre-tentativas-de-trump-de-confiscar-votos/",
+          "time": "31/10"
+        },
+        {
+          "title": "G20 encerra reunião de chanceleres sem consenso sobre segurança internacional",
+          "summary": "Após dois dias em Atlanta, o grupo não chegou a acordo sobre Ucrânia, Irã e tarifas americanas e emitiu apenas uma declaração da presidência, sem comunicado conjunto. A foto oficial foi cancelada após europeus ameaçarem boicote pela presença de Lavrov. Rubio disse que soluções aceitas por todos ainda estão distantes.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/g20-encerra-reuniao-de-chanceleres-sem-consenso-sobre-seguranca-internacional/",
+          "time": "31/10"
         }
       ]
     },
@@ -275,45 +282,45 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Ibovespa despenca 18,12% na semana pós-eleição e empresas da B3 perdem R$ 963 bilhões em valor de mercado",
-          "summary": "Após a reeleição de Lula, o índice teve a maior queda semanal desde março de 2020, com dólar subindo mais de 9% na semana ao maior nível do ano. Só 6 das 76 ações do índice subiram, puxadas por exportadoras como Suzano, WEG e Embraer, enquanto Vamos, Magazine Luiza e Cosan caíram mais de 50%.",
+          "title": "OPEP+ sinaliza produção estável em dezembro e volta foco para cotas de 2027",
+          "summary": "Segundo fontes da Reuters, o grupo chegou a um acordo em princípio para manter as metas de produção de petróleo inalteradas em dezembro, sem novos ajustes esperados até o ano que vem. A maioria dos produtores ainda bombeia bem abaixo das metas após meses de interrupções ligadas à guerra no Irã e às restrições em Ormuz. No quarto trimestre, o cartel precisa concluir a revisão de capacidade que vai embasar as cotas de 2027.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/vamo3-mglu3-caem-mais-50-suzb3-embj3-wege3-sobem-10-semana-ibovespa-26-10-2026/",
-          "time": "30/10"
+          "url": "https://www.infomoney.com.br/mercados/opep-producao-petroleo-dezembro-cotas-2027/",
+          "time": "31/10"
         },
         {
-          "title": "Taxa de desemprego da zona do euro fica em 6,5% em setembro",
-          "summary": "O Eurostat informou que o desemprego no bloco ficou estável frente a agosto, mas acima dos 6,4% esperados por analistas. Cerca de 11,555 milhões de pessoas estavam sem trabalho, 122 mil a mais que no mês anterior.",
-          "source": "InfoMoney (Estadão Conteúdo)",
-          "url": "https://www.infomoney.com.br/economia/taxa-de-desemprego-da-zona-do-euro-se-mantem-em-65-em-setembro/",
-          "time": "30/10"
-        },
-        {
-          "title": "Ação da Intel despenca cerca de 28% e tira US$ 12 bilhões da participação do governo americano",
-          "summary": "A queda veio após a empresa projetar receita do quarto trimestre de US$ 15 bi a 16 bi, abaixo do esperado, e margem bruta menor. A Intel atribui a fraqueza do mercado de PCs ao encarecimento da memória, absorvida pela demanda de IA.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-          "time": "30/10"
-        },
-        {
-          "title": "Nasdaq cai 2,9% e investidores questionam gastos bilionários das big techs com IA",
-          "summary": "Alphabet, Amazon, Meta e Microsoft planejam investir mais de US$ 740 bilhões em capex neste ano, e o fluxo de caixa livre de várias delas ficou negativo. A Alphabet teve o pior dia da história na bolsa, com queda de 12%, e as gigantes já levantaram US$ 326 bilhões em dívida em 2026.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-          "time": "30/10"
-        },
-        {
-          "title": "Vale tem alta de 66% no resultado do cobre no 3T26 e adianta projeto em Salobo",
-          "summary": "O Ebitda proforma do cobre chegou a US$ 1 bilhão, enquanto o minério de ferro foi pressionado por frete mais caro e real mais forte. A companhia antecipou para o primeiro semestre de 2028 o projeto CPF, que amplia a capacidade de Salobo.",
-          "source": "InfoMoney (Radar Mineração)",
-          "url": "https://www.infomoney.com.br/mercados/vale-tem-alta-de-66-no-resultado-do-cobre-e-avanca-para-cumprir-projecao-de-producao/",
-          "time": "30/10"
-        },
-        {
-          "title": "CEO de gestora de crédito prevê recessão no Brasil em 2027 com risco de estagflação",
-          "summary": "Para o fundador da Ouro Preto Investimentos, juros altos, desequilíbrio fiscal e choques externos levariam a economia a se contrair, e ele não espera afrouxamento do Banco Central no curto prazo. Ele cita varejo tradicional, financeiras e agronegócio como setores expostos. É uma visão de gestor, não projeção oficial.",
+          "title": "BC do Japão mantém juros em 1,25% ao ano, mas eleva projeção de inflação para 2027",
+          "summary": "O Banco do Japão deixou a taxa básica inalterada, em decisão de 8 votos a 1, com um dirigente defendendo alta para 1,5%. A inflação ao consumidor foi a 2,1% e a projeção do núcleo para 2027 subiu de 2,4% para 2,6%. A autoridade disse que seguirá de olho na guerra no Oriente Médio, no iene e na demanda por IA, e ampliará as compras anuais de ETFs a partir de 2027.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/onde-investir/para-ceo-da-ouro-preto-todas-as-nuvens-mostram-que-vem-tempestade-em-2027/",
+          "url": "https://www.infomoney.com.br/economia/bc-do-japao-mantem-taxa-de-juros-em-125-ao-ano-mas-eleva-inflacao-para-2027/",
+          "time": "30/10"
+        },
+        {
+          "title": "Desemprego cai a 5,2% e atinge menor nível da série histórica, mas pressiona a Selic",
+          "summary": "A PNAD Contínua mostrou taxa de 5,2% no trimestre até setembro, a menor desde 2012, com população ocupada de 103,6 milhões e renda real em alta de 1,7%. O mercado de trabalho aquecido sustenta o consumo, porém pressiona salários e a inflação de serviços, limitando o espaço do Banco Central para acelerar cortes de juros. A XP projeta desemprego de 5,4% no fim de 2026 e 6,5% no fim de 2027.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/taxa-de-desemprego-recua-5-2-menor-nivel-2012/",
+          "time": "30/10"
+        },
+        {
+          "title": "PIB da zona do euro cresce 0,4% no 3º trimestre, acima do esperado",
+          "summary": "Dados preliminares do Eurostat apontam avanço de 0,4% sobre o segundo trimestre, contra 0,2% projetado por analistas da FactSet. Na comparação anual, a alta foi de 1,3%, também acima da previsão de 1,0%.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/pib-da-zona-do-euro-cresce-04-no-3o-trimestre-mais-do-que-o-esperado/",
+          "time": "30/10"
+        },
+        {
+          "title": "Conselho do FGTS aprova orçamento de R$ 169 bi para 2027 e discute regra do saque-aniversário",
+          "summary": "O conselho manteve em R$ 144,5 bilhões os recursos para habitação em 2027, dentro de um total de R$ 169 bilhões que inclui saneamento, infraestrutura urbana e saúde. Também tratou do limite de saques-aniversário futuros usados como garantia em empréstimos, que cairia para três a partir de 1º de novembro; segundo o Ministério do Trabalho, a mudança pode atingir 12,2 milhões de trabalhadores. A página aponta ainda que a regra de transição foi prorrogada.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/conselho-do-fgts-prorroga-regra-do-saque-aniversario-usada-em-emprestimos/",
+          "time": "30/10"
+        },
+        {
+          "title": "CFO da Vale diz que queda das ações abre espaço para recompras e descarta dividendos extraordinários",
+          "summary": "Após o balanço do 3T26, o diretor financeiro afirmou que a forte desvalorização dos papéis em 2026 cria oportunidades de recompra. Dividendos extraordinários só seriam viáveis com dívida líquida expandida abaixo de US$ 15 bilhões, e hoje ela está em US$ 16 bilhões. A empresa reafirmou suas projeções e as ações subiram cerca de 5% na manhã de sexta.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/vale3-vale-balanco-3t26-teleconferencia-coletiva/",
           "time": "30/10"
         }
       ]
@@ -323,46 +330,39 @@
       "label": "Programação",
       "items": [
         {
-          "title": "CISA inclui falha crítica de execução remota no GitLab (CVSS 10) entre as vulnerabilidades exploradas",
-          "summary": "A brecha permite que usuários não autenticados executem código no servidor por meio de uma expressão regular em configuração de CI/CD. A Alpine Linux relatou tentativas de exploração e reconstruiu sua instância do GitLab por precaução, sem encontrar adulteração de pacotes.",
+          "title": "Falha crítica (CVSS 10) no LXD e no MicroCloud permite que atacantes se passem por clientes confiáveis",
+          "summary": "O servidor validava os certificados enviados pelo cliente contra sua lista de confiança, mas isso só comprova a posse da chave do certificado final; assim, quem anexa o certificado público de um cliente confiável atrás do seu próprio é aceito. Se o cliente imitado for privilegiado, há risco de acesso root ao host. Há correções em várias linhas do LXD e do MicroCloud, e não há exploração conhecida.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-          "time": "30/10"
-        },
-        {
-          "title": "Falha de execução remota no WordPress registra quase 63 mil tentativas de ataque em 24 horas",
-          "summary": "O problema afeta o núcleo do WordPress das versões 4.7 a 7.1.3 e explora uma condição de corrida durante atualizações completas. A correção saiu na versão 7.1.4, e os administradores devem atualizar e procurar contas ou arquivos PHP suspeitos.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-          "time": "30/10"
-        },
-        {
-          "title": "Falha no TeamViewer permite que computadores remotos ataquem quem os controla",
-          "summary": "Um host malicioso pode derrubar o cliente do visualizador e, em alguns casos, executar código nele por um estouro de memória no cálculo do tamanho de tela. Todas as versões anteriores à 15.83 são afetadas, e não há contorno além de atualizar.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-          "time": "30/10"
-        },
-        {
-          "title": "Atacantes encadeiam três falhas do Ivanti Connect Secure para obter acesso root sem autenticação",
-          "summary": "A CISA incluiu duas das vulnerabilidades no catálogo de falhas exploradas. O grupo UTA0576 usou a cadeia para roubar credenciais, metadados do Active Directory e chaves de recuperação do BitLocker, e a Ivanti já disponibilizou versões corrigidas.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+          "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
           "time": "ontem"
         },
         {
-          "title": "GitHub Copilot Fusion chega à disponibilidade geral e escolhe modelos automaticamente por tarefa",
-          "summary": "No seletor de modelos, o Fusion orquestra vários modelos conforme o prompt, com níveis de esforço e fluxos como cascata e crítica. O GitHub afirma que o desempenho fica perto do Claude Code com Opus 5.5 a cerca de metade do custo, e a ferramenta funciona no VS Code, CLI e JetBrains.",
-          "source": "GitHub Changelog",
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-          "time": "28/10"
+          "title": "Script adulterado do DebugBear drena cerca de US$ 2,7 milhões de traders da Polymarket",
+          "summary": "Um script de monitoramento de desempenho carregado de terceiros foi trocado por código malicioso, após comprometimento de DNS do fornecedor via registrador. O código usou a sessão dos usuários logados para mover posições para a carteira do atacante, afetando 726 carteiras. A Polymarket está reembolsando os valores e promete reforçar a Content Security Policy, fixar versões e isolar scripts de terceiros.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+          "time": "ontem"
         },
         {
-          "title": "Memorando da Amazon sobre o papel do engenheiro na era da IA gera críticas por mensagens contraditórias",
-          "summary": "O documento defende foco em resultados e julgamento de engenharia, mas critica métricas de entrada e, ao mesmo tempo, alerta quem não adota IA. O autor do artigo teme que gestores usem a ambiguidade para premiar ou punir o mesmo engenheiro.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
-          "time": "ontem"
+          "title": "Extensão oficial do Claude Code no marketplace do Cursor é adulterada com backdoor SSH",
+          "summary": "Uma versão maliciosa da extensão ficou no ar por cerca de 12 horas e, segundo a Cursor, atingiu no máximo 5 mil usuários. Ela adicionava uma chave SSH do atacante ao authorized_keys, criava persistência e enviava dados de reconhecimento da máquina. As versões do VS Code Marketplace e do Open VSX não foram afetadas, e a Anthropic diz que seus sistemas não foram comprometidos.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+          "time": "30/10"
+        },
+        {
+          "title": "Falha de bypass de autorização no Drupal Commerce é explorada ativamente",
+          "summary": "O Drupal classificou como altamente crítica a falha no Commerce Core, que deixa rotas e campos de entidades sem proteção adequada e pode causar prejuízo financeiro aos lojistas. A exploração já ocorre, mas sem detalhes divulgados. A correção está nas versões 3.3.13 e 8.x-2.41.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+          "time": "30/10"
+        },
+        {
+          "title": "Cloudflare registra 18,2 milhões de ataques DDoS de rede no 3º trimestre, alta de 38%",
+          "summary": "O relatório trimestral aponta crescimento ligado a serviços de aluguel de DDoS, com ataques curtos e de baixa banda subindo 208%. Já os ataques acima de 1 Tbps caíram 69%, o que a empresa atribui a ações policiais em março. Novas variantes de botnets, porém, indicam que a ameaça persiste.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+          "time": "31/10"
         }
       ]
     },
@@ -371,45 +371,45 @@
       "label": "IA",
       "items": [
         {
-          "title": "Anthropic deve receber nota de crédito 'junk' após o IPO, diz FT",
-          "summary": "A Blackstone, âncora de um financiamento de US$ 63 bilhões em chips, teria avisado investidores que espera classificação BB, topo do grau especulativo. Isso encareceria a captação para os gastos em computação da empresa, que pediu abertura de capital na semana.",
+          "title": "Novo CEO da Apple diz que empresa não quer lançar IA 'só por lançar'",
+          "summary": "Em entrevista à Wired, John Ternus, CEO desde setembro, defendeu a posição da Apple em IA, apesar das críticas pelo atraso da Siri mais poderosa lançada neste verão. Ele afirmou que a IA será usada nos novos produtos, mas o foco é fazer produtos que as pessoas amem. Sobre agentes tornarem apps desnecessários, disse que criar produtos é uma atividade profundamente humana.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "time": "31/10"
+        },
+        {
+          "title": "Juíza permite que ação da NAACP sobre poluição de data center da xAI avance",
+          "summary": "A magistrada rejeitou o pedido de arquivamento da xAI, que alegava que as turbinas a gás eram móveis e dispensavam licença. O processo acusa a empresa de operar ao menos 35 turbinas no data center Colossus, perto de Memphis, sem as autorizações exigidas pela Lei do Ar Limpo. Pedido semelhante do Departamento de Justiça já havia sido negado neste mês.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "time": "31/10"
+        },
+        {
+          "title": "OpenAI reduz meta de captação de nova rodada, diz imprensa",
+          "summary": "Segundo o Financial Times, a meta caiu para US$ 20 bilhões, após relatos iniciais de US$ 30 bilhões com avaliação de US$ 1,4 trilhão. O Wall Street Journal diz que já foram garantidos US$ 11 bilhões e que alguns grandes investidores reagiram com frieza. A rodada seria liderada por investidores dos Emirados Árabes, antes de um IPO planejado.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "time": "31/10"
+        },
+        {
+          "title": "Nvidia avalia garantir dívida do data center da Nscale para a Anthropic na Virgínia Ocidental",
+          "summary": "A fabricante estuda uma garantia de valor residual que a faria assumir temporariamente a instalação caso a Nscale deixe de pagar a construção. A Anthropic assinou contrato de US$ 44,6 bilhões para o primeiro prédio de 460 MW, e há conversa sobre um segundo acordo de cerca de US$ 45 bilhões. A Nscale busca abrir capital com avaliação de até US$ 35 bilhões.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
           "time": "30/10"
         },
         {
-          "title": "Primeiro satélite-datacenter do Google entra em operação e a Gemma 4 escreve um haicai no espaço",
-          "summary": "O protótipo Suncatcher leva quatro TPUs e gera até 1 kW, sendo que só uma TPU roda por vez e por cerca de 20 minutos. Os testes vão avaliar estresse térmico e radiação, e dois satélites mais avançados estão previstos para 2027.",
+          "title": "DoorDash diz ter recebido apenas 'algumas centenas' de pedidos de agentes de IA",
+          "summary": "Na teleconferência do 3T, a empresa afirmou que agentes de terceiros geraram volume irrisório frente a cerca de 3 milhões de entregas diárias, e que a maioria dos pedidos ainda vem do app. Ela quer aprender sobre pedidos por agentes e vê possível publicidade no futuro. A DoorDash também lançou ferramentas próprias, como chatbot, agente de linha de comando e agente de pedido por texto.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
           "time": "30/10"
         },
         {
-          "title": "Link compartilhado do ChatGPT podia executar código do atacante na sessão e ler conversas privadas",
-          "summary": "Pesquisadores da Parameter encadearam uma biblioteca de matemática com um ouvinte de mensagens sem validação e uma política de segurança permissiva. A OpenAI corrigiu em 8 dias, classificou como P1 e pagou US$ 5 mil, sem registro de exploração real.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Hackers chineses usam framework de IA ARTEX para mirar mais de 200 organizações",
-          "summary": "Segundo a CrowdStrike, o grupo Vapor Panda usa agentes de IA que planejam e executam invasões sob supervisão humana, com modelos como o DeepSeek. Houve comprometimento confirmado em nove organizações, entre ministérios, empresas de defesa e telecomunicações.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-          "time": "30/10"
-        },
-        {
-          "title": "Funcionário obtém isenção religiosa para não usar IA no trabalho sem crer em Deus",
-          "summary": "Um administrador da Universidade de Kentucky, humanista não teísta, conseguiu acomodação legal por considerar o uso de IA incompatível com suas crenças. A universidade diz analisar cada pedido individualmente, e o caso segue o de uma engenheira de software que obteve proteção semelhante.",
+          "title": "Ollie, assistente de IA focado em privacidade, vai encerrar as operações",
+          "summary": "A startup, que levantou US$ 7,5 milhões liderada pela Khosla Ventures, fechará o app em 6 de novembro. O CEO atribuiu a decisão à concorrência de rivais como Muse e Instinct, que dificultou crescer e captar capital. Clientes receberão instruções para exportar dados e pedir reembolso.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-          "time": "30/10"
-        },
-        {
-          "title": "Zest lança agente de IA por SMS que encontra restaurantes e faz reservas",
-          "summary": "O concierge funciona por mensagem de texto e em grupos, combinando gostos e reservando via OpenTable, Resy e SevenRooms. A startup captou US$ 1,8 milhão em rodada pré-seed e vê reservas e pedidos como primeiras fontes de receita.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
           "time": "30/10"
         }
       ]
@@ -419,45 +419,45 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Ecoponto do Trianon reabre na terça-feira (3) em Taboão da Serra; veja as regras de descarte",
-          "summary": "A unidade da Estrada das Olarias volta a funcionar de segunda a sexta, das 8h às 17h, após fechamento temporário por acúmulo de resíduos. Cada morador pode levar até 10 sacos de entulho por dia, com comprovante de residência; resíduos de empresas não são aceitos. O Ecoponto 1 (Irapuã) segue fechado, sem data de reabertura.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/taboao-da-serra/5702-ecoponto-do-trianon-reabre-na-terca-feira-em-taboao-da-serra-veja-as-regras-para-descarte",
+          "title": "Taboão da Serra terá missa campal de Finados no Cemitério da Saudade nesta segunda-feira (2)",
+          "summary": "A celebração acontece às 10h no Cemitério Municipal da Saudade, com entrada gratuita, e é conduzida pelo padre Carlos Alberto de Souza. O estacionamento em frente ao cemitério ficou interditado no domingo, e equipes do Deptran organizam o trânsito durante a segunda.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-tera-a-tradicional-missa-campal-de-finados-no-cemiterio-da-saudade-na-segunda-feira-2/",
+          "time": "29/10"
+        },
+        {
+          "title": "Prefeitura de Taboão da Serra abre vagas para curso gratuito de mecânica de motos em novembro",
+          "summary": "O curso de 40 horas ocorre de 9 a 19 de novembro em uma carreta do programa Caminho da Capacitação, no Parque Industrial das Oliveiras. As inscrições são on-line e a prioridade é para pessoas em vulnerabilidade social.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/prefeitura-de-taboao-da-serra-abre-vagas-para-curso-gratuito-de-mecanica-de-motos-em-novembro/",
           "time": "30/10"
         },
         {
-          "title": "Shopping Taboão terá horário especial no feriado de Finados e programação de Halloween",
-          "summary": "Na segunda (2), as lojas abrem das 14h às 20h e alimentação e lazer das 11h às 22h. A Caça aos Doces de Halloween segue até domingo e há campanha Compre e Ganhe de 1º a 12 de novembro, além de sorteio de produtos Stanley.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/cultura/5707-shopping-taboao-tera-horario-especial-no-feriado-de-finados-e-programacao-de-halloween",
+          "title": "Taboão da Serra confirma nova edição do Natal Iluminado; montagem deve começar em novembro",
+          "summary": "A decoração terá a Praça Nicola Vivilechio como centro, e o prefeito prevê iniciar a instalação na segunda semana de novembro, dependendo da licitação. Programação, atrações e investimento ainda não foram divulgados.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-confirma-nova-edicao-do-natal-iluminado-montagem-deve-comecar-em-novembro/",
+          "time": "28/10"
+        },
+        {
+          "title": "Câmara de Taboão da Serra aprova atualização das regras para contratação temporária na Educação",
+          "summary": "O projeto foi aprovado por 11 votos a 1 e muda as regras de contratação temporária de professores substitutos e auxiliares de classe. Os contratos duram até 12 meses e as contratações ficam limitadas a 25% dos cargos efetivos ocupados.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/camara-de-taboao-da-serra-aprova-atualizacao-das-regras-para-contratacao-temporaria-na-educacao/",
           "time": "30/10"
         },
         {
-          "title": "Halloween em Taboão: UniFECAF promove festa com bandas, DJ e seis horas de programação",
-          "summary": "A V TechFest — Halloween Edition acontece no sábado (31), das 17h às 23h, no campus Centro da UniFECAF. Há duas bandas ao vivo, DJ, open bar e open food, com ingressos pelo Sympla.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/cultura/5706-halloween-em-taboao-da-serra-unifecaf-promove-festa-com-bandas-dj-e-seis-horas-de-programacao",
-          "time": "30/10"
+          "title": "Lula conquista 63,52% dos votos na periferia de Taboão da Serra; Flávio Bolsonaro tem melhor desempenho na região central",
+          "summary": "No segundo turno, Lula venceu nas duas zonas eleitorais da cidade e somou 59,12% dos votos no total. A zona mais periférica concentrou cerca de 82% da vantagem do presidente, enquanto a central teve resultado mais apertado.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/lula-conquista-6352-dos-votos-na-periferia-de-taboao-da-serra-flavio-bolsonaro-tem-melhor-desempenho-na-regiao-central/",
+          "time": "29/10"
         },
         {
-          "title": "Feriado prolongado terá chuva: veja opções de lazer, cinema e passeios em Taboão e região",
-          "summary": "Com previsão de pancadas de chuva no feriado de Finados, a matéria lista programas cobertos, como cinemas e shoppings, e opções ao ar livre, entre elas o Parque das Hortênsias, em Taboão. Também recomenda checar o tempo antes de sair.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/cultura/5709-feriado-prolongado-tera-chuva-veja-opcoes-de-lazer-cinema-e-passeios-em-itapecerica-taboao-e-regiao",
-          "time": "ontem"
-        },
-        {
-          "title": "Médicos de Taboão da Serra participam de imersão sobre diabetes promovida pela Inspirali",
-          "summary": "Cerca de 40 médicos da rede municipal de saúde participaram da atividade, que abordou prevenção, diagnóstico e cuidado de pacientes com diabetes. O secretário de Saúde destacou a importância da atualização constante dos profissionais.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/saude/5703-medicos-de-taboao-da-serra-participam-de-imersao-sobre-diabetes-promovida-pela-inspirali",
-          "time": "30/10"
-        },
-        {
-          "title": "Taboão da Serra realiza seleção para seis vagas de logística na 3corações",
-          "summary": "A prefeitura, pela Secretaria de Desenvolvimento Econômico e Trabalho, promoveu seleção presencial na quarta (28), às 9h e 14h, para funções como auxiliar de expedição, conferente e operador de empilhadeira. Todas exigem ensino médio completo e os benefícios variam conforme o cargo.",
-          "source": "Click Regional",
-          "url": "https://www.clickregional.com.br/taboao-da-serra/5691-taboao-da-serra-realiza-selecao-para-vagas-de-emprego-na-3-coracoes-nesta-quarta-feira-28",
+          "title": "Policiais militares salvam bebê de um mês que estava engasgada em Taboão da Serra",
+          "summary": "Durante patrulha perto de locais de votação no domingo (25), PMs forçaram o portão de uma casa e fizeram manobra de desengasgo na bebê. Ela foi levada ao Hospital Geral do Pirajussara e, segundo a polícia, passa bem.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/policiais-militares-salvam-bebe-de-um-mes-que-estava-engasgada-em-taboao-da-serra/",
           "time": "27/10"
         }
       ]
@@ -467,39 +467,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Alcaraz derruba Medvedev e faz inédita final em Viena",
-          "summary": "Carlos Alcaraz venceu Daniil Medvedev por 6/4 e 7/6(2) na semifinal do ATP 500 de Viena. Foi sua primeira final no torneio, a 37ª da carreira e a quinta de 2026; ele disse ter feito sua melhor atuação desde a lesão no punho.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/31/alcaraz-derruba-medvedev-final-inedita-viena/",
+          "title": "Alcaraz vence De Minaur sem perder set e conquista o título em Viena",
+          "summary": "O espanhol fechou a final do ATP 500 em 6/1 e 6/4, em 97 minutos, e não cedeu sets na semana. Foi o quarto título dele em 2026 e ele agora estreia no Masters de Paris.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/alcaraz-de-minaur-vienna-2026-final",
           "time": "ontem"
         },
         {
-          "title": "Alcaraz enfrenta De Minaur na final de Viena neste domingo",
-          "summary": "A decisão do ATP 500 é às 10h (Brasília), com transmissão de ESPN e Disney+. Alcaraz, número 3 do mundo, lidera o confronto por 6 a 0 e busca o 38º título; De Minaur, 10º, chegou à final ao bater Zverev na semifinal.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/31/alcaraz-x-de-minaur-final-atp-500-viena-horario-onde-assistir/",
+          "title": "Vacherot surpreende novamente, é campeão na Basileia e faz história",
+          "summary": "O monegasco virou sobre Jiri Lehecka por 2/6, 6/3 e 6/3 na final do ATP 500 suíço. É seu segundo título em duas finais e ele deve subir ao 27º lugar do ranking.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/vacherot-surpreende-campeao-basileia-faz-historia/",
           "time": "ontem"
         },
         {
-          "title": "Rafael Jódar garante entrada no top 10 e faz história",
-          "summary": "Aos 20 anos, o espanhol entra oficialmente no top 10 do ranking da ATP na atualização desta segunda (2), menos de um ano após se profissionalizar. Só Boris Becker teve intervalo menor entre entrar no top 100 e chegar ao top 10.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/31/rafael-jodar-garante-entrada-no-top-10-e-faz-historia/",
+          "title": "Shnaider se recupera de lapso, é campeã em Tóquio e terá melhor ranking",
+          "summary": "A russa derrotou Leylah Fernandez por 6/4, 5/7 e 6/2 na final do WTA 500 de Tóquio. Foi o primeiro título dela na temporada e o sexto da carreira.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/shnaider-campea-toquio-melhor-ranking/",
           "time": "ontem"
         },
         {
-          "title": "Zverev dispara contra a ATP: \"O tênis está indo na direção errada\"",
-          "summary": "Em Viena, o número 1 do mundo defendeu encurtar a temporada em duas ou três semanas e disse que não jogará a United Cup. Ele criticou o calendário apertado e os jogos noturnos que terminam muito tarde.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/31/zverev-dispara-contra-a-atp-o-tenis-esta-indo-na-direcao-errada/",
+          "title": "Luisa Stefani é superada na final de Tóquio e tem incrível sequência encerrada",
+          "summary": "Stefani e Dabrowski perderam por 6/2 e 6/2 para Errani e Paolini, o que interrompeu uma série de 15 vitórias seguidas. A dupla ainda lidera por 375 pontos a disputa por vaga no WTA Finals.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/stefani-superada-final-toquio/",
           "time": "ontem"
         },
         {
-          "title": "Aos 16, Nauhany Silva vence top 100 e avança à semi do WTA 125 de Curitiba",
-          "summary": "A paulista bateu a britânica Francesca Jones, cabeça de chave 1, por 7-5 e abandono da rival com dores na perna. É sua primeira vitória sobre uma top 100 e deve levá-la ao top 500 do ranking pela primeira vez.",
-          "source": "Brasil Tênis",
-          "url": "https://brasiltenis.com.br/2026/10/31/nana-silva-vence-francesca-jones-semi-wta-125-curitiba/",
+          "title": "Diretor do Masters de Paris questiona decisões de Djokovic",
+          "summary": "Cedric Pioline criticou o desejo do sérvio de se classificar às ATP Finals depois de ter abdicado do torneio nas duas edições anteriores. Djokovic, 12º do ranking, precisa de ao menos uma semifinal em Paris para garantir a vaga.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/diretor-masters-de-paris-questiona-decisoes-djokovic/",
           "time": "ontem"
+        },
+        {
+          "title": "João Reis terá maior ranking após semi em Guayaquil",
+          "summary": "O pernambucano perdeu a semifinal do Challenger de Guayaquil para o uruguaio Joaquin Aguilar e sobe 22 pontos. Ele deve chegar ao 177º lugar, seu melhor ranking, e segue como quarto brasileiro no ranking.",
+          "source": "Tênis News",
+          "url": "https://www.tenisnews.com.br/joao-reis-tera-maior-ranking-apos-semi-em-guayaquil/",
+          "time": "31/10"
         }
       ]
     },
@@ -508,46 +515,32 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Retatrutida supera Ozempic em diabéticos e obesos, aponta estudo",
-          "summary": "No estudo TRANSCEND-T2D-2, com 1.248 adultos, a retatrutida levou a maior perda de peso (cerca de 20 a 21 kg) que o Ozempic (9,4 kg) e a maior queda da hemoglobina glicada. O medicamento da Eli Lilly ainda é experimental e não aprovado em nenhum país.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/retatrutida-supera-efeitos-do-ozempic-em-diabeticos-e-obesos-aponta-estudo/",
-          "time": "30/10"
+          "title": "Teste de HPV pelo SUS já está disponível em 26 estados para detecção precoce do câncer",
+          "summary": "O exame DNA-HPV identifica a infecção antes de surgirem lesões, e um resultado negativo permite esperar cinco anos até a próxima triagem. Foram coletadas 153 mil amostras entre este ano e o anterior, e só o Espírito Santo ainda não recebeu os materiais.",
+          "source": "Rondoniaovivo",
+          "url": "https://rondoniaovivo.com/noticia/geral/2026/11/01/saude-pelo-sus-vinte-e-seis-estados-ja-contam-com-testes-para-deteccao-precoce-do-cancer.html",
+          "time": "ontem"
         },
         {
-          "title": "Cinco estados estão em nível de risco para síndrome respiratória",
-          "summary": "Boletim InfoGripe da Fiocruz aponta Amapá, Mato Grosso, Mato Grosso do Sul, Sergipe e Maranhão em risco para SRAG, com tendência de alta. O aumento é puxado sobretudo pela covid-19 em parte dos estados.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/cinco-estados-do-brasil-estao-em-nivel-de-risco-para-sindrome-respiratoria/",
-          "time": "30/10"
+          "title": "SUS passa a oferecer nove novos medicamentos contra o câncer",
+          "summary": "Segundo o Ministério da Saúde, os remédios cobrem 13 indicações e podem beneficiar mais de 116 mil pessoas. A distribuição começa em 20 centros de atendimento, com ampliação prevista até dezembro.",
+          "source": "Rondoniaovivo",
+          "url": "https://rondoniaovivo.com/noticia/geral/2026/11/01/pelo-sus-farmacias-populares-terao-novos-medicamos-para-o-tratamento-do-cancer.html",
+          "time": "ontem"
         },
         {
-          "title": "Câncer de mama: estudo aponta vantagem da reconstrução com tecido próprio",
-          "summary": "Pesquisa com 113 pacientes pós-mastectomia e radioterapia mostrou 28,9% de falha entre as que usaram implantes e nenhuma com tecido próprio. A satisfação estética foi bem maior no grupo do tecido próprio, e a recidiva foi semelhante.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/cancer-de-mama-estudo-aponta-vantagem-da-reconstrucao-com-tecido-proprio/",
-          "time": "30/10"
+          "title": "Novembro Azul: câncer de próstata mata 50 homens por dia, diz SBU",
+          "summary": "Dados citados pela Sociedade Brasileira de Urologia indicam cerca de 18,5 mil mortes em 2025, alta de 20% em dez anos. A entidade recomenda procurar o urologista aos 50 anos, ou aos 45 em grupos de maior risco.",
+          "source": "A Tarde",
+          "url": "https://atarde.com.br/saude/novembro-azul-cancer-de-prostata-mata-50-homens-no-dia-diz-sbu-1407914",
+          "time": "ontem"
         },
         {
-          "title": "Anvisa suspende propaganda de suplementos que prometem controlar glicose",
-          "summary": "A agência suspendeu a publicidade dos suplementos Glifit e Glicofit por alegações terapêuticas não aprovadas, como controle rápido do açúcar no sangue. A medida vale só para a propaganda; fabricação e venda não foram suspensas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/anvisa-suspende-propaganda-de-suplementos-que-prometem-controlar-glicose/",
-          "time": "30/10"
-        },
-        {
-          "title": "Mais de 15 milhões de brasileiros são afetados por doenças reumáticas",
-          "summary": "Segundo a Sociedade Brasileira de Reumatologia, são mais de 120 doenças reumáticas, que também atingem crianças e jovens. A entidade alerta que dor persistente não deve ser vista como normal e que o tratamento tardio pode causar deformidades.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/mais-de-15-milhoes-de-brasileiros-sao-afetados-por-doencas-reumaticas/",
-          "time": "30/10"
-        },
-        {
-          "title": "Belo Horizonte terá novo hospital 100% SUS com serviços especializados",
-          "summary": "O Ministério da Saúde anunciou que a Unidade II do HUCM-MG terá 250 leitos e 70 pontos de hemodiálise, com foco em oncologia e cirurgias eletivas. A unidade, antes só para planos privados, integra o programa Agora Tem Especialistas.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/outubro/belo-horizonte-mg-tera-novo-hospital-100-sus-com-oferta-de-servicos-especializados",
-          "time": "30/10"
+          "title": "Comprimido lorlatinibe mantém 55% sem progressão do câncer de pulmão ALK-positivo em sete anos",
+          "summary": "A atualização do estudo CROWN mostra que 55% dos pacientes seguiam sem progressão da doença após sete anos, contra 3% com crizotinibe. O tratamento custa cerca de R$ 37 mil por mês e não está incorporado ao SUS.",
+          "source": "Piranot",
+          "url": "https://www.piranot.com.br/2026/11/01/noticias/brasil/estado-sao-paulo/interior/rmp/piracicaba-noticias/lorlatinibe-cancer-pulmao-estudo-crown/",
+          "time": "ontem"
         }
       ]
     }
