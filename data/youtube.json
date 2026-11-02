@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:36:16.272Z",
+  "updatedAt": "2026-11-02T12:59:02.878Z",
   "channels": [
     {
       "handle": "@renansantosmbl",
@@ -170,6 +170,13 @@
       "method": "api",
       "videos": [
         {
+          "id": "5gzQf9hDw4Y",
+          "title": "Kim Kataguiri dá dicas de Anime",
+          "url": "https://www.youtube.com/watch?v=5gzQf9hDw4Y",
+          "published": "2026-11-01T17:39:56Z",
+          "description": "Use o CUPOM: KIM10 e garanta o seu lugar no FESTIVAL MBL 2026: https://festival.mbl.org.br/ Vem pro Canal do whatsapp: https://whatsapp.com/channel/0029Va4xMU911ulK40wKww3L Filie-se ao partido Missão: https://missao.org.br/kim Calcule seu novo IPVA: https://novoipva.com.br Adquira já o meu novo livro: https://loja.mbl.org.br/produtos/entre-a-toga-e-a-tribuna-como-o-stf-interveio-no-processo-legislativo-desde-a-constituicao-de-1988-kim-kataguiri-0bm92/ COLA LÁ NAS MINHAS REDES: Site do Kim: https://kimkataguiri.com.br Zap do Kim: https://kataguiri.kim/zap Twitch: http://twitch.tv/kimkataguiri F"
+        },
+        {
           "id": "0c7hFbWGync",
           "title": "Na sua sala de aula é assim?",
           "url": "https://www.youtube.com/watch?v=0c7hFbWGync",
@@ -231,13 +238,6 @@
           "url": "https://www.youtube.com/watch?v=8hqvSvO0yyA",
           "published": "2026-10-27T21:05:18Z",
           "description": ""
-        },
-        {
-          "id": "HzekDtJd1E0",
-          "title": "Quem vende a alma ao demônio…",
-          "url": "https://www.youtube.com/watch?v=HzekDtJd1E0",
-          "published": "2026-10-26T22:05:58Z",
-          "description": ""
         }
       ]
     },
@@ -262,13 +262,6 @@
           "url": "https://www.youtube.com/watch?v=HDj_2F6mpBY",
           "published": "2026-10-29T15:06:22Z",
           "description": "https://smartcast.gg/mamaefalei"
-        },
-        {
-          "id": "Uzyhv5TlKsw",
-          "title": "DEBATE SOBRE A ESCALA 6X1",
-          "url": "https://www.youtube.com/watch?v=Uzyhv5TlKsw",
-          "published": "2026-10-28T22:22:24Z",
-          "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCkSjy-IOEq-eMtarZl2uH1Q/join Inscreva-se no canal: https://www.youtube.com/mamaefalei?sub_confirmation=1 Me siga em: https://arthurdoval.com.br/"
         },
         {
           "id": "2cmjRlc84hg",
@@ -318,6 +311,13 @@
           "url": "https://www.youtube.com/watch?v=7Jy3Elk3_fg",
           "published": "2026-10-26T12:42:51Z",
           "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCkSjy-IOEq-eMtarZl2uH1Q/join Inscreva-se no canal: https://www.youtube.com/mamaefalei?sub_confirmation=1 Me siga em: https://arthurdoval.com.br/"
+        },
+        {
+          "id": "R8uje9GUl6U",
+          "title": "LIVE DO SEGUNDO TURNO",
+          "url": "https://www.youtube.com/watch?v=R8uje9GUl6U",
+          "published": "2026-10-26T03:13:05Z",
+          "description": "Envie sua pergunta ao vivo em: https://smartcast.gg/mamaefalei"
         }
       ]
     },
@@ -329,6 +329,13 @@
       "ok": true,
       "method": "api",
       "videos": [
+        {
+          "id": "I422G9-kgJE",
+          "title": "FELIPE MOURA BRASIL faz análise crítica do PARTIDO MISSÃO",
+          "url": "https://www.youtube.com/watch?v=I422G9-kgJE",
+          "published": "2026-11-01T13:00:22Z",
+          "description": "👉 CURSO INEVITÁVEL CORTES: https://kiwify.app/esC38zG?afid=Y2jd0bh5 📌 Canal de cortes políticos: trechos diretos, reação e análise sem enrolação. Inscreva-se no nosso canal: @brazilmissao #mbl #kimkataguiri #renansantos #arthurdoval"
+        },
         {
           "id": "8lMuu4LPHRI",
           "title": "GOLPE? BISOTTO revela o que sabe sobre o RESULTADO das ELEIÇÕES 2026",
@@ -391,13 +398,6 @@
           "url": "https://www.youtube.com/watch?v=zE8DN7g0w6I",
           "published": "2026-10-30T11:30:04Z",
           "description": "Junito respondeu os ataques que a ex-panicat Gabi Levinnt, agora no Redcast, fez a Arthur do Val, Renan Santos e o mbl. 📌 Canal de cortes políticos: trechos diretos, reação e análise sem enrolação. Inscreva-se no nosso canal: @brazilmissao #mbl #kimkataguiri #renansantos #arthurdoval"
-        },
-        {
-          "id": "R2F1WHM7OaI",
-          "title": "RENAN SANTOS COMENTA SITUAÇÃO DE TARCISIO DE FREITAS",
-          "url": "https://www.youtube.com/watch?v=R2F1WHM7OaI",
-          "published": "2026-10-30T00:15:03Z",
-          "description": "Renan Santos comenta situação do governador de São Paulo, Tarcisio de Freitas, e qual será o seu futuro na política. 📌 Canal de cortes políticos: trechos diretos, reação e análise sem enrolação. Inscreva-se no nosso canal: @brazilmissao #mbl #kimkataguiri #renansantos #arthurdoval"
         }
       ]
     },
