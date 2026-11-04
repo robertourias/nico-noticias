@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-03T03:45:00-03:00",
+  "updatedAt": "2026-11-04T03:24:00-03:00",
   "markets": {
-    "asOf": "Bolsa e câmbio: fechamento de 30/10 (B3 fechada em 02/11) · EUA: fechamento de 02/11 · cripto 03/11 às 04:00 · Nasdaq 100 indisponível",
+    "asOf": "Fechamento de 03/11 (B3, câmbio e NY) · cripto às ~03:30 de 04/11 · IFIX de 30/10; Euro e Nasdaq 100 indisponíveis",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "167.922 pts",
-        "change": -0.75
+        "value": "165.528 pts",
+        "change": -1.42
       },
       {
         "id": "ifix",
@@ -24,8 +24,8 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.541 pts",
-        "change": -0.51
+        "value": "7.569 pts",
+        "change": 0.36
       },
       {
         "id": "nasdaq100",
@@ -36,50 +36,50 @@
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "51.984 pts",
-        "change": 0.41
+        "value": "51.787 pts",
+        "change": -0.38
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,44",
-        "change": 1.05
+        "value": "R$ 5,49",
+        "change": 0.7
       },
       {
         "id": "eur",
         "label": "Euro",
-        "value": "R$ 6,05",
-        "change": 0.86
+        "value": null,
+        "change": null
       },
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 77.154",
-        "change": -1.46
+        "value": "US$ 77.650",
+        "change": 0.38
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.258",
-        "change": -1.18
+        "value": "US$ 2.295",
+        "change": 1.31
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 92,41",
-        "change": -2.63
+        "value": "US$ 93,25",
+        "change": 0.17
       }
     ]
   },
   "weather": {
-    "date": "2026-11-03",
-    "condition": "sol e calor pela manhã, com pancadas isoladas de chuva entre o meio e o fim da tarde",
-    "min": 18,
-    "max": 29,
+    "date": "2026-11-04",
+    "condition": "calor, com possibilidade de temporais e rajadas de vento",
+    "min": null,
+    "max": null,
     "rainChance": null,
-    "rainMm": 10,
+    "rainMm": null,
     "uv": null,
-    "source": "São Paulo Agora (CGE/Defesa Civil)",
+    "source": "São Paulo Agora",
     "url": "https://www.spagora.com.br/cotidiano/clima/previsao-tempo-sao-paulo-terca-feira-3-novembro-2026/"
   },
   "categories": [
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Mercado Bitcoin bloqueia US$ 11,2 milhões após incidente de segurança",
-          "summary": "A exchange identificou um incidente de segurança na segunda-feira e tirou a plataforma do ar. Cerca de US$ 11,2 milhões foram bloqueados, de um total envolvido estimado em US$ 38 milhões, e a empresa trabalha com Tether, Circle e Chainalysis para recuperar valores. É o segundo caso no setor em menos de uma semana, após relato de ataque à Binance.",
+          "title": "Inadimplência atinge recorde de 84,2 milhões de pessoas, aponta Serasa",
+          "summary": "Levantamento de setembro mostra 84,2 milhões de brasileiros com contas em atraso, ou 51,1% da população, o maior nível da série. A dívida total passou de R$ 597 bilhões, com bancos e cartões no topo, e o valor médio por devedor é de cerca de R$ 7,1 mil. O Feirão Limpa Nome segue até 6 de dezembro com descontos de até 99%.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/mercado-bitcoin-bloqueia-us-112-milhoes-apos-incidente-de-seguranca/",
+          "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/inadimplencia-atinge-recorde-de-842-milhoes-de-pessoas-aponta-serasa/",
           "time": "ontem"
         },
         {
-          "title": "Análise: veja os possíveis efeitos da proposta econômica de André Lara Resende",
-          "summary": "O economista sugere derrubar a Selic de 13,75% para 7,5% em um ano, criar um conselho fiscal e monetário e usar reservas internacionais para conter o dólar. Analistas ouvidos pela CNN avaliam que isso enfraqueceria a autonomia do BC e pressionaria a inflação. O mercado vê a implementação como improvável, mas teme a demora nas definições econômicas.",
+          "title": "Acidente aéreo na Flórida: avião pode ter se desintegrado antes da queda",
+          "summary": "Um jato caiu em área residencial do condado de Palm Beach no domingo (1º) e matou as nove pessoas a bordo, entre elas uma copiloto brasileira de 20 anos. Autoridades americanas dizem que a aeronave pode ter se partido no ar, e pilotos relataram gelo pouco antes da queda. A causa ainda não foi definida.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-quais-os-possiveis-efeitos-da-proposta-de-lara-resende/",
+          "url": "https://www.cnnbrasil.com.br/internacional/acidente-aereo-na-florida-aviao-pode-ter-se-desintegrado-antes-da-queda/",
           "time": "ontem"
         },
         {
-          "title": "Horários do Enem 2026: veja que horas os portões fecham para a prova",
-          "summary": "O exame será aplicado nos domingos 8 e 15 de novembro, com portões abertos às 12h e fechados às 13h, e provas começando às 13h30. O término é às 19h no primeiro dia e às 18h30 no segundo. Candidatos em outros fusos ou com tempo adicional têm regras de horário específicas.",
+          "title": "Mega da Virada 2026: apostas começam e prêmio pode passar de R$ 1 bilhão",
+          "summary": "Já é possível apostar na Mega da Virada, com jogo simples de seis números a R$ 6 e prazo até as 22h de 31 de dezembro. O prêmio principal, estimado acima de R$ 1 bilhão, não acumula, e o sorteio será em 1º de janeiro de 2027. No ano passado o prêmio foi recorde, de R$ 1,09 bilhão.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/educacao/horarios-do-enem-2026-veja-que-horas-os-portoes-fecham-para-a-prova/",
+          "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-da-virada-2026-apostas-comecam-e-premio-pode-ultrapassar-r-1-bilhao/",
           "time": "ontem"
         },
         {
-          "title": "Vendas da Apple superam estimativas, mas China segue como ponto fraco",
-          "summary": "A empresa registrou receita de US$ 114,5 bilhões no trimestre, alta de 12%, puxada pelo iPhone, que faturou US$ 57,6 bilhões. A Grande China ficou mais de US$ 1 bilhão abaixo do esperado, assim como iPad e acessórios. É o primeiro balanço sob o CEO John Ternus, e as ações subiam menos de 1% após o pregão.",
+          "title": "Gilmar vê falhas na condução do TSE e diz que colegiado garantiu as eleições",
+          "summary": "Sem citar nomes, o ministro do STF criticou a atuação do tribunal eleitoral e afirmou que silêncios e hesitações não são neutros. Ele reconheceu, porém, que o colegiado manteve a disputa dentro das regras democráticas. A matéria lembra o resultado do segundo turno, com Lula vencendo Flávio Bolsonaro por cerca de 4,4 milhões de votos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/gilmar-ve-falhas-na-conducao-do-tse-e-diz-que-colegiado-garantiu-eleicoes/",
+          "time": "ontem"
+        },
+        {
+          "title": "Ibovespa chega a cair 2% com temor fiscal e especulação sobre equipe econômica de Lula",
+          "summary": "Na terça, o índice operava perto de 164,7 mil pontos ao meio-dia, pressionado por preocupações fiscais, queda da Petrobras e piora nas projeções do Boletim Focus. Rumores sobre a futura equipe econômica, incluindo uma ideia de limitar juros ligada a André Lara Resende, também pesaram. O mercado ainda aguardava o Copom e as eleições legislativas nos EUA.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-ate-2-fatores-perdas-temor-fiscal-especulacoes-plano-governo-fiscal/",
           "time": "ontem"
         },
         {
-          "title": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom",
-          "summary": "Lindbergh Farias, Gleisi Hoffmann e Zeca Dirceu pressionam por corte da Selic, hoje em 13,75%, e dizem que a taxa não pode seguir o humor do mercado. Após a reeleição de Lula, mais bancos passaram a prever manutenção dos juros. Na semana pós-eleição o Ibovespa teve sua pior queda semanal desde 2020 e o dólar subiu 9%.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom/",
-          "time": "ontem"
-        },
-        {
-          "title": "Aprovação de Trump fica perto da mínima histórica, mostra pesquisa Reuters/Ipsos",
-          "summary": "Segundo o levantamento, 32% aprovam o presidente americano, quase igual ao piso de 31% registrado duas semanas antes. Na disputa genérica para o Congresso, democratas têm 46% contra 38% dos republicanos. Metade dos independentes diz que votará contra Trump nas eleições legislativas desta terça.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/",
-          "time": "ontem"
-        },
-        {
-          "title": "Homem abandona Camaro após atingir e matar motociclista em rodovia de SP",
-          "summary": "Um homem de 46 anos bateu na traseira de uma moto com seu Camaro na Anhanguera, em Sumaré, na noite de domingo, e o motociclista morreu no local. O motorista deixou o carro e fugiu sem socorrer; a esposa disse à polícia que ele passou mal. O caso é tratado como homicídio culposo e fuga do local.",
+          "title": "Quarto menor é apreendido por morte de engenheiro agredido em ato pró-Lula em Santos",
+          "summary": "Um adolescente de 16 anos se entregou na Justiça e foi levado à Fundação Casa, tornando-se o quarto menor apreendido no caso. O engenheiro ambiental Marcelo de Oliveira Rocha foi agredido em 23 de outubro e morreu três dias depois. A polícia trata o caso como latrocínio, com suspeita de motivação homofóbica.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/homem-abandona-camaro-apos-atingir-e-matar-motociclista-em-rodovia-de-sp",
+          "url": "https://metropoles.com/sao-paulo/agressao-em-ato-pro-lula-4o-menor-envolvido-na-morte-de-engenheiro-e-preso",
           "time": "ontem"
         },
         {
-          "title": "Quem era o pecuarista encontrado morto suspeito de cometer feminicídio",
-          "summary": "João Roberto Bolelli, de 64 anos, foi achado morto numa mata em Rifaina (SP) pelo neto. Ele era suspeito de matar a tiros a namorada de 24 anos em 27 de outubro e tinha pedido de prisão preventiva. A Polícia Civil investiga o caso como feminicídio.",
+          "title": "Nova carteira de identidade já pode ser solicitada pelo celular",
+          "summary": "O agendamento da Carteira de Identidade Nacional, que usa o CPF como número único, agora pode ser feito online, mas biometria, foto e assinatura continuam presenciais. O RG antigo vale até 28 de fevereiro de 2032, quando a CIN passa a ser obrigatória. A primeira via é gratuita, e os procedimentos variam conforme o estado.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/quem-era-o-pecuarista-encontrado-morto-suspeito-de-cometer-feminicidio",
-          "time": "ontem"
+          "url": "https://www.metropoles.com/brasil/nova-carteira-de-identidade-ja-pode-ser-solicitada-pelo-celular-saiba-como",
+          "time": "02/11"
         },
         {
-          "title": "Diretor Michael Mann é internado após tiro acidental nos EUA",
-          "summary": "O cineasta foi hospitalizado no sábado depois de a arma disparar no coldre durante treino de tiro em Los Angeles. O ferimento foi superficial, a polícia concluiu que foi acidente e ele está estável, em processo de alta. Mann prepara a sequência de Fogo Contra Fogo.",
+          "title": "Cotado para a Fazenda de Lula, governador do Piauí defende equilíbrio fiscal",
+          "summary": "Rafael Fonteles, do PT, escreveu nas redes que defende disciplina nas contas públicas enquanto cresce a especulação sobre seu nome para o Ministério da Fazenda. Ele manteve o atual secretário da Fazenda estadual e negou ter conversado com Lula sobre cargos ou rumos da economia. Fonteles coordenou a campanha do presidente no segundo turno.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/cotado-para-fazenda-de-lula-governador-do-piaui-defende-equilibrio-fiscal",
+          "time": "02/11"
+        },
+        {
+          "title": "Advogada e filho de 6 anos são encontrados mortos em Cotia (SP)",
+          "summary": "Ana Gabriela Faria Lima, de 29 anos, e o filho foram achados mortos no apartamento onde moravam, e a Polícia Civil investiga duplo homicídio. O companheiro dela, de 41 anos, é o principal suspeito e está foragido, tendo confessado os crimes por telefone, segundo o relato. A perícia analisa o imóvel.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/diretor-michael-mann-e-internado-apos-tiro-acidental-nos-eua",
-          "time": "01/11"
+          "url": "https://sbtnews.sbt.com.br/noticia/policia/advogada-e-filho-sao-encontrados-mortos-em-cotia-sp",
+          "time": "hoje, 05:00"
         },
         {
-          "title": "Novo açúcar reduz pela metade pico de glicose em voluntários",
-          "summary": "Pesquisadores da Unicamp desenvolveram um açúcar com cana, café verde e pele de amendoim que é absorvido mais devagar. Em testes com 25 voluntários, o pico de glicose caiu em média pela metade. Novos estudos estão previstos, inclusive na Universidade de Bolonha, e já houve pedido de patente.",
+          "title": "Subprefeito de SP relata agressão da PM em show do BTS",
+          "summary": "O subprefeito do Butantã diz ter sido algemado e agredido por policiais durante fiscalização de ambulantes perto do Morumbi. A PM afirma que ele desobedeceu, ofendeu os agentes e tentou usar o cargo para obter vantagem. O caso foi registrado na delegacia de atendimento ao turista.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/saude/novo-acucar-reduz-pela-metade-pico-de-glicose-em-voluntarios",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/subprefeito-de-sp-relata-agressao-da-pm-em-show-do-bts",
+          "time": "hoje, 02:34"
+        },
+        {
+          "title": "Justiça libera documentos médicos sobre a morte de Tancredo Neves",
+          "summary": "A 13ª Turma do TRF1 decidiu por unanimidade que um filho de Tancredo pode acessar prontuários do tratamento e da morte do pai, em 1985. Os conselhos de medicina alegavam sigilo profissional, mas o relator considerou que ele não é absoluto diante de interesse legítimo e relevância histórica. Os dados irão para nova edição de um livro sobre o caso.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/politica/justica-derruba-sigilo-medico-e-libera-documentos-sobre-a-morte-de-tancredo-neves/",
           "time": "01/11"
         },
         {
-          "title": "Morre Ciara Mageean, campeã europeia de atletismo, aos 34 anos",
-          "summary": "A atleta irlandesa morreu no domingo em decorrência de um câncer intestinal em estágio avançado. Ela disputou os Jogos do Rio-2016, chegando à semifinal dos 1500 m, e Tóquio-2021, e havia sido escalada para Paris-2024, mas uma lesão a afastou. A família confirmou a notícia nas redes.",
+          "title": "Kassab condiciona aproximação do PSD a Lula à política econômica e nega convite",
+          "summary": "Em entrevista à Jovem Pan News, o presidente do PSD disse que a participação do partido no novo governo depende da condução das contas públicas. Ele afirmou não ter recebido convite para ministério, defendeu que Lula governe mais ao centro e criticou os juros altos.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/esportes/morre-ciara-mageean-campea-europeia-de-atletismo-aos-34-anos-apos-batalha-contra-o-cancer/",
-          "time": "01/11"
-        },
-        {
-          "title": "Carney e Trump abrem caminho para trégua após meses de guerra comercial",
-          "summary": "O premiê canadense disse ter tido boa conversa com Trump e que as equipes buscarão um acordo nas próximas semanas, possivelmente aliviando tarifas sobre aço e automóveis. Não há termos fechados. A disputa se agravou desde agosto, com tarifas de 50% sobre cerca de US$ 20 bilhões em produtos canadenses.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/colunistas/eliseu-caetano/carney-e-trump-abrem-caminho-para-tregua-apos-meses-de-guerra-comercial/",
-          "time": "ontem"
+          "url": "https://jovempan.com.br/politica/kassab-condiciona-aproximacao-do-psd-a-lula-a-politica-economica-e-nega-convite-para-ministerio/",
+          "time": "02/11"
         }
       ]
     },
@@ -178,109 +178,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "Golpe? Bisotto revela o que sabe sobre o resultado das eleições 2026",
-          "summary": "Segundo a descrição do canal, Eduardo Bisotto fala sobre o resultado da eleição presidencial de 2026 entre Lula e Flávio Bolsonaro. O vídeo é um corte de análise política.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=8lMuu4LPHRI",
-          "time": "31/10"
-        },
-        {
-          "title": "Renan Santos fala sobre boicote bolsonarista a petistas",
-          "summary": "No vídeo, Renan Santos comenta o boicote de bolsonaristas a comerciantes e artistas petistas. É um corte de análise do canal de cortes políticos.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=osJ1NaQnIdg",
-          "time": "31/10"
-        },
-        {
-          "title": "Política como espaço de libertação: análise de Renan Santos e Thomas Giulliano",
-          "summary": "Renan Santos e Thomas Giulliano analisam, no vídeo, o papel da política como espaço de libertação. O programa faz parte da série de análises do MBL.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=XnF2dYRU-iw",
-          "time": "31/10"
-        },
-        {
-          "title": "Bolsonarista x petista: quem vence o boicote?",
-          "summary": "Na edição de Análises Renais, Renan Santos discute a onda de boicotes entre bolsonaristas e petistas e questiona quem sai vencedor desse embate.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=anj0k2rRRqo",
-          "time": "30/10"
-        },
-        {
-          "title": "Carlos será o sucessor no bolsonarismo? Renan e Thomas Giulliano analisam",
-          "summary": "Renan Santos e Thomas Giulliano analisam, no vídeo, se Carlos Bolsonaro pode ser o sucessor na liderança do bolsonarismo.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=mDDdpEm35Vc",
-          "time": "30/10"
-        },
-        {
-          "title": "Boicotes entre petistas e bolsonaristas",
-          "summary": "No vídeo, Kim Kataguiri comenta os boicotes cruzados entre petistas e bolsonaristas que dominaram o debate nas redes.",
+          "title": "APROVEI CRIMINALIZAR QUEM SOBREVOA PRESÍDIOS PARA AJUDAR CRIMINOSOS!",
+          "summary": "No vídeo, o deputado Kim Kataguiri comenta a aprovação de uma medida que criminaliza quem sobrevoa presídios para ajudar criminosos.",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=7Jy25aG6pAg",
+          "url": "https://www.youtube.com/watch?v=xp_cm-a_CLE",
+          "time": "02/11"
+        },
+        {
+          "title": "PLANTÃO ARTHUR DO VAL - DETALHES DA FUGA E TRUMP PODE PERDER HOJE?",
+          "summary": "Em mais um Plantão, Arthur do Val comenta os detalhes de uma fuga e discute a possibilidade de Donald Trump perder as eleições legislativas dos EUA.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=dAuwsXaYVLo",
+          "time": "ontem, 08:20"
+        },
+        {
+          "title": "RENAN SANTOS é entrevistado pelo MANHATTAN CONNECTION",
+          "summary": "O canal publica a entrevista de Renan Santos ao programa Manhattan Connection.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=1D7twidDHxI",
+          "time": "ontem, 07:30"
+        },
+        {
+          "title": "A NOVA DIREITA NÃO É CONSERVADORA? RENAN E THOMAS GIULLIANO ANALISAM",
+          "summary": "Renan Santos e Thomas Giulliano analisam, no vídeo, se a nova direita é ou não conservadora.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=oPLOTHhpt0c",
+          "time": "02/11"
+        },
+        {
+          "title": "TRAGICOMICO explica RACHADINHA de FLÁVIO BOLSONARO",
+          "summary": "No vídeo, o comentarista Tragicômico explica o caso de rachadinha envolvendo Flávio Bolsonaro, segundo o título e a descrição do canal.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=9w6vgD3gLGs",
+          "time": "02/11"
+        },
+        {
+          "title": "TARCÍSO vs FLÁVIO: RENAN SANTOS REVELA BOMBA INTERNA DO BOLSONARISMO!",
+          "summary": "Segundo o título, Renan Santos fala sobre uma disputa interna no bolsonarismo entre Tarcísio e Flávio Bolsonaro.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=M0nHOG5LlkQ",
           "time": "30/10"
         },
         {
-          "title": "Urgente: Vorcaro livre e inocentado?",
-          "summary": "O MBL News desta data trata da situação de Daniel Vorcaro e questiona se ele estaria livre e inocentado, segundo o título do programa.",
+          "title": "RESPOSTA AO NIKOLAS SOBRE O POVO DO NORDESTE",
+          "summary": "Renan Santos responde, no vídeo, a declarações de Nikolas Ferreira sobre o povo do Nordeste.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=tgojgiAlqmA",
+          "time": "29/10"
+        },
+        {
+          "title": "URGENTE!!! VORCARO LIVRE E INOCENTADO? | MBL NEWS | 30/10/26",
+          "summary": "No MBL News, o canal discute a situação de Vorcaro, questionando se ele está livre e inocentado.",
           "source": "MBL TV",
           "url": "https://www.youtube.com/watch?v=yU5roCMoxoo",
           "time": "30/10"
         },
         {
-          "title": "Plantão Arthur do Val: todos estão com raiva da Missão",
-          "summary": "No Plantão, Arthur do Val comenta as reações de críticos e adversários ao partido Missão, segundo o título do vídeo.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=I8xFpXsa46M",
+          "title": "SOCIEDADE DO BOICOTE: RENAN SANTOS FAZ ANÁLISE SOBRE CASO DO MENINO MATEUS!",
+          "summary": "No vídeo, Renan Santos analisa a chamada sociedade do boicote a partir do caso do menino Mateus.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=7MlRaVRmt0Q",
           "time": "30/10"
         },
         {
-          "title": "Trump acabou com Flávio Bolsonaro",
-          "summary": "Em Análises Renais, Renan Santos avalia o impacto da posição de Donald Trump sobre a candidatura de Flávio Bolsonaro.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=4r7WXN_Tv20",
-          "time": "29/10"
+          "title": "Senado aprova PEC da Segurança Pública e adia debate sobre maioridade penal",
+          "summary": "O plenário aprovou a proposta sem votos contrários, com 73 votos no primeiro turno e 75 no segundo. O relator retirou as emendas sobre redução da maioridade penal, que seguirão como propostas separadas após requerimento aprovado por 38 a 36. O texto inclui o Susp na Constituição, amplia atribuições da PRF e endurece regras contra facções.",
+          "source": "Metrópoles",
+          "url": "https://metropoles.com/brasil/senado-pec-da-seguranca-maioridade",
+          "time": "ontem, 19:30"
         },
         {
-          "title": "PEC da Segurança volta ao Senado em impasse sobre maioridade penal",
-          "summary": "A proposta, que integra as forças de segurança, põe o Susp na Constituição e endurece o combate a facções, volta à pauta nesta terça. O entrave é a tentativa da oposição de incluir a redução da maioridade penal, ausente do texto da CCJ. Para passar, precisa de 49 votos em cada um dos dois turnos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/blogs/adriana-de-luca/nacional/brasil/pec-da-seguranca-volta-ao-senado-em-impasse-sobre-maioridade-penal/",
-          "time": "ontem"
-        },
-        {
-          "title": "Lula é aconselhado a fazer indicação 'segura' ao STF antes do fim do ano",
-          "summary": "Articuladores do governo recomendam nomear logo o substituto de Barroso. Lula quer insistir em Jorge Messias, mas o Senado rejeitou o nome em abril; aliados sugerem um consenso, como Rodrigo Pacheco, preferido de Alcolumbre. A decisão deve sair depois da próxima semana.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-e-aconselhado-a-fazer-indicacao-segura-ao-stf-antes-do-fim-do-ano/",
-          "time": "31/10"
-        },
-        {
-          "title": "Após derrota de Flávio, revisão no STF vira principal aposta para Bolsonaro",
-          "summary": "A defesa quer usar a revisão criminal para anular a condenação de 27 anos por tentativa de golpe. O relator, Kassio Nunes Marques, deu dez dias para a PGR se manifestar e pretende levar o caso ao plenário. Já a ala próxima a Moraes enxerga chance mínima de mudar a pena.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/apos-derrota-de-flavio-revisao-no-stf-vira-principal-aposta-para-bolsonaro/",
-          "time": "01/11"
-        },
-        {
-          "title": "Após fim de trégua humanitária, Zelensky diz que Rússia prefere matar civis",
-          "summary": "O presidente ucraniano afirmou que Moscou podia manter a missão humanitária em Oleshky, mas seguiu atacando. Bombas atingiram uma escola usada para distribuir ajuda em Komyshuvakha e depois um abrigo, e o balanço de mortos subiu para 26.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/apos-fim-de-tregua-humanitaria-zelensky-diz-que-russia-prefere-matar-civis/",
-          "time": "ontem"
-        },
-        {
-          "title": "Trump diz que EUA estão 'acabando' com o Irã e que país não tem mais defesas nem líderes",
-          "summary": "Em comício em Iowa, o presidente afirmou que Washington não iniciou a guerra, apenas a está encerrando, e que Teerã ficou sem Marinha, radares e defesa antiaérea. Admitiu que talvez tenha ido longe demais com os líderes iranianos.",
+          "title": "Fux diz que audiência sobre bets trouxe dados 'completamente diferentes' de 2024",
+          "summary": "O ministro do STF, relator do caso, afirmou que os números apresentados agora diferem dos de 2024, embora não sejam antagônicos. Criticado por Lula por causa da presença de entidades pró-bets na audiência, disse ter a percepção de que as apostas devem ser banidas, mas que a medida provisória do governo traz elementos novos a analisar.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/trump-diz-que-eua-estao-acabando-com-o-ira-e-pais-nao-tem-mais-defesas-nem-lideres/",
-          "time": "01/11"
+          "url": "https://jovempan.com.br/politica/audiencia-publica-sobre-bets-trouxe-dados-completamente-diferentes-de-2024-diz-fux/",
+          "time": "ontem, 22:37"
         },
         {
-          "title": "Trump admite indultos a aliados e promete vetos se democratas vencerem eleição",
-          "summary": "Em podcast, Trump disse que pode conceder indultos preventivos a integrantes do governo, citando o precedente de Biden. Prometeu ainda vetar propostas da oposição se os republicanos perderem o Congresso nas eleições de meio de mandato, nesta terça.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/trump-admite-indultos-a-aliados-e-promete-vetos-se-democratas-vencerem-eleicao/",
+          "title": "Aliados de Marinho planejam tirar votos de sete partidos no Senado",
+          "summary": "Aliados do senador Rogério Marinho (PL-RN) querem montar apoio em pelo menos sete partidos para elegê-lo presidente do Senado e barrar a permanência de Davi Alcolumbre em 2027. O PL deve lançar a candidatura nesta quarta, com apoio formal do Novo, e a meta é chegar a 41 votos. Como a votação é secreta, há risco de traições nos dois lados.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/isabel-mega/politica/aliados-de-marinho-planejam-tirar-votos-de-sete-partidos-no-senado/",
           "time": "ontem"
+        },
+        {
+          "title": "Irã e EUA seguem longe de acordo para encerrar a guerra, diz autoridade",
+          "summary": "Segundo um alto funcionário iraniano, as negociações continuam distantes, enquanto o Catar tenta evitar nova escalada após as eleições americanas. Os EUA fizeram ataques que chamaram de defensivos na ilha de Qeshm, e Teerã condiciona a reabertura do Estreito de Ormuz ao cumprimento de suas exigências. Uma nova proposta do mediador deve ter resposta em cerca de 36 horas.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/ira-e-eua-seguem-longe-de-acordo-para-encerrar-guerra-diz-autoridade/",
+          "time": "ontem"
+        },
+        {
+          "title": "Trump diz que EUA deixarão de financiar Israel após o fim do ano",
+          "summary": "Em entrevista à Fox, o presidente afirmou que combinou com Netanyahu o fim da ajuda militar americana ao país ao término deste ano, dizendo que Israel não precisa mais do dinheiro. Ele ressalvou que os EUA ajudariam se fossem solicitados e que Israel pode comprar armas americanas. Em 2025, a ajuda somou cerca de US$ 3,8 bilhões.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-deixarao-de-financiar-israel-apos-fim-do-ano/",
+          "time": "ontem"
+        },
+        {
+          "title": "EUA iniciam apuração das eleições legislativas de meio de mandato",
+          "summary": "Estão em disputa as 435 cadeiras da Câmara, 35 das 100 do Senado e 36 governos estaduais, com os democratas precisando de quatro vagas para retomar a Câmara. A votação ocorre em meio à queda de popularidade de Trump, ligada à guerra com o Irã e ao custo de vida. A apuração completa pode levar dias.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/eleicoes-nos-eua-apuracao-de-votos-midterms",
+          "time": "ontem, 20:00"
         }
       ]
     },
@@ -289,46 +289,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Petróleo cai mais de 4% com esperança de paz no Oriente Médio; Goldman projeta Brent a US$ 140",
-          "summary": "O Brent recuou para cerca de US$ 108 e o WTI para perto de US$ 100 após sinais de que o Irã avança em conversas mediadas pelo Catar para encerrar o conflito com EUA e Israel. O mercado também pesa o risco de nova escalada depois das eleições legislativas americanas. O Goldman Sachs elevou suas projeções e vê o Brent chegando a US$ 140 em 2027 se a oferta do Golfo seguir bem abaixo da média de 2025.",
+          "title": "Ibovespa futuro cai 2% e dólar se aproxima de R$ 5,50 após semana de perdas; XP rebaixa Bolsa brasileira",
+          "summary": "Os contratos futuros do Ibovespa recuaram cerca de 2%, para perto de 167 mil pontos, depois de o índice acumular queda de 18% na semana anterior. O dólar comercial subiu rumo a R$ 5,50, e o boletim Focus trouxe revisões para cima na inflação e na Selic e para baixo no PIB. No exterior, o mercado aguardava as eleições legislativas americanas, e a XP rebaixou a visão sobre ações brasileiras para neutra.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petroleo-cai-mais-de-4-com-esperanca-de-paz-goldman-projeta-us-140/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
+          "time": "ontem, 09:11"
         },
         {
-          "title": "Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra",
-          "summary": "O ouro para dezembro subiu 1,81%, a US$ 3.969,60 por onça-troy, e a prata avançou 3,27%, impulsionados pela expectativa de saída negociada para a guerra. O Irã citou um plano de dois dias para reabrir Ormuz, e Trump se disse aberto a negociar, mas sem arma nuclear iraniana. Investidores aguardam o payroll de outubro dos EUA e ainda temem novas altas de juros do Fed em dezembro.",
+          "title": "Midterms nos EUA: como o resultado pode afetar o mercado no Brasil",
+          "summary": "Segundo o JPMorgan, o efeito sobre as ações americanas depende mais da composição final do Congresso do que do partido vencedor. O UBS vê maior chance de influência democrata, com possíveis reflexos sobre o Federal Reserve. Para uma estrategista da Nomad, vitória democrata nas duas Casas poderia fortalecer o real, enquanto o cenário republicano teria o efeito contrário.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-otimismo-sobre-dialogo-entre-eua-e-ira-para-encerrar-guerra/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mercados/midterms-nos-eua-como-resultado-pode-impactar-mercado-no-brasil/",
+          "time": "ontem, 18:13"
         },
         {
-          "title": "Calendário da semana: Copom, payroll e eleições nos EUA são destaques",
-          "summary": "O Copom decide a Selic na quarta (4/11), na primeira reunião após as eleições, e o mercado espera manutenção da Selic, com interrupção do ciclo de cortes. Petróleo em alta e real depreciado devem pesar nas projeções de inflação do BC. Na terça há eleições legislativas nos EUA e na sexta sai o payroll de outubro.",
+          "title": "Nasdaq fecha em alta com recuperação das gigantes de IA, mas Apple cai com alerta sobre custo de memória",
+          "summary": "O Nasdaq avançou 0,83% com a retomada de papéis ligados a IA, como Nvidia e Micron, após uma correção de mais de 10% desde o recorde de outubro, alimentada por dúvidas sobre o ritmo dos gastos em infraestrutura. A Apple recuou 1,9% ao avisar que o encarecimento dos chips de memória vai pressionar sua margem bruta. O S&P 500 subiu 0,36% com os investidores de olho nas eleições americanas.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-copom-trabalho-e-eleicoes-nos-eua-sao-destaques/",
-          "time": "01/11"
+          "url": "https://www.infomoney.com.br/mercados/nasdaq-fecha-em-alta-com-recuperacao-das-grandes-empresas-do-setor-de-ia/",
+          "time": "ontem, 18:52"
         },
         {
-          "title": "Quem vai comandar a economia de Lula em 2027? O que o mercado espera",
-          "summary": "A escolha da equipe econômica do novo mandato é uma das primeiras decisões de Lula e deve mexer com juros, dívida e crescimento. O governador do Piauí, Rafael Fonteles, é o mais cotado para a Fazenda, mas Dario Durigan pode ficar e Alckmin também é citado. A definição deve sair após a viagem internacional de Lula, que vai até 16 de novembro, com um Congresso mais à direita pela frente.",
+          "title": "Aramco lucra US$ 36 bilhões no 3º tri e diz não esperar impacto financeiro de ataques a instalações",
+          "summary": "O lucro líquido da Saudi Aramco subiu 35% no terceiro trimestre, para US$ 36,25 bilhões, e a receita avançou 20,2%, impulsionada por petróleo e derivados mais caros. A petroleira afirmou que ataques a suas instalações não devem ter efeito financeiro relevante. Para contornar as restrições de navegação no Estreito de Ormuz, ela usa o oleoduto Leste-Oeste e avalia outras rotas de exportação.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/quem-vai-comandar-a-economia-de-lula-em-2027-o-que-o-mercado-espera/",
-          "time": "01/11"
+          "url": "https://www.infomoney.com.br/business/aramco-lucra-us-36-bi-e-diz-nao-esperar-impacto-financeiro-de-ataques-a-instalacoes/",
+          "time": "ontem, 11:18"
         },
         {
-          "title": "Petrobras reajusta querosene de aviação em 7,2% a partir de 1º de novembro",
-          "summary": "A estatal elevou o QAV em R$ 0,45 por litro, citando a alta internacional do combustível com tensões no Oriente Médio e menor capacidade de refino na Rússia e na Ucrânia. Em outubro o preço já havia subido 11,8%, e até setembro a alta no ano era de 53,3%. A Petrobras diz que seu preço segue competitivo frente ao mercado externo.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petrobras-anuncia-aumento-de-72-no-preco-do-litro-do-querosene-de-aviacao/",
-          "time": "01/11"
+          "title": "Dívida das big techs para IA cresce e pode pressionar juros, aponta BIS",
+          "summary": "Estudo do BIS mostra que Alphabet, Amazon, Meta, Microsoft e Oracle emitiram cerca de US$ 222 bilhões em títulos até setembro, e as emissões de longo prazo já equivalem a cerca de 13% das emissões do Tesouro americano nos mesmos prazos. O efeito medido sobre o prêmio de risco dos juros de 10 anos foi pequeno e passageiro, mas os autores ressalvam que isso não prova causalidade. O banco alerta ainda que estruturas de financiamento complexas ligam fornecedores, bancos e fundos e pedem mais transparência.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/lucinda-pinto/economia/money/macroeconomia/divida-das-big-techs-para-ia-cresce-e-pode-pressionar-juros-aponta-bis/",
+          "time": "02/11"
         },
         {
-          "title": "Pós-eleição de Lula coloca queda do Ibovespa entre as maiores semanais da história",
-          "summary": "O Ibovespa perdeu 18,12% na semana encerrada em 30/10, entre as quatro piores do século, ao lado de 2008, Covid e 11 de Setembro. Após chegar a superar 209 mil pontos com apostas na oposição, o índice desabou 13,88% na segunda (26) e acionou o circuit breaker pela primeira vez desde a pandemia. Economistas veem correção de expectativas e apontam o fiscal como fator decisivo.",
+          "title": "Palantir vê lucro mais que dobrar no 3º trimestre e eleva projeções para 2026",
+          "summary": "A Palantir lucrou US$ 1,13 bilhão no trimestre, mais que o dobro de um ano antes, com receita de US$ 2,31 bilhões, alta de 96%. O destaque foi o negócio comercial nos EUA, que cresceu 148% e superou pela primeira vez a receita com o governo americano. A empresa elevou a previsão de receita de 2026 para cerca de US$ 8,53 bilhões e projetou quarto trimestre acima do consenso.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/maiores-quedas-semanais-ibovespa-2008-covid-11-setembro-eleicao/",
-          "time": "31/10"
+          "url": "https://www.infomoney.com.br/mercados/palantir-ve-lucro-mais-que-dobrar-no-3o-trimestre-e-eleva-projecoes-para-2026/",
+          "time": "02/11"
         }
       ]
     },
@@ -337,46 +337,46 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Google derruba botnet com 1,3 milhão de dispositivos Android e acusa fabricante de TV box de vender acesso a criminosos",
-          "summary": "A Google desarticulou a botnet x.cpe, formada sobretudo por TV boxes Android com backdoor, usada para fraude de anúncios e revenda de conexões residenciais como proxy. Segundo a empresa, a fabricante Videostrong embutiu a brecha de propósito e burlou os testes de certificação carregando o código após o primeiro boot. A Google tomou domínios via ação judicial, baniu a fabricante e mudou seu processo de revisão.",
+          "title": "Red Hat corrige falha de RCE em TCP do Linux com nota 9,8; Ubuntu ainda só tem correção em teste",
+          "summary": "A CVE-2026-98432 é um use-after-free no código TCP IPv4 do kernel Linux, presente desde a versão 4.4, que permite execução remota de código sem autenticação. RHEL 8, 9 e 10 já têm kernels corrigidos, que exigem reinicialização, enquanto as correções do Ubuntu 22.04, 24.04 e 26.04 estão só em canal opcional de testes. Como medida provisória, a Red Hat sugere uma regra nftables que descarta pacotes TCP IPv4 com opções IP, o que pode quebrar algumas cargas de trabalho.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+          "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
           "time": "ontem"
         },
         {
-          "title": "Falhas críticas no Langflow permitem execução remota de código sem autenticação",
-          "summary": "A IBM divulgou falhas que afetam todas as versões do Langflow da 1.0.0 à 1.12.8, incluindo um bypass de autenticação e execução de código, ambos com CVSS 9,8. A correção está na versão 1.13.0, que também desativa o login automático por padrão, e não há mitigação para quem não puder atualizar. Já existe módulo Metasploit para uma das falhas.",
+          "title": "Canal de atualização do cPGuard é sequestrado para instalar backdoor em servidores Linux",
+          "summary": "No dia 2 de novembro, um invasor entrou no sistema de atualização do cPGuard e distribuiu um script malicioso para servidores com as versões 5.88.12 a 5.88.19. O script instalou um backdoor e coletou hashes de senha e outros arquivos sensíveis, enviados a um servidor de licenciamento. Quem usa o produto deve migrar para a 5.88.25 ou superior e tratar os servidores expostos como comprometidos, trocando senhas, credenciais de banco, tokens e chaves SSH.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+          "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
           "time": "ontem"
         },
         {
-          "title": "SUSE vai cortar cerca de 10% dos funcionários e culpa automação e IA",
-          "summary": "Em memorando aos cerca de 1.900 funcionários, o CEO da SUSE anunciou demissões de aproximadamente 10% do quadro global, atribuídas a automação e IA. Os afetados serão avisados até 4 de novembro, e a estratégia do ano fiscal de 2027 será apresentada em 16/11. A empresa, controlada pela EQT, já havia oferecido desligamentos voluntários em setembro.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+          "title": "Google alerta que LLMjacking já custa até US$ 1 milhão em cobranças de nuvem a empresas",
+          "summary": "Equipes de inteligência de ameaças do Google e da Mandiant descrevem o LLMjacking, em que criminosos usam acessos roubados a APIs de modelos de linguagem e deixam a conta com a vítima. Alguns incidentes passaram de US$ 100 mil em um único dia, e as perdas acumuladas chegaram a US$ 1 milhão antes de o acesso ser revogado. A entrada costuma ocorrer por credenciais de nuvem roubadas ou chaves vazadas, e o acesso é revendido em serviços clandestinos.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
           "time": "ontem"
         },
         {
-          "title": "Invasores encadeiam três falhas do Ivanti Connect Secure para obter root sem autenticação",
-          "summary": "A CISA incluiu duas novas vulnerabilidades do Ivanti Connect Secure no catálogo de exploradas, que se somam a um bypass de autenticação já listado e formam uma cadeia até root. O grupo UTA0576 usou a cadeia para roubar credenciais e buscar senhas de administrador e chaves BitLocker, sem implantar malware. A correção parcial saiu na versão 25.1.3.0, com backports para outras versões.",
+          "title": "NAS Synology são alvo de ransomware que explora falha de DSM já corrigida",
+          "summary": "A Synology pede que clientes atualizem o DiskStation Manager porque atacantes exploram uma falha corrigida em dezembro de 2024 em aparelhos com versão antiga. A empresa não citou o bug exato, mas aponta um alerta com três vulnerabilidades, uma delas com nota 9,8 de execução remota de código. Usuários relatam infecção pelo ransomware C3RB3R, que criptografa arquivos e acrescenta a extensão .L0CK3D.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-          "time": "31/10"
+          "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+          "time": "ontem"
         },
         {
-          "title": "Link compartilhado do ChatGPT podia executar código do atacante na sessão da vítima",
-          "summary": "A empresa Parameter achou uma falha em que bastava abrir um link de conversa compartilhada e clicar em Preview para rodar código e ler chats privados. A causa estava em um listener do MathLive que aceitava mensagens de qualquer origem e HTML bruto, combinado com um script permitido pela política de segurança. A OpenAI corrigiu em oito dias, classificou como P1 e pagou US$ 5 mil, sem registro de exploração real.",
+          "title": "Falhas da Barracuda podem ser encadeadas para contornar autorização e obter acesso root",
+          "summary": "A Barracuda revelou duas falhas ligadas: um bypass de autorização pré-autenticação (CVSS 9,3) restrito ao Email Security Gateway e uma injeção de comandos (CVSS 8,6) que afeta vários produtos, como Load Balancer ADC e Web Application Firewall. Juntas, permitem a quem alcança a interface de administração furar os controles e ganhar privilégios de root. A empresa orienta restringir o acesso administrativo a redes internas confiáveis e aplicar os patches, que podem ser vários em equipamentos muito desatualizados.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-          "time": "31/10"
+          "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+          "time": "ontem"
         },
         {
-          "title": "Emacs completa 50 anos, e o editor segue vivo e em evolução",
-          "summary": "A matéria relembra a origem do Emacs como macros para o TECO no laboratório de IA do MIT, em 1976, com Stallman assumindo o desenvolvimento. O GNU Emacs 31.1 saiu em agosto de 2026 e Stallman já não é o mantenedor principal. O texto compara com o Vi, o Vim e seus forks e cita projetos de modernização.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/applications/2026/11/01/mother-of-all-editors-emacs-is-50/5306727",
-          "time": "01/11"
+          "title": "Grupo pró-Rússia Gorbag explora falha do WinRAR para espalhar malware ladrão de dados",
+          "summary": "O Gorbag atua desde pelo menos fevereiro de 2025 contra órgãos de segurança, justiça, administrações locais e defesa da Ucrânia, usando phishing com iscas governamentais, infostealers e um shell reverso. A Trend Micro associa o grupo à exploração da falha já corrigida CVE-2025-8088 do WinRAR. A ESET suspeita que ele seja um corretor de acesso inicial e observou que um comentário de prompt injection plantado para enganar ferramentas de IA não funcionou nos testes.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+          "time": "ontem"
         }
       ]
     },
@@ -385,39 +385,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "S-1 revisado da Anthropic indica compromissos de computação que podem passar de US$ 1 trilhão",
-          "summary": "O novo pedido de IPO aponta cerca de US$ 895 bilhões em compromissos de infraestrutura, e a análise estima que o total passa de US$ 1 trilhão incluindo contratos em aberto. A receita de nove meses foi de US$ 33,2 bilhões e a do terceiro trimestre quase US$ 17 bilhões, alta de 46% sobre o segundo, mas a empresa avisa que não espera manter esse ritmo. Contratos com Microsoft, Google, Amazon e Broadcom somam US$ 437 bilhões e não são canceláveis.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
-          "time": "ontem"
-        },
-        {
-          "title": "OpenAI vai unir as abas Chat e Work do ChatGPT",
-          "summary": "Segundo e-mail enviado a usuários, as duas abas serão fundidas numa só experiência em que o ChatGPT planeja e executa tarefas, como montar um site ou uma apresentação. O Codex continua separado no app desktop, mas ChatGPT e Codex passarão a dividir o mesmo limite de tokens. O lançamento começa com um grupo selecionado, e a Anthropic fez algo parecido com Claude e Cowork em setembro.",
+          "title": "Apple restringe apps de namoro e companheiros de IA a maiores de 18 anos",
+          "summary": "A Apple determinou que apps com recursos de relacionamento amoroso tenham classificação 18+ e quer dificultar o acesso de menores a companheiros de IA com conteúdo sexual ou romântico. A partir de 16 de novembro, desenvolvedores precisam informar novos descritores de conteúdo, e apps que compartilham localização real devem declarar isso. As mudanças podem atingir serviços como Character.AI e Replika.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-          "time": "ontem"
+          "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+          "time": "ontem, 12:38"
         },
         {
-          "title": "OpenAI estuda rebatizar data centers como 'campi de computação de IA'",
-          "summary": "Após as eleições de meio de mandato, a OpenAI prepara uma ofensiva de relações públicas, segundo o Axios. O diretor de assuntos globais, Chris Lehane, prevê que a IA será tema central na eleição presidencial de 2028 e propõe limites de velocidade para IA e a troca do nome dos data centers. A reação das comunidades já levou Amazon e Microsoft a abandonar NDAs em negociações com governos locais.",
+          "title": "Anthropic diz estar muito perto de atingir capacidade de auto-aperfeiçoamento recursivo da IA",
+          "summary": "No S-1/A revisado, a Anthropic afirma que pode em breve atingir sua definição de auto-aperfeiçoamento recursivo, em que a IA acelera o próprio treinamento, e admite já ter usado IA para criar modelos cujos saltos de capacidade não percebeu na hora. A empresa diz que nenhum modelo atual cruzou esse limite e que manterá humanos no controle, talvez atualizando sua política de escalonamento responsável. Céticos lembram que o documento também serve de marketing.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-          "time": "01/11"
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "time": "02/11"
         },
         {
-          "title": "Índia propõe arquitetura em que o modelo de IA vai até os dados, e não o contrário",
-          "summary": "O ministério de TI indiano apresentou o DEPA para treinamento de IA, em que hospitais, bancos e órgãos públicos compartilham dados anonimizados e criptografados por uma plataforma de troca. Os desenvolvedores treinam modelos em ambientes seguros por hardware, com privacidade diferencial e trilhas de auditoria imutáveis. Entre os usos previstos estão diagnóstico em saúde e crédito para cerca de 400 milhões de pessoas e pequenos negócios sem acesso, mas falta clareza sobre prazos.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
-          "time": "ontem"
+          "title": "New York Times e outros jornais processam o navegador Brave por suposta raspagem de conteúdo",
+          "summary": "O NYT acionou o Brave na Justiça federal de Manhattan, acusando a empresa de copiar artigos protegidos e repassá-los a firmas de IA como Anthropic, Perplexity, Mistral, xAI e Cohere. Daily News, Chicago Tribune e Orlando Sentinel entraram com ação semelhante no mesmo dia. A queixa diz que o rastreador do Brave indexou mais de 30 bilhões de páginas sem possibilidade de bloqueio e mira ainda um recurso que contorna paywalls.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "time": "02/11"
         },
         {
-          "title": "Infostealer VOLTA usa Claude, Gemini e Kimi para ranquear vítimas por valor financeiro",
-          "summary": "A Cisco Talos descreveu um malware para Windows que rouba credenciais, cookies, carteiras cripto e tokens, e envia um pacote de evidências a modelos de IA via OpenRouter. O modelo gera um dossiê da vítima classificando os ativos por valor, com Claude como padrão e Kimi e Gemini como reserva se houver recusa. Os dados vão para o Telegram, e o uso de IA é descrito como deslocamento de esforço do operador.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-          "time": "ontem"
+          "title": "Musk reduz limites do Grok Bot por custos 'insustentavelmente altos'",
+          "summary": "Usuários do Grok Bot viram os limites semanais de uso esgotados de repente no fim de semana de Halloween, e Elon Musk confirmou no X que a medida foi intencional, pois o custo de operar o serviço superava a receita. A divisão de IA da SpaceX registrou lucro de US$ 431 milhões, reduzido por custos pontuais da aquisição da Cursor. Musk não disse como ficarão os limites dos assinantes.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+          "time": "02/11"
+        },
+        {
+          "title": "42AI sai do anonimato com US$ 62,5 milhões e modelo de mundo que prevê comportamento humano",
+          "summary": "A startup israelense 42AI levantou US$ 62,5 milhões em rodada seed para um modelo comportamental que projeta como pessoas vão agir, hoje aplicado por cerca de dez corretoras para prever reações de operadores em mercados voláteis. O sistema transforma traços psicológicos, extraídos de interações com clientes, em estimativas de probabilidade. A alegação de 98% de acerto se refere a fluxos dentro de uma faixa prevista, e os fundadores não explicaram como evitarão uso contra os próprios clientes.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+          "time": "02/11"
+        },
+        {
+          "title": "Garry Tan, da Y Combinator, gasta até US$ 200 mil por ano em tokens de agentes de IA",
+          "summary": "O presidente da Y Combinator diz gastar entre US$ 100 mil e US$ 200 mil anuais em tokens para rodar agentes em trabalho, programação e vida pessoal. Ele publicou no GitHub o gstack, conjunto de 23 skills do Claude Code. Para Tan, o custo dos agentes precisa cair para a IA pessoal se popularizar, e ele defende uma IA controlada pelo usuário, não pelas big techs.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "time": "02/11"
         }
       ]
     },
@@ -426,39 +433,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Homem de 52 anos é morto a facadas após discussão em Taboão da Serra; suspeito de 58 é preso",
-          "summary": "O crime ocorreu na noite de sábado (31/10), no Jardim Saporito, depois de uma briga que começou em um bar do Jardim Record. Segundo a reportagem, a desavença teria motivação política e imagens de câmeras mostram o suspeito atingindo a vítima no tórax. Ele foi preso em flagrante por homicídio qualificado e embriaguez ao volante.",
+          "title": "Taboão da Serra confirma nova edição do Natal Iluminado, com montagem prevista para novembro",
+          "summary": "O prefeito Engenheiro Daniel afirmou que a decoração natalina volta à Praça Nicola Vivilechio, no centro, e que a montagem deve começar na segunda semana de novembro, dependendo da contratação. A programação pode avançar até o início de 2027, e a Prefeitura ainda vai divulgar atrações, locais e investimento.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/homem-e-morto-a-facadas-apos-discussao-em-taboao-da-serra-suspeito-e-preso/",
-          "time": "ontem"
+          "url": "https://otaboanense.com.br/taboao-da-serra-confirma-nova-edicao-do-natal-iluminado-montagem-deve-comecar-em-novembro/",
+          "time": "28/10"
         },
         {
-          "title": "UniFECAF, de Taboão da Serra, lança ferramenta gratuita de IA para treinar redação do Enem",
-          "summary": "O centro universitário criou o CorrigeAI, que devolve feedback ao aluno pelas cinco competências da redação do Enem. A ferramenta foi apresentada à Diretoria de Ensino de Taboão, que reúne cerca de 32 escolas estaduais, e a nota exibida é apenas uma estimativa, sem valor oficial.",
+          "title": "Conferência municipal debate violência e trabalho infantil em Taboão da Serra",
+          "summary": "A 10ª Conferência dos Direitos da Criança e do Adolescente será na sexta (6), das 8h às 14h, na Faculdade Anhanguera. Os debates se organizam em seis eixos, entre eles combate à violência, trabalho infantil e fortalecimento dos Conselhos Tutelares.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/unifecaf-lanca-ferramenta-gratuita-de-inteligencia-artificial-para-treinar-redacao-do-enem/",
-          "time": "ontem"
+          "url": "https://otaboanense.com.br/violencia-trabalho-infantil-e-protecao-de-menores-serao-debatidos-em-conferencia-em-taboao-da-serra/",
+          "time": "ontem, 17:23"
         },
         {
-          "title": "UniFECAF leva estudantes para resolver desafios reais da Renault",
-          "summary": "Seis alunos e quatro professores da instituição, fundada em Taboão da Serra, montaram em 30 dias uma estratégia de mídia para gerar leads premium para a montadora. O projeto foi defendido diante de uma banca da empresa na etapa de Comércio do Transformation Day, em São José dos Pinhais (PR).",
+          "title": "Cartórios eleitorais retomam atendimento presencial em Taboão da Serra e região",
+          "summary": "Após suspensão desde maio por causa das eleições, os cartórios de SP voltaram a atender na terça (3), de segunda a sexta, das 11h às 17h, com agendamento no site do TRE-SP. É possível tirar o primeiro título, fazer biometria e transferir domicílio; boa parte dos serviços também está online.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/unifecaf-leva-estudantes-para-resolver-desafios-reais-da-renault/",
-          "time": "ontem"
+          "url": "https://otaboanense.com.br/cartorios-eleitorais-retomam-atendimento-veja-como-tirar-ou-regularizar-o-titulo-em-taboao-da-serra-e-regiao/",
+          "time": "ontem, 16:42"
         },
         {
-          "title": "Sol e temperaturas de até 25°C marcam fim de semana em Taboão da Serra, Embu e Itapecerica",
-          "summary": "A previsão para o feriado prolongado indicava sol entre nuvens e máximas de 24°C a 25°C em Taboão, com chance de pancadas isoladas à tarde. Para segunda-feira (2), Finados, a máxima prevista em Taboão era de 25°C.",
+          "title": "AME Taboão da Serra oferece check-up gratuito para homens a partir de 50 anos",
+          "summary": "Homens com 50 anos ou mais podem fazer exames e consultas com cardiologista e urologista sem encaminhamento, em programa estadual. O pedido deve ser feito no mês do aniversário, pelo 0800-779-0000 ou pelo app Poupatempo, e o atendimento ocorre em sábados na unidade do Jardim Helena.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/sol-e-temperaturas-de-ate-25c-marcam-fim-de-semana-em-taboao-da-serra-embu-das-artes-e-itapecerica/",
-          "time": "30/10"
+          "url": "https://otaboanense.com.br/ame-taboao-da-serra-oferece-check-up-gratuito-para-homens-acima-de-50-anos-veja-como-agendar/",
+          "time": "ontem, 15:04"
         },
         {
-          "title": "Agências do INSS fecham na sexta e no feriado de Finados, inclusive na região de Taboão",
-          "summary": "Sem atendimento presencial em 30/10 e 2/11, as agências voltam a funcionar na terça (3/11). Quem tinha horário marcado na sexta será avisado para remarcar, e o Meu INSS e a Central 135 seguem como alternativas.",
+          "title": "Fábrica de Empregos de Embu das Artes divulga cerca de 600 vagas, algumas em Taboão da Serra",
+          "summary": "As oportunidades incluem auxiliar de logística, produção, embalador e operador de empilhadeira, com destaque para 300 vagas em Cajamar. A inscrição é presencial no Poupatempo de Embu, com RG, CPF e carteira de trabalho.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/agencias-do-inss-fecham-na-sexta-e-no-feriado-de-finados/",
-          "time": "27/10"
+          "url": "https://otaboanense.com.br/embu-das-artes-divulga-quase-600-vagas-de-emprego-em-embu-das-artes-e-regiao-veja-cargos-e-salarios/",
+          "time": "ontem, 15:32"
+        },
+        {
+          "title": "Pai ameaça explodir casa com filho de 3 anos dentro e é preso pela PM em Embu das Artes",
+          "summary": "Segundo a matéria, o homem ameaçou a companheira com uma faca e abriu o gás do botijão; ela fugiu e chamou a polícia. Os PMs arrombaram o portão, conteram o suspeito com arma de incapacitação e entregaram o menino ileso à mãe. O pai foi preso.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/pai-ameaca-explodir-casa-com-filho-de-3-anos-dentro-e-e-preso-pela-pm-em-embu-das-artes/",
+          "time": "02/11"
         }
       ]
     },
@@ -467,46 +481,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "João Fonseca perde uma posição e deixa o top 40 do ranking da ATP",
-          "summary": "Com a atualização desta segunda, o brasileiro caiu para o 41º lugar, ultrapassado por Jan-Lennard Struff, semifinalista em Basileia. É a primeira vez fora do top 40 desde outubro de 2025; Fonseca está afastado e planeja voltar em janeiro de 2027.",
+          "title": "Fritz e Paul avançam em Paris e ganham fôlego na briga pelo ATP Finals; Lehecka está fora",
+          "summary": "No Masters 1000 de Paris, Taylor Fritz virou sobre Bonzi e Tommy Paul superou Rune. Lehecka perdeu para Michelsen e não tem mais chances de ir a Turim.",
           "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/fonseca-deixa-top-40-ranking/",
-          "time": "hoje"
+          "url": "https://www.tenisnews.com.br/fritz-paul-paris-ganham-folego-finals/",
+          "time": "ontem, 15:22"
         },
         {
-          "title": "Zverev se torna o 30º número 1 da história do ranking da ATP",
-          "summary": "O alemão assumiu a liderança com 9.550 pontos, contra 9.450 de Sinner, que encerrou a temporada antes por lesão no joelho. Zverev joga o Masters de Paris e pode abrir vantagem, enquanto Alcaraz é o terceiro com 6.100 pontos.",
+          "title": "Djokovic vira sobre Vacherot em Paris e segue vivo por vaga no ATP Finals",
+          "summary": "O sérvio perdeu o primeiro set no tie-break, mas venceu por 6/7(5), 7/5 e 6/1 em 2h36. Enfrenta Hijikata na segunda rodada e precisa das semifinais para garantir vaga sem depender de desistências.",
           "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/zverev-se-torna-30-numero-1-da-historia-tenta-abrir-vantagem/",
-          "time": "hoje"
+          "url": "https://www.tenisnews.com.br/djokovic-virada-avanca-paris/",
+          "time": "ontem, 13:23"
         },
         {
-          "title": "Ranking da ATP: Jodar entra no top 10 em tempo recorde e Fils chega ao melhor momento",
-          "summary": "O espanhol Rafael Jodar, de 20 anos, chegou ao top 10 em 280 dias de carreira na ATP, superando a marca de Guga. Fils subiu ao sétimo posto, melhor ranking da carreira, e Djokovic ficou em 11º.",
+          "title": "Berrettini salva match point, elimina Nakashima em Paris e vira ameaça para Fonseca no ranking",
+          "summary": "O italiano venceu de virada por 4/6, 6/3 e 7/6(8) e pega Humbert a seguir. Se avançar, pode ultrapassar João Fonseca, que já cai para o 42º lugar.",
           "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/as-mudancas-no-top10-ranking-com-feito-historico-jodar/",
-          "time": "hoje"
+          "url": "https://www.tenisnews.com.br/berrettini-derruba-favorito-paris/",
+          "time": "ontem, 13:41"
         },
         {
-          "title": "ATP corrige erro de soma e Jodar volta à zona de classificação para o Finals",
-          "summary": "A entidade admitiu falha no cálculo da Corrida de Turim e devolveu o espanhol ao 9º lugar, com 3.184 pontos, 24 à frente de De Minaur. Djokovic, 11º, precisa de ao menos uma semifinal em Paris para brigar por vaga.",
+          "title": "Rublev perde a quinta seguida e se desespera em Paris",
+          "summary": "Derrotado por Etcheverry por 6-4, 6-7(4) e 7-6(3), o russo acumulou a quinta derrota consecutiva no circuito e se agrediu com a raquete após o jogo. O argentino enfrentará De Minaur.",
           "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/atp-corrige-erro-com-jodar-volta-zona-atp-finals/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/rublev-perde-quinta-seguida-paris/",
+          "time": "ontem, 13:05"
         },
         {
-          "title": "Aos 17 anos, Leonardo Storck vence e vai à final do qualificatório do Sauípe Open",
-          "summary": "O jovem brasileiro, semifinalista juvenil de Roland Garros, estreou no Challenger 125 da Bahia com 6/3 e 6/3 sobre José Pereira. Ele encarou Miguel Tobón na fase seguinte do quali, no maior torneio de sua carreira.",
+          "title": "Eala estreia com vitória em Hong Kong e se aproxima do melhor ranking da carreira",
+          "summary": "A filipina, cabeça de chave 2, superou Emerson Jones por 6/4 e 6/3 no WTA 250 de Hong Kong e encara Valentova. Sakkari também avançou.",
           "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/storck-vence-qualificatorio-sauipe-open/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/eala-vence-estreia-hong-kong/",
+          "time": "ontem, 14:39"
         },
         {
-          "title": "Heide e Boscardin estreiam no Sauípe Open; Heide tem revanche contra Justo",
-          "summary": "Gustavo Heide reencontra o argentino Guido Justo, que o venceu na final do Challenger de Curitiba, e Pedro Boscardin enfrenta o boliviano Prado Angelo. A matéria traz a programação da segunda e a transmissão da ESPN/Disney+.",
+          "title": "Victória Barros e Carol Meligeni vão disputar o W35 do Paineiras, em São Paulo",
+          "summary": "O torneio de saibro, com US$ 30 mil em premiação, começa em 15 de novembro, com entrada gratuita. As brasileiras entram direto na chave de simples.",
           "source": "Tênis News",
-          "url": "https://www.tenisnews.com.br/heide-estreia-nesta-segunda-sauipe-horario-onde-assistir/",
-          "time": "ontem"
+          "url": "https://www.tenisnews.com.br/barros-meligeni-w35-paineiras/",
+          "time": "ontem, 11:03"
         }
       ]
     },
@@ -519,35 +533,42 @@
           "summary": "Em Genebra, Tedros Adhanom afirmou que surtos como o de ebola no Congo mostram a necessidade de concluir o acordo. O impasse está no anexo de acesso a patógenos e partilha de benefícios, sem o qual o tratado não entra em vigor.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/oms-alerta-para-urgencia-de-um-tratado-internacional-sobre-pandemias",
-          "time": "hoje"
+          "time": "03/11"
         },
         {
           "title": "Anvisa aprova cinco novas canetas para tratamento de diabetes e obesidade",
           "summary": "Os registros, de produtos com semaglutida ou liraglutida, saíram no Diário Oficial e envolvem Biocon, OneSource, Aché e Dr. Reddy's. Com eles, a agência soma 20 canetas de GLP-1 aprovadas em 2026.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-5-novas-canetas-para-tratamento-de-diabetes-e-obesidade",
-          "time": "ontem"
+          "time": "02/11"
         },
         {
           "title": "Campanha alerta para retinopatia diabética, doença que pode causar cegueira",
           "summary": "O Conselho Brasileiro de Oftalmologia lançou a campanha 24 Dias pelo Diabetes. Cerca de um em cada três diabéticos desenvolve a doença, e o diagnóstico precoce pode reduzir o risco de cegueira para menos de 5%.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/campanha-alerta-para-doenca-em-diabeticos-que-pode-causar-cegueira",
-          "time": "ontem"
+          "time": "02/11"
         },
         {
           "title": "Câncer de próstata matou 50 homens por dia no Brasil em 2025",
           "summary": "Dados do Ministério da Saúde divulgados pela SBU apontam cerca de 18,5 mil mortes no ano, 20% a mais que dez anos antes. A entidade reforça o rastreamento e cita a cirurgia robótica incorporada ao SUS em 2026.",
           "source": "Agência Brasil",
           "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025",
-          "time": "ontem"
+          "time": "02/11"
         },
         {
-          "title": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes",
-          "summary": "Pesquisa Ipsos-Ipec, encomendada pela Pfizer, mostra que 70% das gestantes conhecem o VSR, contra 58% em 2024. Ainda assim, só 13% acertaram todas as afirmações testadas, e a vacina disponível no SUS segue desconhecida por parte delas.",
+          "title": "Mudanças climáticas já aumentam doenças infecciosas no Brasil",
+          "summary": "A reportagem cita estudo da Fiocruz segundo o qual as microrregiões com dengue epidêmica passaram de 110 para 292 entre 2006 e 2024. Também aponta avanço de Oropouche, hantavírus e fungos resistentes, com alerta pela previsão de El Niño.",
           "source": "Agência Brasil",
-          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/preocupacao-com-bronquiolite-e-virus-sincicial-cresce-entre-gestantes",
-          "time": "30/10"
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mudancas-climaticas-ja-causam-aumento-de-doencas-infecciosas-no-pais",
+          "time": "25/10"
+        },
+        {
+          "title": "Mais Médicos Especialistas abre 224 vagas imediatas em nova chamada",
+          "summary": "Há também 4.350 vagas de cadastro reserva em 24 cursos, com bolsa de R$ 10 mil a R$ 20 mil conforme a vulnerabilidade do município. O programa já levou 2.279 especialistas a regiões carentes desde 2025.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada",
+          "time": "23/10"
         }
       ]
     }
