@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T03:25:00-03:00",
+  "updatedAt": "2026-11-08T03:22:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 06/11 · cripto de 07/11",
+    "asOf": "Fechamento de 06/11 · cripto às 03:20 de 08/11",
     "items": [
       {
         "id": "ibov",
@@ -54,31 +54,31 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 75.996",
-        "change": 0.12
+        "value": "US$ 75.814",
+        "change": 0.05
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.249",
-        "change": 0.55
+        "value": "US$ 2.235",
+        "change": 0.24
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 90",
-        "change": 0.51
+        "value": "US$ 89",
+        "change": 0.77
       }
     ]
   },
   "weather": {
-    "date": "2026-11-07",
-    "condition": "sol com aumento de nuvens pela manhã e pancadas de chuva à tarde e à noite",
-    "min": 19,
-    "max": 31,
-    "rainChance": 91,
-    "rainMm": 4.2,
-    "uv": 11,
+    "date": "2026-11-08",
+    "condition": "chuvoso durante o dia, com queda de temperatura pela chegada de ar frio",
+    "min": 13,
+    "max": 19,
+    "rainChance": 99,
+    "rainMm": 19.9,
+    "uv": null,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/fim-de-semana/cidade/558/saopaulo-sp"
   },
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Prédio de quatro andares desaba no Brás, em São Paulo, e bombeiros buscam vítimas",
-          "summary": "O imóvel da Rua Maria Joaquina caiu na noite de sexta (6). O chamado inicial citava 25 vítimas, mas o total de ocupantes não foi confirmado; 17 pessoas foram retiradas com ferimentos leves. Os bombeiros foram acionados às 18h38 e o local segue isolado.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/predio-desaba-no-bras-e-bombeiros-buscam-vitimas-nos-destrocos/",
-          "time": "ontem"
-        },
-        {
-          "title": "Casa onde Marilyn Monroe morreu vira centro de batalha judicial",
-          "summary": "Os donos do imóvel em Los Angeles queriam demolir a casa, mas a prefeitura a tombou em 2024 e revogou as licenças. Eles foram à Justiça alegando desvalorização e pedindo compensação com base na Quinta Emenda. A cidade quer o arquivamento da ação.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/curiosidades/casa-onde-marilyn-monroe-viveu-e-morreu-vira-centro-de-batalha-judicial-e-donos-dizem-que-imovel-nao-vale-nada/",
-          "time": "ontem"
-        },
-        {
-          "title": "Bolsas globais despencam com pânico em torno da inteligência artificial",
-          "summary": "Após a queda forte em Wall Street, os mercados asiáticos lideraram as perdas na sexta (6): Nikkei perdeu quase 6% e o Kospi 6,7%. Investidores temem que uma onda democrata nas eleições de meio de mandato dos EUA leve a regras mais duras para a IA. A Nvidia caiu mais de 9%.",
+          "title": "Prédio de quatro andares desaba no Brás, em SP, deixa 27 feridos e não tinha alvará nem vistoria dos bombeiros",
+          "summary": "O desabamento ocorreu na noite de sexta (6), por volta das 18h30, quando funcionários abasteciam uma loja de tecidos. A Prefeitura confirmou que o imóvel não tinha alvará vigente nem Auto de Vistoria do Corpo de Bombeiros. A hipótese de sobrecarga de material foi levantada por funcionários e pelo prefeito, mas os bombeiros não apontaram causa.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/bolsas-globais-despencam-com-mercados-tomados-por-panico-em-torno-de-ia",
-          "time": "ontem"
+          "url": "https://www.metropoles.com/sao-paulo/desabamento-no-bras-predio-nao-tinha-alvara-de-funcionamento-da-prefeitura",
+          "time": "06/11"
         },
         {
-          "title": "Dólar abre em alta a R$ 5,49 com temor do mercado sobre o setor de IA",
-          "summary": "A moeda abriu a sexta (6) a R$ 5,494, depois de subir 0,67% na véspera, enquanto o Ibovespa recuou. Pesa a venda de ações de IA e chips em Nova York e a incerteza sobre as medidas fiscais que o governo Lula ainda não detalhou.",
+          "title": "Ex-presidente do Paraguai Santiago Peña é alvo de prisão em investigação sobre o colapso do banco Ueno",
+          "summary": "Peña, destituído por impeachment, é investigado por abuso de confiança e administração fraudulenta ligados à quebra do Ueno Bank. A reportagem do SBT News indica que ele cumpre prisão domiciliar e deve depor ao Ministério Público, e que também foi ordenada a prisão do ex-chefe do Banco Central, Carlos Carvallo. Ele teve participação no grupo controlador do banco até março de 2025.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/ex-presidente-do-paraguai-santiago-pena-e-preso",
+          "time": "06/11"
+        },
+        {
+          "title": "Trump convida o chefe do UFC, Dana White, para ser secretário de imprensa da Casa Branca",
+          "summary": "O anúncio foi feito por Trump neste sábado (7). Segundo a Reuters, ele também pediu que White leve alguns assistentes para a equipe, \"mesmo que alguns não sejam do nosso país\".",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-oferece-comando-da-comunicacao-da-casa-branca-ao-chefe-do-ufc/",
+          "time": "07/11"
+        },
+        {
+          "title": "Atirador mata seis e fere 15 na Praça do Mercado, em Cracóvia, na Polônia",
+          "summary": "O homem de 24 anos disparou aleatoriamente contra pessoas neste sábado (7) e foi baleado por policiais, que também ficaram feridos; ele foi levado ao hospital para cirurgia. A polícia diz que ele agiu sozinho e que não há risco à população, mas a motivação ainda não foi esclarecida.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/polonia-sobe-para-6-numero-de-mortos-em-ataque-a-tiros-na-cracovia/",
+          "time": "07/11"
+        },
+        {
+          "title": "Novas regras do vale-alimentação e do vale-refeição começam a valer neste sábado",
+          "summary": "Passa a ser possível usar cartões de bandeiras diferentes em qualquer maquininha apta. O PAT também fixa teto de 3,6% para a taxa de desconto, limite de 2% para a tarifa de intercâmbio e repasse aos estabelecimentos em até 15 dias. A Abrasel diz que os sistemas ainda não estão integrados, e parte das regras é contestada na Justiça.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/economia/nova-regra-para-vale-alimentacao-e-refeicao-comeca-a-valer-neste-sabado/",
+          "time": "07/11"
+        },
+        {
+          "title": "Gonet pede ao STF que suspenda todas as ações sobre a MP que proibiu as bets",
+          "summary": "O procurador-geral alega insegurança jurídica e aplicação desigual da norma, depois de decisões de instâncias inferiores permitirem que sites da CDA Gaming voltassem a operar, suspensas pelo TRF-3 a pedido da AGU. O pedido foi enviado ao ministro Luiz Fux; se aceito, paralisa os processos até o STF decidir sobre a proibição.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/economia/gonet-pede-ao-stf-suspensao-de-todas-as-acoes-sobre-mp-do-fim-das-bets/",
+          "time": "07/11"
+        },
+        {
+          "title": "Norris crava a pole do GP de São Paulo de F1 em classificatório com chuva forte e punições",
+          "summary": "Lando Norris (McLaren) largará na frente em Interlagos, seguido por Antonelli (Mercedes) e Lawson (Racing Bulls). Verstappen, Hamilton, Pérez, Leclerc e Russell perderam posições por punições. A corrida é neste domingo (8), às 14h.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/sob-chuva-norris-conquista-pole-no-gp-de-sao-paulo-veja-o-grid/",
+          "time": "07/11"
+        },
+        {
+          "title": "Novorizontino vira sobre o Fortaleza e garante acesso inédito à Série A",
+          "summary": "Em Novo Horizonte (SP), o time paulista perdeu o primeiro gol, de Paulo Baya, e virou com gols de Matheus Bianqui e Luís Oyama, fechando em 2 a 1. Será a primeira participação do clube na elite do Brasileirão.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/novorizontino-vence-o-fortaleza-e-garante-acesso-a-serie-a-do-brasileirao/",
+          "time": "07/11"
+        },
+        {
+          "title": "Casos graves de Covid-19 voltam a crescer em São Paulo",
+          "summary": "Segundo a Secretaria de Estado da Saúde, o estado somava 1.328 casos de SRAG por Covid e 429 internações em UTI até 31 de outubro. O InfoGripe da Fiocruz também aponta alta em outros estados, mas a incidência segue baixa, exceto em Mato Grosso do Sul.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/casos-graves-de-covid-19-aumentam-em-sao-paulo",
+          "time": "06/11"
+        },
+        {
+          "title": "Ventania, chuva e destruição: especialistas explicam o clima extremo no Brasil",
+          "summary": "Temporais no Sul, com tornados, rajadas acima de 100 km/h, granizo e enchentes, deixaram mortos, feridos e milhares de casas danificadas, e suspenderam voos em Chapecó (SC). O meteorologista Marcelo Seluchi, do Cemaden, liga a instabilidade à umidade, às frentes frias e ao El Niño, mas diz que os dados ainda não confirmam mais tornados.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/dolar-abre-em-alta-a-r-549-com-temor-do-mercado-sobre-setor-de-ia",
-          "time": "ontem"
+          "url": "https://www.metropoles.com/brasil/ventania-chuva-e-destruicao-o-que-esta-acontecendo-com-o-clima-no-brasil",
+          "time": "07/11"
         },
         {
-          "title": "US$ 2,5 tri evaporam da Nasdaq com o temor de uma \"tsunami azul\" para a IA",
-          "summary": "A Nasdaq caiu 5,5%, pior dia desde abril de 2025, e já está em correção, quase 12% abaixo do recorde de outubro. O índice de semicondutores perdeu 12%. Analistas citam resistência local a data centers e pressão sobre energia e água.",
+          "title": "Papa Leão XIV pede que sul-americanos superem divisões em evento na fronteira Uruguai-Argentina",
+          "summary": "Na etapa de Paysandú, no Uruguai, diante de dezenas de milhares de pessoas, o papa fez o apelo neste sábado (7). A viagem dura 12 dias, até 17 de novembro, e inclui ainda Argentina e Peru.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/us-25-tri-evaporam-da-nasdaq-com-tsunami-azul-despertando-temores-em-relacao-a-ia/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mundo/papa-exorta-america-do-sul-a-superar-divisoes-na-fronteira-entre-uruguai-e-argentina/",
+          "time": "07/11"
         },
         {
-          "title": "Payroll: EUA criam 165 mil vagas em outubro, acima do esperado",
-          "summary": "O relatório do Departamento do Trabalho mostrou 165 mil vagas fora do setor agrícola, contra projeção de cerca de 64 mil da Reuters. A taxa de desemprego ficou em 4,1%, um pouco abaixo do esperado.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/payroll-eua-outubro-2026/",
-          "time": "ontem"
-        },
-        {
-          "title": "Na Turquia, ex-ministra é presa em meio a escândalo sobre fundos de investimento",
-          "summary": "Fatma Betül Sayan Kaya, ex-ministra e ex-vice-presidente do AKP, foi detida por suposta manipulação de preços de ações ligada a fundos. Ela é acusada de ter vendido ações pouco antes de os reguladores decidirem liquidar os fundos. Mais de 430 pessoas são investigadas.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/na-turquia-ex-ministra-e-presa-em-meio-a-escandalo-sobre-fundos-de-investimento/",
-          "time": "ontem"
-        },
-        {
-          "title": "São Paulo amanhece com chuva; temporal deve persistir no fim de semana",
-          "summary": "A sexta (6) começou nublada e chuvosa, mas sem chuva relevante prevista para o resto do dia. Duas frentes frias trazem pancadas e ventos fortes no sábado, e a chuva deve ser mais intensa no domingo, com queda de temperatura.",
+          "title": "Morre Nilton Travesso, um dos maiores diretores da história da TV brasileira, aos 92 anos",
+          "summary": "Ele começou na TV Record em 1953, como câmera, e depois dirigiu programas em emissoras como Globo, Manchete, SBT e Band. Na Jovem Pan, foi parceiro de longa data de Seo Tuta e participou da criação da Jovem Pan Online, em 2007.",
           "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/brasil/sao-paulo-amanhece-com-chuva-nesta-sexta-temporal-persiste-no-fim-de-semana/",
-          "time": "ontem"
-        },
-        {
-          "title": "Papa Leão XIV inicia viagem à América Latina em meio à queda no número de católicos",
-          "summary": "O papa deixou Roma na sexta (6) para uma viagem de 11 dias por Uruguai, Argentina e Peru, a primeira à região desde que assumiu. A viagem ocorre semanas após uma cirurgia de pulmão. Segundo pesquisa do Pew de 2024, cai o número de católicos, embora a crença em Deus siga ampla.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/papa-leao-xiv-inicia-viagem-a-america-latina-em-meio-a-queda-de-fieis-catolicos/",
-          "time": "ontem"
-        },
-        {
-          "title": "Pix tem instabilidade e usuários relatam falhas em vários bancos",
-          "summary": "Reclamações no Downdetector começaram por volta das 18h51 de sexta (6) e chegaram a mais de 9 mil registros no pico, às 19h06. Cerca de 31% citam problemas em transferências e 27% em pagamentos. O Banco Central não havia se pronunciado até a publicação.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/pix-fora-do-ar-usuarios-relatam-instabilidade-nesta-sexta",
-          "time": "ontem"
-        },
-        {
-          "title": "Morre Nilton Travesso, diretor histórico da TV brasileira",
-          "summary": "Travesso morreu aos 92 anos na sexta (6), segundo sua equipe; a causa não foi divulgada. O velório é neste sábado (7), das 10h às 17h, em São Paulo. Ele começou na Record em 1953 e passou por Globo, Manchete e SBT.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/morre-nilton-travesso-diretor-historico-da-tv-brasileira",
-          "time": "ontem"
-        },
-        {
-          "title": "Casos de sarampo nos EUA batem recorde em 35 anos",
-          "summary": "O país soma 5.182 casos confirmados em 2026, o maior total anual do CDC em 35 anos, e 96% dos infectados não tinham vacinação comprovada. A Pensilvânia é o principal foco. A Opas deve decidir na próxima semana se os EUA mantêm o status de eliminação da doença.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/casos-de-sarampo-nos-eua-batem-recorde-em-35-anos",
-          "time": "hoje, 00:55"
+          "url": "https://jovempan.com.br/jovem-pan/morre-nilton-travesso-um-dos-maiores-diretores-da-historia-da-tv-brasileira-aos-92-anos/",
+          "time": "06/11"
         }
       ]
     },
@@ -178,109 +178,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "SENADORES DO PL NÃO QUEREM MAIS IMPEACHMENT?",
-          "summary": "No vídeo, Kim Kataguiri questiona se os senadores do PL que se elegeram com discurso pró-impeachment já estão mudando de opinião logo após a eleição.",
+          "title": "IMPOSTO DO PECADO: Governo Lula quer mais dinheiro!",
+          "summary": "No vídeo, Kim Kataguiri critica o governo Lula por querer arrecadar mais com o chamado imposto do pecado. A descrição do vídeo divulga um abaixo-assinado contra o que ele chama de \"maior imposto do mundo\".",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=bVcBTLkITwk",
-          "time": "05/11"
+          "url": "https://www.youtube.com/watch?v=ZFNFOwVJiWo",
+          "time": "06/11"
         },
         {
-          "title": "Meu projeto para SALVAR CRIANÇAS é TRAVADO no SENADO",
-          "summary": "Kim Kataguiri afirma, no vídeo, que um projeto de sua autoria voltado à proteção de crianças está travado no Senado.",
+          "title": "Tentaram BARRAR projeto do KIM mas ele foi pra CIMA!",
+          "summary": "Kim Kataguiri fala sobre a tentativa de barrar um projeto de sua autoria e diz que seguiu adiante com a proposta. A descrição do vídeo convida a assinar o abaixo-assinado contra o que ele chama de \"maior imposto do mundo\".",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=2kiDkdEalTM",
-          "time": "05/11"
+          "url": "https://www.youtube.com/watch?v=1jgM2xBiB8g",
+          "time": "06/11"
         },
         {
-          "title": "PL AJUDOU O PT (de novo)",
-          "summary": "Arthur do Val comenta, segundo o título do vídeo, mais um episódio em que o PL teria ajudado o PT.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=V9lHA0NCJio",
-          "time": "05/11"
+          "title": "RESPOSTA A FLAVIO BOLSONARO | ANÁLISES RENAIS",
+          "summary": "Em episódio de \"Análises Renais\", Renan Santos responde a Flávio Bolsonaro. O vídeo é descrito como a Aula Magna da Academia MBL, com Kim Kataguiri e Renan Santos.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=VJVkVrauito",
+          "time": "06/11"
         },
         {
-          "title": "ARTHUR DO VAL (MamãeFalei) ESCULACHA CARLOS PORTINHO senador do PL",
-          "summary": "Corte em que Arthur do Val (MamãeFalei) critica duramente o senador do PL Carlos Portinho, conforme o título e a descrição do canal de cortes políticos.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=lROn4ZkLCv0",
-          "time": "ontem, 08:57"
+          "title": "O presidente do Paraguai é um otario!!",
+          "summary": "Renan Santos faz um comentário em tom crítico sobre o presidente do Paraguai, em meio à crise política no país.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=51-J6rAI3ZE",
+          "time": "06/11"
         },
         {
-          "title": "PL bloqueia redução da maioridade? | MBL NEWS | 05/11/26",
-          "summary": "Edição de 05/11 do MBL News que debate se o PL estaria bloqueando a redução da maioridade penal.",
+          "title": "(feat Renan Santos) Moraes e Vorcaro eram muito íntimos?",
+          "summary": "No MBL News, com participação de Renan Santos, o programa discute a relação entre o ministro Alexandre de Moraes e Daniel Vorcaro, nome ligado ao caso Banco Master. O título levanta a pergunta, e a descrição não traz detalhes adicionais.",
           "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=Mr5XbaZl74g",
-          "time": "05/11"
+          "url": "https://www.youtube.com/watch?v=izvQkO-Jq70",
+          "time": "06/11"
         },
         {
-          "title": "RENAN SANTOS REAGE AOS ABSURDOS DO BOLSONARISMO, E MANDA A REAL SOBRE O CENÁRIO POLÍTICO!",
-          "summary": "Corte em que Renan Santos reage ao que chama de absurdos do bolsonarismo e comenta o cenário político, conforme o título do vídeo.",
+          "title": "FIM DA 6X1 FOI ILUSÃO? RENAN SANTOS COMENTA MUDANÇAS FEITAS POR LULA!",
+          "summary": "Em corte do canal, Renan Santos comenta mudanças feitas por Lula e questiona se o fim da escala 6x1 foi uma ilusão. O trecho vem de um vídeo original publicado no canal de Renan.",
           "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=6ZgkLVlrFfU",
-          "time": "05/11"
+          "url": "https://www.youtube.com/watch?v=n9i3xeYA1Vk",
+          "time": "06/11"
         },
         {
-          "title": "Vem mais imposto aí!",
-          "summary": "No vídeo \"Vem mais imposto aí!\", Renan Santos trata de aumento de impostos, segundo o título publicado em seu canal.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=UOi2Jf3kGsc",
-          "time": "05/11"
+          "title": "MAMÃEFALEI e SESTARO analisam o RESULTADO das ELEIÇÕES 2026",
+          "summary": "Arthur do Val (MamãeFalei) e Felipe Sestaro analisam o resultado das eleições de 2026 no podcast Inteligência Ltda, de Rogério Vilela. O vídeo é um corte do programa.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=bJm5WbWOxJ8",
+          "time": "06/11"
         },
         {
-          "title": "BIZARRO: PL AJUDA O PT MAIS UMA VEZ | Renan Santos | 05/11/2026",
-          "summary": "Renan Santos comenta, no vídeo de 05/11, o que classifica como mais uma ajuda do PL ao PT, de acordo com o título.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=hY2UK8XZxjs",
-          "time": "05/11"
+          "title": "KIM KATAGUIRI DEBATE a situação da ARGENTINA no PODCAST TRÊS IRMÃOS",
+          "summary": "Kim Kataguiri participa do podcast Três Irmãos e debate a situação da Argentina. O vídeo é um corte do canal, e o título indica o tema, sem mais detalhes na descrição.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=IHCLUJFitnY",
+          "time": "06/11"
         },
         {
-          "title": "DEMOCRATAS SAEM VENCEDORES NAS ELEIÇÕES DE MIDTERM AMERICANAS",
-          "summary": "O canal do MBL aborda a vitória dos democratas nas eleições de meio de mandato dos Estados Unidos, segundo o título do vídeo.",
+          "title": "NIKOLAS X KIM PAIM X TARCÍSIO, ENTENDA A GUERRA INTERNA NO BOLSONARISMO",
+          "summary": "O MBL News explica a disputa interna no bolsonarismo envolvendo Nikolas Ferreira, Kim Paim e o governador Tarcísio de Freitas. A descrição do vídeo traz apenas links do canal.",
           "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=5wugPbjKFKg",
-          "time": "04/11"
-        },
-        {
-          "title": "Lula sanciona lei que cria a \"OAB da Medicina\"",
-          "summary": "A lei torna obrigatório o Enamed para exercer a medicina, avaliação em três etapas ao fim do segundo, quarto e sexto anos, com maior peso na última. Formados antes da MP e no exterior ficam fora e seguem sob o Revalida. Uma comissão com CFM, MEC e Saúde definirá os pesos.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/oab-da-medicina-lula-sanciona-lei-que-obriga-provas-durante-o-curso/",
-          "time": "ontem"
+          "url": "https://www.youtube.com/watch?v=IC1ji_GxON8",
+          "time": "06/11"
         },
         {
           "title": "Caso Master: Fachin homologa delação de ex-dono da Reag",
-          "summary": "O presidente do STF homologou, sob sigilo, a delação de João Carlos Mansur, assinada com a PGR em setembro. É a primeira da Operação Compliance Zero, sobre o Banco Master. A relatoria saiu de André Mendonça e passou a Fachin após crise no STF.",
+          "summary": "O presidente do STF homologou a delação do empresário João Carlos Mansur, ex-dono da Reag, firmada com a PGR em setembro e mantida sob sigilo. Ela integra a Operação Compliance Zero, que apura suspeitas de que fundos da Reag foram usados para inflar o patrimônio do Banco Master.",
           "source": "SBT News",
           "url": "https://sbtnews.sbt.com.br/noticia/brasil/caso-master-fachin-homologa-delacao-de-ex-dono-da-reag",
-          "time": "ontem"
+          "time": "06/11"
         },
         {
-          "title": "Lula deve indicar ministro do STF após voltar da Turquia e das Filipinas",
-          "summary": "Aliados esperam a indicação ainda este ano, depois da viagem de 9 a 16 de novembro. Motta e Alcolumbre vão na comitiva, e a presença dele deve ser usada para negociar um nome. O Senado rejeitou em maio a escolha anterior, Jorge Messias.",
+          "title": "Parlamentares de saída podem indicar R$ 11,6 bilhões em emendas para 2027",
+          "summary": "Congressistas que deixam o cargo podem propor até R$ 11,6 bilhões em emendas individuais ao Orçamento de 2027, cerca de 41% dos R$ 28,5 bilhões reservados. As propostas vão até 23 de novembro, e a Comissão Mista de Orçamento vota em 17 de dezembro, antes da posse dos eleitos em 1º de fevereiro.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/milena-teixeira/lula-deve-fazer-indicacao-de-vaga-no-stf-apos-volta-da-turquia-e-filipinas",
-          "time": "ontem"
+          "url": "https://www.metropoles.com/brasil/parlamentares-de-saida-podem-indicar-r-116-bilhoes-em-emendas-de-2027",
+          "time": "07/11"
         },
         {
-          "title": "Oposição consegue maioria para formar governo em Israel e substituir Netanyahu",
-          "summary": "Gadi Eisenkot recebeu 67 apoios no Parlamento contra 46 de Netanyahu, com respaldo dos partidos árabes. O presidente Herzog ainda não decidiu quem negociará e anunciará no domingo. Há resistência no bloco anti-Netanyahu a alianças com os árabes.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/oposicao-consegue-maioria-para-formar-governo-em-israel-e-substituir-netanyahu/",
-          "time": "ontem"
-        },
-        {
-          "title": "Justiça dos EUA suspende construção do arco do triunfo de Trump em Washington",
-          "summary": "A juíza Tanya Chutkan suspendeu por 14 dias a obra do arco de 76 metros, horas após comissão aprovar o projeto por 8 votos a 4. Críticos questionam a localização perto de Arlington e a falta de verba aprovada pelo Congresso.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/mundo/justica-dos-eua-suspende-construcao-de-arco-do-triunfo-de-trump-em-washington/",
-          "time": "ontem"
-        },
-        {
-          "title": "Ex-presidente do Paraguai Santiago Peña é preso",
-          "summary": "Peña foi preso na sexta (6) em investigação por suspeita de quebra de confiança e gestão fraudulenta ligada ao escândalo do banco Ueno. Também foi expedida ordem de prisão contra o ex-presidente do Banco Central, Carlos Carvallo.",
+          "title": "Lula admite que 2026 termina \"menos exitoso\" do que gostaria na economia",
+          "summary": "Após reunião do CNPE, o presidente reeleito reconheceu indicadores abaixo das expectativas, mas disse que seu governo é possivelmente o mais bem-sucedido desde 2010, citando a isenção do IR até R$ 5 mil e a reforma tributária. Ele também avaliou que poucos países têm perspectivas como as do Brasil.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/ex-presidente-do-paraguai-santiago-pena-e-preso",
-          "time": "ontem"
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-admite-2026-menos-exitoso-do-que-gostaria-na-economia",
+          "time": "06/11"
+        },
+        {
+          "title": "Presidente de Israel escolhe o maior rival de Netanyahu para formar governo",
+          "summary": "Isaac Herzog deu a Gadi Eisenkot, ex-chefe militar e líder do partido centrista Yashar, o mandato para formar governo, com apoio declarado de 67 parlamentares contra 46 que indicaram Netanyahu. Eisenkot tem cerca de seis semanas para montar a coalizão e enfrenta resistência de Avigdor Liberman. A decisão não tira Netanyahu do poder automaticamente.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/presidente-de-israel-escolhe-maior-rival-de-netanyahu-para-formar-governo/",
+          "time": "07/11"
+        },
+        {
+          "title": "Trump diz ter mandado investigar democratas e os acusa de extorsão",
+          "summary": "Em post na Truth Social, Trump afirmou ter ordenado ao Departamento de Justiça que investigue democratas, que, segundo ele, ameaçam autoridades e doadores republicanos com impeachment e prisão. A fala veio após a vitória democrata nas eleições de meio de mandato de 3 de novembro, e ele não apresentou provas nem identificou os autores das cartas.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/",
+          "time": "07/11"
+        },
+        {
+          "title": "Erdogan defende solução diplomática para conflito entre EUA e Irã em conversa com Trump",
+          "summary": "Em telefonema neste sábado (7), o presidente turco pediu o fim das tensões por via diplomática, num momento em que o Irã propôs, via Catar, retomar negociações. Os dois também trataram da diplomacia entre Rússia e Ucrânia, antes de conversas mediadas pelos EUA em Abu Dhabi, em 10 e 11 de novembro.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/a-trump-erdogan-defende-solucao-diplomatica-para-conflito-entre-eua-e-ira/",
+          "time": "07/11"
         }
       ]
     },
@@ -289,11 +289,18 @@
       "label": "Economia",
       "items": [
         {
-          "title": "EUA criam 165 mil empregos em outubro, bem acima do esperado, e desemprego cai a 4,1%",
-          "summary": "O payroll de outubro superou as 70 mil vagas previstas, com revisão para cima de 84 mil postos em agosto e setembro. A renda por hora subiu 0,4% no mês. Uma economista ouvida pela matéria vê espaço para nova alta de juros do Fed em dezembro.",
-          "source": "BPMoney",
-          "url": "https://bpmoney.com.br/economia/analise-payroll-dos-eua-surpreende-e-reforca-expectativa-de-alta-dos-juros/",
-          "time": "ontem"
+          "title": "Dólar sobe 0,44% e fecha a R$ 5,51 com payroll acima do esperado nos EUA",
+          "summary": "A moeda subiu com a valorização do dólar no exterior e a leitura dos dados de emprego americanos, melhores que o previsto. No cenário interno, o mercado acompanha a política econômica do governo, que pediu aos ministros que só validem medidas após a viagem de Lula ao exterior.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06112026/",
+          "time": "06/11"
+        },
+        {
+          "title": "XP rebaixa Bolsa para neutra e eleva projeções de dólar após Selic mantida",
+          "summary": "A XP passou a recomendação para a Bolsa de positiva para neutra, com alvo de 200 mil pontos para 2027, e projeta dólar a R$ 5,30 no fim de 2026 e R$ 5,50 no fim de 2027. O Copom manteve a Selic em 13,75% e interrompeu o ciclo de cortes, com projeção de manutenção até o fim do próximo ano.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/manutencao-da-selic-dolar-balancos-do-3t26-veja-os-destaques-da-semana/",
+          "time": "07/11"
         },
         {
           "title": "Copom mantém Selic em 13,75% por unanimidade e interrompe cinco cortes seguidos",
@@ -303,32 +310,25 @@
           "time": "04/11"
         },
         {
-          "title": "Dólar fecha a R$ 5,5082 e Ibovespa sobe 1,39%, a 168.498 pontos",
-          "summary": "O dólar subiu 0,36% na sexta e 1,18% na semana, num dia de payroll forte nos EUA. A matéria cita ainda o Brent a US$ 98,32, em queda de cerca de 13% na semana por expectativa de negociações entre EUA e Irã. O ministro Dario Durigan disse que o governo manterá os compromissos fiscais.",
-          "source": "Campo Grande News",
-          "url": "https://www.campograndenews.com.br/economia/dolar-encerra-semana-a-r-5-50-com-mercado-atento-a-economia-dos-eua",
-          "time": "ontem"
+          "title": "Governo prorroga imposto de 12% sobre exportação de petróleo até o fim de 2026",
+          "summary": "A Camex aprovou a prorrogação para preservar o abastecimento interno de combustíveis e financiar subsídios ao diesel. O JPMorgan vê mais risco regulatório, mas diz que o mercado já esperava a medida e que ela deve mudar pouco as projeções de lucro; a PRIO seria a mais exposta, seguida da Brava, e a Petrobras estaria mais confortável.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/imposto-de-exportacao-de-petroleo-e-prorrogado-como-afeta-petrobras-brava-e-prio/",
+          "time": "06/11"
         },
         {
-          "title": "Bolsas de NY fecham sem direção única, com techs se recuperando do tombo da véspera",
-          "summary": "O Dow Jones caiu 0,46%, enquanto S&P 500 (+0,31%) e Nasdaq (+1,09%) subiram, mas todos acumularam perdas na semana. Micron avançou 5,12% e Nvidia 2,78% após as quedas de quinta. O setor de energia do S&P perdeu cerca de 12% na semana.",
-          "source": "Diário do Grande ABC",
-          "url": "https://www.dgabc.com.br/Noticia/4367382/bolsas-de-ny-fecham-sem-coesao-em-dia-de-recuperacao-de-techs-do-tombo-da-vespera",
-          "time": "ontem"
+          "title": "Cosan dispara após notícia de venda de 25% da Compass a gestora ligada a Abu Dhabi",
+          "summary": "As ações CSAN3 subiram após reportagem do Valor sobre negociação avançada para vender a fatia na controladora da Comgás por venda privada. Pelo Bradesco BBI, a participação valeria cerca de R$ 3,5 bilhões e ajudaria a reduzir a dívida líquida da Cosan, de R$ 12,2 bilhões no 2T26.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/cosan-csan3-acao-salta-8-apos-noticia-sobre-venda-de-fatia-da-compass/",
+          "time": "06/11"
         },
         {
-          "title": "Payroll fecha semana antes de pronunciamento de Lula ao mercado",
-          "summary": "Lula fará um pronunciamento à nação no domingo (8), e espera-se que comente os questionamentos sobre o arcabouço fiscal. A matéria também registra a queda de 6,04% do Nikkei na sexta, ligada ao temor de maior regulação de IA após a vitória democrata nos EUA. A balança comercial de outubro sairia às 15h.",
-          "source": "Money Times",
-          "url": "https://www.moneytimes.com.br/payroll-fecha-semana-antes-de-pronunciamento-de-lula-ao-mercado-ibovespa-em-dolar-cai-nesta-sexta-feira-6-rens/",
-          "time": "ontem"
-        },
-        {
-          "title": "Dirigente do Fed defende juros mais restritivos enquanto PCE segue em 3,6%",
-          "summary": "A presidente do Fed de Cleveland, Beth Hammack, disse em Zurique que os juros precisam entrar em território restritivo, de preferência com altas menores e mais frequentes. A inflação PCE de setembro ficou em 3,6% no índice cheio e 3,1% no núcleo. A Goldman estima que estados que podem endurecer regras para data centers somam cerca de 45% da nova capacidade prevista nos EUA.",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262284414-us-stocks-close-nasdaq-sp500-dow-enters-correction-ai-selloff-tradingkey",
-          "time": "05/11"
+          "title": "Dasa dispara após balanço do 3T26 com geração de caixa acima do esperado",
+          "summary": "A empresa teve lucro de R$ 173 milhões nas operações continuadas, e a geração de caixa superou as projeções, embora a receita tenha ficado em linha e a margem Ebitda abaixo do esperado. Analistas apontam que a alavancagem segue alta: 2,76 vezes para o Goldman Sachs e 3,5 vezes para a XP.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dasa-dasa3-dispara-20-apos-balanco-com-geracao-de-caixa-acima-das-expectativas/",
+          "time": "06/11"
         }
       ]
     },
@@ -337,46 +337,46 @@
       "label": "Programação",
       "items": [
         {
+          "title": "Falha \"SSHole\" no OpenSSH é explorada em menos de nove horas e dá acesso root em honeypot",
+          "summary": "A CVE-2026-123158 (CVSS 8.1) permite login em contas sem senha definida usando uma senha de 257 a 1.024 bytes, e afeta Linux com musl e PAM desabilitado, incluindo a configuração padrão do Alpine. A correção está no OpenSSH 10.6p2.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+          "time": "06/11"
+        },
+        {
+          "title": "Arquivo do Claude Code expõe senhas e chaves em 1.122 cópias públicas no GitHub",
+          "summary": "Segundo a Apiiro, o arquivo .claude/settings.local.json, criado quando o usuário escolhe \"Yes, and don't ask again\", guarda em texto simples os comandos aprovados, inclusive com credenciais. Os pesquisadores recomendam rotacionar todas as credenciais que esses arquivos já continham antes de limpá-los.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+          "time": "07/11"
+        },
+        {
+          "title": "Instalar a correção de falha do WordPress já explorada pode expor sites mais uma vez",
+          "summary": "A CVE-2026-119977 afeta versões do 4.7 ao 7.1.3. Segundo a Picus Security, o instalador usa o código antigo e uma pasta previsível, o que ainda pode permitir execução de código. A recomendação é bloquear o acesso web a wp-content/upgrade antes de atualizar para a 7.1.4.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+          "time": "06/11"
+        },
+        {
+          "title": "Correção de falha de execução remota no Paint do Windows sai só pela Microsoft Store",
+          "summary": "A CVE-2026-83844 (CVSS 8.1, severidade Importante) foi corrigida na versão 11.2609.401.0, que não chega pelo Windows Update. A Microsoft havia publicado o alerta em 13 de outubro, quando a falha não era conhecida como explorada.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+          "time": "06/11"
+        },
+        {
+          "title": "Backdoor \"cwpdoor\" é escondida no Control Web Panel e executa comandos sem aparecer nos logs",
+          "summary": "Pesquisadores da XLab, da QiAnXin, descobriram o código no servidor web cwpsrv do painel de hospedagem Linux. O arquivo infectado teve zero detecções em 63 antivírus no VirusTotal, e a instalação exige acesso root prévio. A checagem recomendada é verificar o socket ngx_http_integrity_helper com ss -axp.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+          "time": "06/11"
+        },
+        {
           "title": "TypeScript 7.1 Beta restaura a API do compilador e torna Vue e Svelte cidadãos de primeira classe",
           "summary": "A versão traz de volta a API programática removida no 7.0 (compilador nativo em Go), em novos pontos de entrada como typescript/sync e typescript/ast. Os content mappers permitem que ferramentas de Vue e Svelte funcionem sem binário separado. Release candidate e versão estável estão previstos para o fim de novembro.",
           "source": "InfoQ",
           "url": "https://infoq.com/news/2026/11/typescript-7-1-beta",
-          "time": "ontem"
-        },
-        {
-          "title": "Node.js agenda correções de segurança de severidade alta para as linhas 22.x, 24.x e 26.x",
-          "summary": "As atualizações estão previstas para 11 de novembro ou logo depois, e cada linha receberá correção para ao menos uma falha de severidade alta. Detalhes como CVEs e componentes não foram divulgados. Versões em fim de vida também são afetadas, então a recomendação é migrar para uma versão suportada.",
-          "source": "Cyber Security News",
-          "url": "https://cybersecuritynews.com/node-js-schedules-patch/",
-          "time": "04/11"
-        },
-        {
-          "title": "PHP2Shell: Qualys lança scripts para atualizar PHP em Windows e macOS, sem patch do fornecedor",
-          "summary": "As falhas CVE-2026-109618 e CVE-2026-109619 permitem execução remota de código sem autenticação em servidores PHP expostos. No Linux, as distribuições já entregam pacotes corrigidos. Em Windows e macOS a correção exige atualizar o PHP no próprio local, e o texto pede janela de manutenção porque IIS, Apache ou php-fpm reiniciam.",
-          "source": "Qualys Blog",
-          "url": "https://blog.qualys.com/product-tech/2026/11/04/php2shell-windows-macos-car-upgrade-scripts",
-          "time": "04/11"
-        },
-        {
-          "title": "Previsão do Patch Tuesday de novembro: software antigo continua causando problemas",
-          "summary": "A análise lembra que a Microsoft corrigiu um recorde de 1.407 CVEs em outubro e que o PHP2Shell segue sendo explorado, exigindo trocar o runtime e reiniciar o servidor web. Para novembro, esperam-se atualizações da Microsoft e da Adobe, nada da Apple e novas versões de Chrome, Firefox e Thunderbird. O autor recomenda remover software em fim de vida.",
-          "source": "Help Net Security",
-          "url": "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/",
-          "time": "ontem"
-        },
-        {
-          "title": "VS Code 1.144 adota o harness do Copilot e o Agent Host Protocol 1.0 chega ao editor",
-          "summary": "O novo harness, baseado no Copilot SDK, passa a atender sessões de agentes com mais de 20 modelos e chave própria. O Agent Host roda sessões fora do editor e pode executar os harnesses do Claude Code e do Codex sob uma assinatura do Copilot. Permissões assistidas e sandbox para comandos de terminal dos agentes também estão disponíveis.",
-          "source": "The CODEW",
-          "url": "https://www.thecodew.com/2026/11/developer-tools-watch-november-5.html",
-          "time": "05/11"
-        },
-        {
-          "title": "Arch Linux lança ISO de novembro com kernel 7.2.11, Go 1.27.3 e Rust 1.99.1",
-          "summary": "A imagem 2026.11.0 traz systemd 262.1, Python 3.14.9, Node.js 26.13 e LLVM/Clang 23.1.4, entre outros. A ISO serve apenas para novas instalações, e quem já usa o Arch atualiza com um pacman -Syu normal.",
-          "source": "Linuxiac",
-          "url": "https://linuxiac.com/arch-linux-november-2026-iso-released-with-kernel-7-2-11/",
-          "time": "01/11"
+          "time": "06/11"
         }
       ]
     },
@@ -385,46 +385,46 @@
       "label": "IA",
       "items": [
         {
+          "title": "Anthropic mantém IPO antes do Dia de Ação de Graças e aceita avaliação menor",
+          "summary": "Segundo o Financial Times, citado pelo The Decoder, a empresa aceita valor de US$ 1,25 a 1,75 trilhão, abaixo dos US$ 2 trilhões esperados por alguns investidores, e quer captar de US$ 80 a 100 bilhões. A OpenAI também reduziu a meta de sua rodada, de US$ 1,4 trilhão para US$ 1,25 trilhão.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+          "time": "07/11"
+        },
+        {
+          "title": "OpenAI recebe US$ 11 bilhões em rodada reduzida e busca investidores ricos para completar",
+          "summary": "O valor é a primeira parcela de uma rodada que avalia a empresa em US$ 1,25 trilhão e pode chegar a US$ 20 bilhões, abaixo da meta original de US$ 30 bilhões, cortada após a queda do setor de IA. A busca por investidores privados abastados sugere cautela do mercado.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+          "time": "06/11"
+        },
+        {
+          "title": "Perplexity lança \"Teammates\", agentes de IA que trabalham o tempo todo em máquinas virtuais próprias",
+          "summary": "Cada agente cuida de projetos em andamento, mas o recurso exige o plano Max, de US$ 200 por mês, mais caro que ofertas parecidas da OpenAI (Dots, a partir de US$ 100) e da Anthropic (Duet, a partir de US$ 20). A empresa entra num mercado de agentes sempre ativos cada vez mais disputado.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+          "time": "06/11"
+        },
+        {
+          "title": "IA do Google detecta sinais de pressão alta com smartwatch comum, sem manguito",
+          "summary": "Em estudo com 196 pessoas em cinco centros dos EUA, o método identificou 65,8% dos casos de hipertensão, contra 55,3% da medição em consultório. A tecnologia já está no recurso de tendências de pressão do Google Health, mas segue como pesquisa e não substitui o diagnóstico médico.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+          "time": "07/11"
+        },
+        {
+          "title": "Ricursive lança o Ripple-65B Preview, modelo aberto Apache 2.0 de 65 bilhões de parâmetros",
+          "summary": "A empresa diz que ele obteve a melhor pontuação entre modelos abertos dos EUA no TerminalBench 2.1, com custo de P&D de cerca de US$ 32 milhões. Em outros testes, ficou atrás do Inkling 2 Small, lançado na mesma época.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+          "time": "06/11"
+        },
+        {
           "title": "OpenAI lança o GPT-6 Cyber, que achou 81 falhas graves no Firefox e 948 exploits no kernel Linux",
           "summary": "O modelo foi classificado como Crítico no Preparedness Framework da OpenAI e explorou 48,5% das vulnerabilidades no ExploitGym, contra 32,1% do GPT-5.6 Cyber. Não é público: o acesso é restrito a clientes aprovados do programa Daybreak Red, e a Mozilla já liberou várias correções. A OpenAI diz que defensores têm janela limitada para corrigir falhas antes que atacantes tenham ferramentas parecidas.",
           "source": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-          "time": "ontem"
-        },
-        {
-          "title": "Thinking Machines lança Inkling 2 Small e diz ter o melhor modelo de pesos abertos do Ocidente",
-          "summary": "O modelo de 594 bilhões de parâmetros (17 bilhões ativos) marcou 31 no índice da Artificial Analysis, 18 pontos acima do antecessor. A taxa de alucinação caiu de 61% para 27%, mas ele responde menos perguntas. Por ora está na plataforma Tinker, com pesos Apache 2.0 planejados após testes externos de segurança.",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-          "time": "ontem"
-        },
-        {
-          "title": "Tencent lança Hy4, modelo de 770 bilhões de parâmetros com visão e uso de computador",
-          "summary": "O Hy4 interpreta gráficos e documentos e opera ferramentas de linha de comando e interfaces gráficas. Está disponível em produtos da Tencent e em plataformas como OpenRouter, a US$ 0,834 por milhão de tokens de entrada. Os pesos e o system card devem sair em breve.",
-          "source": "TechNode",
-          "url": "https://technode.com/2026/11/04/tencent-launches-hy4-with-vision-and-computer-use-capabilities/",
-          "time": "04/11"
-        },
-        {
-          "title": "Meta compra a Conductor, startup que roda vários agentes de programação em paralelo",
-          "summary": "A Conductor permite rodar agentes como Claude Code, Codex e Cursor em cópias isoladas do código, e diz ter mais de 100 mil usuários. A nuvem fica somente leitura em 13/11 e é encerrada em 20/11. O valor do negócio não foi divulgado.",
-          "source": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/",
-          "time": "04/11"
-        },
-        {
-          "title": "Google lança Gemini Omni 1.2 Flash, com vídeos de até 15 segundos e edição por texto",
-          "summary": "O modelo sucede o Omni 1.1 Flash e custa cerca de 30% menos, a US$ 0,07 por segundo em 720p. Segue melhor imagens de referência, e permite rascunho em baixa qualidade com ampliação a 1080p ou 4K. Está na API Gemini e chega aos assinantes do app.",
-          "source": "ETV Bharat",
-          "url": "https://www.etvbharat.com/en/technology/muse-voice-mode-muse-avatar-claude-personal-finance-gemini-omni-1-dot-2-flash-google-anthropic-meta-enn26110604197",
-          "time": "ontem"
-        },
-        {
-          "title": "Pesquisadores burlam o Modo de Bloqueio do ChatGPT e extraem conversas sem interação do usuário",
-          "summary": "A Check Point revelou uma falha, já corrigida em setembro, nas prévias de HTML do ChatGPT: popups conseguiam escapar da sandbox de quadros aninhados. Isso permitia roubo silencioso de dados, phishing e entrega de malware, inclusive no aplicativo desktop.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-          "time": "05/11"
+          "time": "06/11"
         }
       ]
     },
@@ -437,14 +437,21 @@
           "summary": "O prefeito Engenheiro Daniel anunciou a primeira mudança em sua equipe depois das eleições. A partir de segunda (9), Fábio Fernandes passa a comandar o Esporte, e Lune, que cuidava da pasta há dois anos, assume o Planejamento. A troca é vista como parte da preparação para a reeleição.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/fabio-fernandes-assume-secretaria-de-esportes-de-taboao-da-serra-lune-vai-para-o-planejamento/",
-          "time": "ontem"
+          "time": "06/11"
         },
         {
           "title": "Roubos caem 13,74% em Taboão da Serra e Embu das Artes, aponta balanço da PM",
           "summary": "O 36º BPM/M divulgou que as duas cidades tiveram queda nos roubos no terceiro trimestre de 2026 frente ao mesmo período de 2025. O balanço registra ainda ausência de roubos a bancos, taxa de homicídios de 2,2 por 100 mil habitantes e recuo de 12,07% nos casos de estupro.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/roubos-caem-1374-em-taboao-da-serra-e-embu-das-artes-aponta-balanco-da-policia-militar/",
-          "time": "ontem"
+          "time": "06/11"
+        },
+        {
+          "title": "Taboão da Serra passa a entregar cestas básicas em casa para servidores; cadastro vai até dia 12",
+          "summary": "Servidores e estagiários que moram em até 7 km do Paço Municipal poderão receber a cesta em casa a partir de novembro, cadastrando o endereço até as 18h do dia 12 no sistema online da prefeitura. Quem mora mais longe retira em um dos três postos, e a medida não gera descontos no contracheque.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-comeca-a-entregar-cestas-basicas-em-casa-para-servidores-cadastro-termina-dia-12/",
+          "time": "05/11"
         },
         {
           "title": "Taboão da Serra terá Arena Multiuso com piscinas, quadras de areia e teatro municipal",
@@ -466,13 +473,6 @@
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/taboao-da-serra-planeja-recapeamento-completo-da-avenida-taboao-mais-de-70-vias-estao-no-cronograma/",
           "time": "04/11"
-        },
-        {
-          "title": "Taboão da Serra realiza conferência sobre direitos e proteção de crianças e adolescentes",
-          "summary": "A 10ª Conferência Municipal dos Direitos da Criança e do Adolescente foi realizada na sexta (6), das 8h às 14h, na Universidade Anhanguera, com entrada gratuita. Organizada pelo CMDCA e pela Assistência Social, discutiu seis eixos, entre eles Conselhos Tutelares e prevenção da violência e do trabalho infantil.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-realiza-conferencia-para-discutir-direitos-e-protecao-de-criancas-e-adolescentes-nesta-sexta-6/",
-          "time": "ontem"
         }
       ]
     },
@@ -481,32 +481,32 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "Alcaraz salva match points, vira sobre Fritz e faz inédita semifinal em Paris",
-          "summary": "Alcaraz venceu Taylor Fritz por 6/7(10), 7/5 e 6/3, em 2h45, e chegou pela primeira vez às semifinais do Masters 1000 de Paris. Ele salvou dois match points no segundo set. A vitória tirou Fritz da disputa pelo ATP Finals e garantiu a vaga de Rafael Jódar.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/alcaraz-faz-semi-inedita-masters-paris/",
-          "time": "ontem"
+          "title": "Alcaraz atropela Ruud em 86 minutos e vai à final do Masters de Paris",
+          "summary": "O espanhol venceu por 6/4 e 6/4 na semifinal de sábado (7), sem enfrentar break point. Foi a primeira final de Alcaraz em Paris e a 11ª em Masters 1000; ele chega com oito vitórias seguidas, depois de ser campeão em Viena.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/alcaraz-ruud-paris-2026-sf",
+          "time": "07/11"
         },
         {
-          "title": "Nuno Borges cai nas quartas do Masters 1000 de Paris diante de Casper Ruud",
-          "summary": "Ruud venceu por 7-6(5) e 6-4, em 1h33, e agora pega Alcaraz na semifinal. Foi a primeira vez que Borges chegou às quartas de um Masters 1000, na sétima tentativa. Ele fecha a temporada com recorde de 32 vitórias e deve subir ao 41º lugar do ranking.",
-          "source": "O Jogo",
-          "url": "https://www.ojogo.pt/modalidades/artigo/nuno-borges-cai-nos-quartos-de-final-do-masters-1000-de-paris-frente-a-casper-ruud/18145616",
-          "time": "ontem"
+          "title": "Shelton vira sobre Van Assche e é finalista do Masters de Paris",
+          "summary": "O americano perdeu o primeiro set e venceu por 5/7, 6/3 e 6/4, em 2h16, diante do francês número 47 do mundo. Foi sua terceira final de Masters 1000 e o primeiro americano na decisão em Paris desde Jack Sock, em 2017.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/shelton-van-assche-paris-2026-sf",
+          "time": "07/11"
         },
         {
-          "title": "Ben Shelton vence Tommy Paul e alcança primeira semifinal em Paris",
-          "summary": "Shelton, número 4 do mundo, bateu Paul por 6-4, 4-6 e 6-3, com 19 aces, e chegou à terceira semifinal de Masters 1000 da carreira. Paul deixa a corrida pelo ATP Finals. Na semi, o americano enfrenta o francês Lucas Van Assche, que eliminou Rinky Hijikata.",
-          "source": "O Povo",
-          "url": "https://www.opovo.com.br/noticias/mundo/2026/11/06/ben-shelton-vence-tommy-paul-e-avanca-as-semifinais-do-masters-1000-de-paris.html",
-          "time": "ontem"
+          "title": "Alcaraz x Shelton: o que está em jogo na final do Masters de Paris neste domingo",
+          "summary": "A final está marcada para não antes das 15h locais. Alcaraz lidera o confronto direto por 3 a 1, mas Shelton venceu o último duelo, em cinco sets, no US Open. O espanhol busca o maior título indoor da carreira; o americano, o primeiro Masters 1000 fora do Canadá.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/alcaraz-shelton-paris-2026-final-preview",
+          "time": "08/11"
         },
         {
-          "title": "Semifinais do Masters de Paris neste sábado: horários e onde assistir",
-          "summary": "A primeira semi, às 10h30 (Brasília), tem Shelton x Van Assche, a surpresa francesa do torneio. A segunda, às 13h, reúne Alcaraz e Ruud. A transmissão é de ESPN e Disney+.",
-          "source": "TenisNews",
-          "url": "https://www.tenisnews.com.br/semis-paris-sabado/",
-          "time": "ontem"
+          "title": "Orlando Luz e Rafael Matos garantem vaga histórica no ATP Finals de duplas",
+          "summary": "Ao vencer Navone e Tabilo por 6-4 e 6-3 na estreia em Paris, formaram a segunda dupla totalmente brasileira da história do torneio, e a primeira no formato atual de grupos, 43 anos após a última. O ATP Finals será em Turim, de 15 a 22 de novembro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-orlando-luz-e-rafael-matos-conquistam-vaga-historica-no-atp-finals/",
+          "time": "04/11"
         },
         {
           "title": "João Fonseca cai para o 46º lugar no ranking após resultados em Paris",
@@ -529,45 +529,45 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Mpox: Brasil registra 665 casos em 2026 e Ministério compra 20 mil doses de vacina",
-          "summary": "O Ministério da Saúde autorizou a compra preventiva de até 20 mil doses para o estoque estratégico do SUS. A prioridade são pessoas com HIV e CD4 abaixo de 100, em duas doses com 28 dias de intervalo. O total de casos no país é 94% menor que em 2022.",
-          "source": "Exame",
-          "url": "https://exame.com/brasil/mpox-brasil-registra-665-casos-em-2026-e-compra-20-mil-doses-de-vacina/",
-          "time": "ontem"
+          "title": "Anvisa define cepas das vacinas contra a gripe de 2027",
+          "summary": "Pela Instrução Normativa 475/2026, as vacinas usadas a partir de 1º de fevereiro de 2027 terão três cepas de influenza A e B nas versões produzidas em ovos, com diferença em uma cepa B nas demais tecnologias. A decisão segue a OMS e define também a composição das vacinas do hemisfério norte, usadas no Brasil só em campanhas específicas.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/anvisa-define-cepas-das-vacinas-contra-a-gripe-para-2027/",
+          "time": "05/11"
         },
         {
-          "title": "Ceará registra 40 casos de mpox em 2026",
-          "summary": "A Sesa confirmou 40 casos, a maioria em outubro e novembro, todos em homens de 24 a 51 anos, com 87,5% em Fortaleza. Não houve mortes e duas pessoas foram internadas. Foram notificados 113 casos suspeitos até 5 de novembro.",
-          "source": "O Povo",
-          "url": "https://opovo.com.br/noticias/ceara/2026/11/06/ceara-registra-40-casos-de-mpox-em-2026.html",
-          "time": "ontem"
+          "title": "Estudo mostra que combinação de remédios reduz em 45% o risco de progressão do câncer de pulmão",
+          "summary": "Em mais de 300 pacientes com mutação no gene EGFR, cuja doença progrediu após terapias-alvo, osimertinibe com savolitinibe foi comparado à quimioterapia. O controle do tumor durou em média 7,6 meses, contra 5,4 meses. O estudo teve participação do IDOR e da AstraZeneca.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/estudo-aponta-combinacao-capaz-de-conter-avanco-de-cancer-de-pulmao/",
+          "time": "05/11"
         },
         {
-          "title": "Ministério da Saúde projeta alta da dengue em 2027",
-          "summary": "A pasta estima aumento de 20% a 40% nos casos de dengue e chikungunya com o El Niño. Relatório da Fiocruz prevê alta de até 138% no Sul no cenário de El Niño forte. A vacina do Butantan segue suspensa no SUS desde junho, sem prazo para retomada.",
-          "source": "Estado de Minas",
-          "url": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html",
+          "title": "Anvisa manda apreender Pygeum vendido por seis marcas",
+          "summary": "A resolução, publicada em 6 de novembro, atinge todos os lotes de Oficialfarma, Unicpharma, Bioformulas, Swanson, Recover Farma e Nutricost, além de unidades vendidas só como \"Pygeum\". Os produtos eram vendidos sem registro ou notificação, e o fabricante não foi identificado.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/anvisa-determina-apreensao-de-pygeum-vendido-por-seis-marcas/",
+          "time": "06/11"
+        },
+        {
+          "title": "Saúde projeta alta de 20% a 40% nos casos de dengue com El Niño",
+          "summary": "O Ministério estima o aumento até o início de 2027, com o Sudeste mais afetado no pior cenário. O ministro Alexandre Padilha descartou a vacina do Butantan ainda neste ano, prevista para 2027, e o SUS segue oferecendo a Qdenga. A Fiocruz projeta cerca de 1,7 milhão de casos em 2027.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/saude-projeta-aumento-de-ate-40-nos-casos-de-dengue-com-el-nino/",
           "time": "04/11"
         },
         {
-          "title": "Conselheiro do CFM debate no Senado precarização de vínculos de trabalho na saúde",
-          "summary": "Audiência na Comissão de Transparência do Senado tratou de fraudes em contratos com cooperativas e Organizações Sociais. O TCU apontou 78 eventos de risco em auditorias, e o conselheiro Raphael Câmara criticou a pejotização de médicos. O Ministério da Saúde reconheceu a falta de dados sobre precarização.",
-          "source": "CREMERJ News",
-          "url": "https://news.cremerj.org.br/2026/11/06/conselheiro-do-cremerj-e-do-cfm-participa-de-debate-no-senado-sobre-precarizacao-de-vinculos-de-trabalho/",
-          "time": "ontem"
+          "title": "São Paulo concentra 40% dos casos de mpox do Brasil desde 2022",
+          "summary": "Dos 15.499 casos no país, 6.156 estão em SP, segundo o Ministério da Saúde, seguido por Rio (2.225) e Minas (930). Em taxa por habitante, o Amazonas lidera, com 2,1 casos por 100 mil em 2025, contra 0,8 de São Paulo.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/jairo-nascimento/saude/sp-lidera-ranking-de-infeccoes-por-mpox-com-4-a-cada-10-casos-no-brasil/",
+          "time": "06/11"
         },
         {
-          "title": "Governo do Rio inaugura Escola de Saúde Pública com mais de cinco mil vagas por semestre",
-          "summary": "A escola da Secretaria de Estado de Saúde qualifica trabalhadores do SUS e fomenta pesquisa e inovação. Os primeiros cursos começam no primeiro semestre de 2027, e há mestrado profissional em Saúde Coletiva com a Uerj. A programação de inauguração vai até 25 de novembro.",
-          "source": "Tribuna do Sertão",
-          "url": "https://www.tribunadosertao.com.br/financas/2026/11/03/1012478-governo-do-rio-inaugura-escola-de-saude-publica-com-mais-de-cinco-mil-vagas-por-semestre",
-          "time": "03/11"
-        },
-        {
-          "title": "Cirurgia de próstata com robô passa a ter cobertura obrigatória dos planos no Novembro Azul",
-          "summary": "Desde 1º de abril de 2026, os planos de saúde precisam cobrir o procedimento assistido por robô. A ressonância pode evitar biópsias desnecessárias e a inteligência artificial é testada na leitura de exames. O urologista defende decisão individualizada com o médico.",
-          "source": "Estado de Minas",
-          "url": "https://www.em.com.br/mundo-corporativo/2026/11/7533997-novembro-azul-cirurgia-de-prostata-com-robo-agora-e-direito.html",
+          "title": "Justiça barra compra de tirzepatida manipulada pela prefeitura de Urupês (SP)",
+          "summary": "A liminar, de 20 de outubro, atende pedido da Lilly e suspende o credenciamento da farmácia escolhida, com multa diária de R$ 10 mil em caso de descumprimento. Pacientes em tratamento só podem receber medicamentos registrados na Anvisa, e a decisão ainda cabe recurso.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/justica-barra-mounjaro-manipulado-a-moradores-em-cidade-do-interior-de-sp/",
           "time": "05/11"
         }
       ]
