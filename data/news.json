@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T03:22:00-03:00",
+  "updatedAt": "2026-11-09T03:30:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 06/11 · cripto às 03:20 de 08/11",
+    "asOf": "Fechamento de 06/11 · cripto às 03:25 de 09/11",
     "items": [
       {
         "id": "ibov",
@@ -54,39 +54,60 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 75.814",
-        "change": 0.05
+        "value": "US$ 75.949",
+        "change": 0.37
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.235",
-        "change": 0.24
+        "value": "US$ 2.237",
+        "change": 0.14
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 89",
-        "change": 0.77
+        "value": "US$ 90",
+        "change": 0.18
       }
     ]
   },
   "weather": {
-    "date": "2026-11-08",
-    "condition": "chuvoso durante o dia, com queda de temperatura pela chegada de ar frio",
-    "min": 13,
-    "max": 19,
-    "rainChance": 99,
-    "rainMm": 19.9,
+    "date": "2026-11-09",
+    "condition": "nublado com chuva",
+    "min": 12,
+    "max": 17,
+    "rainChance": 93,
+    "rainMm": 4.9,
     "uv": null,
     "source": "Climatempo",
-    "url": "https://www.climatempo.com.br/previsao-do-tempo/fim-de-semana/cidade/558/saopaulo-sp"
+    "url": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/558/saopaulo-sp"
   },
   "categories": [
     {
       "id": "noticias",
       "label": "Notícias",
       "items": [
+        {
+          "title": "Acidente com carro que caiu em lago deixa 10 mortos, cinco deles crianças, em Barra Mansa (RJ)",
+          "summary": "O veículo capotou e caiu em um lago na noite de sábado (7), no Sul Fluminense. Cinco adultos e cinco crianças foram retirados já sem vida. A reportagem não informa o que causou a perda de controle do carro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/acidente-deixa-10-mortos-incluindo-criancas-no-sul-do-rio-de-janeiro/",
+          "time": "ontem"
+        },
+        {
+          "title": "Enem 2026 começa neste domingo com mais de 5 milhões de inscritos",
+          "summary": "O primeiro dia traz 90 questões de Linguagens e Ciências Humanas, além da redação, com portões abrindo às 12h e provas das 13h30 às 19h. Os candidatos precisam levar caneta preta de material transparente e documento de identificação. O segundo dia, com Matemática e Ciências da Natureza, será em 15/11.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-1o-dia-de-provas-acontece-neste-domingo/",
+          "time": "ontem"
+        },
+        {
+          "title": "Tempestades causam estragos em São Paulo e no Rio de Janeiro",
+          "summary": "Uma microexplosão destelhou cerca de 20 casas em Cachoeira Paulista (SP), e torres de alta tensão foram derrubadas em São Gonçalo (RJ), com alagamentos em vários bairros. Em Arraial do Cabo parte de uma casa desabou, e em Cabo Frio quiosques foram destruídos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/sao-paulo-e-rio-de-janeiro-sofrem-estragos-por-tempestades-veja-imagens/",
+          "time": "ontem"
+        },
         {
           "title": "Prédio de quatro andares desaba no Brás, em SP, deixa 27 feridos e não tinha alvará nem vistoria dos bombeiros",
           "summary": "O desabamento ocorreu na noite de sexta (6), por volta das 18h30, quando funcionários abasteciam uma loja de tecidos. A Prefeitura confirmou que o imóvel não tinha alvará vigente nem Auto de Vistoria do Corpo de Bombeiros. A hipótese de sobrecarga de material foi levantada por funcionários e pelo prefeito, mas os bombeiros não apontaram causa.",
@@ -100,13 +121,6 @@
           "source": "SBT News",
           "url": "https://sbtnews.sbt.com.br/noticia/mundo/ex-presidente-do-paraguai-santiago-pena-e-preso",
           "time": "06/11"
-        },
-        {
-          "title": "Trump convida o chefe do UFC, Dana White, para ser secretário de imprensa da Casa Branca",
-          "summary": "O anúncio foi feito por Trump neste sábado (7). Segundo a Reuters, ele também pediu que White leve alguns assistentes para a equipe, \"mesmo que alguns não sejam do nosso país\".",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-oferece-comando-da-comunicacao-da-casa-branca-ao-chefe-do-ufc/",
-          "time": "07/11"
         },
         {
           "title": "Atirador mata seis e fere 15 na Praça do Mercado, em Cracóvia, na Polônia",
@@ -127,20 +141,6 @@
           "summary": "O procurador-geral alega insegurança jurídica e aplicação desigual da norma, depois de decisões de instâncias inferiores permitirem que sites da CDA Gaming voltassem a operar, suspensas pelo TRF-3 a pedido da AGU. O pedido foi enviado ao ministro Luiz Fux; se aceito, paralisa os processos até o STF decidir sobre a proibição.",
           "source": "Jovem Pan",
           "url": "https://jovempan.com.br/economia/gonet-pede-ao-stf-suspensao-de-todas-as-acoes-sobre-mp-do-fim-das-bets/",
-          "time": "07/11"
-        },
-        {
-          "title": "Norris crava a pole do GP de São Paulo de F1 em classificatório com chuva forte e punições",
-          "summary": "Lando Norris (McLaren) largará na frente em Interlagos, seguido por Antonelli (Mercedes) e Lawson (Racing Bulls). Verstappen, Hamilton, Pérez, Leclerc e Russell perderam posições por punições. A corrida é neste domingo (8), às 14h.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/sob-chuva-norris-conquista-pole-no-gp-de-sao-paulo-veja-o-grid/",
-          "time": "07/11"
-        },
-        {
-          "title": "Novorizontino vira sobre o Fortaleza e garante acesso inédito à Série A",
-          "summary": "Em Novo Horizonte (SP), o time paulista perdeu o primeiro gol, de Paulo Baya, e virou com gols de Matheus Bianqui e Luís Oyama, fechando em 2 a 1. Será a primeira participação do clube na elite do Brasileirão.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/novorizontino-vence-o-fortaleza-e-garante-acesso-a-serie-a-do-brasileirao/",
           "time": "07/11"
         },
         {
@@ -178,67 +178,74 @@
       "label": "Política",
       "items": [
         {
-          "title": "IMPOSTO DO PECADO: Governo Lula quer mais dinheiro!",
-          "summary": "No vídeo, Kim Kataguiri critica o governo Lula por querer arrecadar mais com o chamado imposto do pecado. A descrição do vídeo divulga um abaixo-assinado contra o que ele chama de \"maior imposto do mundo\".",
+          "title": "KIM KATAGUIRI no podcast dos 3 IRMÃOS - MELHORES MOMENTOS",
+          "summary": "No vídeo, Kim Kataguiri aparece em melhores momentos de sua participação no podcast Três Irmãos. O canal destaca os trechos de maior repercussão da conversa.",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=ZFNFOwVJiWo",
-          "time": "06/11"
+          "url": "https://www.youtube.com/watch?v=ojHFtttQLYk",
+          "time": "07/11"
         },
         {
-          "title": "Tentaram BARRAR projeto do KIM mas ele foi pra CIMA!",
-          "summary": "Kim Kataguiri fala sobre a tentativa de barrar um projeto de sua autoria e diz que seguiu adiante com a proposta. A descrição do vídeo convida a assinar o abaixo-assinado contra o que ele chama de \"maior imposto do mundo\".",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=1jgM2xBiB8g",
-          "time": "06/11"
+          "title": "RENAN SANTOS reage a vídeo de EDUARDO BOLSONARO defendendo VORCARO",
+          "summary": "Em corte do canal, Renan Santos reage a um vídeo em que Eduardo Bolsonaro defende Daniel Vorcaro, ligado ao caso Banco Master. A opinião expressa é a de Renan Santos.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=lGLaeVmlT4Y",
+          "time": "07/11"
         },
         {
-          "title": "RESPOSTA A FLAVIO BOLSONARO | ANÁLISES RENAIS",
-          "summary": "Em episódio de \"Análises Renais\", Renan Santos responde a Flávio Bolsonaro. O vídeo é descrito como a Aula Magna da Academia MBL, com Kim Kataguiri e Renan Santos.",
+          "title": "KIM KATAGUIRI compara Banco MASTER com a situação no PARAGUAI",
+          "summary": "Nesta publicação, Kim Kataguiri estabelece uma comparação entre o caso do Banco Master e a situação política vivida no Paraguai. A análise é do próprio Kim, apresentada em corte do canal.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=I7sEBOY4KFo",
+          "time": "07/11"
+        },
+        {
+          "title": "RESPOSTA A FLAVIO BOLSONARO | ANÁLISES RENAIS | 06/11/2026",
+          "summary": "Em mais uma edição do programa Análises Renais, Renan Santos responde ao senador Flávio Bolsonaro. O vídeo faz parte da divulgação da Aula Magna da Academia MBL, com Kim Kataguiri.",
           "source": "Renan Santos",
           "url": "https://www.youtube.com/watch?v=VJVkVrauito",
           "time": "06/11"
         },
         {
-          "title": "O presidente do Paraguai é um otario!!",
-          "summary": "Renan Santos faz um comentário em tom crítico sobre o presidente do Paraguai, em meio à crise política no país.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=51-J6rAI3ZE",
+          "title": "RENAN SANTOS REVELA BASTIDORES DE ARTICULAÇÃO DO PT PARA SOLTAR JAIR BOLSONARO!",
+          "summary": "Segundo o título do corte, Renan Santos afirma conhecer bastidores de uma articulação do PT envolvendo a soltura de Jair Bolsonaro. A tese é atribuída a Renan Santos no vídeo.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=uAXNM1eKtPo",
           "time": "06/11"
         },
         {
-          "title": "(feat Renan Santos) Moraes e Vorcaro eram muito íntimos?",
-          "summary": "No MBL News, com participação de Renan Santos, o programa discute a relação entre o ministro Alexandre de Moraes e Daniel Vorcaro, nome ligado ao caso Banco Master. O título levanta a pergunta, e a descrição não traz detalhes adicionais.",
+          "title": "(feat Renan Santos) Moraes e Vorcaro eram muito íntimos? | MBL NEWS",
+          "summary": "Na edição do MBL News de 06/11, com participação de Renan Santos, o programa discute o grau de proximidade entre o ministro Alexandre de Moraes e Daniel Vorcaro, tema do caso Master.",
           "source": "MBL TV",
           "url": "https://www.youtube.com/watch?v=izvQkO-Jq70",
           "time": "06/11"
         },
         {
-          "title": "FIM DA 6X1 FOI ILUSÃO? RENAN SANTOS COMENTA MUDANÇAS FEITAS POR LULA!",
-          "summary": "Em corte do canal, Renan Santos comenta mudanças feitas por Lula e questiona se o fim da escala 6x1 foi uma ilusão. O trecho vem de um vídeo original publicado no canal de Renan.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=n9i3xeYA1Vk",
-          "time": "06/11"
-        },
-        {
-          "title": "MAMÃEFALEI e SESTARO analisam o RESULTADO das ELEIÇÕES 2026",
-          "summary": "Arthur do Val (MamãeFalei) e Felipe Sestaro analisam o resultado das eleições de 2026 no podcast Inteligência Ltda, de Rogério Vilela. O vídeo é um corte do programa.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=bJm5WbWOxJ8",
-          "time": "06/11"
-        },
-        {
-          "title": "KIM KATAGUIRI DEBATE a situação da ARGENTINA no PODCAST TRÊS IRMÃOS",
-          "summary": "Kim Kataguiri participa do podcast Três Irmãos e debate a situação da Argentina. O vídeo é um corte do canal, e o título indica o tema, sem mais detalhes na descrição.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=IHCLUJFitnY",
-          "time": "06/11"
-        },
-        {
           "title": "NIKOLAS X KIM PAIM X TARCÍSIO, ENTENDA A GUERRA INTERNA NO BOLSONARISMO",
-          "summary": "O MBL News explica a disputa interna no bolsonarismo envolvendo Nikolas Ferreira, Kim Paim e o governador Tarcísio de Freitas. A descrição do vídeo traz apenas links do canal.",
+          "summary": "O vídeo trata, segundo o título, de uma disputa interna no bolsonarismo envolvendo Nikolas Ferreira, Kim Paim e Tarcísio de Freitas. O canal apresenta sua leitura do racha.",
           "source": "MBL - Movimento Brasil Livre",
           "url": "https://www.youtube.com/watch?v=IC1ji_GxON8",
           "time": "06/11"
+        },
+        {
+          "title": "IMPOSTO DO PECADO: Governo Lula quer mais dinheiro!",
+          "summary": "Kim Kataguiri critica a proposta do chamado imposto do pecado e diz que o governo Lula quer arrecadar mais. O vídeo também convoca a assinar um abaixo-assinado contra o IVA.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=ZFNFOwVJiWo",
+          "time": "06/11"
+        },
+        {
+          "title": "PL AJUDOU O PT (de novo)",
+          "summary": "Em vídeo de 05/11, Arthur do Val critica o PL por, na avaliação dele, ter ajudado o PT mais uma vez. O canal liga o tema a votações recentes no Congresso.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=V9lHA0NCJio",
+          "time": "05/11"
+        },
+        {
+          "title": "Quaest: para 60%, Flávio Bolsonaro se comportou mal ao questionar resultado das urnas",
+          "summary": "Pesquisa Quaest \"O Brasil depois das urnas\" mostra que 60% dos eleitores que sabiam do episódio avaliam mal a conduta de Flávio. A desaprovação ao questionamento do resultado foi de 59%, contra 34% de aprovação. O levantamento ouviu 2.004 pessoas, com margem de erro de 2 pontos.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/quaest-para-60-flavio-se-comportou-mal-ao-questionar-resultado-das-urnas/",
+          "time": "ontem"
         },
         {
           "title": "Caso Master: Fachin homologa delação de ex-dono da Reag",
@@ -253,13 +260,6 @@
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/brasil/parlamentares-de-saida-podem-indicar-r-116-bilhoes-em-emendas-de-2027",
           "time": "07/11"
-        },
-        {
-          "title": "Lula admite que 2026 termina \"menos exitoso\" do que gostaria na economia",
-          "summary": "Após reunião do CNPE, o presidente reeleito reconheceu indicadores abaixo das expectativas, mas disse que seu governo é possivelmente o mais bem-sucedido desde 2010, citando a isenção do IR até R$ 5 mil e a reforma tributária. Ele também avaliou que poucos países têm perspectivas como as do Brasil.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-admite-2026-menos-exitoso-do-que-gostaria-na-economia",
-          "time": "06/11"
         },
         {
           "title": "Presidente de Israel escolhe o maior rival de Netanyahu para formar governo",
@@ -481,6 +481,13 @@
       "label": "Tênis",
       "items": [
         {
+          "title": "Alcaraz bate Shelton em dois sets e conquista o título do Masters de Paris",
+          "summary": "Carlos Alcaraz venceu Ben Shelton por 7/6 (7/5) e 7/5 na final disputada em Nanterre e levantou o troféu em Paris pela primeira vez. Foi o quinto título do espanhol em 2026 e o nono em Masters 1000, além de uma revanche da derrota para Shelton no US Open. O próximo compromisso dele é o ATP Finals, em Turim.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title",
+          "time": "ontem"
+        },
+        {
           "title": "Alcaraz atropela Ruud em 86 minutos e vai à final do Masters de Paris",
           "summary": "O espanhol venceu por 6/4 e 6/4 na semifinal de sábado (7), sem enfrentar break point. Foi a primeira final de Alcaraz em Paris e a 11ª em Masters 1000; ele chega com oito vitórias seguidas, depois de ser campeão em Viena.",
           "source": "ATP Tour",
@@ -493,13 +500,6 @@
           "source": "ATP Tour",
           "url": "https://www.atptour.com/en/news/shelton-van-assche-paris-2026-sf",
           "time": "07/11"
-        },
-        {
-          "title": "Alcaraz x Shelton: o que está em jogo na final do Masters de Paris neste domingo",
-          "summary": "A final está marcada para não antes das 15h locais. Alcaraz lidera o confronto direto por 3 a 1, mas Shelton venceu o último duelo, em cinco sets, no US Open. O espanhol busca o maior título indoor da carreira; o americano, o primeiro Masters 1000 fora do Canadá.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/alcaraz-shelton-paris-2026-final-preview",
-          "time": "08/11"
         },
         {
           "title": "Orlando Luz e Rafael Matos garantem vaga histórica no ATP Finals de duplas",
