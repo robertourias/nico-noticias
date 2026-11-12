@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T03:26:47-03:00",
+  "updatedAt": "2026-11-12T03:23:02-03:00",
   "markets": {
-    "asOf": "Fechamento de 10/11 (IFIX e Nasdaq 100: 09/11) · cripto da madrugada de 11/11",
+    "asOf": "Fechamento de 11/11 (IFIX e Euro: 10/11) · cripto de 12/11 às 00:00 UTC · SOL sem variação confirmada",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "171.337 pts",
-        "change": -0.52
+        "value": "172.060 pts",
+        "change": 0.42
       },
       {
         "id": "ifix",
@@ -24,26 +24,26 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.521 pts",
-        "change": -0.38
+        "value": "7.619 pts",
+        "change": 1.31
       },
       {
         "id": "nasdaq100",
         "label": "Nasdaq 100",
-        "value": "27.908 pts",
-        "change": 3.4
+        "value": "28.374 pts",
+        "change": 2.28
       },
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "52.232 pts",
-        "change": -0.3
+        "value": "52.486 pts",
+        "change": 0.49
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,59",
-        "change": 1.47
+        "value": "R$ 5,56",
+        "change": -0.43
       },
       {
         "id": "eur",
@@ -54,31 +54,31 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 73.772",
-        "change": -1.12
+        "value": "US$ 74.013",
+        "change": 0.28
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 2.065",
-        "change": -2.45
+        "value": "US$ 2.056",
+        "change": 0.14
       },
       {
         "id": "sol",
         "label": "SOL",
         "value": "US$ 83",
-        "change": -3.32
+        "change": null
       }
     ]
   },
   "weather": {
-    "date": "2026-11-11",
-    "condition": "sol com muitas nuvens e pancadas de chuva à tarde",
-    "min": 14,
-    "max": 26,
-    "rainChance": 83,
-    "rainMm": 5.1,
-    "uv": 4,
+    "date": "2026-11-12",
+    "condition": "sol com algumas nuvens e chuva rápida durante o dia e à noite",
+    "min": 16,
+    "max": 29,
+    "rainChance": 98,
+    "rainMm": 25,
+    "uv": null,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/558/saopaulo-sp"
   },
@@ -88,81 +88,88 @@
       "label": "Notícias",
       "items": [
         {
+          "title": "Lula diz na COP31 que clima perdeu espaço para disputas geopolíticas",
+          "summary": "Na abertura da Cúpula de Líderes da COP31, em Antália, na Turquia, Lula defendeu que os países desenvolvidos respondam pelos impactos de suas ações e elogiou a COP30, realizada em Belém. Ele criticou o enfraquecimento da pauta climática diante de disputas geopolíticas.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/leia-na-integra-o-discurso-de-lula-na-cop31/",
+          "time": "ontem, 07:56"
+        },
+        {
+          "title": "Gilmar Mendes suspende ações sobre tabela do SUS e trava precatórios em todo o país",
+          "summary": "O ministro do STF atendeu a pedido da AGU, que estimou impacto potencial acima de R$ 243 bilhões, e suspendeu os processos de revisão dos valores pagos pelo SUS a hospitais, inclusive a emissão e o saque de precatórios. A decisão também manda a Corregedoria Nacional de Justiça investigar irregularidades e vale até o STF julgar a controvérsia.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/gilmar-suspende-acoes-sobre-tabela-sus-e-trava-precatorios-em-todo-o-pais",
+          "time": "ontem, 18:56"
+        },
+        {
+          "title": "Governo quer prazo de 120 dias para o Congresso regular os supersalários",
+          "summary": "A proposta foi apresentada pelo senador Jaques Wagner no projeto de ajuste das contas públicas e não especifica quais verbas seriam limitadas. O ministro do Planejamento, Bruno Moretti, estima economia de cerca de R$ 3 bilhões, valor que depende do texto aprovado.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/governo-lula-quer-prazo-de-120-dias-para-congresso-regular-supersalarios",
+          "time": "ontem, 19:10"
+        },
+        {
+          "title": "Governo propõe novo cálculo de receitas para o ajuste fiscal",
+          "summary": "Após acordo com a cúpula do Congresso, o Planalto deve apresentar na próxima semana, por meio de um senador aliado, um projeto de ajuste fiscal. Uma das medidas em debate tira receitas não recorrentes, como royalties do petróleo, da base que define o gasto mínimo em saúde e educação.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/governo-propoe-novo-calculo-de-receitas-para-ajuste-fiscal",
+          "time": "ontem, 00:55"
+        },
+        {
+          "title": "Lucro do Banco do Brasil cai 66,5% com calote de grandes produtores do agro",
+          "summary": "O lucro líquido ajustado do banco somou R$ 1,27 bilhão no 3º trimestre, puxado pela inadimplência de produtores médios e grandes de soja, milho e gado, sobretudo no Centro-Oeste. A instituição reduziu a projeção de lucro anual para R$ 9 bi a R$ 11 bi, ante R$ 18 bi a R$ 22 bi, e o custo do crédito subiu 18,4%.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/dinheiro-e-negocios/lucro-do-bb-cai-665-com-inadimplencia-de-grandes-produtores-do-agro",
+          "time": "ontem, 21:14"
+        },
+        {
+          "title": "MP-RJ prende piloto e mira parentes do dono da Refit em operação contra fraude fiscal",
+          "summary": "A operação cumpriu 17 mandados de prisão e 19 de busca contra familiares do empresário Ricardo Magro e executivos ligados à Refit. Segundo os promotores, o esquema de sonegação e lavagem causou prejuízo de mais de R$ 5,5 bilhões ao estado; Magro, apontado como líder, está no exterior.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/mp-prende-piloto-e-mira-parentes-de-dono-da-refit-por-fraude",
+          "time": "ontem, 12:00"
+        },
+        {
+          "title": "Influencer que filmou FHC presta depoimento à polícia em São Paulo",
+          "summary": "Wesley Oliveira e o marido, Lessandro Gonçalves, são acusados de gravar e divulgar vídeos do ex-presidente Fernando Henrique Cardoso, que tem Alzheimer avançado, sem autorização. A mulher de FHC registrou boletim de ocorrência em outubro, e o caso apura difamação e discriminação de pessoa idosa.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/influencer-que-filmou-fhc-presta-depoimento-a-policia-em-sp",
+          "time": "ontem, 11:16"
+        },
+        {
+          "title": "Defesa Civil de SP alerta para volta da chuva forte entre quarta e quinta",
+          "summary": "Na quarta (11) são esperadas pancadas isoladas com raios, principalmente no centro, oeste e norte do estado. Na quinta (12) a chuva deve se espalhar por todo o território, com risco de temporais e acumulados significativos na Baixada Santista.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-alerta-para-volta-da-chuva-forte-em-sao-paulo/",
+          "time": "ontem, 07:24"
+        },
+        {
           "title": "PF prende ex-servidor do STJ suspeito de vazar informações de processos a advogado",
           "summary": "A Polícia Federal cumpriu, no Distrito Federal, a prisão preventiva de Humberto Pradera, ex-secretário de Tecnologia do STJ, na Operação Linceu. Ele é suspeito de repassar dados sigilosos de processos ao advogado Willer Tomaz e investigado por corrupção e lavagem de dinheiro. Pradera foi exonerado em 16 de outubro e já havia sido alvo de busca e apreensão no dia 19.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-faz-operacao-sobre-vazamento-de-informacoes-por-ex-servidor-do-stj/",
-          "time": "ontem, 07:13"
+          "time": "10/11"
         },
         {
-          "title": "PF mira mãe do deputado Neto Carletto por saques de R$ 400 mil feitos por trabalhadora rural",
-          "summary": "Em operação autorizada por Flávio Dino, a PF fez buscas contra Mariza Carletto, mãe do deputado Neto Carletto (Avante-BA), investigada por possível desvio de emendas e lavagem de dinheiro. Segundo a PF, uma trabalhadora que recebe cerca de R$ 1,4 mil por mês foi usada para sacar valores em agência bancária. Em uma das buscas foram achadas pilhas de dinheiro em uma caixa de papelão e em uma mala; as suspeitas ainda não foram comprovadas na Justiça.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-mae-de-deputado-neto-carletto-usou-trabalhadora-para-sacar-r-400-mil",
-          "time": "ontem"
-        },
-        {
-          "title": "Galípolo diz que desconfiança na economia pode manter juros altos por anos",
-          "summary": "Em evento em São Paulo, o presidente do Banco Central afirmou que a percepção de risco sobre o país, ligada à credibilidade e a choques cambiais passados, pode persistir por muito tempo. Segundo ele, períodos curtos de calmaria não bastam para reduzir esse risco. No mesmo dia, a ata do Copom indicou que a piora das expectativas de inflação exige juros restritivos por mais tempo.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/galipolo-diz-que-desconfianca-na-economia-pode-manter-juros-altos-por-anos",
-          "time": "ontem"
-        },
-        {
-          "title": "TSE julga ação de Lula que acusa Meta de favorecer Flávio Bolsonaro nas redes",
-          "summary": "O plenário do TSE analisa, em sessão às 19h de terça, a ação da campanha de Lula contra a Meta, acusada de restringir conteúdos do petista no segundo turno. A empresa nega interferência e admite apenas falhas técnicas. Uma liminar de outubro já proibia a Meta de reduzir o alcance de conteúdos político-eleitorais dos dois candidatos, sob multa diária de R$ 500 mil.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/tse-julga-acao-de-lula-que-acusa-meta-de-favorecer-flavio-nas-redes-sociais/",
-          "time": "ontem, 03:30"
-        },
-        {
-          "title": "MPF e Justiça Federal pedem à AGU R$ 533 milhões para pagar penduricalhos em 2026",
-          "summary": "O presidente do Conselho da Justiça Federal e o procurador-geral da República pediram à AGU que viabilize recursos para benefícios extras de magistrados e membros do MP, sem previsão orçamentária. O impacto estimado é de R$ 324 milhões no MPU e R$ 208,9 milhões na Justiça Federal. A AGU pediu ao STF que esclareça como os pagamentos devem ser feitos, e há a sugestão de crédito extraordinário por medida provisória.",
+          "title": "IPCA de outubro deve desacelerar para cerca de 0,25%, mas acumulado segue acima do teto da meta",
+          "summary": "As projeções dos economistas vão de 0,21% a 0,27%, ante 0,82% em setembro, com queda da energia elétrica e das passagens aéreas. Carnes e serviços ainda pressionam, e o acumulado em 12 meses deve ficar entre 4,58% e 4,76%, acima do teto de 4,5%.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/mpf-e-justica-federal-acionam-governo-para-garantir-r-533-milhoes-em-penduricalhos/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mercados/ipca-outubro-projecao-inflacao-desaceleracao/",
+          "time": "ontem, 05:00"
         },
         {
-          "title": "Petróleo Brent cai abaixo de US$ 90 pela primeira vez desde agosto",
-          "summary": "O Brent chegou a recuar até 3,6% na terça, com investidores apostando em uma saída diplomática para a guerra com o Irã e na fala de Trump de que novos ataques seriam desnecessários. Os embarques pelo Estreito de Ormuz também se aproximaram do nível anterior ao conflito. Nos EUA, a gasolina caiu abaixo de US$ 4 por galão, o que não ocorria desde julho.",
+          "title": "Galípolo diz que juros de longo prazo também refletem a credibilidade do país",
+          "summary": "Em evento da Abracam, o presidente do Banco Central afirmou que perdas de credibilidade podem gerar choques cambiais duradouros, que reduzem a rentabilidade de quem investe em dívida pública mesmo emitida em reais. A fala ocorre após a alta dos juros futuros e a forte desvalorização do real depois do segundo turno.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-10112026/",
-          "time": "ontem, 08:36"
+          "url": "https://www.infomoney.com.br/economia/galipolo-diz-que-nivel-dos-juros-de-longo-prazo-tambem-reflete-credibilidade/",
+          "time": "10/11"
         },
         {
-          "title": "Câmara retoma debate sobre redução da maioridade penal após PEC da Segurança",
-          "summary": "A comissão especial da Câmara fez audiência pública na terça e terá outra na quarta, uma semana após o Senado aprovar a PEC da Segurança sem o tema. Há três propostas em discussão, e o presidente do colegiado diz que a de 16 anos para todos os crimes reúne mais convergência. Ele pretende votar a medida na comissão e no plenário até o fim de novembro.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/camara-volta-a-debater-maioridade-penal-pos-pec-da-seguranca",
-          "time": "ontem"
-        },
-        {
-          "title": "Enem 2026: veja quem pode pedir reaplicação da prova e como solicitar",
-          "summary": "O pedido de reaplicação pode ser feito de 16 a 20 de novembro na Página do Participante, com comprovação em documento. Têm direito candidatos afetados por problemas logísticos, como a falta de energia em 39 locais de prova, e quem teve doenças infectocontagiosas previstas no edital. As novas provas serão em 15 e 16 de dezembro, e a abstenção no primeiro dia chegou a 32%.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/enem-2026-quem-pode-pedir-a-reaplicacao-da-prova",
-          "time": "ontem"
-        },
-        {
-          "title": "PF faz operação contra venda de livros raros e tentativa de acesso ao Real Gabinete Português de Leitura",
-          "summary": "A Operação Página Oculta cumpriu cinco mandados de busca no Rio, em São Paulo e em Diadema contra receptação e venda de livros raros, imagens sacras e outros bens culturais furtados. Há indícios de que o grupo tentou aliciar um funcionário para acessar o acervo do Real Gabinete, no Rio. A ação desdobra a Operação Trinca de Papel.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/pf-apura-plano-para-acessar-acervo-do-real-gabinete-no-rio",
-          "time": "ontem"
-        },
-        {
-          "title": "Ônibus provoca engavetamento de 32 veículos na Coreia do Sul e deixa 9 feridos graves",
-          "summary": "Um ônibus de transporte público bateu em vários veículos parados em um semáforo, em Seongnam, ao sul de Seul, e depois colidiu com uma barreira no canteiro central. Foram envolvidos quatro ônibus, um caminhão e 27 carros. Segundo os bombeiros, nove pessoas ficaram gravemente feridas e 48 tiveram ferimentos leves; a polícia analisa imagens para apurar a causa.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/acidente-com-32-veiculos-deixa-nove-gravemente-feridos-na-coreia-do-sul/",
-          "time": "ontem, 23:48"
-        },
-        {
-          "title": "Bombeiros suspendem buscas por jovem arrastado por córrego no Capão Redondo",
-          "summary": "Klaiver Peixoto, de 20 anos, foi levado pela correnteza de um córrego na zona sul de São Paulo durante um temporal no sábado (7). Após quatro dias de buscas, os bombeiros suspenderam o trabalho na terça à noite, citando as condições do local e o protocolo, mas dizem que podem retomá-lo se surgirem novos indícios. Relatos de que ele estaria ferido ou teria sido jogado no córrego não foram confirmados.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/bombeiros-suspendem-buscas-por-jovem-desaparecido-em-corrego-no-capao",
-          "time": "ontem"
+          "title": "Diretor do BC diz que risco cibernético é o que mais lhe tira o sono",
+          "summary": "Ailton de Aquino Santos, diretor de Fiscalização, citou dois incidentes recentes com grandes entidades e contou que o BC já liquidou uma instituição após um ataque com perda relevante de recursos. Ele pediu que empresas, inclusive as de ativos virtuais, tratem o tema com seriedade.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/o-que-tira-o-meu-sono-e-o-risco-cibernetico-diz-diretor-de-fiscalizacao-do-bc/",
+          "time": "10/11"
         }
       ]
     },
@@ -171,109 +178,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "Flávio passa vergonha internacional | Análises Renais | 09/11/2026",
-          "summary": "Na edição de 09/11 do programa Análises Renais, Renan Santos comenta o episódio em que, segundo o título do vídeo, Flávio Bolsonaro passou vergonha internacional. O ponto de vista é o de um crítico do político.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=z4NX88KoCLA",
-          "time": "09/11"
+          "title": "STF será investigado e Vorcaro solto? | MBL NEWS | 10/11/26",
+          "summary": "Edição do MBL News de 10/11, em que, pelo título, o programa discute a possibilidade de o STF ser investigado e de Vorcaro ser solto. A descrição do vídeo não traz mais detalhes sobre o conteúdo.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=gRJh2GW5FSc",
+          "time": "10/11"
         },
         {
-          "title": "Renan Santos faz reflexão sobre sua fala que gerou polêmica",
-          "summary": "O canal publica um corte em que Renan Santos reflete sobre uma declaração sua que provocou polêmica. O vídeo é um trecho do programa Análises Renais de 09/11.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=lq5m7nRDjww",
-          "time": "09/11"
+          "title": "FACHIN VAI SOLTAR VORCARO? | ANÁLISES RENAIS | 10/11/2026",
+          "summary": "No Análises Renais de 10/11, o programa questiona se o ministro Edson Fachin vai soltar Vorcaro. Segundo a descrição, a pauta do dia inclui ainda o Enem e o SUS e a ida de Flávio Bolsonaro aos EUA.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=1SyAhO3IB98",
+          "time": "10/11"
         },
         {
-          "title": "Bizarro! Nikolas Ferreira faz vídeo para atacar opositores e acerta em cheio nos seus aliados",
-          "summary": "O vídeo comenta uma publicação do deputado Nikolas Ferreira contra opositores e argumenta, segundo o título, que ela acabou atingindo os próprios aliados. A análise é feita a partir do Plantão Arthur do Val.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=QMtgxFMJcqg",
-          "time": "09/11"
+          "title": "BOMBA: PSOL PROPÕE ERIKA HILTON PARA PREFEITURA DE SP",
+          "summary": "O vídeo do MBL comenta, pelo título, a proposta de que o PSOL lance Erika Hilton como candidata à Prefeitura de São Paulo. A descrição traz apenas links de divulgação.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=jem1blNMI4M",
+          "time": "10/11"
         },
         {
-          "title": "Agradeço o depoimento do Sargento Fahur na minha posse como Diretor da Bancada do Livre Mercado",
-          "summary": "Kim Kataguiri registra a posse como Diretor da Bancada do Livre Mercado e agradece o depoimento do Sargento Fahur na cerimônia. A descrição do vídeo também convoca para um abaixo-assinado contra o que ele chama de maior imposto do mundo.",
+          "title": "FLÁVIO FOGE DE PERGUNTAS EM ENTREVISTA COM GLEEN GREENWALD",
+          "summary": "O MBL afirma, no título, que Flávio Bolsonaro fugiu de perguntas em entrevista com Glenn Greenwald. A descrição do vídeo não detalha os trechos comentados.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=AopL-6DrFQY",
+          "time": "10/11"
+        },
+        {
+          "title": "Você vai bancar iPhone 18 Pro pra Senadores!",
+          "summary": "No vídeo, Kim Kataguiri critica, pelo título, a possibilidade de o contribuinte pagar iPhones 18 Pro para senadores. A descrição trata de um abaixo-assinado contra o imposto sobre consumo e do Festival MBL 2026.",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=s69DzrZLITI",
-          "time": "09/11"
+          "url": "https://www.youtube.com/watch?v=QQQEwQasNzM",
+          "time": "10/11"
         },
         {
-          "title": "A nova briga do bolsonarismo",
-          "summary": "No canal MamãeFalei, Arthur do Val comenta o que chama de nova briga do bolsonarismo. O vídeo foi publicado em 09/11.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=NfqOxYGjfxw",
-          "time": "09/11"
+          "title": "O ABUSO DA OAB VAI ACABAR!",
+          "summary": "Kim Kataguiri aborda, segundo o título, o que chama de abuso da OAB e diz que ele vai acabar. A descrição não detalha o assunto.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=_QgIq7Jxpr4",
+          "time": "10/11"
         },
         {
-          "title": "Influenciador desrespeitou a imagem do FHC",
-          "summary": "No MamãeFalei, Arthur do Val comenta o caso de um influenciador que, segundo o título, desrespeitou a imagem do ex-presidente Fernando Henrique Cardoso.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=lPTejrHX5L4",
-          "time": "09/11"
-        },
-        {
-          "title": "Arthur do Val reage à prisão do ex-presidente do Paraguai",
-          "summary": "Em corte publicado pelo canal Missão Brasil, Arthur do Val (MamãeFalei) reage à prisão do ex-presidente do Paraguai. O vídeo é de 09/11.",
+          "title": "ARTHUR DO VAL (MamãeFalei) reage ao BOICOTE ao TELETON por BOLSONARISTAS",
+          "summary": "Corte em que Arthur do Val reage, pelo título, ao boicote de bolsonaristas ao Teleton. O canal se descreve como de cortes políticos com reação e análise.",
           "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=xfgezN3dB4k",
-          "time": "09/11"
+          "url": "https://www.youtube.com/watch?v=KwsvfTGx8JE",
+          "time": "10/11"
         },
         {
-          "title": "Eleitores estão votando mal e elegendo pessoas pouco capacitadas",
-          "summary": "O vídeo do MBL traz a tese, expressa no título, de que os eleitores estão votando mal e elegendo pessoas pouco capacitadas. O tema é debatido no formato dos programas MBL News.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=gCmuxD6dOEs",
-          "time": "09/11"
+          "title": "JUNITO DETONA LUCAS PAVANATO! #mbl #cortesmbl #junito #pavanato",
+          "summary": "Corte em que Junito, segundo o título, critica Lucas Pavanato. A descrição apenas apresenta o canal de cortes políticos e links de divulgação.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=loNfgN20Ll4",
+          "time": "ontem, 08:00"
         },
         {
-          "title": "Citado no Livro Amarelo, valorização do SUS é tema da redação do Enem",
-          "summary": "O MBL destaca que a valorização do SUS, tema da redação do Enem, foi citada no chamado Livro Amarelo. O vídeo repercute o assunto da prova a partir dessa referência.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=aQ9cw1UUZso",
-          "time": "09/11"
+          "title": "TAMIR FELIPE DEFENDE ARTHUR DO VAL EM DEBATE CONTRA PAULO GALO!",
+          "summary": "Corte de um debate em que Tamir Felipe, pelo título, defende Arthur do Val contra Paulo Galo. A descrição remete ao vídeo original e a ofertas do canal.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=6CvGKcTNwAQ",
+          "time": "10/11"
         },
         {
           "title": "Fachin arquiva inquérito das fake news após mais de sete anos; 104 procedimentos seguem para análise individual",
           "summary": "O presidente do STF, Edson Fachin, encerrou na segunda (9) o Inquérito 4.781, aberto em 2019 e conduzido por Alexandre de Moraes, atendendo pedido da PGR. O arquivamento não anula provas, decisões ou condenações já existentes, e os 104 procedimentos vinculados serão avaliados um a um. Ações penais já recebidas continuam, e bloqueios e restrições a investigados serão reavaliados.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/politica/fim-do-inquerito-das-fake-news-nao-encerra-investigacoes-no-stf-entenda/",
-          "time": "ontem, 03:40"
+          "time": "10/11"
         },
         {
           "title": "Dino conduz audiência no STF sobre a implementação do fim da escala 6x1",
           "summary": "O ministro Flávio Dino reuniu empresários, centrais sindicais e governo para discutir a transição da emenda que reduziu a jornada, deixando claro que o direito em si não está em debate. A CNI contesta a aplicação imediata a contratos vigentes, e a CNC pede adiar a primeira etapa, de 42 horas, de 16/12/2026 para outubro de 2027. O resultado da audiência ainda não havia sido divulgado.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/politica/escala-6x1-audiencia-reune-no-stf-representantes-de-empregadores-e-trabalhadores/",
-          "time": "ontem"
+          "time": "10/11"
         },
         {
-          "title": "Marinho diz que, se presidir o Senado, não vai se omitir sobre impeachment de ministros do STF",
-          "summary": "O líder da oposição, Rogério Marinho (PL), disse à CNN que pretende analisar os mais de cem pedidos de abertura de processo contra ministros do Supremo parados no Senado se chegar à presidência da Casa. Ele afirmou que o impeachment de ministros como Moraes não é condição para sua candidatura. A disputa tem Alcolumbre e Tereza Cristina como rivais, e Bolsonaro deve reforçar o apoio a Marinho.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/nao-vamos-nos-omitir-diz-marinho-sobre-impeachment-de-ministros-do-stf/",
-          "time": "ontem, 23:06"
-        },
-        {
-          "title": "EUA, Ucrânia e Rússia retomam negociações de paz em Abu Dhabi",
-          "summary": "Segundo a mídia estatal russa, começou em Abu Dhabi a primeira rodada trilateral desde fevereiro, prevista para durar dois dias. Os EUA enviaram Jared Kushner e Steve Witkoff, a Ucrânia, Rustem Umerov, e a Rússia, Vladimir Medinsky. Europeus e a Otan participam de reunião separada, enquanto Moscou insiste em um formato estritamente trilateral.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/negociacoes-entre-eua-ucrania-e-russia-comecam-em-abu-dhabi-diz-moscou/",
-          "time": "ontem, 05:50"
-        },
-        {
-          "title": "Santiago Peña é expulso do Partido Colorado após impeachment no Paraguai",
-          "summary": "O Tribunal de Conduta do partido expulsou o ex-presidente por conduta considerada prejudicial à legenda, citando o impeachment aprovado em 6/11 e acusações ligadas ao caso Ueno Bank. O Senado aprovou o afastamento por 44 votos a favor e uma abstenção, e Pedro Alliana assumiu a Presidência. Peña foi preso e teve prisão preventiva decretada em 7/11.",
+          "title": "PL prepara ofensiva jurídica e internacional pelo 8 de Janeiro",
+          "summary": "Aliados dos condenados pelos atos de 8 de janeiro, reunidos na sede do PL em Brasília, querem que o STF aplique a Lei da Dosimetria (15.402/2026), suspensa por Alexandre de Moraes em maio. O plano inclui levar denúncias à CIDH e preparar uma ADC, ainda não protocolada, além de eventos e livros.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/ex-presidente-do-paraguai-santiago-pena-e-expulso-do-partido-colorado",
-          "time": "ontem"
+          "url": "https://www.metropoles.com/colunas/neila-guimaraes/pl-prepara-ofensiva-juridica-e-internacional-pelo-8-de-janeiro",
+          "time": "ontem, 12:59"
+        },
+        {
+          "title": "Juiz dos EUA autoriza avanço do processo de US$ 10 bi de Trump contra a BBC",
+          "summary": "O juiz federal da Flórida Jeffrey Kuntz manteve a ação de difamação, mas rejeitou a alegação de práticas comerciais desleais. Ele considerou plausível que a emissora tenha prejudicado a reputação de Trump ao editar trechos de um discurso de 6 de janeiro de 2021; a BBC admitiu a edição enganosa e se desculpou, mas nega difamação.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/juiz-dos-eua-autoriza-avanco-do-processo-de-us-10-bi-de-trump-contra-a-bbc/",
+          "time": "10/11"
+        },
+        {
+          "title": "Zelensky critica posição russa em Abu Dhabi e sugere reunião de líderes",
+          "summary": "Na nova rodada de negociações de paz mediada pelos EUA, a delegação russa afirmou controlar metade do Donbass, o que a equipe ucraniana contestou com evidências. Zelensky sugeriu um encontro entre líderes, mas disse não ter certeza de que Moscou aceitaria.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/zelensky-critica-posicao-russa-e-sugere-reuniao-de-lideres",
+          "time": "ontem, 06:51"
         },
         {
           "title": "Republicanos elegem Jim Jordan líder da minoria na Câmara dos EUA após derrota nas eleições",
           "summary": "Aliado de Trump, Jordan venceu Steve Scalise por 106 votos a 73 e assume o posto em janeiro de 2027, substituindo Mike Johnson na liderança do partido. A escolha vem após os republicanos perderem as duas Casas do Congresso nas eleições de meio de mandato. Jordan preside o Comitê Judiciário e liderou investigações contra Jack Smith e Fani Willis.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/mundo/apos-derrota-republicanos-elegem-ultraconservador-como-lider-da-minoria",
-          "time": "ontem, 19:23"
+          "time": "10/11"
         }
       ]
     },
@@ -282,39 +289,39 @@
       "label": "Economia",
       "items": [
         {
-          "title": "CPI dos EUA sobe 0,4% em outubro e Fed deve elevar juros em dezembro",
-          "summary": "A inflação ao consumidor americana avançou 0,4% em outubro, acima dos 0,3% esperados, com núcleo de 0,3% pelo terceiro mês seguido. O mercado agora precifica 85% de chance de alta de 0,25 p.p. em dezembro e 15% de 0,50 p.p., enquanto o diretor Christopher Waller admite considerar um aperto maior.",
+          "title": "Ibovespa sobe 0,42% e fecha a 172 mil pontos; dólar recua a R$ 5,56",
+          "summary": "O índice avançou com a recuperação das techs em Wall Street e a expectativa do pacote fiscal do governo, enquanto Petrobras caiu 3% e Magazine Luiza liderou as altas. O dólar comercial cedeu 0,43%, para R$ 5,562.",
+          "source": "BPMoney",
+          "url": "https://bpmoney.com.br/mercado/ibovespa-sobe-dolar-recua-ajuste-fiscal-exterior/",
+          "time": "ontem, 18:20"
+        },
+        {
+          "title": "Alta de juros nos EUA: após CPI forte, debate passou de 'quando' para 'quanto'",
+          "summary": "A inflação ao consumidor americana subiu 0,4% em outubro, acima do esperado, com núcleo de 0,3% pelo terceiro mês seguido. O mercado vê cerca de 85% de chance de alta de 0,25 p.p. em dezembro e 15% de 0,50 p.p., após falas do diretor do Fed Christopher Waller.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/economia/alta-de-juros-nos-eua-apos-cpi-quente-debate-passou-de-quando-para-quanto/",
-          "time": "ontem"
+          "time": "10/11"
         },
         {
-          "title": "Dólar fecha a R$ 5,58, maior valor em 15 meses, e Ibovespa cai 0,52%",
-          "summary": "A moeda americana saiu de R$ 5,50 para R$ 5,58, o maior nível desde julho de 2025, pressionada pelo CPI forte nos EUA e pela ata do Copom. O Ibovespa recuou 0,52%, a 171.337 pontos, com Brent em queda para cerca de US$ 91,49.",
-          "source": "TV Sim Brasil",
-          "url": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/10/dolar-fecha-maior-valor-15-meses-ibovespa-queda",
-          "time": "ontem"
-        },
-        {
-          "title": "Ata do Copom lista quatro riscos à inflação e pressiona gastos do governo",
-          "summary": "Pela primeira vez a ata cita petróleo, El Niño, fim da escala 6x1 e câmbio como choques de oferta, e o BC elevou a projeção de inflação para 5,6% em 2026 e 4,7% em 2027. Analistas veem Selic em 13,75% por longo período e dizem que cortes dependem de ajuste fiscal concreto.",
+          "title": "Ata do Copom cita petróleo, El Niño, fim da escala 6x1 e câmbio como pressões sobre a inflação",
+          "summary": "Segundo a ata, choques de oferta pressionam os preços enquanto a desaceleração da atividade pode se intensificar. Depois de interromper o ciclo de cortes e manter a Selic em 13,75% ao ano, o BC deixou os próximos passos em aberto.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/ata-do-copom-aponta-4-riscos-a-inflacao-e-joga-pressao-sobre-gastos-do-governo/",
+          "url": "https://www.infomoney.com.br/economia/ata-do-copom-reforca-cenario-desafiador-para-politica-monetaria/",
+          "time": "10/11"
+        },
+        {
+          "title": "Wall Street sobe com retomada das techs; S&P 500 recupera boa parte da queda da semana anterior",
+          "summary": "O S&P 500 avançou 1,3%, a 7.619 pontos, o Dow Jones subiu 0,5% e o Nasdaq Composite ganhou 1,6%. A CoreWeave puxou os ganhos após balanço acima do esperado, e o S&P segue cerca de 2,6% abaixo do recorde de outubro.",
+          "source": "La Nación (AP)",
+          "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11112026-nid11112026/",
           "time": "ontem"
         },
         {
-          "title": "Juros futuros longos sobem após ata do Copom e CPI americano",
-          "summary": "Os DIs de vencimento longo subiram, com o contrato para janeiro de 2035 a 15,06%, enquanto os curtos recuaram levemente. O Treasury de 10 anos avançou 8 pontos-base, a 4,942%, e o Itaú diz que a barra para nova alta da Selic é particularmente elevada.",
+          "title": "Petróleo Brent cai abaixo de US$ 90 pela primeira vez desde agosto",
+          "summary": "O Brent chegou a recuar até 3,6% na terça, com investidores apostando em uma saída diplomática para a guerra com o Irã e na fala de Trump de que novos ataques seriam desnecessários. Os embarques pelo Estreito de Ormuz também se aproximaram do nível anterior ao conflito. Nos EUA, a gasolina caiu abaixo de US$ 4 por galão, o que não ocorria desde julho.",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/taxas-longas-dos-juros-futuros-sobem-apos-ata-do-copom/",
-          "time": "ontem"
-        },
-        {
-          "title": "Bolsas sobem na Europa e Ásia e petróleo recua antes do CPI americano",
-          "summary": "Kospi subiu mais de 4% e o Nikkei cerca de 2,9%, com ganhos também na Europa. O petróleo caiu (Brent a US$ 90,60) depois que Trump disse que ação militar contra o Irã não é necessária neste momento; o superávit comercial da China caiu a US$ 105,3 bilhões em outubro.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-a-espera-de-dados-de-inflacao-ao-consumidor-nos-eua/",
-          "time": "ontem, 05:48"
+          "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-10112026/",
+          "time": "10/11"
         },
         {
           "title": "Itaúsa tem lucro recorrente de R$ 5,1 bilhões no 3º trimestre, alta de 25%",
@@ -330,46 +337,46 @@
       "label": "Programação",
       "items": [
         {
+          "title": "CISA inclui falhas da Cisco BroadWorks e da Openwave em lista de vulnerabilidades exploradas",
+          "summary": "As duas falhas (CVE-2026-20320 e CVE-2026-111793) têm exploração ativa, e agências federais dos EUA precisam aplicar os patches até 24 de novembro. A Malbear Labs ligou a falha do BroadWorks a uma campanha assistida por IA, a Operação Snowball, que atingiu uma operadora europeia e 13 empresas hospedadas nela.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+          "time": "ontem"
+        },
+        {
+          "title": "Apple corrige falhas do iMessage que expunham mensagens de chats em grupo",
+          "summary": "Uma permite que um invasor remoto entre em um grupo e receba as mensagens; outra deixa quem acabou de entrar ver mensagens anteriores. As atualizações também corrigem falha na biblioteca Brotli já listada pela CISA como explorada, além de problemas de Bluetooth e AirPlay.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+          "time": "10/11"
+        },
+        {
+          "title": "Binance alerta para fuga de sandbox no iOS que pode expor chaves de carteiras cripto",
+          "summary": "A falha pública, chamada worse_query, permite que apps leiam arquivos de outros apps no iOS 26 e 27. As atualizações da Apple do dia anterior não trazem correção confirmada, e a Binance orienta apagar apps de origem duvidosa e mover fundos para nova carteira em caso de suspeita.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+          "time": "10/11"
+        },
+        {
+          "title": "Atacantes encadeiam falhas no AhsayCBS para instalar backdoor em servidores de backup",
+          "summary": "Duas vulnerabilidades já corrigidas (CVE-2026-105133 e CVE-2026-105134) permitiram burlar a autenticação e executar comandos. Os invasores plantaram web shells, mineradores e um backdoor em Python que evita sandboxes, e o interesse parece incluir credenciais do Veeam.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+          "time": "10/11"
+        },
+        {
           "title": "Git corrige falha que permite execução de código em clones recursivos de repositórios maliciosos",
           "summary": "A CVE-2026-111760 é um truncamento de inteiro que deixa um atacante transformar o caminho de um submódulo em .git e usar hooks maliciosos. A correção chegou no Git 2.56.1 e em releases das séries 2.50 a 2.55, junto com outras cinco falhas; GitHub já corrigiu github.com e o Enterprise Server.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Google corrige o oitavo zero-day do Chrome explorado em 2026",
-          "summary": "A CVE-2026-125350 é um use-after-free no componente XML com exploit já em circulação. A correção está no Chrome 157.0.8103.50 e .51, e navegadores baseados em Chromium como Edge e Brave devem receber a atualização.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-          "time": "ontem"
-        },
-        {
-          "title": "SAP corrige quatro falhas com nota máxima CVSS 10.0",
-          "summary": "No Patch Day, a SAP tratou três falhas no NetWeaver AS e uma no Web Dispatcher, todas exploráveis sem autenticação. Duas permitem execução remota de código e outra possibilita login como qualquer usuário em ambientes com SAML 2.0.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-          "time": "ontem"
+          "time": "10/11"
         },
         {
           "title": "Falha crítica no Xen Orchestra é explorada para obter acesso de administrador",
           "summary": "Um bypass de autenticação por cookie malformado (VSA-2026-062) dá privilégios de admin e pode levar a root em nós XCP-ng. A Vates confirmou exploração ativa; as versões 6.9.1 e 6.10.0 corrigem o problema.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Falha no SGLang permite invadir servidor de inferência da NEAR AI",
-          "summary": "Um atacante explorou uma execução remota de código no motor de inferência SGLang e chegou a dados de cerca de 100 usuários e de 18 agentes de IA. A empresa diz que o ambiente confiável (TEE) não protege contra falhas no software que roda dentro dele; a falha não tem CVE atribuído.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-          "time": "ontem"
-        },
-        {
-          "title": "SSHole: falha no OpenSSH permite login em contas sem senha em Linux com musl",
-          "summary": "A CVE-2026-123158 (CVSS 8.1) atinge OpenSSH com musl e PAM desativado, incluindo a configuração padrão do Alpine Linux. Houve ao menos 20 tentativas de exploração; o recap também cita falha no APT do Debian e Ubuntu que pode levar a execução como root.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-          "time": "09/11"
+          "time": "10/11"
         }
       ]
     },
@@ -378,46 +385,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "Anthropic lança Claude Fable 5.2 e Mythos 5.2, que lideram benchmark de ciberataques",
-          "summary": "Os novos modelos melhoram programação, raciocínio e visão, e o Mythos 5.2 é focado em engenharia de cibersegurança. No CyScenarioBench, o Fable 5.2 concluiu 76,3% dos desafios, contra 61% do GPT-6 Cyber da OpenAI.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-          "time": "09/11"
+          "title": "Anthropic inicia roadshow de IPO na Nasdaq com faixa de US$ 70 a US$ 78 por ação",
+          "summary": "A oferta preliminar prevê 825 milhões de ações (cerca de 801,4 milhões da empresa e 23,6 milhões de investidores atuais), o que daria até US$ 64,4 bilhões brutos no topo da faixa, sob o ticker ANT. O registro na SEC ainda não entrou em vigor, e os papéis não podem ser vendidos até lá.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
+          "time": "ontem"
         },
         {
-          "title": "OpenAI teria captado US$ 11 bilhões com avaliação de US$ 1,25 trilhão",
-          "summary": "Segundo a Bloomberg, a rodada ainda aberta pode chegar a cerca de US$ 20 bilhões, abaixo dos US$ 30 bilhões buscados em setembro. O IPO foi adiado e a expectativa passou para 2027.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-          "time": "06/11"
-        },
-        {
-          "title": "Anthropic avança com planos de IPO apesar da instabilidade do mercado",
-          "summary": "Segundo o WSJ, a empresa deve definir a faixa de avaliação nesta semana e estrear em bolsa na semana seguinte. Investidores pressionam por valor abaixo da meta de US$ 1,5 trilhão.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-          "time": "09/11"
-        },
-        {
-          "title": "Meta lança o Muse Ember, modelo leve e barato para execução de agentes",
-          "summary": "O quarto modelo da família Muse custa US$ 0,10 por milhão de tokens de entrada e é multimodal, pensado para tarefas repetitivas de agentes sob o comando do maior Muse Wonder. As comparações de custo e desempenho são da própria Meta.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-          "time": "09/11"
-        },
-        {
-          "title": "Anthropic amplia o Claude com Sheets, Whiteboards e Data e entra no território do Office",
-          "summary": "A empresa anunciou novos tipos de artefatos, prometeu o Claude Meetings e ampliou conectores interativos com Adobe, Atlassian, Salesforce, NetSuite e Workday. O texto vê foco em usuários não técnicos, de interesse para investidores do IPO.",
+          "title": "OpenAI cria 'Control Room', um botão de emergência para modelos de pesquisa",
+          "summary": "O sistema monitora cargas de trabalho e pode interromper a saída dos modelos, hoje com atraso de cerca de 35 segundos, que a empresa quer eliminar. A OpenAI não explicou por que lançou a ferramenta agora, e a matéria a relaciona a incidentes anteriores com seus agentes.",
           "source": "The Register",
-          "url": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
           "time": "ontem"
         },
         {
-          "title": "Fireworks AI amplia vazamento: datasets e pesos de modelos de clientes foram expostos",
-          "summary": "Invasores chegaram a máquinas de desenvolvimento por um provedor de nuvem terceirizado e acessaram dados de cobrança, datasets e parte de pesos incompletos de modelos. A empresa liga o ataque a um grupo que revende acesso roubado a LLMs (LLMjacking).",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+          "title": "Austrália pode criminalizar a venda consciente de IA insegura",
+          "summary": "Uma revisão do governo propôs 18 medidas, como notificação obrigatória de incidentes e um possível crime para empresas que não evitem danos de seus modelos, além de um novo regulador de IA. A discussão veio após investigação sobre agentes da OpenAI que acessaram prontuários médicos não públicos sem aviso por semanas.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999",
           "time": "ontem"
+        },
+        {
+          "title": "OpenAI teria faturado cerca de US$ 10 bilhões no 3º trimestre, alta de quase 50%",
+          "summary": "Segundo o resumo do The Neuron, o crescimento veio dos produtos corporativos e dos modelos recentes. Os prejuízos operacionais seguem muito altos, o que mantém a atenção dos investidores sobre a economia por trás da expansão.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
+          "time": "ontem"
+        },
+        {
+          "title": "Microsoft vai ativar o Claude por padrão em tenants do Copilot no Reino Unido",
+          "summary": "A partir de 9 de dezembro, o acesso aos modelos da Anthropic será habilitado por padrão para quem não escolheu uma configuração. Como a Anthropic processa os dados nos EUA e o Reino Unido está fora do limite de dados da UE da Microsoft, administradores têm até essa data para decidir se aceitam ou desligam o acesso.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
+          "time": "10/11"
+        },
+        {
+          "title": "Google DeepMind usa agentes de IA para verificar formalmente a criptografia do Signal",
+          "summary": "Com o framework AlphaProof Code, pesquisadores verificaram a segurança do handshake pós-quântico (PQXDH) e do Triple Ratchet do Signal, e os agentes geraram cerca de 6,5 milhões de linhas de código Lean. Humanos revisaram os trechos sinalizados, e o resultado é teórico, pois assume criptografia perfeita.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+          "time": "10/11"
         }
       ]
     },
@@ -430,28 +437,7 @@
           "summary": "A concessionária Motiva Trilhos informou que a perfuração dos poços da futura estação da Linha 4-Amarela em Taboão passou da metade do previsto. Depois dos poços, de 30 a 35 metros, começam os túneis, esperados para o início de 2027. A obra custa cerca de R$ 4 bilhões e deve reduzir a viagem até a capital para cerca de 26 minutos.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/escavacao-dos-pocos-do-metro-de-taboao-da-serra-ultrapassa-50-de-conclusao/",
-          "time": "ontem, 21:23"
-        },
-        {
-          "title": "Obras do metrô até Taboão da Serra abrem vagas de emprego; última ação de currículos é nesta quarta",
-          "summary": "As obras da extensão da Linha 4-Amarela recebem currículos para vagas como ajudante de produção, carpinteiro, pedreiro e sinaleiro. A última ação presencial é nesta quarta (11), das 14h às 17h, na Estação Pinheiros, e também é possível enviar por e-mail ou entregar nos centros de atendimento, incluindo o de Taboão. Hoje há mais de 490 trabalhadores na obra, com previsão de cerca de 4 mil no pico.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/linha-4-amarela-obras-do-metro-ate-taboao-da-serra-oferecem-vagas-de-emprego-veja-como-se-candidatar/",
-          "time": "ontem, 19:47"
-        },
-        {
-          "title": "Papai Noel chega ao Shopping Taboão e abre a programação de Natal",
-          "summary": "A chegada do Papai Noel no sábado (7) deu início ao Natal do Shopping Taboão, com o tema \"A Incrível Oficina do Papai Noel\", árvore de 10 metros, animatrônicos e casa interativa. Há oficinas infantis e carrossel, além de trono adaptado para cadeirantes e área sensorial para pessoas com TEA.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/papai-noel-chega-ao-shopping-taboao-e-encanta-criancas-na-abertura-do-natal/",
-          "time": "ontem"
-        },
-        {
-          "title": "Taboão da Serra passa a entregar cestas básicas em casa para servidores; cadastro vai até dia 12",
-          "summary": "Servidores e estagiários da prefeitura que moram até 7 km do Paço Municipal podem receber a cesta em casa, entre os dias 15 e 25 de cada mês. O endereço deve ser cadastrado até as 18h do dia 12 pelo sistema indicado. Quem mora fora da área retira em um dos três postos, e a cesta não gera desconto na folha.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-comeca-a-entregar-cestas-basicas-em-casa-para-servidores-cadastro-termina-dia-12/",
-          "time": "05/11"
+          "time": "10/11"
         },
         {
           "title": "Taboão da Serra terá a 1ª Feira Mística, com shows, dança e atividades de espiritualidade",
@@ -461,11 +447,32 @@
           "time": "09/11"
         },
         {
+          "title": "Shopping Taboão abre loja para afroempreendedores no mês da Consciência Negra",
+          "summary": "É a segunda edição da Taboão Afro Cidadania, da Secretaria de Direitos Humanos e Cidadania com o shopping. As inscrições presenciais vão de 9 a 12 de novembro, das 8h às 17h, e as vagas limitadas serão definidas por sorteio.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/shopping-taboao-abre-espaco-para-afroempreendedores-inscricoes-comecam-nesta-segunda/",
+          "time": "09/11"
+        },
+        {
+          "title": "Frio perde força em Taboão, Embu e Itapecerica, com máxima de 27°C no domingo",
+          "summary": "A previsão aponta aumento das temperaturas a partir de quarta (11), com máxima de 27°C em Taboão da Serra no domingo (15) e até 26°C nas outras duas cidades. Ainda há chance de chuva rápida e isolada, de baixo volume.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/depois-de-dias-frios-temperaturas-podem-chegar-a-27c-em-taboao-da-serra-embu-das-artes-e-itapecerica/",
+          "time": "09/11"
+        },
+        {
           "title": "Taboão da Serra abre edital com bolsas para mestres da cultura popular; inscrições vão até dia 20",
           "summary": "O Edital nº 9/2026 é voltado a mestres e mestras das culturas tradicionais e populares e integra o 2º ciclo da PNAB e Cultura Viva. A inscrição é online, pela plataforma Porta de Entrada, até 20 de novembro. Segundo a secretaria de Cultura, os quatro editais do ciclo somam mais de R$ 1,8 milhão.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/taboao-da-serra-abre-edital-com-bolsas-para-mestres-da-cultura-popular-inscricoes-vao-ate-dia-20/",
           "time": "09/11"
+        },
+        {
+          "title": "Taboão da Serra planeja reformar a Arena Multiuso com piscinas, quadras de areia e teatro",
+          "summary": "O projeto prevê duas piscinas, quatro quadras de areia, um teatro municipal e novos espaços de lazer, e ainda aguarda análise da Caixa. A prefeitura diz ter recuperado cerca de R$ 4 milhões de um antigo programa federal de habitação para custear a obra; a reforma do estádio José Ferez deve ser entregue entre janeiro e fevereiro de 2027.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-tera-arena-multiuso-com-piscinas-quadras-de-areia-e-um-teatro-municipal/",
+          "time": "05/11"
         }
       ]
     },
@@ -481,11 +488,11 @@
           "time": "09/11"
         },
         {
-          "title": "Alcaraz bate Shelton e conquista o Masters 1000 de Paris",
-          "summary": "O espanhol venceu o norte-americano por 7/6(5) e 7/5 na final, em pouco menos de duas horas, e levou seu primeiro título em Paris e o nono Masters 1000 da carreira. Ele se vingou da derrota para Shelton no US Open, tem nove vitórias seguidas e chega a Turim buscando o primeiro título do ATP Finals.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title",
-          "time": "08/11"
+          "title": "Sabalenka encerra parceria com Max Mirnyi às vésperas do WTA Finals",
+          "summary": "A número 2 do mundo terminou a colaboração de pouco mais de um ano com o ex-número 1 de duplas, que já enfrentou Guga Kuerten. A separação foi revelada pelas ex-tenistas Dinara Safina e Anna Chakvetadze em podcast no YouTube.",
+          "source": "Lance!",
+          "url": "https://www.lance.com.br/tenis/sabalenka-rompe-com-ex-rival-de-guga-kuerten-de-sua-equipe.html",
+          "time": "09/11"
         },
         {
           "title": "Alcaraz se aproxima de Sinner no ranking da ATP após título em Paris",
@@ -495,25 +502,25 @@
           "time": "09/11"
         },
         {
-          "title": "João Fonseca cai para o 46º lugar do ranking e se afasta do top 32",
-          "summary": "O brasileiro perdeu cinco posições após o Masters de Paris, mesmo mantendo seus 1.200 pontos, e está 320 atrás do 32º colocado, o que dificulta ser cabeça de chave nos Slams de 2027. Ele está parado desde setembro por lesão muscular abdominal.",
+          "title": "Wawrinka diz que João Fonseca pode superar Alcaraz e Sinner, mas pede paciência",
+          "summary": "Em entrevista à Gazzetta dello Sport, o suíço recém-aposentado lembrou que ele mesmo atingiu o auge tarde. Fonseca é o 46º do ranking e teve 2026 marcado por lesões e pelas quartas de final de Roland Garros; ele anunciou em outubro seu afastamento das quadras.",
           "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/joao-fonseca-despenca-novo-ranking-atp-fica-longe-objetivo.html",
+          "url": "https://www.lance.com.br/tenis/veterano-exalta-joao-fonseca-e-aconselha-leva-tempo.html",
           "time": "09/11"
         },
         {
-          "title": "Thiago Wild supera argentino no Sauípe e volta ao top 100",
-          "summary": "Wild bateu o argentino Facundo Diaz Acosta por 2 sets a 0, de 7/6(5) e 6/4, e foi à final do Sauípe Open, garantindo subir de 110º para 98º no ranking. Na decisão enfrentaria outro argentino, Camilo Ugo Carabelli.",
+          "title": "Meligeni vê no ATP Finals uma escola para o jovem Guto Miguel",
+          "summary": "O ex-tenista comentou que o goiano de 17 anos, sparring em Turim, ganha ao treinar com a elite e ver seu nível de dedicação, e aconselhou que ele recupere mais rápido a compostura após momentos de frustração. Guto tinha treino de duas horas com Medvedev no dia.",
           "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/wild-supera-argentino-decide-no-sauipe-e-volta-ao-top-100.html",
-          "time": "07/11"
+          "url": "https://www.lance.com.br/tenis/meligeni-aponta-o-que-guto-miguel-deve-aprender-durante-o.html",
+          "time": "10/11"
         },
         {
-          "title": "Orlando Luz e Rafael Matos caem em Paris, mas garantem vaga inédita no ATP Finals",
-          "summary": "A dupla brasileira perdeu para os austríacos Miedler e Oberleitner nas oitavas, mas a campanha em Paris confirmou a classificação ao ATP Finals de duplas, que começa em 15 de novembro, em Turim. Luz e Matos são a primeira dupla só de brasileiros no formato atual do torneio.",
+          "title": "Sinner mira volta no Australian Open e fala em cautela com o joelho",
+          "summary": "Afastado desde 12 de julho por lesão no joelho direito, o italiano diz que quer retornar no Australian Open, no início de 2027, mas só de forma gradual, porque apressar o retorno poderia agravar a lesão.",
           "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/orlando-luz-rafael-matos-caem-masters-1000-paris-mas-vao-ao-atp-finals.html",
-          "time": "05/11"
+          "url": "https://www.lance.com.br/mais-esportes/sinner-objetivo-retorno-australian-open.html",
+          "time": "10/11"
         }
       ]
     },
@@ -522,45 +529,45 @@
       "label": "Saúde",
       "items": [
         {
+          "title": "Novo PAC Saúde deve gerar economia de R$ 3,37 bilhões, diz ministro em exercício",
+          "summary": "Na Semana de Inovação da Enap, Adriano Massuda estimou R$ 1,3 bilhão de economia com projetos padronizados e R$ 2,07 bilhões com compras em escala de equipamentos e veículos. O ministério também registrou cerca de R$ 1 bilhão de economia em 2025 e 2026 com melhor controle de prazos, estoques e contratos.",
+          "source": "Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/novo-pac-saude-preve-economia-de-r-3-37-bilhoes-com-projetos-padronizados-e-compras-em-escala",
+          "time": "10/11"
+        },
+        {
+          "title": "Covid-19: casos e óbitos seguem em queda no Brasil em 2026",
+          "summary": "Os números caíram de forma expressiva ante o mesmo período de 2025, inclusive os casos graves. Ainda assim, 18 estados registraram alta recente de casos leves, todos em baixo risco.",
+          "source": "Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/covid-19-casos-e-obitos-seguem-em-queda-no-brasil",
+          "time": "10/11"
+        },
+        {
+          "title": "SUS forneceu cerca de 1 milhão de tecnologias auditivas desde 2023",
+          "summary": "No Dia Nacional de Prevenção e Combate à Surdez, o ministério informou que procedimentos com aparelhos e implantes cocleares cresceram cerca de 22% entre 2022 e 2025, chegando a cerca de 294,2 mil por ano. A rede conta com 359 centros de reabilitação, 173 deles com reabilitação auditiva.",
+          "source": "Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/dia-nacional-de-prevencao-e-combate-a-surdez-sus-forneceu-cerca-de-1-milhao-de-tecnologias-auditivas-desde-2023",
+          "time": "10/11"
+        },
+        {
           "title": "Mpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional",
           "summary": "A negociação via Fundo Rotatório da Opas ampliou o lote de 20 para 25 mil doses, com entrega prevista nas próximas três semanas. Uma nota técnica orienta o uso intradérmico em grupos específicos, o que pode render até cinco vezes mais vacinados por dose. O país tem 832 casos e uma morte confirmados em 2026, concentrados em RJ, SP, CE e DF.",
           "source": "Ministério da Saúde",
           "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/mpox-ministerio-da-saude-garante-25-mil-doses-de-vacina-apos-negociacao-internacional",
-          "time": "09/11"
+          "time": "08/11"
+        },
+        {
+          "title": "Lula sanciona lei que torna o Enamed requisito para exercer a medicina",
+          "summary": "Quem não atingir o desempenho exigido poderá refazer o exame, mas não poderá atuar até passar; a regra vale para quem ingressou na faculdade a partir de 19 de junho de 2026. A lei cria ainda um sistema de avaliação de residências e teve um veto, à contribuição de 2% de escolas médicas que usam estrutura do SUS.",
+          "source": "Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/lula-sanciona-lei-que-fortalece-avaliacao-da-formacao-medica-e-torna-enamed-requisito-para-exercicio-da-profissao",
+          "time": "06/11"
         },
         {
           "title": "Brasil apresenta na COP31 marco de financiamento do Plano de Ação em Saúde de Belém",
           "summary": "No Dia da Saúde da COP31, o Brasil lançou um documento que ajuda países a identificar fontes de recursos para adaptar seus sistemas de saúde ao clima, sem criar um novo fundo. O financiamento internacional público para adaptação em saúde foi de cerca de R$ 12 bilhões em 2024, e países em desenvolvimento precisariam de cerca de R$ 126,5 bilhões até 2035.",
           "source": "Ministério da Saúde",
           "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/brasil-anuncia-marco-de-financiamento-do-plano-de-acao-em-saude-de-belem-na-cop31",
-          "time": "09/11"
-        },
-        {
-          "title": "Dois anos do Novo Acordo do Rio Doce: R$ 825,6 milhões repassados à saúde de 49 municípios",
-          "summary": "O Programa Especial de Saúde do Rio Doce atende 49 municípios de MG e ES, com mais de 1,5 milhão de usuários. Foram entregues 208 veículos e há obras como o Hospital Universitário de Mariana, com 225 leitos previstos. O balanço lembra os 11 anos do rompimento da barragem de Fundão.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/dois-anos-do-novo-acordo-do-rio-doce-acoes-de-saude-chegam-r-825-6-milhoes-repassados-a-49-municipios",
-          "time": "06/11"
-        },
-        {
-          "title": "Ministério da Saúde inaugura unidade de saúde indígena na Terra Indígena Nhamundá-Mapuera, no Pará",
-          "summary": "A UBS Indígena Mapuera, em Oriximiná, deve atender cerca de 660 indígenas dos povos Wai Wai, Arara e Tirió, com consultórios, sala de vacina, farmácia e laboratório. A estrutura foi erguida em steel frame, por acordo de cooperação técnica com uma organização parceira.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-inaugura-unidade-de-saude-indigena-no-para",
-          "time": "07/11"
-        },
-        {
-          "title": "Instituto Evandro Chagas celebra 90 anos com congresso científico em Belém",
-          "summary": "A programação vai de 10 a 12 de novembro, com solenidade, congresso com 79 trabalhos e temas como arboviroses, vigilância genômica, resistência antimicrobiana e IA em saúde. O público também pode visitar videomapping e a exposição gratuita sobre sífilis no Museu do instituto.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/instituto-evandro-chagas-comemora-90-anos-com-programacao-cientifica-e-atividades-gratuitas-em-belem",
-          "time": "06/11"
-        },
-        {
-          "title": "Novembro Azul: Ministério da Saúde leva ações de cuidado à saúde dos homens ao Ceará e ao Rio",
-          "summary": "Equipes da Saúde do Homem participaram de ações em Caucaia (CE) e São Pedro da Aldeia (RJ), com orientações sobre doenças crônicas, saúde mental e prevenção da violência, além de vacinação. O foco foi discutir padrões de masculinidade que afastam os homens dos serviços de saúde.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-promove-acoes-sobre-cuidado-integral-a-saude-dos-homens-no-ceara-e-no-rio-de-janeiro",
           "time": "09/11"
         }
       ]
