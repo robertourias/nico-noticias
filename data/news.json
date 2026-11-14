@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-13T03:23:58-03:00",
+  "updatedAt": "2026-11-14T03:22:00-03:00",
   "markets": {
-    "asOf": "Fechamento de 12/11 (IFIX e Euro: 10/11; Nasdaq 100: 11/11) · cripto de 13/11 (madrugada)",
+    "asOf": "Fechamento de 13/11 (Euro: 10/11; Nasdaq 100: 11/11) · cripto de 14/11 às 02:45",
     "items": [
       {
         "id": "ibov",
         "label": "IBOV",
-        "value": "171.324 pts",
-        "change": -0.43
+        "value": "172.457 pts",
+        "change": 0.66
       },
       {
         "id": "ifix",
         "label": "IFIX",
-        "value": "3.590 pts",
-        "change": null
+        "value": "3.615 pts",
+        "change": 1.36
       },
       {
         "id": "cdi-selic",
@@ -24,8 +24,8 @@
       {
         "id": "sp500",
         "label": "S&P 500",
-        "value": "7.593 pts",
-        "change": -0.35
+        "value": "7.562 pts",
+        "change": -0.4
       },
       {
         "id": "nasdaq100",
@@ -36,14 +36,14 @@
       {
         "id": "dow",
         "label": "Dow Jones",
-        "value": "52.299 pts",
-        "change": -0.36
+        "value": "52.348 pts",
+        "change": 0.09
       },
       {
         "id": "usd",
         "label": "Dólar",
-        "value": "R$ 5,65",
-        "change": 1.62
+        "value": "R$ 5,66",
+        "change": 0.11
       },
       {
         "id": "eur",
@@ -54,33 +54,33 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 68.930",
-        "change": -6.5
+        "value": "US$ 66.835",
+        "change": -2.53
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 1.936",
-        "change": -6.0
+        "value": "US$ 1.894",
+        "change": -1.41
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 78,52",
-        "change": -6.0
+        "value": "US$ 75,61",
+        "change": -4.09
       }
     ]
   },
   "weather": {
-    "date": "2026-11-13",
-    "condition": "céu nublado, com chuva isolada pela manhã, pancadas com trovoadas à tarde e garoa à noite",
+    "date": "2026-11-14",
+    "condition": "sol entre nuvens, com aumento de nebulosidade no fim da tarde e sem previsão de chuva",
     "min": 18,
-    "max": 23,
+    "max": 27,
     "rainChance": null,
     "rainMm": null,
     "uv": null,
-    "source": "GCMais (painel meteorológico e CGE)",
-    "url": "https://gcmais.com.br/noticias/2026/11/12/clima-para-amanha-em-sao-paulo-13-11-veja-previsao-de-chuva"
+    "source": "CGE / Jovem Pan",
+    "url": "https://jovempan.com.br/brasil/sao-paulo-pode-ter-pancadas-de-chuva-no-fim-de-semana-veja-previsao/"
   },
   "categories": [
     {
@@ -88,88 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Senado aprova texto-base do ajuste fiscal por 45 a 31",
-          "summary": "O Senado aprovou na noite de quinta o texto-base do projeto que cria gatilhos no arcabouço fiscal, reduz de 2,5% para 2,0% o limite de crescimento real das despesas a partir de 2027 e corta cerca de 20% dos benefícios fiscais. Os destaques devem ser analisados na próxima semana, antes de o texto seguir para a Câmara.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/senado-aprova-plp-do-ajuste-fiscal/",
-          "time": "ontem, 21:05"
-        },
-        {
-          "title": "Flávio Bolsonaro chama ajuste fiscal de 'fajuto' e pede cassação da chapa de Lula no TSE",
-          "summary": "Em transmissão ao vivo dos EUA, o senador criticou o pacote logo após a aprovação do texto-base no Senado; ele votou remotamente contra. Também disse que as instituições estariam 'aparelhadas', e a reportagem aponta que ele misturou regras de saúde e educação ao criticar as medidas.",
+          "title": "EUA cancelam suspensão geral de voos após horas de paralisação nos aeroportos",
+          "summary": "A FAA suspendeu na noite de sexta-feira o bloqueio que impedia decolagens em todos os aeroportos americanos. A paralisação durou horas e causou milhares de atrasos e cancelamentos, e os terminais retomam as operações aos poucos.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-critica-ajuste-fiscal-e-volta-a-contestar-eleicao",
-          "time": "hoje, 02:56"
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/eua-cancelam-suspensao-geral-de-voos-em-todo-o-pais",
+          "time": "hoje, 01:36"
         },
         {
-          "title": "Congresso libera R$ 149,4 bilhões para custear Previdência e Bolsa Família",
-          "summary": "Em sessão conjunta, deputados e senadores aprovaram um pacote de projetos de crédito que segue para sanção. O principal item destina R$ 119 bilhões a benefícios previdenciários, R$ 26 bilhões ao Bolsa Família e R$ 4,43 bilhões ao BPC e à RMV de idosos.",
+          "title": "PF apura sobrepreço de bombas d'água em enchente no RS",
+          "summary": "A Operação Deságue investiga supostas fraudes em contratos emergenciais de aluguel de bombas durante as enchentes de 2024 no Rio Grande do Sul, com valores até dez vezes acima do devido. A Justiça bloqueou mais de R$ 10 milhões em Canoas e Cachoeirinha, e o ex-secretário de Fazenda de Canoas foi afastado do cargo atual.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/pf-apura-fraude-em-aluguel-de-bombas-na-enchente-do-rs",
+          "time": "hoje, 02:45"
+        },
+        {
+          "title": "Em meio à trégua, Irã diz ter atacado radar dos Estados Unidos no Bahrein",
+          "summary": "A Guarda Revolucionária iraniana afirma ter atingido um radar de alerta antecipado americano no Bahrein, em retaliação a um bombardeio a uma torre de telecomunicações no sul do Irã. A ação ocorre durante uma trégua frágil, e Washington e Manama não se pronunciaram de imediato.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/em-meio-a-tregua-ira-diz-ter-atacado-radar-dos-eua-no-bahrein/",
+          "time": "13/11"
+        },
+        {
+          "title": "Fachin atende OAB e suspende prazos processuais após falhas na Microsoft",
+          "summary": "O presidente do CNJ suspendeu os prazos processuais em todo o país nos dias 12 e 13, atendendo pedido da OAB após a instabilidade em Outlook e Teams. Casos que comprovarem prejuízo poderão ser analisados individualmente, e a Microsoft relata recuperação parcial, sem indício de ataque hacker até agora.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/congresso-libera-r1494-bilhoes-para-custear-previdencia-e-bolsa-familia",
-          "time": "ontem, 14:26"
+          "url": "https://www.metropoles.com/brasil/fachin-atende-oab-e-suspende-prazos-processuais-apos-falhas-na-microsoft",
+          "time": "13/11"
+        },
+        {
+          "title": "Pará declara emergência ambiental por incêndios florestais",
+          "summary": "O governo paraense decretou emergência ambiental por 120 dias diante de centenas de focos de incêndio, agravados por seca severa ligada ao El Niño. O Inpe contabiliza mais de 5 mil focos desde o início de novembro; a medida proíbe queimadas em pastagens e libera recursos extras.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/para-declara-emergencia-ambiental-por-incendios-florestais/",
+          "time": "13/11"
+        },
+        {
+          "title": "Terremoto de magnitude 5,8 atinge o Peru durante passagem do papa Leão XIV",
+          "summary": "O abalo ocorreu no litoral peruano, a cerca de 79 km de Changuillo, em Ica, no mesmo dia da chegada do papa ao país, embora longe da região que ele visita. O USGS indica que o tremor foi raso e oferece pouco risco de destruição em terra.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-58-atinge-o-peru-durante-passagem-do-papa-leao-xiv",
+          "time": "13/11"
+        },
+        {
+          "title": "Havan é condenada por manter funcionários de pé; Hang alega perseguição",
+          "summary": "O TRT-23 condenou a Havan a pagar R$ 300 mil por danos morais coletivos por manter trabalhadores de uma loja em Rondonópolis (MT) em pé durante toda a jornada. Luciano Hang diz que instalou cadeiras após notificação do MPT e espera reverter a multa em instâncias superiores.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/hang-alega-perseguicao-apos-condenacao-por-funcionarios-trabalharem-a-pe",
+          "time": "13/11"
+        },
+        {
+          "title": "O que se sabe sobre o ciclone previsto para atingir o Brasil na próxima semana",
+          "summary": "Um novo ciclone extratropical deve se formar perto do Sul do país na segunda ou terça-feira, segundo Meteored e Inmet. Há previsão de temporais, chuva acima de 100 mm e rajadas superiores a 100 km/h, além de um corredor de umidade que pode trazer chuva forte ao Sudeste e Centro-Oeste.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/o-que-se-sabe-sobre-o-ciclone-previsto-para-atingir-o-brasil-na-proxima-semana/",
+          "time": "12/11"
+        },
+        {
+          "title": "Trump ameaça dobrar tarifas sobre o México se país não barrar caravana de imigrantes",
+          "summary": "Segundo a Reuters, Trump quer que o México contenha uma caravana de cerca de 1.500 imigrantes, em maioria centro-americanos, que saiu de Tapachula rumo ao norte. O grupo esperava que a vitória democrata nas eleições de meio de mandato facilitasse a entrada nos EUA, mas Trump diz que não serão admitidos.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/trump-ameaca-dobrar-tarifas-sobre-mexico-caso-pais-nao-barre-imigrantes/",
+          "time": "12/11"
+        },
+        {
+          "title": "Justiça condena médico que divulgou que mamografia aumenta casos de câncer",
+          "summary": "A Justiça Federal em Minas Gerais condenou o médico e influenciador Lucas Ferreira Matos a pagar R$ 100 mil por dano moral coletivo, em ação da AGU. Ele também fica proibido de repetir as afirmações, que poderiam afastar mulheres de exames importantes.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/justica-condena-medico-que-divulgou-que-mamografia-aumenta-casos-de-cancer/",
+          "time": "12/11"
+        },
+        {
+          "title": "Itália surpreende e vence França por 3 a 1 na Liga das Nações",
+          "summary": "Depois de sair atrás com gol de Olise, após falha de Donnarumma, a Itália virou com Pio Esposito e Frattesi e assumiu a liderança do Grupo A1. O jogo ocorreu em meio a uma suposta crise entre Mbappé e Zidane, revelada pelo L'Équipe.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/italia-surpreende-e-vence-franca-em-meio-a-possivel-crise-com-mbappe/",
+          "time": "12/11"
         },
         {
           "title": "Ataque hacker à Caixa Vida e Previdência expõe dados de 7,6 milhões de clientes",
           "summary": "Segundo a empresa, a invasão foi identificada em 6 de novembro e contida. Foram extraídos nomes e CPFs e, em parte dos registros, endereços, telefones, e-mails e datas de nascimento; não há indício de acesso a dados bancários ou senhas, e a ANPD foi notificada.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/colunas/dinheiro-e-negocios/ataque-hacker-a-subsidiaria-da-caixa-expoe-dados-de-76-milhoes-de-clientes",
-          "time": "ontem, 14:07"
-        },
-        {
-          "title": "Microsoft confirma instabilidade global em Outlook, Teams, Microsoft 365 e Copilot",
-          "summary": "Usuários no Brasil e nos EUA relataram dificuldade de acesso, com cerca de 37 mil relatos no DownDetector. A empresa atribuiu o problema a sobrecarga de infraestrutura causada pela indisponibilidade inesperada de servidores e disse que reiniciava os equipamentos afetados.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/microsoft-confirma-instabilidade-em-servicos-da-empresa/",
-          "time": "ontem, 16:29"
-        },
-        {
-          "title": "Ministro da Justiça vai ao Senado explicar troca de delegados da PF no caso Master",
-          "summary": "Wellington César Lima e Silva confirmou presença na Comissão de Segurança Pública na quarta-feira (18), às 14h30. Ele deve explicar a substituição de delegados que participaram de relatórios sobre a relação de ministros do STF com Daniel Vorcaro; o diretor-geral da PF, convidado, ainda não confirmou.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/ministro-da-justica-confirma-ida-ao-senado-para-falar-de-troca-de-delegados",
-          "time": "ontem, 15:31"
-        },
-        {
-          "title": "Justiça proíbe três ex-gestores do BRB de transferir veículos e imóveis",
-          "summary": "A 2ª Vara Cível de Brasília atendeu a pedido do BRB e impôs a restrição ao ex-presidente Paulo Henrique Costa, a Dario Oswaldo e a Marcelo Talarico, como medida menos gravosa que o bloqueio de ativos financeiros. A ação pede que sete ex-gestores ressarçam prejuízos em operações com o Banco Master e a Reag.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/grande-angular/master-justica-proibe-transferencia-de-bens-de-ex-gestores-do-brb",
-          "time": "ontem, 11:34"
-        },
-        {
-          "title": "Banco Central decreta liquidação da Consórcios Roma e da Cooperagre",
-          "summary": "O BC apontou irregularidades na venda de cotas da administradora de consórcios e 'graves violações às normas' na cooperativa de crédito rural sediada em Igaci (AL). Os bens dos ex-administradores das duas instituições ficaram indisponíveis.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/banco-central-decreta-liquidacao-instituicoes-financeiras",
-          "time": "ontem, 11:44"
-        },
-        {
-          "title": "Vereador do PT denuncia ameaças de morte por e-mail em São Paulo",
-          "summary": "João Ananias disse ter recebido mensagens ameaçadoras no e-mail do gabinete na Câmara Municipal, uma delas prometendo invadir a sala armado. A equipe registrou boletim de ocorrência e a GCM reforçou a segurança do gabinete.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/brasil/vereador-do-pt-denuncia-ameaca-de-morte-em-sp",
-          "time": "hoje, 00:32"
-        },
-        {
-          "title": "Câmara convoca Mauro Vieira para explicar apoio da embaixada à mudança de Lulinha",
-          "summary": "A comissão de Relações Exteriores aprovou convite ao chanceler sobre o apoio logístico da embaixada na Espanha a Fábio Luís Lula da Silva; o ministro não é obrigado a comparecer. O Itamaraty nega o uso de carro oficial, e o autor do requerimento fala em possível desvio de finalidade.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/camara-convoca-mauro-vieira-para-explicar-apoio-de-embaixada-na-mudanca-de-lulinha/",
-          "time": "11/11"
-        },
-        {
-          "title": "Bancada do PT resiste à redução da maioridade penal enquanto Lula tenta negociar",
-          "summary": "O líder do PT na Câmara, Pedro Uczai, defende punições mais duras para adolescentes em crimes graves, mas segue contrário a baixar a maioridade de 18 para 16 anos. O relator, Mendonça Filho (PL-PE), deve apresentar o parecer até o fim de novembro.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/politica/bancada-do-pt-faz-jogo-duro-e-e-contraria-a-reducao-da-maioridade-penal/",
-          "time": "ontem, 08:12"
-        },
-        {
-          "title": "Governo deve convocar mais de 1,3 mil aprovados no CNU ainda em novembro",
-          "summary": "Segundo a ministra Esther Dweck, os novos servidores irão para órgãos como Funai, Incra, IBGE, Inep, AGU e agências reguladoras. Também foram autorizados um concurso para a ANPD em 2027 e 170 vagas para o Banco Central.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/governo-deve-convocar-mais-1-300-aprovados-no-cnu-ainda-neste-ano",
-          "time": "ontem, 15:26"
+          "time": "12/11"
         }
       ]
     },
@@ -178,109 +178,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "Nikolas abandona Flávio Bolsonaro (MBL NEWS AO VIVO)",
-          "summary": "Edição ao vivo do MBL News apresentada por Renan Santos, publicada em 11/11. Pelo título, o programa comenta o suposto afastamento do deputado Nikolas Ferreira em relação a Flávio Bolsonaro.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=WkLk4U08faU",
-          "time": "11/11"
-        },
-        {
-          "title": "O que o filho de Trump tem a ver com essa cidade no interior de Minas Gerais?",
-          "summary": "No vídeo, Renan Santos investiga, segundo o título, qual a ligação do filho de Donald Trump com uma cidade do interior de Minas Gerais. O canal divulgou outros vídeos sobre Poços de Caldas na mesma semana.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=V8cpHOkycE8",
-          "time": "11/11"
-        },
-        {
-          "title": "ALEXANDRE de MORAES começa a PERDER seus PODERES!",
-          "summary": "Kim Kataguiri comenta, no vídeo, o que descreve como a perda de poderes do ministro Alexandre de Moraes no STF. O canal também promove o livro dele sobre a atuação do Supremo no processo legislativo.",
+          "title": "CONGRESSO já admite REVER a Reforma do IVA!",
+          "summary": "No vídeo, Kim Kataguiri trata da possibilidade de o Congresso rever a Reforma do IVA, tema pelo qual ele pede pressão popular. Na descrição, ele convida o público a assinar o abaixo-assinado contra o que chama de \"maior imposto do mundo\".",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=VMtZRdxRLjw",
-          "time": "11/11"
+          "url": "https://www.youtube.com/watch?v=RjHs254ew0g",
+          "time": "12/11"
         },
         {
-          "title": "Corretores de imóveis terão ISENÇÃO de impostos?",
-          "summary": "Kim Kataguiri aborda, no vídeo, a possibilidade de isenção de impostos para corretores de imóveis. O canal liga o tema à campanha contra o IVA, que chama de 'maior imposto do mundo'.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=2DgbkwSkbYQ",
-          "time": "11/11"
+          "title": "DIREITA NUNCA MAIS NO MBL???",
+          "summary": "Episódio da série \"Análises Renais\", ligado à Aula Magna da Academia MBL com Kim Kataguiri e Renan Santos. O título pergunta se a direita deixará de ter espaço no MBL; a descrição divulga a inscrição gratuita na Academia MBL.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=4jZ_woz9aSc",
+          "time": "12/11"
         },
         {
-          "title": "PLANTÃO ARTHUR DO VAL - NIKOLAS FOI COLOCADO NO SEU LUGARZINHO",
-          "summary": "No Plantão, Arthur do Val comenta, segundo o título, um episódio em que Nikolas Ferreira teria sido 'colocado no seu lugar'. O vídeo foi publicado na quinta-feira (12).",
+          "title": "Meu pedido de DESCULPAS ao Davi Alcolumbre",
+          "summary": "Arthur do Val publica um vídeo em que, pelo título, pede desculpas a Davi Alcolumbre. O vídeo não traz descrição com detalhes do conteúdo.",
           "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=5qH_bANh6G4",
-          "time": "ontem, 08:13"
+          "url": "https://www.youtube.com/watch?v=U4eZDjMcDfA",
+          "time": "12/11"
         },
         {
-          "title": "URGENTE: PENTÁGONO QUER AS TERRAS RARAS DE POÇOS DE CALDAS",
-          "summary": "O canal do MBL trata, no vídeo, do suposto interesse do Pentágono nas terras raras de Poços de Caldas (MG). O assunto também aparece em outro vídeo do canal, que diz ter ido à cidade investigar a venda de terras raras ao exterior.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=4P6qyPYdc6s",
-          "time": "ontem, 10:00"
-        },
-        {
-          "title": "TESOURAÇO DO LULA VAI CORTAR BENEFÍCIOS?",
-          "summary": "O MBL questiona, no vídeo, se o pacote fiscal do governo Lula levará a cortes em benefícios. Outro vídeo do canal, do mesmo dia, menciona cortes de até R$ 80 bilhões.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=yfyfoDcERKk",
-          "time": "11/11"
-        },
-        {
-          "title": "RENAN SANTOS REVELA SITUAÇÃO CHOCANTE SOBRE INTERFERÊNCIA EXTERNA NO BRASIL!",
-          "summary": "Corte do canal Missão Avança com trecho de Renan Santos no MBL News sobre o que ele descreve como interferência externa no Brasil. O vídeo original está no canal MBL TV.",
+          "title": "NIKOLAS FERREIRA E LUCAS PAVANATO: O DESSERVIÇO QUE A POLÍTICA NÃO PRECISA!",
+          "summary": "Corte do canal Missão Avança que, pelo título, critica Nikolas Ferreira e Lucas Pavanato e chama a atuação deles de desserviço à política. A descrição do vídeo não detalha os argumentos.",
           "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=HpedlOgAfy0",
-          "time": "11/11"
+          "url": "https://www.youtube.com/watch?v=OA6BBslkP2E",
+          "time": "12/11"
         },
         {
-          "title": "JUNITO E MEMBROS DO MBL FALAM SOBRE CRISTIANO BERALDO",
-          "summary": "Corte do canal Missão Brasil em que Junito e outros membros do MBL comentam, segundo o título, o caso de Cristiano Beraldo. O vídeo foi publicado na madrugada de quinta-feira (12).",
+          "title": "RENAN SANTOS DESMENTE PAVANATO E DEFENDE O SUS",
+          "summary": "Corte em que, segundo o título, Renan Santos contesta afirmações de Lucas Pavanato e defende o SUS. O canal se descreve como de cortes políticos, com trechos diretos, reação e análise.",
           "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=nG0Sjb9fQDo",
-          "time": "ontem, 00:07"
+          "url": "https://www.youtube.com/watch?v=RDxwfa7GDqg",
+          "time": "12/11"
         },
         {
-          "title": "Dino mantém fim da escala 6x1 a partir de 16 de dezembro e flexibiliza regras de adaptação",
-          "summary": "O ministro do STF rejeitou os pedidos de CNC e CNI para adiar a mudança. Sem acordo coletivo, as empresas poderão distribuir as 42 horas semanais em cinco dias, com jornadas de até 8h24; a compensação pode tratar de quando os dois descansos são usufruídos, não de sua supressão.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/dino-mantem-fim-da-escala-6x1-em-dezembro-e-flexibiliza-regras",
-          "time": "ontem, 14:10"
+          "title": "CONSTANTINO PARTE PARA CIMA DE EDUARDO BOLSONARO",
+          "summary": "Corte que, pelo título, mostra Constantino em confronto com Eduardo Bolsonaro. O canal se apresenta como de cortes políticos, sem detalhar o teor da discussão na descrição.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=YUmzEJ3pfks",
+          "time": "12/11"
         },
         {
-          "title": "Lula tem quatro mulheres no radar para indicar ao STF",
-          "summary": "Segundo a CNN Brasil, os nomes cogitados são as ministras do STJ Daniela Teixeira e Regina Helena Costa e as advogadas Dora Cavalcante e Edilene Lobo. A cogitação ocorre pela dificuldade de aprovar Jorge Messias e pela pressão por uma mulher na Corte, que hoje tem só Cármen Lúcia.",
+          "title": "LULA INOCENTADO? | MBL News | 12/11/26",
+          "summary": "Edição do MBL News de 12/11 cujo título pergunta se Lula teria sido \"inocentado\". A descrição apenas convida o público ao Festival do MBL e à assinatura do Valete+.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=5XvINMbj8Ao",
+          "time": "12/11"
+        },
+        {
+          "title": "VAMOS PRESSIONAR PELA PEC ANTI-IPVA!",
+          "summary": "No vídeo, Kim Kataguiri convoca a pressão do público por uma PEC que acabaria com o IPVA. Na descrição, ele promove seu abaixo-assinado contra o que chama de maior imposto do mundo e o Festival MBL.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=_6weIA5Dk3M",
+          "time": "12/11"
+        },
+        {
+          "title": "RENAN DENUNCIA CASO DE EXPLORAÇÃO DE TERRAS RARAS EM MINAS",
+          "summary": "Vídeo do canal do MBL em que Renan Santos, segundo o título, denuncia um caso de exploração de terras raras em Minas Gerais. A descrição não traz mais detalhes.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=f7hBp6OcF9c",
+          "time": "12/11"
+        },
+        {
+          "title": "Atlas/Bloomberg: 53% acreditam no resultado das eleições; 42% veem fraude",
+          "summary": "Pesquisa AtlasIntel/Bloomberg ouviu 4.946 eleitores entre 5 e 9 de novembro. Para 52,7%, o resultado da eleição presidencial refletiu a vontade popular, enquanto 42,2% acreditam em fraude capaz de alterar o desfecho e 5,1% não souberam responder. A margem de erro é de 2 pontos percentuais.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-tem-quatro-mulheres-no-radar-para-o-supremo-tribunal-federal/",
-          "time": "ontem, 18:49"
+          "url": "https://www.cnnbrasil.com.br/politica/atlas-bloomberg-53-acreditam-no-resultado-das-eleicoes-42-veem-fraude/",
+          "time": "ontem, 08:32"
         },
         {
-          "title": "Fachin dá mais 60 dias à PF para investigar Ciro Nogueira no caso Master",
-          "summary": "A decisão, assinada em 11/11, atendeu a pedido da PF, com parecer favorável da PGR. A investigação apura se o senador atuou no Senado em favor de Daniel Vorcaro em troca de vantagens indevidas; Ciro ainda não foi indiciado.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/caso-master-fachin-da-mais-60-dias-para-pf-investigar-ciro-nogueira",
-          "time": "ontem, 10:33"
-        },
-        {
-          "title": "Enviados de Trump chegam a Moscou para reunião com Putin sobre a guerra na Ucrânia",
-          "summary": "Jared Kushner e o enviado especial Steve Witkoff foram negociar o fim da guerra, após dois dias de conversas em Abu Dhabi sem avanço claro. Na Ucrânia, um ataque de drones russos atingiu Kiev e deixou ao menos um morto.",
+          "title": "Presidente do STJ à CNN: impeachment de ministros do STF aprofundaria crise",
+          "summary": "Luís Felipe Salomão afirmou que afastar ministros do Supremo não resolve os problemas do tribunal e pode agravar a crise do Judiciário, defendendo que eventuais irregularidades sejam apuradas pelo devido processo legal. Ele criticou a personalização do debate e defendeu uma reforma do Judiciário. A matéria lembra que senadores eleitos em outubro fizeram da saída de ministros do STF uma bandeira, com foco em Alexandre de Moraes.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/guerra-da-ucrania-enviados-de-trump-chegam-a-moscou-para-reuniao-com-putin/",
-          "time": "ontem, 07:57"
+          "url": "https://www.cnnbrasil.com.br/politica/presidente-do-stj-a-cnn-impeachment-de-ministros-do-stf-aprofundaria-crise/",
+          "time": "ontem, 06:05"
         },
         {
-          "title": "Taiwan critica discurso de Xi Jinping sobre reunificação da ilha",
-          "summary": "Xi disse que a reunificação é inevitável e prometeu buscá-la de forma pacífica, sem citar o uso da força. Taipé afirmou que as falas buscam reforçar a legitimidade do Partido Comunista, e os principais partidos da ilha rejeitam o modelo 'um país, dois sistemas'.",
-          "source": "CNN Brasil (Reuters)",
-          "url": "https://www.cnnbrasil.com.br/internacional/taiwan-critica-discurso-de-xi-jinping-sobre-reunificacao-da-ilha/",
-          "time": "ontem, 07:35"
-        },
-        {
-          "title": "Quem é Pedro Alliana, novo presidente do Paraguai após o impeachment de Peña",
-          "summary": "Segundo a CNN Brasil, Alliana, de 52 anos, do Partido Colorado, assumiu depois que Santiago Peña foi afastado em meio a uma crise política desencadeada pelo fechamento do Banco Ueno. Ele já foi governador de Ñeembucú, deputado e vice de Peña.",
+          "title": "PF mira ex-assessor de Mario Frias em 2ª fase de operação sobre Dark Horse",
+          "summary": "A Polícia Federal deflagrou a segunda fase da investigação sobre suposto desvio de emendas parlamentares que teriam financiado o filme Dark Horse, cinebiografia de Jair Bolsonaro. Foi cumprido um mandado de busca em Brasília contra um investigado não localizado na primeira etapa. Os recursos teriam sido indicados pelo deputado Mario Frias (PL-SP) a institutos de cultura.",
           "source": "CNN Brasil",
-          "url": "https://stories.cnnbrasil.com.br/internacional/quem-e-pedro-alliana-novo-presidente-do-paraguai-apos-impeachment-de-pena/",
-          "time": "10/11"
+          "url": "https://www.cnnbrasil.com.br/politica/pf-deflagra-nova-fase-da-operacao-sobre-desvio-de-emendas-para-dark-horse/",
+          "time": "ontem, 07:30"
+        },
+        {
+          "title": "Enviado de Trump diz que Europa participará de negociações sobre a Ucrânia",
+          "summary": "Jared Kushner afirmou que russos e ucranianos concordaram em incluir parceiros europeus na próxima rodada de negociações, após encontros dele e de Steve Witkoff com Putin em Moscou e Zelensky em Dublin. Segundo ele, nada será definido sem um acordo amplo, exceto medidas humanitárias, e uma grande troca de prisioneiros está sendo preparada. Assessor do Kremlin minimizou a participação europeia.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/enviado-de-trump-diz-que-europa-participara-de-negociacoes-sobre-a-ucrania/",
+          "time": "ontem, 08:16"
+        },
+        {
+          "title": "Gaza: ataque israelense a hospital deixa 6 mortos, diz defesa civil",
+          "summary": "Um ataque aéreo israelense atingiu o Hospital Nasser, em Khan Younis, e matou ao menos seis pessoas, incluindo um cirurgião, segundo a defesa civil de Gaza. Israel diz que o alvo era um militante de alto escalão do Hamas que operava no local, enquanto o Hamas chamou o ataque de crime de guerra. A Reuters não conseguiu verificar as alegações.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/gaza-ataque-israelense-hospital-deixa-6-mortos-diz-defesa-civil",
+          "time": "12/11"
+        },
+        {
+          "title": "O que está em jogo na Ásia às vésperas do encontro Trump–Xi",
+          "summary": "Em análise, Fernanda Magnotta descreve a agenda asiática de Trump: cúpula da ASEAN em Manila (15 a 17 de novembro) e da APEC em Shenzhen (18 e 19), onde deve encontrar Xi Jinping. Entre as pautas estão comércio, compras agrícolas chinesas, minerais críticos, Mar do Sul da China e Taiwan, que segue como foco de tensão.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/fernanda-magnotta/internacional/o-que-esta-em-jogo-na-asia-as-vesperas-do-encontro-trump-xi/",
+          "time": "ontem, 06:00"
         }
       ]
     },
@@ -289,46 +289,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Dólar dispara e fecha a R$ 5,65, maior valor em 17 meses; Ibovespa cai 0,43%",
-          "summary": "O dólar à vista subiu 1,58% e fechou a R$ 5,6507, o maior nível desde junho de 2025, com a alta dos juros dos títulos do Tesouro americano após a reavaliação do Fed. O Ibovespa recuou 0,43%, aos 171.324 pontos, e chegou a cair 1,23% na mínima do dia.",
-          "source": "Forbes Brasil",
-          "url": "https://forbes.com.br/forbes-money/2026/11/dolar-dispara-e-chega-a-r565-enquanto-ibovespa-recua/",
+          "title": "Ações de empresas chinesas de IA recuam após renúncia de CEO da Nvidia",
+          "summary": "Investidores venderam papéis chineses de inteligência artificial após a saída de Jensen Huang da presidência da Nvidia, temendo aprofundamento da divisão tecnológica entre China e EUA. O Hang Seng Tech caiu 3% no dia e quase 6,5% na semana, com a Z.AI perdendo mais de 10% em Hong Kong. A matéria da Reuters lembra o encontro entre Trump e Xi previsto para a próxima semana.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-de-empresas-chinesas-de-ia-recuam-apos-renuncia-de-ceo-da-nvidia/",
+          "time": "ontem, 10:29"
+        },
+        {
+          "title": "Confiança da indústria atinge menor nível desde maio de 2020",
+          "summary": "O índice de confiança do empresário industrial da CNI caiu de 46,2 para 40,2 pontos em novembro, o mais baixo desde maio de 2020. O setor está há 23 meses abaixo da linha de 50 pontos, e a expectativa para a economia brasileira foi a que mais recuou. A pesquisa ouviu 1.104 empresas entre 3 e 9 de novembro.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020",
           "time": "ontem"
         },
         {
-          "title": "IPCA de outubro sobe 0,14% e acumulado em 12 meses chega a 4,63%",
-          "summary": "A inflação desacelerou ante os 0,82% de setembro, mas o acumulado segue acima do teto de 4,5% da meta. Alimentação e bebidas (+1,04%) pressionaram, enquanto transportes (-0,59%) e habitação (-0,51%) recuaram.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/ipca-inflacao-de-outubro-sobe-014-mas-desacelera",
-          "time": "ontem, 09:06"
+          "title": "Petróleo fecha perto da estabilidade com cenário geopolítico e AIE",
+          "summary": "O WTI fechou a US$ 88,56 e o Brent a US$ 95,82, com ambos acumulando queda de cerca de 2,5% na semana. O mercado oscilou com a falta de avanço em um acordo no Oriente Médio e incidentes no Estreito de Ormuz, enquanto a AIE indicou que a oferta global superou a demanda pela primeira vez desde o início da guerra.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-fecha-perto-da-estabilidade-com-cenario-geopolitico-e-aie/",
+          "time": "ontem, 17:36"
         },
         {
-          "title": "Banco do Brasil reduz payout para 25% e suspende dividendos intermediários",
-          "summary": "O banco cortou o payout de 2026 de 30% para 25% do lucro ajustado e cancelou os anúncios previstos para novembro; o complemento sai em 17 de fevereiro de 2027. A decisão é descrita como prudencial e temporária, ligada à inadimplência no agro.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-reduz-payout-suspende-dividendos-intermediarios-2027/",
-          "time": "11/11"
-        },
-        {
-          "title": "Safra recorde de grãos contrasta com inadimplência recorde no agro do Banco do Brasil",
-          "summary": "A Conab projeta 367,1 milhões de toneladas em 2026/27, acima das 361,7 milhões da safra anterior. A inadimplência agro do BB subiu a 6,92% em setembro, e o setor respondeu por 45,6% dos créditos baixados para prejuízo nos nove primeiros meses do ano.",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/dinheiro-e-negocios/agro-acumula-safras-recordes-enquanto-inadimplencia-explode",
-          "time": "ontem, 16:00"
-        },
-        {
-          "title": "Vitória democrata nos EUA pode abrir espaço para renegociar o tarifaço sobre o Brasil",
-          "summary": "Exportações brasileiras fora das listas de exceção enfrentam tarifa total de 37,5%. Especialistas ouvidos pela reportagem esperam que o governo Trump contenha o ímpeto tarifário, mas lembram que as barreiras vêm de decretos executivos e não mudam automaticamente com o novo Congresso.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/exportacoes-brasil-eua-inflacao-congresso-reducao-tarifas/",
-          "time": "ontem, 05:00"
-        },
-        {
-          "title": "Wall Street fecha em queda: Dow -0,36%, S&P 500 -0,35% e Nasdaq -0,39%",
-          "summary": "Os principais índices americanos terminaram o pregão de quinta no vermelho. O Dow Jones fechou aos 52.299 pontos, o S&P 500 aos 7.593 e o Nasdaq aos 25.366.",
-          "source": "BPMoney",
-          "url": "https://bpmoney.com.br/mercado/ibovespa-cai-dolar-dispara-565-petroleo-sobe/",
+          "title": "Governo não renova subsídio de R$ 1,40 ao diesel importado",
+          "summary": "O Ministério da Fazenda informou que o benefício, criado para amenizar a alta do petróleo, não será renovado, mas pode ser reavaliado conforme os preços. O subsídio de R$ 2,12 por litro ao diesel rodoviário segue em vigor, prorrogado por 30 dias. Mais de 25% do consumo nacional de diesel depende de importação.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado",
           "time": "ontem"
+        },
+        {
+          "title": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade",
+          "summary": "As vendas do varejo subiram 0,2% em setembro frente a agosto, mas caíram 0,3% no terceiro trimestre e acumulam alta de 1,7% em 12 meses. Cinco dos oito grupos cresceram, com destaque para equipamentos de informática (7,6%), enquanto móveis e eletrodomésticos recuaram 2,6%. O IBGE classificou o resultado como estabilidade após fase de queda.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade",
+          "time": "ontem"
+        },
+        {
+          "title": "Petrobras faz acordo para deter 100% da transportadora de etanol Logum",
+          "summary": "A Petrobras pagará R$ 620 milhões pelos 70% da Logum que pertencem a Raízen, Copersucar e Uniduto, ficando com a totalidade da empresa. O negócio depende de condições contratuais, incluindo aprovação do Cade, e a Logum opera mais de mil km de dutos e terminais no corredor de etanol entre Minas e São Paulo.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-faz-acordo-para-deter-100-da-transportadora-de-etanol-logum",
+          "time": "12/11"
         }
       ]
     },
@@ -337,46 +337,46 @@
       "label": "Programação",
       "items": [
         {
+          "title": "Gateways da Check Point são invadidos via PHP2Shell para instalar wiper em hosts VMware ESXi",
+          "summary": "Atacantes exploraram duas falhas críticas de execução remota no PHP e um zero-day de escalonamento de privilégios para entrar pelo portal Mobile Access dos gateways. Em ataques a organizações israelenses, chegaram a hosts ESXi e implantaram o wiper destroy_v6, que apaga dados. A Check Point recomenda aplicar o Jumbo Hotfix de novembro e procurar sinais de comprometimento.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+          "time": "ontem"
+        },
+        {
+          "title": "Hackers comprometem 4.800 contas do GitHub para roubar credenciais de nuvem",
+          "summary": "A campanha wfx-loot usou contas invadidas para abrir pull requests em milhares de repositórios e injetar um script que rouba segredos do GitHub Actions e credenciais de AWS, Azure e Google Cloud. Segundo a Aikido Security, foram sondados 61.764 repositórios e houve roubo confirmado em ao menos 1.835. Pacotes no Packagist e no Go também foram contaminados; quem foi afetado deve rotacionar todos os segredos.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+          "time": "12/11"
+        },
+        {
+          "title": "C++26 tropeça na reta final por disputa em torno de Contracts",
+          "summary": "O rascunho do padrão falhou na votação da ISO em outubro, com 13 votos a favor, 9 contra e 12 abstenções, acima do limite de 25% de votos negativos. O recurso Contracts, criticado por Bjarne Stroustrup, foi o principal motivo. O grupo WG21 se reúne na próxima semana em Búzios para decidir se remove, separa ou revisa o recurso, e o lançamento ainda em 2026 está em risco.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
+          "time": "hoje"
+        },
+        {
+          "title": "Google abre o código do XSE para servir modelos de IA sem interpretador Python",
+          "summary": "O XLA Serving Engine empacota modelos escritos em JAX em um formato com StableHLO e pesos, executado por um runtime em C++ sem Python. O Google afirma que ele entrega de 2 a 5 vezes mais vazão que seu melhor servidor Python, com cerca de um quarto da memória. Internamente atende mais de 6 milhões de consultas por segundo e é voltado a modelos menores, não a LLMs grandes.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+          "time": "11/11"
+        },
+        {
+          "title": "Trezor confirma implantes que roubam criptomoedas em três carteiras e lança correção",
+          "summary": "Três carteiras Safe 5 vendidas pelo revendedor CryptoBilis continham uma placa extra entre a placa principal e o display, que capturava frases de recuperação e as enviava por rede celular. A Trezor lançou o firmware 2.13.1, que bloqueia a captura, mas não protege frases já roubadas. A empresa oferece troca de aparelhos e cortou cerca de 80% da rede de revendedores; não há relato de fundos perdidos.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+          "time": "ontem"
+        },
+        {
           "title": "Falha crítica no mod_http2 do Apache permite execução remota de código sem autenticação",
           "summary": "A CVE-2026-119618 afeta as versões 2.4.55 a 2.4.70 do Apache HTTP Server com HTTP/2 habilitado e foi corrigida na 2.4.71. A Red Hat atribui CVSS 9,8; segundo a matéria, não há exploração ativa confirmada, embora exista pesquisa pública sobre um exploit confiável.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Ataques com clientes falsos do ScreenConnect atingem ao menos 288 endpoints em 48 organizações",
-          "summary": "A campanha abusa de painéis ScreenConnect na nuvem para instalar clientes falsos e usa o malware SCKit, que se espalha como um worm roubando cookies e tokens de técnicos. A ConnectWise desativou cinco extensões de terceiros e diz não haver falha no produto.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-          "time": "ontem"
-        },
-        {
-          "title": "Mais de 35 mil apps criados com o Grok estavam abertos na internet, alguns vazando senhas",
-          "summary": "A Claroc achou 35.578 de 37.571 apps acessíveis sem login, e cerca de um em dez tinha dados internos ou pessoais. A opção de compartilhar com quem tiver o link vinha marcada por padrão; a SpaceXSI removeu só os 24 apps internos.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-          "time": "11/11"
-        },
-        {
-          "title": "Zoom corrige falha crítica de escalonamento de privilégios no Workplace para Windows",
-          "summary": "A CVE-2026-108186 (CVSS 9,6) permite que um usuário não autenticado escale privilégios pela rede nas versões 7.1.0 a anteriores à 7.1.8. Uma segunda falha (CVSS 8,1) afeta versões anteriores à 7.1.5; a empresa não cita exploração ativa.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-          "time": "11/11"
-        },
-        {
-          "title": "Plataforma de pentest com IA AntiFox é ligada a ataques que acessaram segredos de produção na AWS",
-          "summary": "A Arctic Wolf relatou intrusões em que sistemas na Alibaba Cloud usaram a ferramenta, disponível no GitHub, contra serviços web e ambientes AWS. Os invasores extraíram credenciais via web shell em IIS e chegaram a ler um segredo no Secrets Manager.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-          "time": "11/11"
-        },
-        {
-          "title": "eMudhra revoga mais 8 autoridades certificadoras após falha em script de cerimônia de chaves",
-          "summary": "Um script em Python expôs chaves privadas RSA na memória durante uma transferência entre HSMs em 2025; a empresa não consegue comprovar que o material foi tratado conforme sua política. A revisão independente da KPMG deve terminar até 4 de dezembro, sem registro de uso indevido.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-          "time": "11/11"
+          "time": "12/11"
         }
       ]
     },
@@ -385,46 +385,46 @@
       "label": "IA",
       "items": [
         {
-          "title": "OpenAI lança produtos de segurança Daybreak enquanto ONGs processam as big techs de IA",
-          "summary": "O Daybreak Red Team faz testes de penetração em apps web, e o Daybreak Defense Factory automatiza a identificação e correção de vulnerabilidades com agentes baseados no GPT-6 Cyber. Em paralelo, quatro ONGs processaram OpenAI, Anthropic, Google, Meta e a divisão de IA da SpaceX em São Francisco, citando ciberataques impulsionados por IA.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+          "title": "Saída de Jensen Huang da Nvidia coloca em dúvida o apoio da empresa à IA de código aberto",
+          "summary": "Huang renunciou na quinta (12) após admitir um caso com uma mulher acusada de ser espiã chinesa; a diretora financeira Colette Kress assume interinamente. Ele era o principal defensor de modelos abertos nos EUA, e a compra de cerca de US$ 13 bilhões da Hugging Face ainda não foi concluída. Uma fonte diz que os modelos Nemotron não devem ser afetados, mas analistas temem um sucessor mais cauteloso.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
           "time": "ontem"
         },
         {
-          "title": "Anthropic inicia roadshow de IPO na Nasdaq com faixa de US$ 70 a US$ 78 por ação",
-          "summary": "A oferta preliminar prevê 825 milhões de ações (cerca de 801,4 milhões da empresa e 23,6 milhões de investidores atuais), o que daria até US$ 64,4 bilhões brutos no topo da faixa, sob o ticker ANT. O registro na SEC ainda não entrou em vigor, e os papéis não podem ser vendidos até lá.",
-          "source": "The Neuron",
-          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
+          "title": "Google usa o Gemini 4 Hydrogen para melhorar respostas da Busca a perguntas complexas",
+          "summary": "O novo modelo rápido, voltado a fluxos de agentes, passa a alimentar a Busca e o Modo IA, com melhor entendimento de intenção e mais respostas visuais, como tabelas comparativas. O Google diz que ele é 2,5 vezes mais rápido que o Gemini 3.8 Flash. Também chega ao AI Studio, à API Gemini e ao app Gemini, e a atualização da Busca é liberada globalmente.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
           "time": "ontem"
         },
         {
-          "title": "Google lança a Gemini Decisions API para decisões rápidas em até 1.000 perguntas por chamada",
-          "summary": "A API usa o modelo Gemini Decision 1 para avaliar perguntas de sim/não, escolha ou pontuação sobre texto, imagem, áudio, vídeo e PDF, devolvendo probabilidades e níveis de confiança com latência de 150 a 250 ms. O preço é de US$ 0,10 por milhão de tokens de entrada, sem cobrança de saída, com nível gratuito no AI Studio.",
-          "source": "Google",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-          "time": "11/11"
-        },
-        {
-          "title": "DeepMind apresenta o AlphaGenome 2 para prever o efeito de variantes genéticas por tipo de célula",
-          "summary": "Treinado com mais de 100 milhões de perfis de células individuais de 68 tecidos, o modelo identificou quase o dobro de variantes causais da versão anterior no conjunto TenK10K. Está disponível para pesquisa não comercial via API e, para uso comercial, em prévia privada.",
-          "source": "Google DeepMind",
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-          "time": "11/11"
-        },
-        {
-          "title": "United Airlines passa a bloquear agentes de IA de terceiros não autorizados",
-          "summary": "A companhia teme compras não intencionais, exposição de dados e o contorno de verificações que exigem confirmação humana, como a declaração de bagagem no check-in. Ela recomenda usar seu próprio app e ainda não explicou como implementará o bloqueio.",
+          "title": "Ex-engenheiro da OpenAI diz que laboratórios chineses treinam modelos em GPUs Blackwell apesar do controle de exportação",
+          "summary": "Will DePue afirma ter identificado, pela inicialização dos pesos, indícios de uso de Blackwell em seis modelos chineses, incluindo DeepSeek-V4-Pro, Kimi K3 e MiniMax-M3. O relatório publica as sementes para reprodução, mas o uso do chip não prova localização, pois o acesso pode ter sido via nuvens americanas. O tema pressiona projetos de lei de restrição a chips no Congresso dos EUA.",
           "source": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373",
-          "time": "ontem"
-        },
-        {
-          "title": "Nous Research retreina o Qwen3.8 da Alibaba para reforçar valores ocidentais",
-          "summary": "A versão Arete, baseada no Qwen3.8-27B, reduziu respostas com propaganda de 22% para 1%, segundo a própria empresa, e elevou a nota de factualidade de 2,32 para 2,98 (de 5). Em teste do repórter, o modelo ainda evitou ou suavizou perguntas sobre Tiananmen em 1989.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
           "time": "hoje"
+        },
+        {
+          "title": "Democratas abrem investigação sobre vendas de chips da Nvidia à China",
+          "summary": "Richard Neal e Ron Wyden enviaram carta ao secretário de Comércio, Howard Lutnick, pedindo a preservação de registros sobre as licenças de exportação. Eles questionam por que a Megaspeed continuou comprando chips após alertas de inteligência e se doações da Nvidia influenciaram o acordo. Como minoria, os democratas não podem obrigar respostas; Huang concordou em depor após renunciar.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "time": "ontem"
+        },
+        {
+          "title": "Muse, da Meta, agora faz ligações para empresas nos EUA, mas só para assinantes",
+          "summary": "O agente de IA da Meta passa a ligar para empresas americanas em nome do usuário, recurso testado desde setembro. Está disponível a assinantes pagos, com planos a partir de US$ 20 por mês. Segundo a Meta, o Muse tem mais de 10 milhões de usuários; o texto lembra que atendentes podem desligar ao perceber que é uma IA.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "time": "ontem"
+        },
+        {
+          "title": "Nebius planeja de US$ 40 bi a US$ 45 bi em investimentos para 2027 e ações caem 17%",
+          "summary": "A empresa de nuvem para IA vai se apoiar em pré-pagamentos de clientes e financiamentos lastreados em contratos. Atrasos em locais de terceiros, incluindo um ligado ao contrato de até US$ 19,4 bilhões com a Microsoft, levaram ao corte da previsão de receita de 2026 para US$ 3 bilhões. A Microsoft estaria mais exigente com neoclouds que perdem prazos.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "time": "ontem"
         }
       ]
     },
@@ -433,17 +433,24 @@
       "label": "Taboão da Serra",
       "items": [
         {
-          "title": "Escola do Legislativo da Câmara de Taboão da Serra recebe o Selo APEL",
-          "summary": "A distinção foi entregue no 18º Encontro da Associação Paulista das Escolas do Legislativo e de Contas, em Barretos, nos dias 5 e 6 de novembro, e recebida pelo diretor Adalberto Graciano.",
+          "title": "Nova base da GCM e da Romucam será inaugurada no Parque Pinheiros, em Taboão da Serra",
+          "summary": "A Prefeitura vai abrir na segunda-feira (16), às 10h, uma base da Guarda Civil Municipal com equipes de motos da Romucam, na esquina das ruas José Amaral Arruda Castanho e Pedro Parejo. O local foi escolhido por causa do alto número de ocorrências no bairro, e o secretário de Segurança Pública diz que a posição permite chegar mais rápido a outras regiões. O prefeito Engenheiro Daniel relaciona a inauguração à recente aprovação do novo Estatuto da Guarda.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/escola-do-legislativo-da-camara-municipal-de-taboao-da-serra-recebe-selo-apel/",
+          "url": "https://otaboanense.com.br/nova-da-base-da-gcm-romucam-sera-inaugurada-no-parque-pinheiros-em-taboao-da-serra/",
           "time": "ontem"
         },
         {
-          "title": "Campanha em Taboão arrecada cabelos para perucas de mulheres em tratamento oncológico",
-          "summary": "O vereador Wanderley Bressan e o Studio Lene realizam a ação no domingo (15), a partir das 10h, na Praça Nicola Vivilechio. São aceitas doações de cabelos com pelo menos 15 cm, destinados a perucas para pacientes do Hospital da Mulher de São Paulo; quem doa recebe voucher para finalizar o corte.",
+          "title": "Câmara de Taboão capacita equipes de gabinetes sobre emendas impositivas ao orçamento",
+          "summary": "Na quinta-feira (12), a Câmara reuniu assessores dos gabinetes para explicar, passo a passo, como indicar emendas impositivas, atendendo a recomendações do Ministério Público. O prazo para os vereadores destinarem as emendas termina em 26 de novembro, e o orçamento de 2027 deve ser votado em dezembro. Pela Lei Orgânica, cada emenda individual pode chegar a 2% da receita corrente líquida prevista, com metade destinada à saúde.",
           "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/vereador-bressan-e-studio-lene-promovem-campanha-para-arrecadar-cabelos-para-mulheres-com-cancer-em-taboao-da-serra/",
+          "url": "https://otaboanense.com.br/camara-de-taboao-da-serra-capacita-equipes-dos-gabinetes-sobre-emendas-impositivas-ao-orcamento-municipal/",
+          "time": "ontem"
+        },
+        {
+          "title": "Shopping Taboão inaugura loja da L'Occitane au Brésil e lança campanha de Natal",
+          "summary": "A loja abriu em espaço maior na Praça de Eventos Central do shopping. De 13 a 17 de novembro, clientes do programa de benefícios podem trocar notas fiscais por um mini kit, conforme a faixa de cadastro, e há sorteio de um Jeep Avenger híbrido até 31 de dezembro. No feriado de 15/11 as lojas funcionam das 14h às 20h.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/shopping-taboao-inaugura-loja-da-loccitane-au-bresil-com-promocao-de-boas-vindas/",
           "time": "ontem"
         },
         {
@@ -466,13 +473,6 @@
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/taboao-da-serra-abre-edital-com-bolsas-para-mestres-da-cultura-popular-inscricoes-vao-ate-dia-20/",
           "time": "09/11"
-        },
-        {
-          "title": "Shopping Taboão abre loja para afroempreendedores no mês da Consciência Negra",
-          "summary": "É a segunda edição da Taboão Afro Cidadania, da Secretaria de Direitos Humanos e Cidadania com o shopping. As inscrições presenciais vão de 9 a 12 de novembro, das 8h às 17h, e as vagas limitadas serão definidas por sorteio.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/shopping-taboao-abre-espaco-para-afroempreendedores-inscricoes-comecam-nesta-segunda/",
-          "time": "09/11"
         }
       ]
     },
@@ -481,46 +481,46 @@
       "label": "Tênis",
       "items": [
         {
-          "title": "João Fonseca cai cinco posições e é o 46º no ranking da ATP",
-          "summary": "Após o Masters 1000 de Paris, o brasileiro manteve 1.200 pontos e está a 320 do 32º colocado, Ignacio Buse, o que o afasta da condição de cabeça de chave nos Grand Slams.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/joao-fonseca-despenca-novo-ranking-atp-fica-longe-objetivo.html",
-          "time": "09/11"
+          "title": "Zverev e Alcaraz conhecem os grupos do ATP Finals; Sinner está fora por lesão",
+          "summary": "O sorteio em Turim colocou Zverev, Shelton, Fils e Jodar no grupo McEnroe, e Alcaraz, Medvedev, Cobolli e Tiafoe no grupo Lendl. O torneio vai de 15 a 22 de novembro, e Cobolli é a aposta da casa com a ausência de Sinner. Alcaraz busca o primeiro título do Finals, após ganhar Paris, Viena e Tóquio.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-draw",
+          "time": "12/11"
         },
         {
-          "title": "Alcaraz bate Ben Shelton e conquista o Masters 1000 de Paris",
-          "summary": "O espanhol venceu por 2 sets a 0 (7/6 e 7/5), com o primeiro set decidido no tie-break. Foi o quinto título da temporada, somando-se ao Australian Open e aos torneios de Doha, Tóquio e Viena.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/carlos-alcaraz-bate-ben-shelton-e-conquista-o-masters-1000-de-paris.html",
-          "time": "08/11"
+          "title": "Andreeva atropela Sabalenka e garante vaga nas semifinais do WTA Finals",
+          "summary": "Mirra Andreeva venceu Aryna Sabalenka por 6/4 e 6/0, reagindo depois de estar perdendo por 4/1 no primeiro set, e venceu os últimos 11 games. Com a vitória, ela assegurou o primeiro lugar do Grupo 2 e a primeira semifinal da carreira no torneio. Sabalenka ainda dependia do jogo contra Svitolina para se classificar.",
+          "source": "WTA",
+          "url": "https://www.wtatennis.com/news/4607998/andreeva-wins-45-of-final-55-points-to-rout-sabalenka-reach-first-fage-wta-finals-semifinal",
+          "time": "12/11"
         },
         {
-          "title": "Thiago Wild vence argentino e volta ao top 100 no Sauípe Open",
-          "summary": "O paranaense derrotou Facundo Diaz Acosta por 2 sets a 0 e saltou do 110º para o 98º lugar do ranking. Ele disputaria a final contra Camilo Ugo Carabelli.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/wild-supera-argentino-decide-no-sauipe-e-volta-ao-top-100.html",
-          "time": "07/11"
+          "title": "Dabrowski e Stefani vencem de novo e se aproximam das semifinais de duplas no WTA Finals",
+          "summary": "A dupla cabeça de chave 1 bateu Guo Hanyu e Kristina Mladenovic por 7/6(5), 4/6 e 10-5 no match tiebreak, em pouco mais de duas horas. O resultado vingou a derrota na final de Wimbledon para as mesmas adversárias e deixou Dabrowski e Stefani com 2 a 0 no Grupo 1. As semifinais do grupo seriam definidas na sexta-feira.",
+          "source": "WTA",
+          "url": "https://www.wtatennis.com/news/4608037/dabrowski-stefani-move-closer-to-semifinals-as-group-1-race-heats-up-at-fage-wta-finals",
+          "time": "12/11"
         },
         {
-          "title": "Sabalenka vira o jogo e vence Muchova na estreia do WTA Finals",
-          "summary": "A número 2 do mundo superou a tcheca Karolina Muchova por 2 sets a 0, parciais de 7/6(2) e 7/5, em 1h54. O resultado abre a campanha de Sabalenka no torneio de encerramento da temporada em Riad.",
+          "title": "João Fonseca e Roger Federer farão amistoso gratuito no Pacaembu em 5 de dezembro",
+          "summary": "O jogo faz parte do projeto On Clubhouse Nights no Brasil e terá regras alternativas ainda não divulgadas, além de show musical. A entrada é gratuita e limitada, com ingressos disponíveis a partir de 23 de novembro na plataforma de eventos da On. Fonseca, atualmente 46º do ranking, é patrocinado pela marca desde 2024.",
           "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/sabalenka-se-impoe-vira-set-e-vence-na-estreia-do-wta-finals.html",
-          "time": "09/11"
+          "url": "https://www.lance.com.br/tenis/joao-fonseca-e-roger-federer-se-enfrentarao-em-amistoso-gratuito-em-sao-paulo.html",
+          "time": "11/11"
         },
         {
-          "title": "Sinner mira volta no Australian Open e fala em cautela com o joelho",
-          "summary": "Afastado desde 12 de julho por lesão no joelho direito, o italiano diz que quer retornar no Australian Open, no início de 2027, mas só de forma gradual, porque apressar o retorno poderia agravar a lesão.",
-          "source": "Lance!",
-          "url": "https://www.lance.com.br/mais-esportes/sinner-objetivo-retorno-australian-open.html",
-          "time": "10/11"
+          "title": "Gauff vence Kostyuk, mas é eliminada nas semifinais do WTA Finals pelo saldo de sets",
+          "summary": "Coco Gauff bateu Marta Kostyuk por 6/4 e 7/5 e terminou a fase de grupos com duas vitórias, mas ficou fora por ter 4-3 em sets, contra 5-3 de Pegula e 5-2 de Noskova. Pegula venceu Noskova mais tarde e levou a segunda vaga. Gauff precisou de atendimento médico nas costas durante o jogo, mas disse que não sentia dor.",
+          "source": "WTA",
+          "url": "https://www.wtatennis.com/news/4608404/gauff-kostyuk",
+          "time": "12/11"
         },
         {
-          "title": "Meligeni vê no ATP Finals uma escola para o jovem Guto Miguel",
-          "summary": "O ex-tenista comentou que o goiano de 17 anos, sparring em Turim, ganha ao treinar com a elite e ver seu nível de dedicação, e aconselhou que ele recupere mais rápido a compostura após momentos de frustração. Guto tinha treino de duas horas com Medvedev no dia.",
+          "title": "Guto Miguel treina com Alcaraz antes do ATP Finals e chama a experiência de 'irreal'",
+          "summary": "O brasileiro de 17 anos, líder do ranking mundial juvenil, integra o grupo de sparrings do torneio de Turim e já treinou também com Tiafoe e Medvedev. Ele tinha treino marcado com Arthur Fils em 12 de novembro. Vice-campeão juvenil do US Open, Guto diz que prefere focar no circuito profissional.",
           "source": "Lance!",
-          "url": "https://www.lance.com.br/tenis/meligeni-aponta-o-que-guto-miguel-deve-aprender-durante-o.html",
-          "time": "10/11"
+          "url": "https://www.lance.com.br/tenis/guto-miguel-treina-com-alcaraz-antes-do-atp-finals-irreal.html",
+          "time": "11/11"
         }
       ]
     },
@@ -529,46 +529,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "UFRJ alerta para alta da positividade de testes de mpox no Rio de Janeiro",
-          "summary": "Segundo nota técnica, a proporção de exames positivos subiu de 10,9% em 2025 para 30,4% em 2026, e foi de 76,4% só em outubro; a SES-RJ registra 181 positivos em 596 exames. Os pesquisadores ressalvam que critérios de testagem podem ter mudado e que maior positividade não significa necessariamente mais casos.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/saude/ufrj-alerta-para-aumento-de-casos-positivos-de-mpox-no-rj",
-          "time": "ontem, 23:43"
+          "title": "Anvisa manda recolher lotes de insumos para canetas emagrecedoras",
+          "summary": "A agência determinou o recolhimento de um lote de insumo de tirzepatida e de todos os lotes de retatrutida da distribuidora Condor, destinados a medicamentos manipulados, e suspendeu venda, distribuição e uso. O local de armazenamento foi considerado inadequado, e a retatrutida ainda é experimental e sem eficácia avaliada. A tirzepatida é o princípio ativo do Mounjaro.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-lotes-de-insumos-para-canetas-emagrecedoras",
+          "time": "12/11"
         },
         {
-          "title": "Variante XFG e descendentes respondem por cerca de 90% dos sequenciamentos de Covid no Brasil em 2026",
-          "summary": "O informe do Ministério da Saúde analisou 2.199 sequenciamentos. Segundo o infectologista Igor Marinho, a variante pode ser um pouco mais transmissível, mas não há evidência de quadros mais graves, e seu predomínio não explica sozinho a alta recente de casos.",
-          "source": "Jovem Pan",
-          "url": "https://jovempan.com.br/saude/o-que-se-sabe-sobre-a-nova-variante-do-coronavirus-que-predomina-no-brasil/",
-          "time": "11/11"
+          "title": "Casos graves de Covid-19 dão sinal de crescimento no Brasil, aponta Fiocruz",
+          "summary": "O boletim InfoGripe divulgado em 12 de novembro indica sinal de crescimento de casos graves de Covid-19, com dados de 1º a 7 de novembro, mas os níveis seguem baixos no país. Há alta de internações no DF, MG, SP, RJ, PR e BA. A pesquisadora Tatiana Portella reforça a importância de manter a vacinação em dia, com reforço anual para grupos prioritários.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/casos-graves-de-covid-19-dao-sinal-de-crescimento-no-brasil-aponta-fiocruz/",
+          "time": "12/11"
         },
         {
-          "title": "Estudo apoiado pelo SUS: controle intensivo da pressão após AVC reduz eventos cardiovasculares em 21%",
-          "summary": "O Optimal-Stroke acompanhou 4.368 pessoas por cerca de 4 anos em 30 centros, com meta de pressão sistólica abaixo de 120 mmHg contra 140 mmHg no tratamento padrão. Os resultados saíram no New England Journal of Medicine; no braço com diabetes tipo 2, não houve redução significativa.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/pesquisa-apoiada-pelo-ministerio-da-saude-aponta-reducao-de-eventos-cardiovasculares-apos-avc-isquemico-com-controle-intensivo-da-pressao-arterial",
-          "time": "11/11"
+          "title": "Casos de mpox passam de mil em 2026 e se concentram em seis estados",
+          "summary": "O painel do Ministério da Saúde contabiliza 1.023 casos confirmados até 12 de novembro e uma morte no ano, com Rio de Janeiro (390) e São Paulo (388) à frente. Outubro e novembro somam mais da metade dos registros de 2026. O ministério comprou 25 mil doses de vacina, indicada para grupos de risco.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados",
+          "time": "13/11"
         },
         {
-          "title": "Agentes comunitários passam a aplicar o IVCF-20 em idosos pelo app e-SUS Território",
-          "summary": "O índice de vulnerabilidade clínico-funcional poderá ser usado nas visitas domiciliares, para identificar quem precisa de mais atenção e apoiar o planejamento dos municípios. O lançamento incluiu um guia prático de aplicação e interpretação.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ferramenta-digital-para-avaliar-vulnerabilidade-clinico-funcional-de-pessoas-idosas-e-incorporada-ao-trabalho-de-agentes-comunitarios-de-saude",
-          "time": "11/11"
+          "title": "Anvisa manda recolher anestésico com 'partícula estranha' em amostra",
+          "summary": "A medida atinge o lote AR-001/25 da bupivacaína com glicose da Hipolabor, que não pode ser vendido, distribuído nem usado. Laudo do Instituto Adolfo Lutz apontou resultado insatisfatório por causa de uma partícula estranha. A resolução, publicada no Diário Oficial de 13 de novembro, também proíbe a propaganda de produtos de cogumelo e cannabis da Medkaya.",
+          "source": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-anestesico-por-amostra-com-particula-estranha",
+          "time": "13/11"
         },
         {
-          "title": "Mostra Nacional Brasil Sorridente reúne práticas de saúde bucal do SUS no Rio",
-          "summary": "O encontro de dois dias inicia um ciclo que passará pelas cinco regiões até dezembro. Minas Gerais apresentou sua estratégia contra o câncer de boca, com alta de 55% nas biópsias e queda de 15% nos diagnósticos em estágio avançado entre 2024 e 2025.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/1a-mostra-nacional-brasil-sorridente-reune-experiencias-inovadoras-em-saude-bucal-no-rio-de-janeiro",
-          "time": "11/11"
+          "title": "Anvisa suspende lote de muçarela da marca Italy por Listeria",
+          "summary": "A agência suspendeu venda, distribuição e consumo do lote 180926 do queijo fatiado, em que análise detectou Listeria monocytogenes. A fabricante, Agroindústria Santo Anjo, informou recolhimento voluntário e investigação da causa. Consumidores devem conferir o lote na embalagem e não consumir o produto se corresponder.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/anvisa-suspende-venda-de-mucarela-da-marca-italy-apos-detectar-bacteria/",
+          "time": "12/11"
         },
         {
-          "title": "Instituto Evandro Chagas celebra 90 anos de pesquisa e vigilância em saúde",
-          "summary": "Fundado em 1936 e vinculado à Secretaria de Vigilância em Saúde e Ambiente, o instituto tem foco na Amazônia. O ministro Alexandre Padilha disse que a instituição 'orgulha a Amazônia e todo o Brasil'.",
-          "source": "Ministério da Saúde",
-          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/instituto-evandro-chagas-celebra-90-anos-de-contribuicao-a-ciencia-e-a-saude-publica",
-          "time": "11/11"
+          "title": "Chiclete experimental reduziu HPV e bactérias ligadas a câncer em testes de laboratório",
+          "summary": "Pesquisadores testaram uma goma com proteína do feijão-de-lima, que aglutinou até 93% das partículas de HPV em saliva de pacientes com câncer de cabeça e pescoço. Uma versão com peptídeo antimicrobiano reduziu em mais de 99% duas bactérias associadas à doença. O estudo usou amostras fora do corpo, e os autores dizem que testes clínicos são necessários; a vacina segue como principal prevenção.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/chiclete-consegue-reduzir-presenca-do-hpv-e-bacterias-ligadas-ao-cancer/",
+          "time": "12/11"
         }
       ]
     }
