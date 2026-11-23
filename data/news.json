@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-22T03:24:00-03:00",
+  "updatedAt": "2026-11-23T03:21:53-03:00",
   "markets": {
-    "asOf": "B3, IFIX e câmbio: fechamento de 19/11 (20/11 foi feriado) · Nova York: fechamento de 20/11 · cripto: cotação de 22/11 (CoinMarketCap)",
+    "asOf": "B3, IFIX e câmbio: fechamento de 19/11 (20/11 foi feriado) · Nova York: fechamento de 20/11 · cripto às 00:00 UTC de 23/11 (BTC e ETH, KuCoin) e SOL pela CoinMarketCap",
     "items": [
       {
         "id": "ibov",
@@ -54,31 +54,31 @@
       {
         "id": "btc",
         "label": "BTC",
-        "value": "US$ 60.118",
-        "change": 1.97
+        "value": "US$ 61.273",
+        "change": 1.75
       },
       {
         "id": "eth",
         "label": "ETH",
-        "value": "US$ 1.680",
-        "change": 3.56
+        "value": "US$ 1.724",
+        "change": 2.28
       },
       {
         "id": "sol",
         "label": "SOL",
-        "value": "US$ 70,29",
-        "change": 2.15
+        "value": "US$ 70,56",
+        "change": -0.03
       }
     ]
   },
   "weather": {
-    "date": "2026-11-22",
-    "condition": "sol durante o dia, com pancadas de chuva de manhã e à noite, mais fortes entre 18h e 21h",
-    "min": 20,
+    "date": "2026-11-23",
+    "condition": "sol com muitas nuvens, com pancadas de chuva à tarde e à noite",
+    "min": 21,
     "max": 31,
-    "rainChance": 89,
-    "rainMm": 6.0,
-    "uv": 6,
+    "rainChance": 96,
+    "rainMm": 1.9,
+    "uv": 3,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo"
   },
@@ -88,81 +88,88 @@
       "label": "Notícias",
       "items": [
         {
-          "title": "Bolsonaro segue internado em Brasília com comprometimento do intestino delgado",
-          "summary": "Jair Bolsonaro foi internado na tarde de sexta (20) no Hospital DF Star após fortes dores abdominais. Segundo o cardiologista Brasil Caiado, a tomografia mostrou comprometimento do intestino delgado e sinais de inflamação, e cirurgia não foi descartada; as primeiras 24 horas são tidas como decisivas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-espera-decisao-medica-para-tratamento-de-obstrucao-intestinal/",
-          "time": "ontem, 03:30"
-        },
-        {
-          "title": "Supercélula devasta Tupanciretã (RS) e novos temporais ameaçam o Sul",
-          "summary": "A tempestade deixou três mortos, 60 feridos e cerca de 5 mil casas destelhadas em Tupanciretã. Segundo a Climatempo, um ciclone extratropical e uma nova frente fria devem trazer mais temporais ao Sul, com maior intensidade neste domingo (22), e há alertas no Paraná e em Santa Catarina.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/novos-temporais-devem-atingir-sul-do-pais-apos-supercelula-arrasar-cidade-do-rs/",
-          "time": "ontem"
-        },
-        {
-          "title": "Terremoto de magnitude 7,3 atinge o sul de Qinghai, na China",
-          "summary": "O tremor ocorreu neste sábado (21) a 10 km de profundidade, segundo o serviço geológico dos EUA (USGS). A matéria original ainda estava em atualização e não trazia informações sobre danos ou vítimas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-7-3-atinge-a-china-diz-agencia/",
-          "time": "ontem, 11:35"
-        },
-        {
-          "title": "Escala 5x2 passa a valer em 16 de dezembro, com decreto assinado por Lula",
-          "summary": "Segundo o Metrópoles, a mudança substitui o modelo 6x1 e garante dois dias de folga remunerados por semana. A jornada cai de 44 para 42 horas e, em dezembro de 2027, para 40 horas, sem corte de salário. O ministro Flávio Dino rejeitou o adiamento em decisão liminar, e o plenário do STF ainda deve julgar o caso.",
+          "title": "Sem previsão de alta, Bolsonaro está na UTI e é alimentado por sonda",
+          "summary": "Jair Bolsonaro segue internado em terapia intensiva, sem data para deixar o hospital, e recebe alimentação por sonda. A CNN Brasil informa que ele está há três dias na UTI, com quadro de abdômen agudo obstrutivo segundo boletim médico.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/escala-de-trabalho-5x2-comeca-a-valer-dia-16-de-dezembro-tire-suas-duvidas",
-          "time": "ontem"
+          "url": "https://www.metropoles.com/brasil/sem-previsao-de-alta-bolsonaro-esta-na-uti-e-e-alimentado-por-sonda",
+          "time": "recente"
         },
         {
-          "title": "GTA 6 vende 32,5 milhões de cópias no primeiro dia e arrecada US$ 3,79 bilhões",
-          "summary": "Segundo a Take-Two, dona da Rockstar, o jogo bateu o recorde de maior lançamento da história do entretenimento em 19 de novembro. O GTA 5 levou três dias para chegar a US$ 1 bilhão. O título também recebeu nota 99 no Metacritic.",
+          "title": "Temporais no RS afetam mais de 25 mil pessoas em 46 cidades; cinco morreram",
+          "summary": "Tempestades no Rio Grande do Sul atingiram mais de 25 mil pessoas em dezenas de municípios e deixaram cinco mortos. Em Tupanciretã, uma ventania com rajadas de até 114 km/h afetou cerca de 90% da cidade, segundo o SBT News.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/temporais-no-rs-ja-afetam-mais-de-25-mil-pessoas-em-46-cidades-cinco-morreram/",
+          "time": "recente"
+        },
+        {
+          "title": "Flamengo empata com o Palmeiras e é campeão brasileiro de forma antecipada",
+          "summary": "O empate com o Palmeiras garantiu ao Flamengo o título do Brasileirão antes do fim da competição.",
           "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/cultura/gta-6-vende-32-5-mi-na-estreia-e-arrecada-us-3-79-bi",
+          "url": "https://sbtnews.sbt.com.br/noticia/esportes/flamengo-e-campeao-brasileiro-apos-empate-com-palmeiras",
           "time": "recente"
         },
         {
-          "title": "Houthis atacam a torre mais alta de Riad e ameaçam portos sauditas",
-          "summary": "Segundo a InfoMoney, o ataque de 19 de novembro atingiu a sede do fundo soberano PIF e causou danos em vários andares, sem feridos. No dia seguinte, o grupo ameaçou portos e instalações financeiras da Arábia Saudita e avisou companhias aéreas sobre possíveis operações no espaço aéreo do país.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/houthis-atacam-predio-mais-alto-da-arabia-saudita-nao-houve-feridos/",
-          "time": "recente"
-        },
-        {
-          "title": "Sociedade civil teme que a COP31 seja a pior da história",
-          "summary": "Organizações como a Climate Action Network avaliam que, em Antalya (Turquia), as negociações sobre financiamento, adaptação e transição justa seguem sem acordo. Cláudio Ângelo, do Observatório do Clima, falou em \"fracasso total\", e o rascunho da decisão final não cita combustíveis fósseis, segundo Fernanda Bortolotto, da TNC Brasil.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/sociedade-civil-diz-que-cop-31-podera-ser-a-pior-da-historia",
-          "time": "recente"
-        },
-        {
-          "title": "Banco de dados criminal do FBI é alvo de suposto ataque cibernético",
-          "summary": "O FBI investiga uma possível invasão ao principal banco de dados criminais do país, usado por polícias federais, estaduais e locais. Seria a segunda violação desse tipo em poucos meses; a agência não respondeu de imediato aos pedidos de comentário.",
+          "title": "Atlético-MG 0 x 2 Boca: Boca vence a final da Sul-Americana",
+          "summary": "O Boca Juniors derrotou o Atlético-MG por 2 a 0 na final da Copa Sul-Americana, e o SBT News registra o terceiro título do clube na competição. A CNN Brasil mostra os melhores momentos da decisão.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/banco-de-dados-do-fbi-e-alvo-de-ataque-cibernetico/",
-          "time": "20/11, 23:21"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-0-x-2-boca-veja-os-melhores-momentos-da-final-da-sul-americana/",
+          "time": "21/11, 22:02"
         },
         {
-          "title": "Verstappen assume a pole em Las Vegas após punição a Antonelli",
-          "summary": "Kimi Antonelli perdeu posições por troca de motor, e Max Verstappen largará na frente, com George Russell em 2º e Lando Norris em 3º. Gabriel Bortoleto sai em 13º e Rafael Câmara em 15º. A corrida é na madrugada deste domingo (22), à 1h no horário de Brasília.",
+          "title": "F1: Verstappen vence o GP de Las Vegas e chega à 75ª vitória da carreira",
+          "summary": "Max Verstappen venceu a corrida em Las Vegas e alcançou a 75ª vitória na Fórmula 1.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-verstappen-vence-gp-de-las-vegas-e-garante-75a-vitoria-da-carreira/",
+          "time": "ontem, 02:40"
+        },
+        {
+          "title": "COP31 passa do prazo e termina sem acordo sobre combustíveis fósseis",
+          "summary": "A conferência do clima encerrou depois do prazo sem consenso sobre a eliminação gradual dos combustíveis fósseis. A CNN Brasil aponta que a União Europeia e outros países rejeitaram o texto negociado.",
           "source": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/f1-verstappen-assume-pole-no-gp-de-las-vegas-apos-punicao-a-antonelli",
-          "time": "ontem"
-        },
-        {
-          "title": "Desabamento no Brooklyn que matou 8: processos dizem que alertas foram ignorados",
-          "summary": "Em 11 de novembro, um prédio de três andares caiu sobre um canteiro de obras, com oito mortos, entre eles duas crianças, e 18 feridos. Ao menos quatro ações judiciais afirmam que alertas sobre rachaduras foram ignorados; a causa segue sob investigação.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/ny-alertas-foram-ignorados-antes-de-desabamento-que-matou-8",
+          "url": "https://www.metropoles.com/mundo/cop31-passa-do-prazo-e-termina-sem-acordo-sobre-combustiveis-fosseis",
           "time": "recente"
         },
         {
-          "title": "Inmet prevê tempo instável em quase todo o país neste sábado",
-          "summary": "Uma massa de ar quente e úmido favorece nuvens de chuva e trovoadas, com tempestades mais amplas no Sudeste, Sul e Centro-Oeste, sobretudo no oeste paulista. O calor também chama atenção: Teresina pode chegar a 39 °C e Boa Vista a 37 °C.",
+          "title": "Prisão de El Chapo Isidro causa onda de violência no México",
+          "summary": "A detenção de um dos 10 fugitivos mais procurados pelo FBI, apelidado El Chapo Isidro, desencadeou uma onda de violência no México, segundo o SBT News.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/prisao-de-el-chapo-isidro-causa-onda-de-violencia-no-mexico",
+          "time": "recente"
+        },
+        {
+          "title": "'Síndicos do terror': facções expulsam famílias e tomam casas no Brasil",
+          "summary": "Reportagem do Metrópoles descreve grupos criminosos que expulsam moradores e ocupam imóveis, usando extorsão e monitoramento da população.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/sindicos-do-terror-faccoes-expulsam-familias-e-tomam-casas-no-brasil",
+          "time": "recente"
+        },
+        {
+          "title": "Lula relembra telefonemas a Trump, Xi e Putin após fala de premiê do Canadá",
+          "summary": "Lula recordou as ligações que fez aos três líderes depois de uma declaração do primeiro-ministro canadense. O Metrópoles informa que ele disse ter pedido que parassem com a violência.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/lula-relembra-telefonemas-a-trump-xi-e-putin-apos-fala-de-premie-do-canada/",
+          "time": "21/11, 12:48"
+        },
+        {
+          "title": "Defesa Civil de SP reforça alerta para fortes chuvas até terça-feira",
+          "summary": "A Defesa Civil paulista mantém o alerta para chuvas intensas até terça. Em São Paulo, a previsão aponta pancadas de chuva à tarde e à noite nesta segunda.",
+          "source": "Jovem Pan",
+          "url": "https://jovempan.com.br/brasil/defesa-civil-de-sp-reforca-alerta-para-fortes-chuvas-ate-terca-feira/",
+          "time": "recente"
+        },
+        {
+          "title": "Protestos tomam as ruas da Europa; veja imagens e entenda os atos",
+          "summary": "Manifestações simultâneas em vários países europeus reuniram milhares de pessoas, em reportagem com imagens e explicação sobre as causas dos atos.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/protestos-tomam-as-ruas-da-europa-veja-imagens-e-entenda-os-atos",
+          "time": "recente"
+        },
+        {
+          "title": "FBI investiga possível ataque hacker a banco de dados criminais dos EUA",
+          "summary": "O FBI apura a suspeita de invasão cibernética a um sistema de dados criminais do país. O Metrópoles registra que Trump comentou o caso dizendo que \"não é bom\".",
           "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/inmet-preve-tempo-instavel-em-quase-todo-o-pais-neste-sabado/",
-          "time": "ontem"
+          "url": "https://www.infomoney.com.br/mundo/fbi-investiga-possivel-ataque-hacker-a-banco-de-dados-criminais-dos-eua/",
+          "time": "recente"
         }
       ]
     },
@@ -171,109 +178,109 @@
       "label": "Política",
       "items": [
         {
+          "title": "Italo Marsili aponta um caminho para Renan Santos e o partido Missão/MBL",
+          "summary": "Corte do canal Missão Brasil em que o analista Italo Marsili comenta rumos possíveis para Renan Santos e para o partido Missão, trecho de uma conversa mais longa indicada na descrição.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=lcpDU7tHboQ",
+          "time": "21/11, 11:30"
+        },
+        {
           "title": "iFood e Uber salvaram o Brasil",
-          "summary": "No vídeo do canal MBL, com esse título, o assunto são os aplicativos de transporte e entrega e seu papel na economia brasileira. A descrição do vídeo traz apenas links do canal e não detalha os argumentos apresentados.",
+          "summary": "Vídeo do MBL News, no canal do MBL, cujo título defende que aplicativos como iFood e Uber tiveram papel decisivo para o país.",
           "source": "MBL - Movimento Brasil Livre",
           "url": "https://www.youtube.com/watch?v=Q9JjpgCvS5U",
-          "time": "ontem, 10:00"
+          "time": "21/11, 10:00"
         },
         {
-          "title": "Desafio ao Lula!",
-          "summary": "Renan Santos publicou um vídeo com esse título, que pelo nome trata de um desafio dirigido ao presidente Lula. A descrição traz apenas links do canal e não detalha o conteúdo.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=PJer5QrdgeM",
-          "time": "19/11, 13:09"
-        },
-        {
-          "title": "Cleitinho Azevedo dispara elogios ao Renan Santos e a membros do partido Missão",
-          "summary": "O vídeo do canal Missão Avança mostra Cleitinho Azevedo elogiando Renan Santos e integrantes do partido Missão, conforme o título. A descrição não traz detalhes adicionais.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=-lKa1eiv2k8",
-          "time": "19/11, 20:40"
-        },
-        {
-          "title": "Banco do Brasil no buraco!",
-          "summary": "Kim Kataguiri comenta, no vídeo, a situação do Banco do Brasil, que ele descreve no título como estando \"no buraco\". A descrição do vídeo não detalha números nem argumentos.",
+          "title": "Vamos acabar com a farra dos shows",
+          "summary": "No vídeo, Kim Kataguiri trata da sua posição contra o uso de dinheiro público em shows. Outro vídeo do MBL do mesmo dia diz que ele quer barrar shows públicos em cidades precárias.",
           "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=TF-S5q-peAY",
-          "time": "19/11, 13:34"
+          "url": "https://www.youtube.com/watch?v=yWcZce4JLdo",
+          "time": "18/11, 14:04"
         },
         {
-          "title": "Flávio ajudou a aumentar o Fundão",
-          "summary": "No vídeo, Arthur do Val trata do papel de Flávio Bolsonaro no aumento do fundo eleitoral, segundo o título. A descrição traz só links do canal e não detalha as informações apresentadas.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=MHwxx0rU-xo",
-          "time": "19/11, 13:01"
+          "title": "Guerra dentro do PT!",
+          "summary": "Kim Kataguiri comenta no vídeo uma disputa interna no PT. O canal do MBL relaciona o tema ao ajuste fiscal do governo.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=vP1z139G8dw",
+          "time": "18/11, 12:12"
         },
         {
-          "title": "Deputado dá voz de prisão a indígena no plenário e MathiasTV repercute o caso",
-          "summary": "O canal Missão Brasil exibe a repercussão, no MathiasTV, de um episódio em que um deputado teria dado voz de prisão a um indígena no plenário, conforme o título. A descrição não traz mais detalhes sobre o caso.",
-          "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=nTxAKhEvzSY",
-          "time": "19/11, 12:47"
-        },
-        {
-          "title": "Ajuste fiscal causou briga interna no PT?",
-          "summary": "O vídeo do MBL News levanta, em forma de pergunta, se o ajuste fiscal gerou atrito dentro do PT. A descrição não traz detalhes sobre o que é apresentado.",
-          "source": "MBL - Movimento Brasil Livre",
-          "url": "https://www.youtube.com/watch?v=ym5Sg2Oi850",
-          "time": "19/11, 17:30"
-        },
-        {
-          "title": "Nikolas Ferreira está saindo do PL e racha no bolsonarismo aumenta!",
-          "summary": "O canal Missão Avança aborda, pelo título, a possível saída de Nikolas Ferreira do PL e um suposto aumento do racha no bolsonarismo. A descrição não traz detalhes adicionais.",
+          "title": "Arthur do Val e Gabi Levinnt discutem pedido de prisão de Beraldo no caso Refit",
+          "summary": "Corte do canal Missão Avança com a conversa entre Arthur do Val e Gabi Levinnt sobre o pedido de prisão de Beraldo no caso Refit, conforme o título.",
           "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=MfA4mh0ypfw",
-          "time": "18/11, 19:08"
+          "url": "https://www.youtube.com/watch?v=ZOo0YCr8xAs",
+          "time": "19/11, 06:30"
         },
         {
-          "title": "Itaú novo Master?",
-          "summary": "O vídeo da série ANArquia, com Ana Hering, levanta no título a pergunta se o Itaú poderia ser um \"novo Master\", em referência ao caso do Banco Master. A descrição não detalha a análise.",
+          "title": "Essa foi a desculpa do Bolsonaro",
+          "summary": "Vídeo do canal de Arthur do Val com comentário sobre uma justificativa dada por Jair Bolsonaro, segundo o título.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=X_0zWWT4oFE",
+          "time": "19/11, 09:08"
+        },
+        {
+          "title": "Nikolas no Novo? | ANArquia",
+          "summary": "Programa ANArquia, com Ana Hering, no canal MBL TV, que discute a possibilidade de o deputado Nikolas Ferreira ir para o partido Novo.",
           "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=ctqx5PiKTT8",
-          "time": "18/11, 13:22"
+          "url": "https://www.youtube.com/watch?v=ik2SV7YfTT8",
+          "time": "17/11, 12:55"
         },
         {
-          "title": "Análise: pedido de Mendonça para tornar público relatório da PF pode pressionar o STF",
-          "summary": "André Mendonça pediu ao presidente do STF, Edson Fachin, que torne público um relatório da PF sobre o caso Banco Master que o cita, e Fachin atendeu. Para o analista Caio Junqueira, isso pode pressionar Moraes, Nunes Marques e Toffoli a derrubar o próprio sigilo, embora a situação de Mendonça seja \"muito diferente\" da dos outros três.",
+          "title": "Crise do governo Lula | Análises Renais",
+          "summary": "Edição do programa Análises Renais no canal de Renan Santos, com o tema da crise do governo Lula, conforme o título.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=9B3bTXLHgQE",
+          "time": "17/11, 17:17"
+        },
+        {
+          "title": "Renan Santos faz análise da crise econômica que, segundo ele, vai explodir em 2027",
+          "summary": "Corte do canal Missão Avança em que Renan Santos analisa o que o título descreve como uma crise econômica criada por Lula e que explodiria em 2027.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=lDNePjK2uL4",
+          "time": "17/11, 17:12"
+        },
+        {
+          "title": "Caso Master pode definir relação de Lula com o Congresso, diz professor",
+          "summary": "Um professor ouvido pela CNN Brasil avalia que o caso Master pode moldar a relação entre o governo Lula e o Congresso. O Metrópoles registra que Gilmar Mendes não vê problema em retirar o sigilo de relatórios da PF sobre o caso.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/analise-derrubada-de-sigilo-do-caso-master-pode-pressionar-stf/",
-          "time": "20/11, 22:35"
+          "url": "https://www.cnnbrasil.com.br/politica/caso-master-pode-definir-relacao-de-lula-com-congresso-diz-professor/",
+          "time": "ontem, 04:00"
         },
         {
-          "title": "Relator no TSE vota para barrar candidatura de Ney Santos por suposta ligação com o PCC",
-          "summary": "Floriano de Azevedo Marques votou pelo indeferimento do registro do deputado federal eleito Ney Santos (Republicanos-SP). O Ministério Público Eleitoral sustenta vínculos com o crime organizado; a defesa diz que a investigação de 2010 não achou provas. Toffoli pediu vista, e a decisão não é definitiva.",
+          "title": "Lula defende pacote fiscal: 'sistema financeiro não me ensinará a dirigir o País'",
+          "summary": "O presidente Lula defendeu o pacote fiscal do governo e rejeitou a influência do setor financeiro sobre as decisões. Uma análise do Goldman Sachs citada pela CNN Brasil diz que o país precisa de um ajuste de cerca de R$ 400 bilhões.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/",
+          "time": "recente"
+        },
+        {
+          "title": "'Seria um dado irreparável', diz integrante do Cidadania sobre fim do partido",
+          "summary": "Um integrante do Cidadania afirmou à CNN Brasil que o possível fim do partido seria uma perda sem reparação.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/ministro-do-tse-vota-para-barrar-eleicao-de-ney-santos-por-ligacao-com-pcc/",
-          "time": "20/11, 22:18"
+          "url": "https://www.cnnbrasil.com.br/politica/seria-um-dado-irreparavel-diz-integrante-do-cidadania-sobre-fim-do-partido/",
+          "time": "21/11, 21:46"
         },
         {
-          "title": "Dino vota para tornar Van Hattem réu por calúnia; Zanin pede destaque",
-          "summary": "No plenário virtual da Primeira Turma do STF, Flávio Dino votou para receber a denúncia contra o deputado Marcel Van Hattem (Novo-RS) por calúnia e injúria contra o delegado da PF Fábio Shor. Moraes acompanhou, mas Cristiano Zanin pediu destaque, e o caso vai a sessão presencial sem data.",
+          "title": "Espanha vai às urnas em uma semana: o que dizem as pesquisas?",
+          "summary": "A CNN Brasil faz um levantamento das pesquisas de intenção de voto antes da eleição espanhola, marcada para daqui a uma semana.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/dino-vota-para-tornar-van-hattem-reu-por-calunia-zanin-pede-destaque/",
-          "time": "20/11, 21:00"
+          "url": "https://www.cnnbrasil.com.br/internacional/espanha-vai-as-urnas-em-uma-semana-o-que-dizem-as-pesquisas/",
+          "time": "ontem, 11:26"
         },
         {
-          "title": "Chanceler do Irã diz que país quer diplomacia para encerrar a guerra",
-          "summary": "Abbas Araqchi afirmou ao jornal estatal Iran que mensagens circulam por mediadores e que a linha vermelha é manter o urânio altamente enriquecido no país. Trump, por sua vez, disse que o Irã quer um acordo inaceitável para ele. EUA e Israel atacaram o Irã em 28 de fevereiro.",
+          "title": "Colonos atacam Cisjordânia; rival de Netanyahu denuncia 'terrorismo'",
+          "summary": "Ataques de colonos israelenses na Cisjordânia provocaram reação de um rival político de Netanyahu, que os classificou como terrorismo.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
-          "time": "20/11, 22:06"
+          "url": "https://www.cnnbrasil.com.br/internacional/colonos-atacam-cisjordania-rival-de-netanyahu-denuncia-terrorismo/",
+          "time": "ontem, 10:55"
         },
         {
-          "title": "Ataque russo em Kryvyi Rih mata menino de 7 anos e socorrista e deixa 58 feridos",
-          "summary": "Segundo autoridades ucranianas, um míssil atingiu um restaurante com civis e profissionais de saúde, e um drone foi lançado durante a retirada dos feridos. No mesmo dia, autoridades instaladas pela Rússia em Luhansk disseram que um ataque ucraniano matou seis pessoas.",
+          "title": "Inspirado em Bukele, governo do Haiti anuncia construção de três prisões",
+          "summary": "O governo haitiano planeja três novos presídios, em modelo inspirado na política de segurança de Nayib Bukele, em El Salvador.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-mata-crianca-e-deixa-58-feridos-na-ucrania-diz-autoridade/",
-          "time": "ontem, 12:33"
-        },
-        {
-          "title": "Destroços de drone russo atingem a Embaixada do Brasil em Kiev",
-          "summary": "Fragmentos caíram no terreno da embaixada na quinta (19), sem feridos nem danos materiais, segundo o Itamaraty, que condenou os ataques e citou as Convenções de Viena. Também foram atingidas as embaixadas da África do Sul, Áustria e Países Baixos, e o governo holandês convocou o embaixador russo.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/destrocos-atingem-embaixada-do-brasil-em-kiev",
-          "time": "20/11"
+          "url": "https://www.cnnbrasil.com.br/internacional/inspirado-em-bukele-governo-do-haiti-anuncia-construcao-de-tres-prisoes/",
+          "time": "ontem, 11:03"
         }
       ]
     },
@@ -282,46 +289,46 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Wall Street cai forte e S&P 500 e Dow entram em correção; Goldman alerta para novas vendas",
-          "summary": "Com a B3 fechada, o Nasdaq caiu 5,28%, o S&P 500 3,70% e o Dow Jones 1,93%, e o VIX passou de 40 pontos. A Nvidia recuou 14,01% após notícia sobre investigação da SEC, e a Anthropic caiu 8,5% um dia após estrear. O Goldman estima que fundos CTAs podem vender mais US$ 65,8 bilhões em ações.",
+          "title": "Mercados globais desabam em feriado na B3, e Goldman alerta para novas quedas",
+          "summary": "As bolsas dos EUA fecharam em forte queda na sexta, com o S&P 500 em correção, enquanto a B3 estava fechada por causa do feriado. O Goldman Sachs alerta que as perdas podem continuar.",
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/",
-          "time": "20/11"
-        },
-        {
-          "title": "Bitcoin cai a US$ 57,7 mil, menor nível desde setembro de 2024",
-          "summary": "Em 20/11 a criptomoeda chegou a recuar 6,1% e já perdeu mais da metade do valor desde o pico acima de US$ 126 mil, em outubro de 2025. A queda reflete saídas de ETFs, dólar mais forte, expectativa de nova alta de juros nos EUA e o sell-off em IA, com cerca de US$ 2 bilhões em liquidações em 24 horas.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/",
-          "time": "20/11"
-        },
-        {
-          "title": "Petróleo fecha em alta, mas acumula terceira queda semanal",
-          "summary": "O WTI para janeiro subiu 1,18%, a US$ 83,41, e o Brent 0,64%, a US$ 92,57. Na semana, o WTI caiu 5,81% e o Brent 3,39%. O fluxo pelo Golfo Pérsico está em cerca de 80% do nível pré-guerra, segundo o Brown Brothers Harriman, e ataques houthis e minas navais mantêm a tensão no Estreito de Ormuz.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/em-sessao-volatil-petroleo-fecha-em-alta-apesar-de-fluxo-maior-em-ormuz/",
-          "time": "20/11"
-        },
-        {
-          "title": "Bessent defende alta mais moderada de juros pelo Fed",
-          "summary": "Em entrevista à CNBC, o secretário do Tesouro dos EUA, Scott Bessent, pediu que o Fed não faça um aumento grande, como o proposto por alguns dirigentes, citando o choque de oferta de energia e a queda dos preços do petróleo. Ele chamou de \"volúvel\" a posição de um diretor que defende alta de 50 pontos-base.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bessent-defende-alta-mais-moderada-dos-juros-pelo-fed/",
-          "time": "20/11"
-        },
-        {
-          "title": "Custo de vida em SP sobe 0,67% em setembro, a maior alta desde fevereiro",
-          "summary": "Segundo a FecomercioSP, o fim do bônus de Itaipu fez a conta de luz subir 9,26%, e a gasolina e o etanol avançaram 1,8% e 3,1%. As classes D (0,86%) e E (0,84%) foram as mais afetadas, e a inflação em 12 meses chegou a 5,02%.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/custo-de-vida-sao-paulo-sobe-setembro-fecomerciosp/",
           "time": "ontem"
         },
         {
-          "title": "Cientista político: agenda de Lula não cabe na economia do Brasil",
-          "summary": "Segundo Leonardo Barreto, da Think Policy, o mal-estar do mercado com a política fiscal reflete desconfiança sobre o próximo mandato. Ele cita o fim da escala 6x1 e a reforma tributária como fontes de incerteza e diz duvidar que Lula tenha uma \"leitura muito realista\" das restrições.",
+          "title": "Ações da Nvidia desabam 13% após notícia sobre investigação da SEC",
+          "summary": "Os papéis da Nvidia caíram cerca de 13% depois da notícia de que a autoridade do mercado de capitais dos EUA apura a empresa. A CNN Brasil trata de investigação sobre possíveis irregularidades.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/acoes-da-nvidia-desabam-noticia-sobre-investigacao-da-sec-sobre-companhia/",
+          "time": "ontem"
+        },
+        {
+          "title": "Goldman Sachs: Brasil precisa de ajuste nas contas públicas de R$ 400 bi",
+          "summary": "Segundo o banco, o país precisa de um ajuste fiscal de cerca de R$ 400 bilhões.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/agenda-de-lula-nao-cabe-na-economia-do-brasil-diz-cientista-politico/",
-          "time": "ontem, 03:00"
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/goldman-sachs-brasil-precisa-de-ajuste-nas-contas-publicas-de-r-400-bi/",
+          "time": "ontem, 01:22"
+        },
+        {
+          "title": "Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos",
+          "summary": "O bitcoin recuou para o menor nível em mais de dois anos em meio à aversão a risco nos mercados. Relatório da KuCoin diz que ele tocou cerca de US$ 55,1 mil no fim de semana e depois voltou a US$ 61 mil.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/",
+          "time": "ontem"
+        },
+        {
+          "title": "UE propõe imposto de 3% sobre faturamento das big techs",
+          "summary": "A União Europeia apresentou uma proposta de tributação de 3% sobre a receita das grandes empresas de tecnologia.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ue-propoe-imposto-de-3-sobre-faturamento-das-big-techs/",
+          "time": "21/11, 14:23"
+        },
+        {
+          "title": "Especialista: nova jornada de trabalho aumenta custo da mão de obra em 10%",
+          "summary": "Um especialista ouvido pela CNN Brasil estima que a nova jornada de trabalho elevará em cerca de 10% o custo da mão de obra. O Metrópoles informa que a escala 5x2 passa a valer em 16 de dezembro.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/especialista-nova-jornada-de-trabalho-aumenta-custo-da-mao-de-obra-em-10/",
+          "time": "21/11, 14:00"
         }
       ]
     },
@@ -330,45 +337,45 @@
       "label": "Programação",
       "items": [
         {
-          "title": "Ruby corrige sete falhas de segurança de memória",
-          "summary": "As versões 4.0.10, 3.4.13 e 3.3.14 corrigem bugs no motor de expressões regulares e na conversão de caixa de strings, incluindo heap overflows e um double free. A equipe do Ruby diz conhecer provas de conceito que levam a execução remota de código.",
-          "source": "Ruby Lang",
-          "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-          "time": "18/11"
-        },
-        {
-          "title": "PyPI passa a rejeitar pacotes com estrutura malformada",
-          "summary": "O repositório recusa sdists e wheels cujo tar ou ZIP não segue as especificações, para evitar diferenças de interpretação que atacantes poderiam explorar. Usuários não percebem mudança; mantenedores com rejeições devem usar uma versão suportada do Python e um build backend conforme os padrões.",
-          "source": "Blog do PyPI",
-          "url": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
-          "time": "18/11"
-        },
-        {
-          "title": "Discord reescreve seus clientes em Rust com um core compartilhado",
-          "summary": "Desktop e mobile passam a usar um núcleo comum em Rust. O desktop usará o framework GPUI, da Zed, o mobile manterá views nativas e o web compilará a lógica para WebAssembly, com foco em menos memória, inicialização mais rápida e menor latência.",
-          "source": "InfoQ",
-          "url": "https://www.infoq.com/news/2026/11/discord-rust-rewrite-gpui-zed/",
-          "time": "18/11"
-        },
-        {
-          "title": "GnuPG alerta para falha crítica no GPGME com chave OpenPGP maliciosa",
-          "summary": "Um ID de usuário excessivamente longo pode causar double free no GPGME (CVE-2026-129975), em versões anteriores à 2.3.0. O GnuPG lançou correções e não há relatos de exploração.",
+          "title": "OpenRouter derruba 3 provedores após pesquisadores flagrarem meses de roubo de prompts em hospedagens de IA",
+          "summary": "A Dragos disse que atacantes roubaram dados de três provedores de inferência de IA por meses, sem que eles soubessem. A OpenRouter removeu os três provedores e 125 endpoints da elegibilidade para Zero Data Retention e afirmou que não houve violação na própria plataforma.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+          "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
           "time": "ontem"
         },
         {
-          "title": "Agentes de IA teriam achado zero-day no MONAI Label, servidor de imagens médicas",
-          "summary": "Segundo a Amazon Threat Intelligence, hackers suspeitos de ligação com a China usaram agentes autônomos para explorar uma falha de path traversal e obter acesso root a um servidor universitário. A correção já está no código-fonte, mas ainda não há versão publicada.",
+          "title": "Ghostscript: pesquisadores mostram fuga de sandbox com RCE via upload de arquivos em apps populares",
+          "summary": "Uma falha já corrigida (CVE-2026-125396, corrigida em 8 de setembro) permite escapar do sandbox e executar comandos. A pwn.ai mostrou que cerca de dez aplicações comuns podiam ser levadas a processar um arquivo malicioso, sem relatos de uso em ataques.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+          "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
           "time": "ontem"
         },
         {
-          "title": "Falha crítica no Cisco Expressway é explorada logo após a publicação de um PoC",
-          "summary": "Atacantes usaram a CVE-2026-76466 (CVSS 9.8) para comprometer quatro dispositivos de uma organização russa e chegar à rede interna. A falha decorre de cookies persistentes e de validação insuficiente de certificados de cliente.",
+          "title": "Hackers exploram falhas críticas de VMware, Cisco e Apache em meio a ataques de espionagem",
+          "summary": "A CISA incluiu quatro falhas no catálogo KEV, envolvendo Apache Roller, Cisco Expressway, SAP NetWeaver e VMware vCenter, citando exploração ativa. A do Apache Roller (CVE-2026-129448, CVSS 9,8) permite execução remota de código sem autenticação.",
           "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+          "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+          "time": "21/11"
+        },
+        {
+          "title": "WhatsApp corrige 3 falhas, incluindo bug no Android suspeito de uso em golpes",
+          "summary": "A correção inclui a CVE-2026-23871 (CVSS 3,5) no app Android, que podia revelar o IP do alvo e pode ter sido usada junto com mensagens de spam. A falha foi achada pela equipe interna de segurança do WhatsApp.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+          "time": "20/11"
+        },
+        {
+          "title": "Falha no KVM do Linux (CVE-2026-99312) deixa VMs convidadas acessarem a memória do host em AMD",
+          "summary": "A falha afeta apenas hosts AMD com virtualização aninhada ativada e permitiu ler cerca de 127 GB de memória do servidor a partir de uma VM na DigitalOcean. O provedor aplicou live patch, e quem opera KVM próprio deve atualizar o kernel ou desativar a virtualização aninhada.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+          "time": "20/11"
+        },
+        {
+          "title": "SonicWall avisa que firewalls Gen 6 não receberão patches, mesmo para falhas críticas",
+          "summary": "A SonicWall orientou clientes com firewalls Gen 6 (SonicOS 6.x) a substituí-los imediatamente e a parar de expô-los na borda da internet. A empresa recomenda migrar para o Gen 8, com SonicOS 8.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
           "time": "20/11"
         }
       ]
@@ -378,45 +385,45 @@
       "label": "IA",
       "items": [
         {
-          "title": "IA reivindica solução para a hipótese de Riemann, e um humano também",
-          "summary": "Segundo a TechCrunch, o matemático Levent Alpöge, da Anthropic, publicou uma prova que compila em Lean, e matemáticos independentes dizem ter confirmado que o código compila. Em paralelo, o pós-doutorando de Stanford Alessandro Masullo divulgou uma prova humana da hipótese generalizada, ainda sem verificação.",
+          "title": "Signal restringe capturas de tela no celular diante de 'ameaça existencial' da vigilância por IA",
+          "summary": "O Signal passará a restringir capturas de tela por padrão para impedir que agentes de IA leiam conversas privadas em Android e iOS. A própria empresa admite que a proteção é \"incompleta\".",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-          "time": "20/11"
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "time": "21/11"
         },
         {
-          "title": "Fundadores da Anthropic vendem cerca de US$ 280 milhões cada em IPO recorde",
-          "summary": "A empresa abriu capital em 19/11 com preço de US$ 83 por ação, e cada um dos sete fundadores vendeu cerca de 3,4 milhões de ações. Segundo a TechCrunch, Google e Amazon juntas passam a deter 28% da companhia, e os compromissos de infraestrutura somam entre US$ 1,05 e US$ 1,08 trilhão.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-          "time": "19/11"
+          "title": "Uma única página maliciosa permitiu a pesquisadores sequestrar o Meta Muse e acessar conversas privadas",
+          "summary": "A NebuSec demonstrou, em laboratório, que uma página maliciosa podia extrair conversas privadas e memórias do assistente Meta Muse sem aviso de aprovação. Segundo a NebuSec, a Meta corrigiu todas as fraquezas descritas.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+          "time": "21/11"
         },
         {
-          "title": "Jensen Huang renuncia ao comando da Nvidia; Congresso investiga",
-          "summary": "Huang deixou o cargo de CEO em 12 de novembro, após admitir uma traição conjugal em carta a funcionários. Autoridades dos EUA suspeitam que uma executiva da Megaspeed seja espiã chinesa, o que a Nvidia não confirmou. Colette Kress dirige a empresa de forma interina, e Huang concordou em depor ao Congresso.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-          "time": "19/11"
+          "title": "FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar a Nvidia",
+          "summary": "Segundo o Financial Times, citado pelo InfoMoney, a Amazon avalia adquirir uma startup de inteligência artificial por US$ 7,5 bilhões para competir com a Nvidia.",
+          "source": "InfoMoney",
+          "url": "https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/",
+          "time": "21/11"
         },
         {
-          "title": "Gemini ganha 'computer use' no Mac e passa a operar apps por conta do usuário",
-          "summary": "O app do Google para macOS pode navegar por apps nativos, preencher formulários e organizar arquivos, com opção de pausar ou aprovar as ações. O recurso chega depois de OpenAI, Anthropic e Meta e, por ora, só funciona em inglês nos EUA, para assinantes Google AI Plus, Pro ou Ultra.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-          "time": "19/11"
+          "title": "Por que os EUA não querem que empresas construam data centers em outros países",
+          "summary": "A CNN Brasil explica a restrição americana a obras de data centers de empresas do país no exterior.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/por-que-eua-nao-querem-que-empresas-construam-data-centers-em-outros-paises/",
+          "time": "ontem, 01:54"
         },
         {
-          "title": "Panes de tecnologia lembram o 'bug do milênio', agora com agentes de IA",
-          "summary": "Nas últimas duas semanas houve falhas no Apple Pay, na rede da NASA, na FAA (voos suspensos por horas) e na Microsoft, com quase dois dias de Outlook, Teams e Copilot fora do ar. Empresas e autoridades disseram que não foram ataques. Especialistas citam a aceleração da descoberta de vulnerabilidades por IA e a integração apressada de sistemas legados.",
+          "title": "Os principais agentes de IA que podem viver nas suas mensagens de texto",
+          "summary": "A TechCrunch reúne uma seleção dos principais agentes de IA que funcionam dentro de aplicativos de mensagens de texto.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-          "time": "19/11"
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "time": "21/11"
         },
         {
-          "title": "Meta pode vender o dispositivo de IA Muse Charm por US$ 300",
-          "summary": "Segundo o The Information, citado pela TechCrunch, o aparelho em formato de bichinho virtual custaria US$ 300. A Meta não negou e disse que haverá novidades em breve. A TechCrunch nota que o preço é alto para um item do tamanho de um chaveiro, mas próximo ao do Friend (US$ 250).",
+          "title": "Apple pode estar desenvolvendo seu próprio agente de IA que opera o Mac",
+          "summary": "Segundo a TechCrunch, a Apple pode estar criando um agente de inteligência artificial capaz de operar o Mac pelo usuário.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
           "time": "19/11"
         }
       ]
@@ -426,46 +433,46 @@
       "label": "Taboão da Serra",
       "items": [
         {
+          "title": "Taboão da Serra prevê orçamento de R$ 1,83 bilhão para 2027; Educação e Saúde concentram maiores recursos",
+          "summary": "A Prefeitura apresentou a LOA 2027 em audiência pública na Câmara na terça (17/11), com previsão total de R$ 1.837.193.285. Educação tem R$ 434,7 milhões e Saúde R$ 423,3 milhões, cerca de 46,7% do orçamento somadas.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/taboao-da-serra-preve-orcamento-de-r-183-bilhao-para-2027-educacao-e-saude-concentram-maiores-recursos/",
+          "time": "18/11"
+        },
+        {
+          "title": "E. C. Taboão reage três vezes, mas perde título da Copa do Brasil de Futsal nos pênaltis",
+          "summary": "No sábado (14), no Ginásio Zé do Feijão, o time empatou em 3 a 3 com a AACC/Copagril (PR) e perdeu nos pênaltis por 5 a 4. A equipe volta à quadra em 28/11, na primeira final da Liga Feminina de Futsal contra o Stein Cascavel.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/e-c-taboao-reage-tres-vezes-mas-perde-titulo-da-copa-do-brasil-de-futsal-nos-penaltis/",
+          "time": "18/11"
+        },
+        {
+          "title": "Empreendedorismo negro ganha vitrine no Shopping Taboão com produtos de negócios locais",
+          "summary": "A segunda edição da Taboão Afro Cidadania reúne empreendedores negros em uma loja colaborativa no Shopping Taboão, com roupas, velas, bijuterias, crochê e livros. A ação, em parceria com a Secretaria de Direitos Humanos e Cidadania, vai até 28 de novembro.",
+          "source": "O Taboanense",
+          "url": "https://otaboanense.com.br/empreendedorismo-negro-ganha-vitrine-no-shopping-taboao-com-produtos-de-negocios-locais/",
+          "time": "19/11"
+        },
+        {
           "title": "Poeta Sérgio Vaz e Sesc doarão até mil livros a estudantes da rede pública",
-          "summary": "A campanha \"Meu primeiro livro\" começa em 27 de novembro e inclui o novo título do poeta, \"Coração de criança não morre\", com as primeiras datas definidas junto à secretaria municipal de Educação. A ação amplia o projeto \"Poesia contra a violência\", que desde 1998 alcançou mais de 30 mil estudantes.",
+          "summary": "A campanha \"Meu primeiro livro\" começa em 27 de novembro e inclui o novo título do poeta, \"Coração de criança não morre\". A ação amplia o projeto \"Poesia contra a violência\", que desde 1998 alcançou mais de 30 mil estudantes.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/poeta-sergio-vaz-em-parceria-com-o-sesc-doara-ate-1000-livros-em-campanha-de-incentivo-a-literatura-entre-jovens-da-periferia/",
           "time": "19/11"
         },
         {
           "title": "Régis Bittencourt deve receber mais de 700 mil veículos no feriadão da Consciência Negra",
-          "summary": "A Arteris projeta 700.842 passagens nas praças de pedágio entre Embu das Artes e o Paraná de quinta (19) a domingo (22), cerca de 590 mil no trecho paulista. A sexta (20) seria o dia mais movimentado, com 207.902 veículos, e o domingo pode ter até 25,3% a mais que um dia normal.",
+          "summary": "A Arteris projetou 700.842 passagens nas praças de pedágio entre Embu das Artes e o Paraná de quinta (19) a domingo (22), com a sexta (20) como dia mais movimentado.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/regis-bittencourt-deve-receber-mais-de-700-mil-veiculos-no-feriado-da-consciencia-negra/",
           "time": "17/11"
         },
         {
           "title": "Equipe de kung fu de Taboão da Serra conquista 14 medalhas em mundial em São Paulo",
-          "summary": "A equipe Garra de Águia Lily Lau levou sete ouros, três pratas e quatro bronzes no World Kung Fu Championship Brazil, em 14 e 15 de novembro, com mais de 2 mil atletas de 25 países. O mestre Fábio Lachi venceu duas modalidades, Armas Articuladas e Chi Na.",
+          "summary": "A equipe Garra de Águia Lily Lau levou sete ouros, três pratas e quatro bronzes no World Kung Fu Championship Brazil, em 14 e 15 de novembro, com mais de 2 mil atletas de 25 países.",
           "source": "O Taboanense",
           "url": "https://otaboanense.com.br/equipe-de-kung-fu-de-taboao-da-serra-conquista-14-medalhas-em-campeonato-mundial-em-sao-paulo/",
           "time": "17/11"
-        },
-        {
-          "title": "GCM inaugura base no Parque Pinheiros, bairro com alta incidência de ocorrências",
-          "summary": "A base, na Rua José Amaral Arruda Castanho, 144, terá oito guardas diurnos da patrulha Romucam, de motos. O prefeito Engenheiro Daniel também anunciou novos postos em Jardim Leme, Jardim das Oliveiras e Marabá e disse que o crime caiu 60%, sem informar o período de comparação.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/gcm-inaugura-base-no-parque-pinheiros-bairro-com-alta-incidencia-de-ocorrencias-em-taboao-da-serra/",
-          "time": "16/11"
-        },
-        {
-          "title": "Taboão da Serra registra 93 roubos em outubro; Avenida Taboão lidera",
-          "summary": "Segundo o Observatório Municipal de Segurança Pública, com dados da SSP-SP, o número ficou praticamente igual ao de setembro (94). A Avenida Taboão da Serra teve nove roubos entre as vias, e o Centro, também com nove, liderou entre os bairros. Foram 69 furtos, 81,2% deles de veículos.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/taboao-da-serra-registra-93-roubos-em-outubro-avenida-taboao-lidera-ocorrencias/",
-          "time": "15/11"
-        },
-        {
-          "title": "Câmara de Taboão capacita gabinetes sobre emendas impositivas ao orçamento",
-          "summary": "Assessores aprenderam como as emendas são propostas, seguindo recomendações do Ministério Público. O prazo para alocação vai até 26 de novembro e a votação do orçamento de 2027 está prevista para dezembro. Pela Lei Orgânica, as emendas individuais somam até 2% da receita corrente líquida, metade para a saúde.",
-          "source": "O Taboanense",
-          "url": "https://otaboanense.com.br/camara-de-taboao-da-serra-capacita-equipes-dos-gabinetes-sobre-emendas-impositivas-ao-orcamento-municipal/",
-          "time": "13/11"
         }
       ]
     },
@@ -474,43 +481,43 @@
       "label": "Tênis",
       "items": [
         {
+          "title": "Alcaraz bate Zverev na final e conquista o ATP Finals pela primeira vez",
+          "summary": "O espanhol, 2º cabeça de chave, venceu o líder do ranking por 6-2 e 7-6(7) neste domingo (22), em Turim, e levou seu primeiro título do torneio, segundo o ATP Tour.",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results",
+          "time": "ontem"
+        },
+        {
+          "title": "Alcaraz supera limitações físicas e elimina Cobolli no ATP Finals",
+          "summary": "Alcaraz venceu Cobolli na fase de grupos do ATP Finals apesar de problemas físicos, segundo a CNN Brasil.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/carlos-alcaraz-supera-limitacoes-fisicas-e-elimina-cobolli-no-atp-finals/",
+          "time": "20/11, 12:15"
+        },
+        {
           "title": "Alcaraz vira sobre Shelton e vai à final do ATP Finals",
-          "summary": "O espanhol venceu por 3-6, 6-3 e 7-6(1) em Turim, chegando à sétima final do torneio, com 13 vitórias seguidas. Segundo o ATP Tour, Shelton chegou a abrir 4-1 no primeiro set, e Alcaraz lidera o confronto direto por 5 a 1.",
+          "summary": "O espanhol venceu por 3-6, 6-3 e 7-6(1), chegando à sétima final do torneio, com 13 vitórias seguidas. Shelton chegou a abrir 4-1 no primeiro set, e Alcaraz lidera o confronto direto por 5 a 1.",
           "source": "ATP Tour",
           "url": "https://www.atptour.com/en/news/alcaraz-shelton-nitto-atp-finals-2026-saturday",
-          "time": "ontem"
+          "time": "21/11"
         },
         {
           "title": "Zverev supera Medvedev e fará a final contra Alcaraz",
-          "summary": "O líder do ranking venceu por 7-6(0) e 6-4 na outra semifinal, segundo a ESPN. A decisão é neste domingo (22). Zverev nunca venceu Alcaraz ou Sinner no caminho para seus dois títulos de Grand Slam, e Sinner encerrou a temporada antes por lesão no joelho.",
+          "summary": "O líder do ranking venceu por 7-6(0) e 6-4 na outra semifinal, segundo a ESPN.",
           "source": "ESPN",
           "url": "https://www.espn.com/tennis/story/_/id/50553968/zverev-tops-medvedev-sets-showdown-alcaraz-atp-finals-title",
-          "time": "ontem"
-        },
-        {
-          "title": "Como Zverev e Alcaraz podem mexer na disputa pelo nº 1",
-          "summary": "Zverev lidera o ranking com 9.950 pontos, 1.800 à frente de Sinner, e chegaria a 10.850 com o título. Alcaraz, com 6.700, não passa Sinner nesta semana, mas pode cortar a distância para cerca de 350 pontos e impedir que Zverev amplie a vantagem.",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-no-1-battle-zverev-alcaraz",
-          "time": "recente"
-        },
-        {
-          "title": "Andreeva bate Svitolina e conquista o WTA Finals pela primeira vez",
-          "summary": "A russa de 19 anos venceu por 7/5 e 6/3 em 1h48, em Indian Wells. Com o título e o US Open vencido na temporada, terminou o ano em 2º no ranking. A líder, Elena Rybakina, não jogou por lesão.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-andreeva-bate-svitolina-e-conquista-wta-finals-pela-primeira-vez/",
-          "time": "15/11"
+          "time": "21/11"
         },
         {
           "title": "João Fonseca termina 2026 em 46º e enfrentará Federer em exibição",
-          "summary": "O brasileiro de 20 anos ficou fora das quadras por lesão nas últimas semanas, mas permaneceu no top 50 pelo segundo ano seguido, após ser o 24º em 2025. O duelo com Roger Federer será em 5 de dezembro, no Pacaembu, em São Paulo.",
+          "summary": "O brasileiro de 20 anos ficou fora das quadras por lesão nas últimas semanas, mas permaneceu no top 50 pelo segundo ano seguido. O duelo com Roger Federer será em 5 de dezembro, no Pacaembu, em São Paulo.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-fora-por-lesao-joao-fonseca-se-mantem-no-top-50-veja-o-ranking/",
           "time": "16/11"
         },
         {
           "title": "Brasileira de 14 anos será a mais jovem do ranking profissional da WTA",
-          "summary": "Eduarda Gomes, de 14 anos e 4 meses, entra no ranking com a atualização de 30 de novembro, após pontuar em três torneios profissionais em 12 meses. Na segunda (16), venceu Gabriela Cho no qualificatório do W35 de São Paulo, e ela foi campeã do Roland Garros Júnior Series em 2026.",
+          "summary": "Eduarda Gomes, de 14 anos e 4 meses, entra no ranking com a atualização de 30 de novembro, após pontuar em três torneios profissionais em 12 meses.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenista-brasileira-sera-a-mais-jovem-no-ranking-entre-profissionais/",
           "time": "16/11"
@@ -522,46 +529,46 @@
       "label": "Saúde",
       "items": [
         {
-          "title": "Novo exame de sangue mede a progressão do Alzheimer",
-          "summary": "Apresentado na conferência CTAD e publicado na JAMA, o teste da Alamar Biosciences mede o biomarcador eMTBR-tau, ligado aos emaranhados de proteína tau no cérebro. Ainda não está disponível para uso clínico nem serve para diagnóstico isolado, mas pode ajudar em decisões de tratamento e na seleção para ensaios.",
+          "title": "Epilepsia infantil: genética impacta tratamento, dizem médicos a Dr. Kalil",
+          "summary": "Médicos ouvidos por Dr. Kalil, na CNN Brasil, associam a escolha do tratamento da epilepsia em crianças a fatores genéticos. Outra matéria da série fala em dieta e em déficit de atenção.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/novo-exame-de-sangue-e-capaz-de-medir-a-progressao-do-alzheimer-entenda/",
-          "time": "18/11"
-        },
-        {
-          "title": "Casos de anorexia cresceram 58% no mundo desde 1990, aponta estudo",
-          "summary": "Publicado na JAMA Psychiatry com dados de 204 países, o estudo estima 3,9 milhões de pessoas com anorexia nervosa em 2023, número que pode chegar a 4,7 milhões em 2050. A prevalência é maior entre jovens de 15 a 19 anos, e os números vêm de modelos estatísticos, não de contagens diretas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/casos-de-anorexia-aumentaram-58-no-mundo-desde-1990-aponta-estudo/",
-          "time": "18/11"
-        },
-        {
-          "title": "Covid-19: máscara volta a ser obrigatória em hospitais de Contagem (MG)",
-          "summary": "A prefeitura exigiu o uso nas unidades municipais por causa da alta de casos na Grande BH. Segundo a Fiocruz, o InfoGripe indica crescimento de SRAG por Covid-19 em MG, SP, RJ, BA e DF, embora as hospitalizações sigam baixas.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/covid-19-mascara-volta-a-ser-obrigatoria-em-hospitais-de-cidade-em-mg/",
-          "time": "18/11"
-        },
-        {
-          "title": "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país",
-          "summary": "Em enquete da ABRA com 255 pessoas, sem valor estatístico, só 16% consideraram a doença bem controlada e 53% precisaram de pronto-socorro ou internação em 12 meses. Mesmo com o protocolo atualizado em novembro de 2025, o acesso a medicamentos segue lento.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/dpoc-afeta-14-milhoes-de-brasileiros-e-e-a-5a-maior-causa-de-morte-no-pais/",
-          "time": "18/11"
-        },
-        {
-          "title": "Vacina experimental aumenta sobrevida em leucemia mieloide aguda",
-          "summary": "Em ensaio com 126 adultos que não podiam fazer transplante, a galinpepimut-S (SELLAS) elevou a sobrevida mediana para 24 meses, contra 14,7 no grupo controle, com 41% menos risco de morte. A empresa planeja pedir aprovação acelerada à FDA no primeiro semestre de 2027.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/vacina-experimental-aumenta-sobrevida-em-casos-de-leucemia-grave/",
-          "time": "recente"
+          "url": "https://www.cnnbrasil.com.br/saude/epilepsia-infantil-genetica-impacta-tratamento-dizem-medicos-a-dr-kalil/",
+          "time": "21/11, 19:30"
         },
         {
           "title": "A febre baixou: por que a dengue ainda pode piorar",
           "summary": "A queda da febre, em geral entre o 3º e o 7º dia, pode marcar o início de uma fase crítica de 24 a 48 horas, com risco de choque. Dor abdominal intensa, vômitos contínuos, sangramentos ou sonolência exigem atendimento imediato, e anti-inflamatórios e AAS devem ser evitados.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/saude/a-febre-baixou-por-que-a-dengue-ainda-pode-piorar/",
-          "time": "recente"
+          "time": "21/11, 04:00"
+        },
+        {
+          "title": "Vacina experimental aumenta sobrevida em leucemia mieloide aguda",
+          "summary": "Em ensaio com 126 adultos que não podiam fazer transplante, a galinpepimut-S (SELLAS) elevou a sobrevida mediana para 24 meses, contra 14,7 no grupo controle, com 41% menos risco de morte. A empresa planeja pedir aprovação acelerada à FDA no primeiro semestre de 2027.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/vacina-experimental-aumenta-sobrevida-em-casos-de-leucemia-grave/",
+          "time": "20/11, 17:29"
+        },
+        {
+          "title": "Diabetes afeta o sistema musculoesquelético e causa rigidez articular",
+          "summary": "A CNN Brasil explica que o diabetes pode comprometer músculos, ossos e articulações, provocando rigidez e perda de mobilidade.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/diabetes-afeta-sistema-musculoesqueletico-e-causa-rigidez-articular/",
+          "time": "19/11, 15:27"
+        },
+        {
+          "title": "Após 433 casos de mpox, SP recebe mil novas doses de vacina",
+          "summary": "São Paulo recebeu mil doses adicionais da vacina contra mpox, em um cenário de 433 casos confirmados, segundo a CNN Brasil.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/com-433-casos-confirmados-sp-recebe-mil-novas-doses-de-vacina-contra-mpox/",
+          "time": "18/11, 14:57"
+        },
+        {
+          "title": "Novo exame de sangue mede a progressão do Alzheimer",
+          "summary": "Apresentado na conferência CTAD e publicado na JAMA, o teste da Alamar Biosciences mede o biomarcador eMTBR-tau, ligado aos emaranhados de proteína tau no cérebro. Ainda não está disponível para uso clínico nem serve para diagnóstico isolado.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/novo-exame-de-sangue-e-capaz-de-medir-a-progressao-do-alzheimer-entenda/",
+          "time": "18/11, 16:40"
         }
       ]
     }
