@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-23T03:21:53-03:00",
+  "updatedAt": "2026-11-24T03:20:00-03:00",
   "markets": {
-    "asOf": "B3, IFIX e câmbio: fechamento de 19/11 (20/11 foi feriado) · Nova York: fechamento de 20/11 · cripto às 00:00 UTC de 23/11 (BTC e ETH, KuCoin) e SOL pela CoinMarketCap",
+    "asOf": "Valores da última coleta confirmada (B3, IFIX e câmbio: 19/11; Nova York: 20/11; cripto: 23/11 00:00 UTC) — fechamento de 23/11 não confirmado pelas fontes",
     "items": [
       {
         "id": "ibov",
@@ -72,13 +72,13 @@
     ]
   },
   "weather": {
-    "date": "2026-11-23",
-    "condition": "sol com muitas nuvens, com pancadas de chuva à tarde e à noite",
-    "min": 21,
-    "max": 31,
-    "rainChance": 96,
-    "rainMm": 1.9,
-    "uv": 3,
+    "date": "2026-11-24",
+    "condition": "previsão de hoje não confirmada nas fontes consultadas",
+    "min": null,
+    "max": null,
+    "rainChance": null,
+    "rainMm": null,
+    "uv": null,
     "source": "Climatempo",
     "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo"
   },
@@ -87,6 +87,27 @@
       "id": "noticias",
       "label": "Notícias",
       "items": [
+        {
+          "title": "Indonésia: incêndio em fábrica de doces deixa 24 mortos e cerca de 30 desaparecidos",
+          "summary": "O fogo começou na noite de sábado (21/11) numa fábrica em Cikande, na província de Banten, perto de Jacarta. Indícios preliminares apontam curto-circuito num ar-condicionado, mas a causa ainda é investigada. As equipes de resgate coletam DNA de familiares para identificar as vítimas, o que pode levar semanas.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/incendio-em-fabrica-de-doces-deixa-mortos-na-indonesia/",
+          "time": "hoje, 00:57"
+        },
+        {
+          "title": "Exército dos EUA quer detonar explosivos em Iowa mesmo com ordem judicial",
+          "summary": "O Exército planeja explodir 68 barris de azida de chumbo degradada numa fábrica de munição perto de Middletown, agora marcada para quarta (25/11), apesar de decisão de tribunal que suspendeu a licença ambiental. Ambientalistas temem uma nuvem de poeira de chumbo, e moradores foram orientados a ficar em casa.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/exercito-dos-eua-deve-detonar-explosivos-em-iowa-apesar-de-ordem-judicial/",
+          "time": "hoje, 01:43"
+        },
+        {
+          "title": "Montadora chinesa GAC recebe 4 mil carros no Porto de Itaguaí (RJ)",
+          "summary": "É a primeira operação de importação sob o RioComex, regime tributário especial criado para atrair cargas aos portos fluminenses. A GAC pretende começar a produzir no Brasil no primeiro semestre de 2027, em fábrica de Catalão (GO), com capacidade de até 50 mil veículos por ano.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/chinesa-gac-entrega-4-mil-carros-em-primeira-operacao-de-importacao-no-rio/",
+          "time": "hoje, 01:19"
+        },
         {
           "title": "Sem previsão de alta, Bolsonaro está na UTI e é alimentado por sonda",
           "summary": "Jair Bolsonaro segue internado em terapia intensiva, sem data para deixar o hospital, e recebe alimentação por sonda. A CNN Brasil informa que ele está há três dias na UTI, com quadro de abdômen agudo obstrutivo segundo boletim médico.",
@@ -109,31 +130,10 @@
           "time": "recente"
         },
         {
-          "title": "Atlético-MG 0 x 2 Boca: Boca vence a final da Sul-Americana",
-          "summary": "O Boca Juniors derrotou o Atlético-MG por 2 a 0 na final da Copa Sul-Americana, e o SBT News registra o terceiro título do clube na competição. A CNN Brasil mostra os melhores momentos da decisão.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-0-x-2-boca-veja-os-melhores-momentos-da-final-da-sul-americana/",
-          "time": "21/11, 22:02"
-        },
-        {
-          "title": "F1: Verstappen vence o GP de Las Vegas e chega à 75ª vitória da carreira",
-          "summary": "Max Verstappen venceu a corrida em Las Vegas e alcançou a 75ª vitória na Fórmula 1.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-verstappen-vence-gp-de-las-vegas-e-garante-75a-vitoria-da-carreira/",
-          "time": "ontem, 02:40"
-        },
-        {
           "title": "COP31 passa do prazo e termina sem acordo sobre combustíveis fósseis",
           "summary": "A conferência do clima encerrou depois do prazo sem consenso sobre a eliminação gradual dos combustíveis fósseis. A CNN Brasil aponta que a União Europeia e outros países rejeitaram o texto negociado.",
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/mundo/cop31-passa-do-prazo-e-termina-sem-acordo-sobre-combustiveis-fosseis",
-          "time": "recente"
-        },
-        {
-          "title": "Prisão de El Chapo Isidro causa onda de violência no México",
-          "summary": "A detenção de um dos 10 fugitivos mais procurados pelo FBI, apelidado El Chapo Isidro, desencadeou uma onda de violência no México, segundo o SBT News.",
-          "source": "SBT News",
-          "url": "https://sbtnews.sbt.com.br/noticia/mundo/prisao-de-el-chapo-isidro-causa-onda-de-violencia-no-mexico",
           "time": "recente"
         },
         {
@@ -142,13 +142,6 @@
           "source": "Metrópoles",
           "url": "https://www.metropoles.com/brasil/sindicos-do-terror-faccoes-expulsam-familias-e-tomam-casas-no-brasil",
           "time": "recente"
-        },
-        {
-          "title": "Lula relembra telefonemas a Trump, Xi e Putin após fala de premiê do Canadá",
-          "summary": "Lula recordou as ligações que fez aos três líderes depois de uma declaração do primeiro-ministro canadense. O Metrópoles informa que ele disse ter pedido que parassem com a violência.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-relembra-telefonemas-a-trump-xi-e-putin-apos-fala-de-premie-do-canada/",
-          "time": "21/11, 12:48"
         },
         {
           "title": "Defesa Civil de SP reforça alerta para fortes chuvas até terça-feira",
@@ -170,6 +163,13 @@
           "source": "InfoMoney",
           "url": "https://www.infomoney.com.br/mundo/fbi-investiga-possivel-ataque-hacker-a-banco-de-dados-criminais-dos-eua/",
           "time": "recente"
+        },
+        {
+          "title": "Prisão de El Chapo Isidro causa onda de violência no México",
+          "summary": "A detenção de um dos 10 fugitivos mais procurados pelo FBI, apelidado El Chapo Isidro, desencadeou uma onda de violência no México, segundo o SBT News.",
+          "source": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/prisao-de-el-chapo-isidro-causa-onda-de-violencia-no-mexico",
+          "time": "recente"
         }
       ]
     },
@@ -178,109 +178,109 @@
       "label": "Política",
       "items": [
         {
-          "title": "Italo Marsili aponta um caminho para Renan Santos e o partido Missão/MBL",
-          "summary": "Corte do canal Missão Brasil em que o analista Italo Marsili comenta rumos possíveis para Renan Santos e para o partido Missão, trecho de uma conversa mais longa indicada na descrição.",
+          "title": "Arthur do Val reage à fala de Cleitinho e se pronuncia sobre saída de Ben Mendes",
+          "summary": "No vídeo do canal Missão Avança, Arthur do Val comenta a fala do senador Cleitinho e a saída de Ben Mendes. O conteúdo é um corte de um vídeo original publicado no canal MamãeFalei.",
+          "source": "Missão Avança",
+          "url": "https://www.youtube.com/watch?v=LLrgCZT9i7c",
+          "time": "hoje, 12:00"
+        },
+        {
+          "title": "Plantão Arthur do Val: Cleitinho vai mudar de partido?",
+          "summary": "Em edição de plantão, Arthur do Val discute se Cleitinho deve trocar de partido, assunto que também aparece em outros canais do grupo nesta segunda-feira.",
+          "source": "Arthur do Val - MamãeFalei",
+          "url": "https://www.youtube.com/watch?v=8DB6j4wEr9s",
+          "time": "hoje, 11:41"
+        },
+        {
+          "title": "Cleitinho na Missão!? | ANArquia | Ana Hering",
+          "summary": "No programa ANArquia, da MBL TV, o tema é a possibilidade de Cleitinho se aproximar do partido Missão, segundo o título do episódio de 23/11.",
+          "source": "MBL TV",
+          "url": "https://www.youtube.com/watch?v=xNGkNgmuimo",
+          "time": "hoje, 10:04"
+        },
+        {
+          "title": "Análises Renais | 23/11/2026",
+          "summary": "Nova edição do programa de análise de Renan Santos, publicada na segunda-feira (23/11). A descrição do vídeo divulga a Aula Magna da Academia MBL, com Kim Kataguiri e Renan Santos, e a filiação ao partido Missão.",
+          "source": "Renan Santos",
+          "url": "https://www.youtube.com/watch?v=mHTKWvYcsDA",
+          "time": "hoje, 11:35"
+        },
+        {
+          "title": "Olha o argumento bizarro da deputada do PT",
+          "summary": "Kim Kataguiri critica, no título do vídeo, um argumento apresentado por uma deputada do PT. A descrição traz também um abaixo-assinado dele contra o que chama de 'maior imposto do mundo'.",
+          "source": "Kim Kataguiri",
+          "url": "https://www.youtube.com/watch?v=DzF7LnJQlzQ",
+          "time": "22/11"
+        },
+        {
+          "title": "Kim Kataguiri explica como Lula e o PT conseguiram se manter no poder",
+          "summary": "Corte em que Kim Kataguiri apresenta, segundo o título, sua explicação sobre como Lula e o PT se mantiveram no poder.",
           "source": "Missão Brasil",
-          "url": "https://www.youtube.com/watch?v=lcpDU7tHboQ",
-          "time": "21/11, 11:30"
+          "url": "https://www.youtube.com/watch?v=9ux17iWKAi4",
+          "time": "22/11"
         },
         {
           "title": "iFood e Uber salvaram o Brasil",
-          "summary": "Vídeo do MBL News, no canal do MBL, cujo título defende que aplicativos como iFood e Uber tiveram papel decisivo para o país.",
+          "summary": "Episódio do MBL News publicado em 21/11 com esse tema, conforme o título do vídeo.",
           "source": "MBL - Movimento Brasil Livre",
           "url": "https://www.youtube.com/watch?v=Q9JjpgCvS5U",
-          "time": "21/11, 10:00"
+          "time": "21/11"
         },
         {
-          "title": "Vamos acabar com a farra dos shows",
-          "summary": "No vídeo, Kim Kataguiri trata da sua posição contra o uso de dinheiro público em shows. Outro vídeo do MBL do mesmo dia diz que ele quer barrar shows públicos em cidades precárias.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=yWcZce4JLdo",
-          "time": "18/11, 14:04"
+          "title": "Ajuste fiscal causou briga interna no PT?",
+          "summary": "O MBL News de 19/11 questiona, no título, se o ajuste fiscal do governo provocou uma briga interna no PT.",
+          "source": "MBL - Movimento Brasil Livre",
+          "url": "https://www.youtube.com/watch?v=ym5Sg2Oi850",
+          "time": "19/11"
         },
         {
-          "title": "Guerra dentro do PT!",
-          "summary": "Kim Kataguiri comenta no vídeo uma disputa interna no PT. O canal do MBL relaciona o tema ao ajuste fiscal do governo.",
-          "source": "Kim Kataguiri",
-          "url": "https://www.youtube.com/watch?v=vP1z139G8dw",
-          "time": "18/11, 12:12"
+          "title": "Italo Marsili aponta um caminho para Renan Santos e o partido Missão/MBL",
+          "summary": "Corte de uma conversa mais longa em que Italo Marsili, segundo o título, indica um caminho para Renan Santos e para o partido Missão/MBL.",
+          "source": "Missão Brasil",
+          "url": "https://www.youtube.com/watch?v=lcpDU7tHboQ",
+          "time": "21/11"
         },
         {
-          "title": "Arthur do Val e Gabi Levinnt discutem pedido de prisão de Beraldo no caso Refit",
-          "summary": "Corte do canal Missão Avança com a conversa entre Arthur do Val e Gabi Levinnt sobre o pedido de prisão de Beraldo no caso Refit, conforme o título.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=ZOo0YCr8xAs",
-          "time": "19/11, 06:30"
-        },
-        {
-          "title": "Essa foi a desculpa do Bolsonaro",
-          "summary": "Vídeo do canal de Arthur do Val com comentário sobre uma justificativa dada por Jair Bolsonaro, segundo o título.",
-          "source": "Arthur do Val - MamãeFalei",
-          "url": "https://www.youtube.com/watch?v=X_0zWWT4oFE",
-          "time": "19/11, 09:08"
-        },
-        {
-          "title": "Nikolas no Novo? | ANArquia",
-          "summary": "Programa ANArquia, com Ana Hering, no canal MBL TV, que discute a possibilidade de o deputado Nikolas Ferreira ir para o partido Novo.",
-          "source": "MBL TV",
-          "url": "https://www.youtube.com/watch?v=ik2SV7YfTT8",
-          "time": "17/11, 12:55"
-        },
-        {
-          "title": "Crise do governo Lula | Análises Renais",
-          "summary": "Edição do programa Análises Renais no canal de Renan Santos, com o tema da crise do governo Lula, conforme o título.",
-          "source": "Renan Santos",
-          "url": "https://www.youtube.com/watch?v=9B3bTXLHgQE",
-          "time": "17/11, 17:17"
-        },
-        {
-          "title": "Renan Santos faz análise da crise econômica que, segundo ele, vai explodir em 2027",
-          "summary": "Corte do canal Missão Avança em que Renan Santos analisa o que o título descreve como uma crise econômica criada por Lula e que explodiria em 2027.",
-          "source": "Missão Avança",
-          "url": "https://www.youtube.com/watch?v=lDNePjK2uL4",
-          "time": "17/11, 17:12"
-        },
-        {
-          "title": "Caso Master pode definir relação de Lula com o Congresso, diz professor",
-          "summary": "Um professor ouvido pela CNN Brasil avalia que o caso Master pode moldar a relação entre o governo Lula e o Congresso. O Metrópoles registra que Gilmar Mendes não vê problema em retirar o sigilo de relatórios da PF sobre o caso.",
+          "title": "Câmara começa a analisar ajuste fiscal após resistências no Senado",
+          "summary": "O projeto, aprovado pelo Senado em 18/11, limita o crescimento real das despesas primárias a 2% (e não 2,5%), restringe compensações de créditos tributários e corta benefícios federais em mais 10 pontos percentuais. São necessários 257 votos, e o relator manteve o texto do Senado para que ele não precise voltar.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/caso-master-pode-definir-relacao-de-lula-com-congresso-diz-professor/",
-          "time": "ontem, 04:00"
+          "url": "https://www.cnnbrasil.com.br/politica/camara-inicia-hoje-analise-do-ajuste-fiscal-apos-resistencias-no-senado/",
+          "time": "hoje, 03:30"
         },
         {
-          "title": "Lula defende pacote fiscal: 'sistema financeiro não me ensinará a dirigir o País'",
-          "summary": "O presidente Lula defendeu o pacote fiscal do governo e rejeitou a influência do setor financeiro sobre as decisões. Uma análise do Goldman Sachs citada pela CNN Brasil diz que o país precisa de um ajuste de cerca de R$ 400 bilhões.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/",
-          "time": "recente"
+          "title": "Gonet tem 15 dias para opinar sobre relatórios da PF que citam ministros do STF no caso Master",
+          "summary": "O procurador-geral pode pedir mais informações, apoiar investigação de ministros ou se opor ao avanço dos inquéritos; analistas consideram a posição dele difícil de prever. O prazo corre desde a entrega dos relatórios pelo diretor da PF ao presidente do STF, Edson Fachin, em 18/11.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/alvo-de-criticas-entenda-o-papel-de-gonet-na-investigacao-de-ministros",
+          "time": "hoje"
         },
         {
-          "title": "'Seria um dado irreparável', diz integrante do Cidadania sobre fim do partido",
-          "summary": "Um integrante do Cidadania afirmou à CNN Brasil que o possível fim do partido seria uma perda sem reparação.",
+          "title": "Flávio Bolsonaro admite não ter provas de fraude eleitoral: 'proibido de investigar'",
+          "summary": "Em entrevista à Fox News, em 22/11, o senador disse não ter provas de fraude por estar proibido de investigar, e acusou Hugo Motta de não entregar a anistia prometida aos condenados do 8 de janeiro. Ele afirmou que ficará nos EUA e continuará a se opor ao governo brasileiro de fora.",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/flavio-admite-nao-ter-provas-de-fraude-eleitoral-proibido-de-investigar",
+          "time": "22/11"
+        },
+        {
+          "title": "Rússia e Ucrânia dizem ter derrubado mais de 2 mil drones em 24 horas",
+          "summary": "A Rússia afirma ter interceptado 792 drones ucranianos, e a Ucrânia diz ter destruído 1.392 drones russos no mesmo período. Além disso, uma explosão atribuída a suspeito ataque de drone atingiu uma corveta russa atracada em Benghazi, na Líbia, deixando cerca de dez feridos leves; o governo do leste líbio pediu investigação da ONU.",
           "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/seria-um-dado-irreparavel-diz-integrante-do-cidadania-sobre-fim-do-partido/",
-          "time": "21/11, 21:46"
+          "url": "https://www.cnnbrasil.com.br/internacional/russia-e-ucrania-relatam-destruicao-de-mais-de-2-mil-drones-em-24-horas/",
+          "time": "hoje, 01:13"
         },
         {
           "title": "Espanha vai às urnas em uma semana: o que dizem as pesquisas?",
           "summary": "A CNN Brasil faz um levantamento das pesquisas de intenção de voto antes da eleição espanhola, marcada para daqui a uma semana.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/internacional/espanha-vai-as-urnas-em-uma-semana-o-que-dizem-as-pesquisas/",
-          "time": "ontem, 11:26"
+          "time": "22/11, 11:26"
         },
         {
           "title": "Colonos atacam Cisjordânia; rival de Netanyahu denuncia 'terrorismo'",
           "summary": "Ataques de colonos israelenses na Cisjordânia provocaram reação de um rival político de Netanyahu, que os classificou como terrorismo.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/internacional/colonos-atacam-cisjordania-rival-de-netanyahu-denuncia-terrorismo/",
-          "time": "ontem, 10:55"
-        },
-        {
-          "title": "Inspirado em Bukele, governo do Haiti anuncia construção de três prisões",
-          "summary": "O governo haitiano planeja três novos presídios, em modelo inspirado na política de segurança de Nayib Bukele, em El Salvador.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/inspirado-em-bukele-governo-do-haiti-anuncia-construcao-de-tres-prisoes/",
-          "time": "ontem, 11:03"
+          "time": "22/11, 10:55"
         }
       ]
     },
@@ -289,32 +289,18 @@
       "label": "Economia",
       "items": [
         {
-          "title": "Mercados globais desabam em feriado na B3, e Goldman alerta para novas quedas",
-          "summary": "As bolsas dos EUA fecharam em forte queda na sexta, com o S&P 500 em correção, enquanto a B3 estava fechada por causa do feriado. O Goldman Sachs alerta que as perdas podem continuar.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/",
-          "time": "ontem"
-        },
-        {
-          "title": "Ações da Nvidia desabam 13% após notícia sobre investigação da SEC",
-          "summary": "Os papéis da Nvidia caíram cerca de 13% depois da notícia de que a autoridade do mercado de capitais dos EUA apura a empresa. A CNN Brasil trata de investigação sobre possíveis irregularidades.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/acoes-da-nvidia-desabam-noticia-sobre-investigacao-da-sec-sobre-companhia/",
-          "time": "ontem"
+          "title": "Trump reúne investidores em jantar enquanto criptomoeda própria despenca",
+          "summary": "Foi o terceiro jantar do presidente com os maiores detentores da moeda $TRUMP, com menos participantes e bem menos dinheiro envolvido do que em 2025. O token, que chegou perto de US$ 75, caiu para mínima histórica abaixo de US$ 1, segundo a matéria.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/trump-reune-investidores-em-jantar-enquanto-criptomoeda-propria-despenca/",
+          "time": "hoje, 01:25"
         },
         {
           "title": "Goldman Sachs: Brasil precisa de ajuste nas contas públicas de R$ 400 bi",
           "summary": "Segundo o banco, o país precisa de um ajuste fiscal de cerca de R$ 400 bilhões.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/goldman-sachs-brasil-precisa-de-ajuste-nas-contas-publicas-de-r-400-bi/",
-          "time": "ontem, 01:22"
-        },
-        {
-          "title": "Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos",
-          "summary": "O bitcoin recuou para o menor nível em mais de dois anos em meio à aversão a risco nos mercados. Relatório da KuCoin diz que ele tocou cerca de US$ 55,1 mil no fim de semana e depois voltou a US$ 61 mil.",
-          "source": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/",
-          "time": "ontem"
+          "time": "22/11, 01:22"
         },
         {
           "title": "UE propõe imposto de 3% sobre faturamento das big techs",
@@ -341,14 +327,14 @@
           "summary": "A Dragos disse que atacantes roubaram dados de três provedores de inferência de IA por meses, sem que eles soubessem. A OpenRouter removeu os três provedores e 125 endpoints da elegibilidade para Zero Data Retention e afirmou que não houve violação na própria plataforma.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-          "time": "ontem"
+          "time": "22/11"
         },
         {
           "title": "Ghostscript: pesquisadores mostram fuga de sandbox com RCE via upload de arquivos em apps populares",
           "summary": "Uma falha já corrigida (CVE-2026-125396, corrigida em 8 de setembro) permite escapar do sandbox e executar comandos. A pwn.ai mostrou que cerca de dez aplicações comuns podiam ser levadas a processar um arquivo malicioso, sem relatos de uso em ataques.",
           "source": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-          "time": "ontem"
+          "time": "22/11"
         },
         {
           "title": "Hackers exploram falhas críticas de VMware, Cisco e Apache em meio a ataques de espionagem",
@@ -410,7 +396,7 @@
           "summary": "A CNN Brasil explica a restrição americana a obras de data centers de empresas do país no exterior.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/por-que-eua-nao-querem-que-empresas-construam-data-centers-em-outros-paises/",
-          "time": "ontem, 01:54"
+          "time": "22/11, 01:54"
         },
         {
           "title": "Os principais agentes de IA que podem viver nas suas mensagens de texto",
@@ -481,11 +467,18 @@
       "label": "Tênis",
       "items": [
         {
+          "title": "Sinner decide operar o joelho e deve perder o Australian Open 2027",
+          "summary": "Após meses de tratamento sem a recuperação esperada, o italiano viajou a Turku (Finlândia) para cirurgia no joelho direito marcada para 24/11. A recuperação estimada é de três a quatro meses, e o retorno pode ocorrer na temporada de saibro, em março ou abril. Ele está fora desde que venceu Wimbledon, em 12/07.",
+          "source": "Lance!",
+          "url": "https://www.lance.com.br/tenis/sinner-decide-operar-joelho-perder-australian-open-2027.html",
+          "time": "23/11"
+        },
+        {
           "title": "Alcaraz bate Zverev na final e conquista o ATP Finals pela primeira vez",
           "summary": "O espanhol, 2º cabeça de chave, venceu o líder do ranking por 6-2 e 7-6(7) neste domingo (22), em Turim, e levou seu primeiro título do torneio, segundo o ATP Tour.",
           "source": "ATP Tour",
           "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results",
-          "time": "ontem"
+          "time": "22/11"
         },
         {
           "title": "Alcaraz supera limitações físicas e elimina Cobolli no ATP Finals",
@@ -513,13 +506,6 @@
           "summary": "O brasileiro de 20 anos ficou fora das quadras por lesão nas últimas semanas, mas permaneceu no top 50 pelo segundo ano seguido. O duelo com Roger Federer será em 5 de dezembro, no Pacaembu, em São Paulo.",
           "source": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-fora-por-lesao-joao-fonseca-se-mantem-no-top-50-veja-o-ranking/",
-          "time": "16/11"
-        },
-        {
-          "title": "Brasileira de 14 anos será a mais jovem do ranking profissional da WTA",
-          "summary": "Eduarda Gomes, de 14 anos e 4 meses, entra no ranking com a atualização de 30 de novembro, após pontuar em três torneios profissionais em 12 meses.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenista-brasileira-sera-a-mais-jovem-no-ranking-entre-profissionais/",
           "time": "16/11"
         }
       ]
